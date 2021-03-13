@@ -11,6 +11,15 @@ body {
   font-family: 'Alegreya Sans';
 }
 
+a {
+  color: $light-blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .fill-height {
   flex-grow: 1;
 }
@@ -22,6 +31,7 @@ header {
   @include respond-to('large') {
     font-size: 6rem;
   }
+  margin-bottom: 20px;
 }
 
 h1, h2, h3, h4, h5, h6, header {
@@ -33,4 +43,5 @@ main {
     max-width: map-get($breakpoints, 'large');
     margin: 0px auto;
   }
+  padding: 30px 30px;
 }
