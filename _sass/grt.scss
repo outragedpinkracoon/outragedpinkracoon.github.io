@@ -1,7 +1,7 @@
 .grt {
 	font-size: 22px;
 	line-height: 39px;
-	padding: 24px;
+	padding: 0 24px;
 }
 .grt h1 {
 	font-size: 45px;
@@ -88,6 +88,6 @@
 }
 @media all and (min-width: 1070px) {
 	.grt {
-		padding: 39px;
+		padding: 0 39px;
 	}
 }

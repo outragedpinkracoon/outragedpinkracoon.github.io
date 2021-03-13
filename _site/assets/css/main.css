@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Oswald|Alegreya Sans|Open+Sans&display=swap");
-.grt { font-size: 22px; line-height: 39px; padding: 24px; }
+.grt { font-size: 22px; line-height: 39px; padding: 0 24px; }
 
 .grt h1 { font-size: 45px; line-height: 72px; margin-bottom: 39px; }
 
@@ -37,7 +37,7 @@
 
 .grt ul ul, .grt ul ol, .grt ol ul, .grt ol ol, .grt blockquote.right p, .grt blockquote.left p, .grt .alert :last-child, .grt .note :last-child, .grt .box :last-child, .grt .footnotes :last-child { margin-bottom: 0; }
 
-@media all and (min-width: 1070px) { .grt { padding: 39px; } }
+@media all and (min-width: 1070px) { .grt { padding: 0 39px; } }
 
 body { min-height: 100vh; background-color: #3e4244; color: #e6edf0; font-family: 'Alegreya Sans'; }
 
