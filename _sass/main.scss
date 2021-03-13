@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Alegreya Sans|Open+Sans&display=swap');
+
+$dark-grey: rgb(62, 66, 68);
+$light-blue: #66c0ec;
+$off-white: rgb(230, 237, 240);
+
+body {
+  min-height: 100vh;
+  background-color: $dark-grey;
+  color: $off-white;
+  font-family: 'Alegreya Sans';
+}
+
+.fill-height {
+  flex-grow: 1;
+}
+
+header {
+  font-size: 4rem;
+  font-family: 'Oswald';
+  text-align: center;
+  @include respond-to('large') {
+    font-size: 6rem;
+  }
+}
+
+h1, h2, h3, h4, h5, h6, header {
+  color: $light-blue;
+}
+
+main {
+  @include respond-to('medium') {
+    max-width: map-get($breakpoints, 'large');
+    margin: 0px auto;
+  }
+}
