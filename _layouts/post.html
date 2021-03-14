@@ -7,9 +7,12 @@ layout: default
     {{ content }}
   </article>
   <aside>
-    {% for category in page.categories %}
-    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
+    <p class='date'>{{ page.date | date: '%B %d, %Y' }}</p>
+    {% if page.categories != empty %}
+      {% for category in page.categories %}
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    {% endif %}
   </aside>
 </div>

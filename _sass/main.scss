@@ -25,6 +25,11 @@ header {
     font-size: 6rem;
   }
   margin-bottom: 20px;
+
+  a:hover {
+    text-decoration: none;
+    color: $primary-color;
+  }
 }
 
 h1, h2, h3, h4, h5, h6, header {
@@ -49,6 +54,7 @@ article {
 aside {
   flex: 30%;
   border: 1px solid green;
+  padding: 15px;
 }
 
 .row {
