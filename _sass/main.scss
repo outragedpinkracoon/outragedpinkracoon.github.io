@@ -21,7 +21,6 @@ a:hover {
 header {
   font-size: 4rem;
   font-family: $font-primary;
-  text-align: center;
   @include respond-to('large') {
     font-size: 6rem;
   }
@@ -37,10 +36,8 @@ h1 {
 }
 
 main {
-  @include respond-to('medium') {
-    max-width: map-get($breakpoints, 'large');
-    margin: 0px auto;
-  }
+  max-width: map-get($breakpoints, 'large');
+  margin: 0px auto;
   padding: 30px 30px;
 }
 
