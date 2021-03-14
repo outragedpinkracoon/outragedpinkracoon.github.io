@@ -45,22 +45,3 @@ main {
   margin: 0px auto;
   padding: 30px 30px;
 }
-
-article {
-  border: 1px solid red;
-  flex: 70%;
-}
-
-aside {
-  flex: 30%;
-  border: 1px solid green;
-  padding: 15px;
-}
-
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  @include respond-to('medium') {
-    flex-wrap: nowrap;
-  }
-}

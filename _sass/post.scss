@@ -1,6 +1,14 @@
-.date {
-  margin: 10px 0 0 0;
-  padding: 0;
-  font-size: 1rem;
-  font-family: $font-primary;
+.post {
+  .metadata {
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-size: 1.2rem;
+    font-family: $font-primary;
+  }
+
+  .categories {
+    font-size: 2rem;
+    font-family: $font-primary;
+    margin: 15px 0px;
+  }
 }

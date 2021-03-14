@@ -4,8 +4,8 @@ description: Automatically default to 'main' instead of master in git for new re
 layout: post
 categories: [git, programming, cats, dogs, elephants, chris, boba, barnaby]
 ---
-TIL you can use: git init --initial-branch=main to initialize a new branch called ‘main’ instead of master.
+TIL you can use: `git init --initial-branch=main` to initialize a new branch called ‘main’ instead of master.
 
-To set this globally for new repos you can use: git config --global init.defaultBranch main
+To set this globally for new repos you can use: `git config --global init.defaultBranch main`
 
 Neat, make the magic happen.
