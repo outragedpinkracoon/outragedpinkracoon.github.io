@@ -1,32 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Alegreya Sans|Open+Sans&display=swap');
 
-$dark-grey: rgb(62, 66, 68);
-$light-blue: #66c0ec;
-$off-white: rgb(230, 237, 240);
-
 body {
-  min-height: 100vh;
-  background-color: $dark-grey;
-  color: $off-white;
-  font-family: 'Alegreya Sans';
+  background-color: $bg-color;
+  color: $text-color;
+  font-family: $font-secondary;
+  font-size: 22px;
 }
 
 a {
-  color: $light-blue;
+  color: $primary-color;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-}
-
-.fill-height {
-  flex-grow: 1;
+  color: $text-color;
+  text-decoration-color: $primary-color;
 }
 
 header {
   font-size: 4rem;
-  font-family: 'Oswald';
+  font-family: $font-primary;
   text-align: center;
   @include respond-to('large') {
     font-size: 6rem;
@@ -35,7 +29,11 @@ header {
 }
 
 h1, h2, h3, h4, h5, h6, header {
-  color: $light-blue;
+  color: $primary-color;
+}
+
+h1 {
+  margin: 15px 0px;
 }
 
 main {
@@ -44,4 +42,22 @@ main {
     margin: 0px auto;
   }
   padding: 30px 30px;
+}
+
+article {
+  border: 1px solid red;
+  flex: 70%;
+}
+
+aside {
+  flex: 30%;
+  border: 1px solid green;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  @include respond-to('medium') {
+    flex-wrap: nowrap;
+  }
 }

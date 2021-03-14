@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class='row'>
+  <article>
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+  </article>
+  <aside>
+    {% for category in page.categories %}
+    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </aside>
+</div>

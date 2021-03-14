@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: /categories/
+title: Categories
+---
+{% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}">
+    <a name="{{ category_name | slugize }}"></a>{{ category_name }}</a>
+    </div>
+    {% for post in site.categories[category_name] %}
+    <div>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </div>
+    {% endfor %}
+{% endfor %}
