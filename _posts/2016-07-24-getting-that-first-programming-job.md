@@ -124,14 +124,14 @@ For example, if someone were to ask me “Do you have any experience with Swift?
 This also stands for technical questions like “Can you explain prototypal inheritance?”. Even if you know the answer, you might draw a total mind blank. It's totally okay to answer “We did cover this on the course but I’m afraid I can’t quite remember what it is. Could you explain?” something like that, to show you are interested. Then when they explain, if possible follow up with “Oh! Yes, of course. I actually used this a lot on my full stack JS project for my game objects”.
 
 
-## Practice the Performance
+### Practice the Performance
 Interviews are kind of like a performance. We need to transform into a confident, enthusiastic person who they really want to hire. This is hard and our inner critic is going to be going _wild_. However, with a bit of practice we can learn to do this without pretending to be someone you are not.
 
 We need to tap into the bits of our personality that might make us feel uncomfortable. Project a bit more confidence, project a bit more enthusiasm. The key to this is practice, practice, practice. We always tend to have a different internal view of ourselves than the outside world does. If you ask a friend or colleague to describe you, it might shock you how different it is to what you think (hopefully in a good way!).
 
 Trust yourself to be the person everyone else sees.
 
-## Communication Checklist
+### Communication Checklist
 You're going to be in a very nerve wracking situation and trying to do the things in this list will be challenging at first. But first comes awareness, then with practice you'll have it nailed in no time.
 
 - Make eye contact with the interviewer as much as possible. Try not to look at the ground or stare into space.
@@ -140,12 +140,12 @@ You're going to be in a very nerve wracking situation and trying to do the thing
 - Keep your hands under control and out of your pockets. Use them to gesture when needed, but rest them on your lap or somewhere neutral otherwise.
 - Try not to interrupt or talk over the top of the interviewer.
 
-## Dress For Success
+### Dress For Success
 Remember to wear clothing appropriate to the situation, even on a remote call. If it's corporate wear formal, if it's a startup go smart casual. Definitely don't wear a onesie.
 
 Try not to slouch or put your feet up on a table, you wouldn't believe how often this happens.
 
-## You Are Interviewing Them Too!
+### You Are Interviewing Them Too!
 An interview is a great chance to ask lots of questions about your potential employer. Make sure to ask for **specific evidence** of the good behaviours you are looking for so they can't fob you off with a generic reply.
 
 Q: 'What is the culture like?'
