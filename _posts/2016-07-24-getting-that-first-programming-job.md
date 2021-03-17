@@ -149,11 +149,13 @@ Try not to slouch or put your feet up on a table, you wouldn't believe how often
 An interview is a great chance to ask lots of questions about your potential employer. Make sure to ask for **specific evidence** of the good behaviours you are looking for so they can't fob you off with a generic reply.
 
 Q: 'What is the culture like?'
+
 A: 'Oh yeah we have a really healthy culture and really care about our people'
 
 vs
 
 Q: 'Do people work collaboratively, and is there a lot of overtime?'
+
 A: 'Oh no, we only hire rockstars that can work independently and are dedicated to the mission of the business. We provide meal vouchers so that staff can buy dinner when working late'.
 
 You learn a lot more by asking specifics. Especially for a junior you might want to ask things like:
