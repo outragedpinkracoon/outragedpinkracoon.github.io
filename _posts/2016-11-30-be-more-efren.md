@@ -26,12 +26,14 @@ He really takes each failure to heart, shaking his head in disbelief and getting
 
 Mike Sigel lost the match in quite a spectacular fashion, despite being just as skilled as Reyes and it was simply because he couldn’t let go of his failures and that affected the rest of his entire match.
 
-When we develop software we deal with failure every day. In fact, almost every moment of every day. We think about what we want to do, we write some code that we think does what we want it to do and alas, it does something completely different. Tests fail, production breaks, continuos unescapeable failure surrounds us.
+## Continuous, Inescapable Failure
+
+When we develop software we deal with failure every day. In fact, almost every moment of every day. We think about what we want to do, we write some code that we think does what we want it to do and alas, it does something completely different. Tests fail, production breaks, continuos inescapable failure surrounds us.
 
 We have a really important choice to make here.
 
-We can dwell on our mistakes, beat ourselves up and let it make us upset and angry and tell ourselves stories about what a terrible developer  we are. We can let this bleed into the next piece of work we do and inevitably cause ourselves to make more mistakes, because we are not focused. Or we can lash out at us around us and blame our tools, our colleagues and our managers.
+We can dwell on our mistakes, beat ourselves up and let it make us upset and angry and tell ourselves stories about what a terrible developer  we are. We can let this bleed into the next piece of work we do and inevitably cause ourselves to make more mistakes, because we are not focused. Or we can lash out at us around us and blame our tools, our colleagues and our managers and never grow from the wonderful opportunity to learn that has just been presented to us.
 
-Or we can just let it go. We can accept that being a software developer is hard, and that things will go wrong. In fact, most days more things will go wrong than will go right. And that’s fine. We have to be friends with our failures. If we are not doing things wrong sometimes and screwing up, we are probably not learning either. As long as we took every reasonable step we could to do our best to mitigate the risk, we did our best. And that's enough.
+Or we can just let it go. We can accept that being a software developer is hard, and that things will go wrong. In fact, most days more things will go wrong than will go right. And that’s fine. We have to be friends with our failures and own them, learn from them. If we are not doing things wrong sometimes and screwing up, we are probably not challenging ourselves to be out of our comfort zone. As long as we took every reasonable step we could to do our best to mitigate any risk, we did our best. And that's enough.
 
 It’s not the failure that defines us - it’s how we deal with it. The next time you are standing at the crossroads of failure, be more Efren.
