@@ -1,6 +1,6 @@
 ---
 title: On Being an Imposter
-description:
+description: On feeling like you are not good enough and what to do about it.
 layout: post
 categories: [working-life]
 ---
@@ -17,7 +17,7 @@ It’s very easy to look around your peers and feel like the worst programmer in
 
 This is a similar thing to coming to the JQuery library and thinking ‘I never could have written that’. Or looking at SkyScanner and thinking ‘I could never have built that’. You are right, of course you couldn’t have built that. It takes teams of experts to make these things, and we see them in their completed state. We don’t see the journey that gets them there. Everything complex has been built from tiny simpler steps that got to the finished product.
 
-This is the same with more senior developers. We didn’t see them learning, growing, making mistakes, shipping terrible products. It happened, of course it did. We just didn’t see it.
+This is the same with more senior developers. We didn’t see them learning, growing, making mistakes, shipping terrible products. It happened, of course it did. We just didn’t see it. This was a real epiphany moment for me, because it's really easy to assume everyone was just always incredible and didn't need to work for it or ever feel they weren't enough which is rarely ever true and doing them a disservice.
 
 Compare yourself to yourself. What were you like last year, last month, last week, yesterday? Look at your own growth and how much you know. If you keep learning things every day, these are the smaller, simpler steps that get you to that level. Then one day you will be there, with junior developers looking up to you and you won’t even realise you have got there.
 
