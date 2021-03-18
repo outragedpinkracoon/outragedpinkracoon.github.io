@@ -2,7 +2,7 @@
 title: On Being an Imposter
 description:
 layout: post
-categories: [programming]
+categories: [working-life]
 ---
 As a fledgling developer I often suffered from [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) thinking I was not (and indeed would never be) as good as everyone around me.
 

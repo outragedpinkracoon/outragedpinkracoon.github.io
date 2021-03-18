@@ -2,7 +2,7 @@
 title: S.O.L.I.D For Human Beings
 description:
 layout: post
-categories: [programming, design principles]
+categories: [programming]
 ---
 S.O.L.I.D is an acronym in Object Orientation that comes up both in technical tests and in the wild in open source or proprietary code, however trying to get to grips with it can be daunting since we are often faced with definitions like this:
 
