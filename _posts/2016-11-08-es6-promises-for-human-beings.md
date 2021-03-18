@@ -9,7 +9,7 @@ I was really struggling to find some easy to digest explanations of promises so 
 ## THE PROBLEM
 Callbacks get us into this sort of v-shaped spaghetti situation, where we have lots of dependent things nested inside of each other. Have a look at this Node code:
 
-```javascript
+```js
 var fs = require('fs');
 
 const readFile = function(fileName,callback){
@@ -19,16 +19,17 @@ const readFile = function(fileName,callback){
   });
 }
 ```
+
 It wraps around the fs.readFile method to allow us to invoke a callback when a file has finished being read. So let’s image we want to read a file called 1.txt and output it’s content to the screen.
 
-```javascript
+```js
 readFile('1.txt',function(data){
   console.log(data);
 });
 ```
 Grand. What if we want to read 2 files in order, 1.txt then 2.txt and concat the contents and output it to the screen?
 
-```javascript
+```js
 readFile('1.txt', (data) => {
   var result = data;
   readFile('2.txt',(data) => {
@@ -73,7 +74,7 @@ Promises allow us to define what happens when an event is either successful or u
 
 We need to make a modification to our file reading function. From the function we want to be dependant on, we are going to return a Promise object which gives us access to methods that are going to make our lives easier - more on this in a bit. This is going to look really weird but bare with me.
 
-```javascript
+```js
 const readFile = (fileName, result) => {   //UPDATED
   return new Promise((resolve, reject) => { //NEW
     fs.readFile(fileName, (err, data) => {
@@ -118,7 +119,7 @@ Our little readFile function remains the same, but the way we fire off our funct
 
 First, we need to put our promises into an array. The easiest way to do this is using a map:
 
-```javascript
+```js
 const fileNames = ["1.txt", "2.txt", "3.txt"] //NEW
 const promises = fileNames.map(readFile); //NEW
 ```
@@ -126,7 +127,7 @@ const promises = fileNames.map(readFile); //NEW
 
 In this example I’m going to add all the results together.
 
-```javascript
+```js
 Promise.all(promises)  //NEW
   .then((results) => { //collect all the results and give me them
     let data = 0; //I can decide what to do here
