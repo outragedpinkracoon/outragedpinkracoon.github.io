@@ -1,6 +1,6 @@
 ---
 title: Setting new branches to 'main' by default
-description: Automatically default to 'main' instead of master in git for new repositories
+description: Automatically default to 'main' instead of master in git for new repositories.
 layout: post
 categories: [git, programming]
 ---
