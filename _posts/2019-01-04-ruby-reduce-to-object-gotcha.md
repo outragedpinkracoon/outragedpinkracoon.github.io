@@ -2,7 +2,7 @@
 title: Ruby Reduce to Object Gotcha
 description: Why is the reduce returning something unexpected?
 layout: post
-categories: [elixir, programming]
+categories: [ruby, programming]
 ---
 Often with reduce we’d be taking in an array of items and condensing them to a given single value.
 
