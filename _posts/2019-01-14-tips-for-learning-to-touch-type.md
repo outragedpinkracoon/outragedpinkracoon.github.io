@@ -1,6 +1,5 @@
 ---
 title: Tips for Learning to Touch Type
-description: Giving and being willing to receive constructive feedback and why it matters.
 layout: post
 categories: [personal-development]
 ---
