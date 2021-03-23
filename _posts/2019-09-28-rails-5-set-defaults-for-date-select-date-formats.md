@@ -1,7 +1,7 @@
 ---
 title: Rails 5 - Set Defaults for date_select Date Formats
 layout: post
-categories: [programming]
+categories: [rails, programming]
 ---
 Scenario: You’re using a date_select form helper and the parts of the date are displaying in YYYY/MM/DD format.
 
