@@ -2,7 +2,7 @@
 title: On Being an Imposter
 description: On feeling like you are not good enough and what to do about it.
 layout: post
-categories: [working-life]
+categories: [personal-development]
 ---
 As a fledgling developer I often suffered from [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) thinking I was not (and indeed would never be) as good as everyone around me.
 

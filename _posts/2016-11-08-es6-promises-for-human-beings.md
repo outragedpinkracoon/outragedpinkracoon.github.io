@@ -1,6 +1,6 @@
 ---
 title: ES6 Promises for Human Beings
-description: An easier to digest explanation of how promises work in ES6.
+description: A (hopefully) digestible explanation of how promises work in ES6.
 layout: post
 categories: [javascript, programming]
 ---

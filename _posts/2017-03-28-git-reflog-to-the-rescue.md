@@ -1,6 +1,5 @@
 ---
 title: Git reflog to the rescue
-description: How to use git reflog to get yourself out of a bind.
 layout: post
 categories: [git, programming]
 ---

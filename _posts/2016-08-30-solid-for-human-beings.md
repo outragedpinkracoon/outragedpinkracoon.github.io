@@ -1,6 +1,6 @@
 ---
 title: S.O.L.I.D For Human Beings
-description: A digestible explanation of the S.O.L.I.D principles.
+description: A (hopefully) digestible explanation of the S.O.L.I.D principles.
 layout: post
 categories: [programming]
 ---

@@ -4,7 +4,7 @@ description: Giving and being willing to receive constructive feedback and why i
 layout: post
 categories: [personal-development]
 ---
-I recently read Kim Scott’s book Radical Candor, which is pitched at bosses and their interactions with their direct reports. However, this framework can apply to many areas of our lives, both at home and at work. I’d like to share with you the parts that stuck with me and can help in our daily lives as software engineers - from leaving comments on code reviews and pair programming (‘pairing’) to having one to ones with our line managers.
+I recently read Kim Scott’s book [Radical Candor](https://www.radicalcandor.com/), which is pitched at bosses and their interactions with their direct reports. However, this framework can apply to many areas of our lives, both at home and at work. I’d like to share with you the parts that stuck with me and can help in our daily lives as software engineers - from leaving comments on code reviews and pair programming ('pairing') to having one to ones with our line managers.
 
 This idea is split across two posts: first we will look at defining Radical Candor and next we will look at how we can implement it in our daily lives.
 

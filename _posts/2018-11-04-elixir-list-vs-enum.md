@@ -1,6 +1,6 @@
 ---
 title: Traversing and Accessing Lists in Elixir
-description: A little not about List vs Enum and how traversal of lists in Elixir is different to Ruby.
+description: We're not in Ruby any more Dorothy.
 layout: post
 categories: [elixir, programming]
 ---

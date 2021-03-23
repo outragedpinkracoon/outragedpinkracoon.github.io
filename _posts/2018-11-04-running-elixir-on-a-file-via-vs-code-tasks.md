@@ -1,6 +1,5 @@
 ---
 title: Running Elixir on a File in via VS Code Tasks
-description: Automate your way to a happier life with VS Code and Elixir.
 layout: post
 categories: [elixir, programming]
 ---
