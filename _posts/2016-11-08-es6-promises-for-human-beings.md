@@ -63,7 +63,7 @@ readFile('1.txt', (data) => {
   })
 })
 ```
-![that escalated quickly](/assets/images/es6-promises-1.jpg)
+![that escalated quickly](/assets/images/es6-promises/1.jpg)
 
 You can see the v-shaped situation we have gotten ourselves into, because we need our callbacks to be invoked for the next step of the chain to happen. This isn’t great because it’s damned hard to follow and quickly becomes a mess - especially if there is complex code happening in each step of the callback chain.
 

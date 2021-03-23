@@ -14,13 +14,13 @@ How was this possible with such equally matched, world class pool players?
 
 Well, it was all do with how the players handled failure. When Reyes makes a bad play, he looks like this:
 
-![efren smiling](/assets/images/be-efren-1.jpg)
+![efren smiling](/assets/images/be-efren/1.jpg)
 
 He smiles and laughs it off. When Efren comes back to the table after a bad move, nothing changes. He is calm, happy and most importantly he has forgiven himself and moved on. He’s back in the moment and focused.
 
 Conversely, Mike Sigel looks like this:
 
-![efren smiling](/assets/images/be-efren-2.jpg)
+![efren smiling](/assets/images/be-efren/2.jpg)
 
 He really takes each failure to heart, shaking his head in disbelief and getting flustered, upset and angry. When he comes back to the table, he is still thinking about it, dwelling on it. He is unable to forgive himself and move on. He is not back in the moment, or focused. He is stuck in the past.
 
