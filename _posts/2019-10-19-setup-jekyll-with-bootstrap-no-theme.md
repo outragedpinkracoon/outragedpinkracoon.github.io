@@ -1,7 +1,7 @@
 ---
 title: Set Up Jekyll with Bootstrap and No Theme
 layout: post
-categories: [rails, programming]
+categories: [jekyll, programming]
 ---
 We've all been there - the themes for Jekyll are not the best and most of them have zero documentation or consistency. I've since moved to vanilla css but you might want to use a css framework, and here's how to do it.
 
@@ -47,7 +47,7 @@ Your folder structure should look like this:
 
 Confusingly, there’s a different folder assets -> css that we need to go to now to add bootstrap as an import.
 
-```css
+```scss
 /* assets/css/main.scss */
 @import 'bootstrap/bootstrap';
 @import "main";
