@@ -1,6 +1,6 @@
 ---
 title: Be More Efren
-description: When deciding how to react to failure and mishaps, be more Efren.
+description: When deciding how to react to failure and mishaps, be more Efren Reyes.
 layout: post
 categories: [working-life]
 ---
