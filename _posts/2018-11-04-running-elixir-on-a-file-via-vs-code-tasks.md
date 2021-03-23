@@ -2,7 +2,7 @@
 title: Running Elixir on a File in via VS Code Tasks
 description: Automate your way to a happier life with VS Code and Elixir.
 layout: post
-categories: [git, programming]
+categories: [elixir, programming]
 ---
 Often while following tutorials or playing around we find ourselves running the elixir command a lot on the current file we are editing. Though VS Code reduces the to-ing and fro-ing with the integrated terminal, it would be nice to be able to run it as a ‘Task’ from the command palette, or even better from a keyboard shortcut.
 
