@@ -2,7 +2,7 @@
 title: Getting that first programming job
 description: Getting that first programming job is challenging. I've done a lot of hiring and being hired and shared some tips from that journey that might be helpful.
 layout: post
-categories: [working-life]
+categories: [jobs]
 ---
 Getting that first programming job is daunting. It's hard work, it's daunting and it can feel hopeless at times but with the right tools, techniques and practice you will get there.
 

@@ -2,7 +2,7 @@
 title: Radically Candid Programming
 description: Giving and being willing to receive constructive feedback and why it matters.
 layout: post
-categories: [working-life]
+categories: [personal-development]
 ---
 I recently read Kim Scott’s book Radical Candor, which is pitched at bosses and their interactions with their direct reports. However, this framework can apply to many areas of our lives, both at home and at work. I’d like to share with you the parts that stuck with me and can help in our daily lives as software engineers - from leaving comments on code reviews and pair programming (‘pairing’) to having one to ones with our line managers.
 
