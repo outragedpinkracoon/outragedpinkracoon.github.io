@@ -21,11 +21,19 @@ a:hover {
 }
 
 header {
-  font-size: 4rem;
+  font-size: 3.5rem;
+  text-align: center;
   font-family: $font-primary;
+
+  @include respond-to('medium') {
+    text-align: left;
+    font-size: 4rem;
+  }
   @include respond-to('large') {
+    text-align: left;
     font-size: 6rem;
   }
+
   margin-bottom: 20px;
 
   a:hover {
@@ -38,6 +46,11 @@ h1, h2, h3, h4, h5, h6, header {
   color: $primary-color;
   font-family: $font-primary;
   text-transform: uppercase;
+}
+
+h1 {
+  padding-top: 0px;
+  margin-top: 0px;
 }
 
 main {
