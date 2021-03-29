@@ -1,5 +1,5 @@
 .grt {
-	max-width: 748px;
+	max-width: map-get($breakpoints, 'large');
 	font-size: 22px;
 	line-height: 37px;
 	padding: 23px;
@@ -82,7 +82,7 @@
 .grt ul ul, .grt ul ol, .grt ol ul, .grt ol ol, .grt blockquote.right p, .grt blockquote.left p, .grt .alert :last-child, .grt .note :last-child, .grt .box :last-child, .grt .footnotes :last-child {
 	margin-bottom: 0;
 }
-@media all and (min-width: map-get($breakpoints, 'medium')) {
+@media all and (min-width: map-get($breakpoints, 'large')) {
 	.grt {
 		padding: 37px;
 	}
