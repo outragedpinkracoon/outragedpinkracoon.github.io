@@ -3,7 +3,7 @@ layout: default
 permalink: /categories/
 title: Categories
 ---
-<div class='categories'>
+<div id='categories'>
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}">
@@ -11,7 +11,7 @@ title: Categories
     <span class='category-name'>{{ category_name }}</span>
     </div>
     {% for post in site.categories[category_name] %}
-    <div>
+    <div class='posts'>
       <p><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></p>
     </div>
     {% endfor %}
