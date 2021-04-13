@@ -1,5 +1,22 @@
 #categories {
-  .category-name {
-    font-family: $font-primary;
+  h1 {
+    color: $text-color;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 2rem;
+
+    @include respond-to('small') {
+      max-width: 70%;
+      margin: 0px auto;
+    }
+
+    li {
+      display: inline-block;
+      padding: 15px;
+      font-family: $font-primary;
+    }
   }
 }
