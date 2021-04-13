@@ -124,9 +124,9 @@ This is problematic because we exist in cultures where we value task accomplishm
 
 Our culture is also one where a manager asking a report ‘what should we do’ is often considered failure leading to a default stance of 'telling' and we therefore still compete on who can 'tell' the most.
 
-Subordinates are always in a vulnerable position and must feel safe before they will fully commit to open communication and collaboration, which requires relationship building and not telling.
+Our reports are always in a vulnerable position and must feel safe before they will fully commit to open communication and collaboration, which requires relationship building and not telling.
 
-If we do not do this and do not engage in Humble Inquiry, it's impossible to know if communication is good because subordinates will not admit if they have misunderstood and may not share critical, sometimes safety related, information.
+If we do not do this and do not engage in Humble Inquiry, it's impossible to know if communication is good because reports will not admit if they have misunderstood and may not share critical, sometimes safety related, information.
 
 Leaders need to push past the culture of telling and accept that the more complex the task, the greater degree of interdependence the more the leader has to acknowledge here-and-now humility and engage in Humble Inquiry to get the best outcome.
 
