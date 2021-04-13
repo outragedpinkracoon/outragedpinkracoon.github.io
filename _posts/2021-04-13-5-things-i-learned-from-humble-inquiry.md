@@ -3,7 +3,7 @@ title: 5 Things I Learned from Humble Inquiry by Edgar Schein
 layout: post
 categories: [leadership, books]
 ---
-## What's it a about?
+## What's it about?
 
 Humble Inquiry is a book about ‘The fine art of drawing someone out, of asking questions to which you do not already know the answer, of building a relationship based on curiosity and interest in the other person.’
 
