@@ -3,8 +3,6 @@ title: 5 Things I Learned from Humble Inquiry by Edgar Schein
 layout: post
 categories: [leadership, books]
 ---
-I was asked to join a '5 things' meetup where the participants give a quick talk on 5 things they learned from a book they read lately. This is my notes from that talk, on the book Humble Inquiry by Edgar Schein.
-
 ## What's it a about?
 
 Humble Inquiry is a book about ‘The fine art of drawing someone out, of asking questions to which you do not already know the answer, of building a relationship based on curiosity and interest in the other person.’
@@ -13,7 +11,7 @@ It's about how we produce an environment in which people will speak up, bringing
 
 We want to maximise the chance that as leaders we can say to someone 'If I am about to make a mistake will you tell me?' and get an honest answer.
 
-Humble inquiry leads to better relationships -> better communication -> more successful teams.
+Humble Inquiry leads to better relationships -> better communication -> more successful teams.
 
 Although the book is aimed at organisations and teams we can also apply it to our personal lives as well and contains a lot of non work examples to illustrate it's points.
 
@@ -105,7 +103,7 @@ Process Oriented Inquiry is when we shift the focus onto the conversation itself
 
 - ‘Why were you so defensive when I told you how I felt?' vs 'Is this too personal?'
 
-## 4. Understanding what our culture actually is the key to being able to use humble Inquiry.
+## 4. Understanding what our culture actually is the key to being able to use Humble Inquiry.
 
 Company values posters are normally created from what the author calls ‘espoused values’ and the real culture is made of unspoken ‘tacit assumptions’.
 
@@ -114,13 +112,13 @@ Company values posters are normally created from what the author calls ‘espous
 
 Espoused values are what we unearth when we enter a new culture and ask about what things mean. These might be ideals such as freedom, individualism or the promotional system.
 
-Tacit assumptions are taken for granted behaviours and artefacts that are the true essence of a culture that paves the way for humble inquiry to take place.
+Tacit assumptions are taken for granted behaviours and artefacts that are the true essence of a culture that paves the way for Humble Inquiry to take place.
 
 For example we may claim to value teamwork and talk about it all the time, but our artefacts e.g. promotional systems are entirely individualistic showing that the espoused value of teamwork is at odds with the tacit assumption that individuals are valued more than teams.
 
 Knowing the difference between our organisations espoused values and tacit assumptions is the key to understanding our _real_ company culture and in turn vital for creating an environment that can make humble inquiry possible.
 
-## 5. Cultures that value individualism and prevent managers from displaying here-and-now humility block humble inquiry.
+## 5. Cultures that value individualism and prevent managers from displaying here-and-now humility block Humble Inquiry.
 
 This is problematic because we exist in cultures where we value task accomplishment over relationship building (tacit assumption) and do not like or trust groups but pretend to value teamwork (espoused value).
 
@@ -140,6 +138,6 @@ There will always be times that those that report to us know more that we do and
 
 Depending on the type of questions we ask, we may increase or decrease our chances of gaining trust and important insights from another person.
 
-There is a disconnect between the values we say we believe and the values we actually have. Understanding the values we actually have is key to being able to foster an environment where humble inquiry is possible.
+There is a disconnect between the values we say we believe and the values we actually have. Understanding the values we actually have is key to being able to foster an environment where Humble Inquiry is possible.
 
-Managers need to push past the desire to ‘tell the most’ and employ humble inquiry especially so when in a situation of complex and ambiguous tasks so that their reports can trust them with vital task oriented information.
+Managers need to push past the desire to ‘tell the most’ and employ Humble Inquiry especially so when in a situation of complex and ambiguous tasks so that their reports can trust them with vital task oriented information.
