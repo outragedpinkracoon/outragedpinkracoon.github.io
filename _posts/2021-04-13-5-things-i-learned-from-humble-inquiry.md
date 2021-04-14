@@ -3,6 +3,16 @@ title: 5 Things I Learned from Humble Inquiry by Edgar Schein
 layout: post
 categories: [leadership, books]
 ---
+
+I chose to talk about this book at the ['5 Things'](https://twitter.com/5thngs) meetup because after reading it I realised it contained a lot of concepts I already intuitively knew but wasn't able to name or have a strong mental model of to explain to others.
+
+Edgar Schein was born in 1928, a professor at the MIT School of Management that has made a huge impact on organizational development. His other book 'Helping' is also amazing and worth a read. I love his work because it really focuses on the human aspect of leadership.
+
+I've been working in tech for 15 years and the last 2 years I've been in a leadership position in a startup. This brought into sharp focus the perils of being a leader that is not humble, open and curious and the disastrous consequences this can have on a business and the people in it - especially one that is so fragile culturally and financially as a startup.
+
+The book really helped inform my own leadership style and give me a concise framework to help me champion a humble leadership style at work. I try to use the tools from the book to help those that report to me to feel as motivated and happy at work as possible and that is what matters most to me as a leader.
+
+There's a lot in the book so I've chose the key things that stuck with me that I've applied in a practical sense in my day to day that might also help you build your mental model of what being a humble leader looks like.
 ## What's it about?
 
 Humble Inquiry is a book about ‘The fine art of drawing someone out, of asking questions to which you do not already know the answer, of building a relationship based on curiosity and interest in the other person.’
