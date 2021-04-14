@@ -14,7 +14,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+a:hover, .active-link {
   text-decoration: underline;
   color: $text-color;
   text-decoration-color: $primary-color;
@@ -68,4 +68,8 @@ pre {
 
 .text-center {
   text-align: center;
+}
+
+.hidden {
+  display: none;
 }

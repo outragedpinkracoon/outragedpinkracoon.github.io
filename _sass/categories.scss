@@ -1,11 +1,14 @@
 #categories {
-  h1 {
+  h1,h4 {
     color: $text-color;
   }
+
   ul {
-    list-style-type: none;
     margin: 0px;
     padding: 0px;
+    list-style-type: none;
+  }
+  #category-name-list {
     font-size: 2rem;
 
     @include respond-to('small') {
@@ -17,6 +20,16 @@
       display: inline-block;
       padding: 15px;
       font-family: $font-primary;
+    }
+  }
+
+  .category-name {
+    font-family: $font-primary;
+  }
+
+  #category-posts {
+    li {
+      padding: 15px 0px;
     }
   }
 }
