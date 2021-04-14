@@ -52,7 +52,7 @@ Feb 16th
 - Helped get an issue employee A was having through product support, got it fixed in record time thanks to the reduced build time
 - Shared my summary of Humble Inquiry in the learning channel
 
-If nothing else this helps me be able to update folks on what I've been working on should they ask, because I have a memory like a sieve.
+I have a memory like a sieve and this helps me be able to update folks on what I've been working on should they ask.
 
 The last entry of the week can be a good time to reflect on what you've been up to and where you are spending your time. When you start to really look at what you do every week it can become obvious that a lot of your time is spent on activities that don't serve you or don't give you energy.
 
