@@ -1,6 +1,7 @@
 ---
 title: 5 Things I Learned from Humble Inquiry by Edgar Schein
 layout: post
+description: A summary of 5 things I learned about asking more, telling less and staying open, curious and humble in order to build better relationships and why it matters.
 categories: [leadership, books]
 ---
 

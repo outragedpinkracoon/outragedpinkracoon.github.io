@@ -1,5 +1,6 @@
 ---
 title: Removing Extra Whitespace from Jekyll Templates
+description: What to do about the weird extra whitespace in Liquid templates.
 layout: post
 categories: [jekyll, programming]
 ---

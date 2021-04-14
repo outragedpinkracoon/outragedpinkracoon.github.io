@@ -1,6 +1,7 @@
 ---
 title: Set Up Jekyll with Bootstrap and No Theme
 layout: post
+description: We've all been there - the themes for Jekyll are not the best and most of them have zero documentation or consistency. I've since moved to vanilla css but you might want to use a css framework, and here's how to do it.
 categories: [jekyll, programming]
 ---
 We've all been there - the themes for Jekyll are not the best and most of them have zero documentation or consistency. I've since moved to vanilla css but you might want to use a css framework, and here's how to do it.

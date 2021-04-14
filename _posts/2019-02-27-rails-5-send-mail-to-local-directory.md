@@ -1,6 +1,7 @@
 ---
 title: Rails 5 - Send Mail to Local Directory
 layout: post
+description: A quick sticky for me because I keep forgetting how to do this and people ask me about it a lot.
 categories: [rails, programming]
 ---
 

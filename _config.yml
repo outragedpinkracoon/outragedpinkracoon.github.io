@@ -1,4 +1,10 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Outraged Pink Racoon" # the name of your site, e.g. ACME Corp.
+locale: 'en_GB'
 permalink: /:year/:month/:day/:title.html
+twitter:
+  username: outragedracoon
+  card: summary
+plugins:
+  - jekyll-seo-tag

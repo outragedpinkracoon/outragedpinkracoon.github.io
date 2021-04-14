@@ -1,6 +1,6 @@
 ---
 title: Radically Candid Programming
-description: Giving and being willing to receive constructive feedback and why it matters.
+description: Giving and being willing to receive constructive feedback and why it matters. A story about my experience with Radical Candor and how it changed my behaviour as a programmer.
 layout: post
 categories: [personal-development, leadership]
 ---

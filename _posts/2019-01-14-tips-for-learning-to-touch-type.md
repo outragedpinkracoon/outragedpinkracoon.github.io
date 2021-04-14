@@ -1,6 +1,7 @@
 ---
 title: Tips for Learning to Touch Type
 layout: post
+description: Having learned to touch type in dvorak to reduce RSI over the last couple of years, I’d like to share some insights about what I learned on that journey.
 categories: [personal-development]
 ---
 
