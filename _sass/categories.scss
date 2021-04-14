@@ -1,5 +1,40 @@
 #categories {
+  h1, h2 {
+    color: $text-color;
+  }
+
+  ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+  }
+  #category-name-list {
+    font-size: 1.7rem;
+
+    @include respond-to('small') {
+      margin: 0px auto;
+    }
+
+    li {
+      display: inline-block;
+      padding: 15px;
+      font-family: $font-primary;
+    }
+  }
+
   .category-name {
     font-family: $font-primary;
+  }
+
+  #category-posts {
+    .date {
+      margin: 10px 0 5px 0;
+      padding: 0;
+      font-size: 1rem;
+      font-family: $font-primary;
+    }
+    li {
+      padding: 10px 0px;
+    }
   }
 }

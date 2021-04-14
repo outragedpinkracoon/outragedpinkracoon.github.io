@@ -4,16 +4,42 @@ permalink: /categories/
 title: Categories
 ---
 <div id='categories'>
-{% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}">
-    <a name="{{ category_name | slugize }}"></a>
-    <span class='category-name'>{{ category_name }}</span>
-    </div>
-    {% for post in site.categories[category_name] %}
-    <div class='posts'>
-      <p><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></p>
-    </div>
+  <ul id='category-name-list'>
+    {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <li>
+        <a class='category-name-link' id='name-{{ category_name | slugize }}' href="/categories?q={{ category_name | slugize }}">{{ category_name }}</a>
+      </li>
     {% endfor %}
-{% endfor %}
+  </ul>
+  <ul>
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <li id='posts-{{ category_name | slugize }}' class='hidden'>
+    <h2 class='category-name'>{{ category_name }}</h2>
+    <ul id='category-posts'>
+    {% for post in site.categories[category_name] %}
+      <li>
+        <p class='date'>{{ post.date | date: '%B %d, %Y' }}</p>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        {{post.title}}
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+  </ul>
 </div>
+
+<script>
+  const urlParams = new URLSearchParams(window.location.search);
+  const param = urlParams.get('q');
+  const postsElement = document.getElementById("posts-"+param)
+
+  postsElement.classList.remove("hidden");
+  postsElement.classList.add('active-posts')
+
+  const nameElement = document.getElementById("name-"+param)
+  nameElement.classList.add('active-link')
+</script>
