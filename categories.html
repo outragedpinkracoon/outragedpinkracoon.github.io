@@ -4,7 +4,6 @@ permalink: /categories/
 title: Categories
 ---
 <div id='categories'>
-  <h1 class='text-center'>Categories</h1>
   <ul id='category-name-list'>
     {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -17,10 +16,15 @@ title: Categories
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <li id='posts-{{ category_name | slugize }}' class='hidden'>
-    <h4 class='category-name'>{{ category_name }}</h4>
+    <h2 class='category-name'>{{ category_name }}</h2>
     <ul id='category-posts'>
     {% for post in site.categories[category_name] %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+      <li>
+        <p class='date'>{{ post.date | date: '%B %d, %Y' }}</p>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        {{post.title}}
+        </a>
+      </li>
     {% endfor %}
     </ul>
   </li>

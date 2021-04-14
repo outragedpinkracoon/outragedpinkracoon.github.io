@@ -1,5 +1,5 @@
 #categories {
-  h1,h4 {
+  h1, h2 {
     color: $text-color;
   }
 
@@ -9,10 +9,9 @@
     list-style-type: none;
   }
   #category-name-list {
-    font-size: 2rem;
+    font-size: 1.7rem;
 
     @include respond-to('small') {
-      max-width: 70%;
       margin: 0px auto;
     }
 
@@ -28,8 +27,14 @@
   }
 
   #category-posts {
+    .date {
+      margin: 10px 0 5px 0;
+      padding: 0;
+      font-size: 1rem;
+      font-family: $font-primary;
+    }
     li {
-      padding: 15px 0px;
+      padding: 10px 0px;
     }
   }
 }
