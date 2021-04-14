@@ -142,12 +142,15 @@ Leaders need to push past the culture of telling and accept that the more comple
 
 ## Summary
 
-We should aim to ask more and tell less, and stay curious and humble.
+To have better relationships and be more successful at work and home we should aim to ask more and tell less, and stay curious and humble.
 
-There will always be times that those that report to us know more that we do and we need to accept and embrace that, to allow us to build more open communication and better relationships.
+There will always be times that those that report to us know more that we do and we need to accept and embrace that and get comfortable with the vulnerability that empowers others.
 
 Depending on the type of questions we ask, we may increase or decrease our chances of gaining trust and important insights from another person.
 
-There is a disconnect between the values we say we believe and the values we actually have. Understanding the values we actually have is key to being able to foster an environment where Humble Inquiry is possible.
+There is a disconnect between the values we say we believe and the values we actually have. Understanding the values we actually have is key to being able to foster an environment where humble inquiry is possible.
 
-Managers need to push past the desire to ‘tell the most’ and employ Humble Inquiry especially so when in a situation of complex and ambiguous tasks so that their reports can trust them with vital task oriented information.
+Managers need to push past the desire to ‘tell the most’ and employ humble inquiry especially so when in a situation of complex and ambiguous tasks so that their reports can trust them with vital task oriented information.
+
+I'll leave you with the original question to hold in your mind.
+>'If I am about to make a mistake will you tell me?'
