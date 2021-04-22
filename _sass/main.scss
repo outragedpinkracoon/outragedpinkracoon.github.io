@@ -24,6 +24,7 @@ header {
   font-size: 2.1rem;
   font-family: $font-primary;
   text-align: center;
+  line-height: normal;
 
   @include respond-to('medium') {
     font-size: 4rem;
