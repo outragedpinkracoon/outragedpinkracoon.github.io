@@ -1,9 +1,10 @@
 ---
-title: 7 Key Things to Remember from 'The Better Allies Approach to Hiring'
+title: 7 Things to Remember from 'The Better Allies Approach to Hiring'
 layout: post
 categories: [leadership, books]
 ---
-There's a lot of great content in the book ['The Better Allies Approach to Hiring'](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338) and these are the points I'd like to remember and reference later.
+There's a lot of great content in the book ['The Better Allies Approach to Hiring'](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338) including real practical advice about how to improve your hiring process right now. These are the 7 things I want to remember the most and reference later.
+
 ## 1. On the Careers Page
 To be fully transparent, consider putting your diversity statistics on your careers page, along with an explanation of what you are doing to improve them.
 
@@ -16,7 +17,8 @@ Be transparent about your interview process. It's important for women job search
 State that during the interview process you will ask how a candidate has supported creating a more diverse and inclusive team or community in the past. Doing so can help demonstrate that your company cares about equity and inclusion and that you expect all new hires to help move forwards with this.
 
 Add that you don't discriminate on 'length of time spent unemployed' explicitly in disclaimer to show you won't hold careers gaps against those that are caregivers, returners to work or been paid off through no fault of their own.
-## 3. On Job Descriptions
+
+## 2. On Job Descriptions
 Encourage candidates to apply even if they don't meet all the requirements on the job ad by adding text like 'we'd love to hear from you even if you don't meet 100% of the requirements'.
 
 Limit the number of requirements that you list in a job at to five maximum, cut all the 'nice to have' and 'preferred skills' and anything the new hire can easily learn on the job. Use the rule of asking 'if an otherwise perfect candidate came along without this experience, would we still hire them?'
@@ -28,16 +30,19 @@ Seek managers with experience leading diverse teams, include 'experience hiring 
 Avoid requiring open source experience unless absolutely necessary to the role. Similarly, consider if you truly need to evaluate a candidates Github. It assumes they are writing code in their precious free time and is a sign of privilege not technical prowess.
 
 Instead of excluding someone because they didn't hit some mark, try to understand their journey. Be open to candidates that have not had the expected journey through university, internships and so on.
+
 ### Important Stats
 - 95% of open source contributors are men and the landscape can be harsh for women and nonbinary individuals.
 - A Hewlett-Packard study found that women applied for a promotion only when they believed they met 100% of the qualifications listed for a job, while men applied when the could meet 60% of the requirements.
 - In 'How to Lead' Jo Owen describes how men applied for head teaching roles when they thought they were 50% ready while women wanted to be nearer 100% ready before taking on the responsibility.
-- This is not through a lack of confidence in women - what held them back from applying was not a mistake perception about themselves, but a mistaken perception about the hiring process. They didn't see the hiring process as one where advocacy, relationships or a creative approach to framing your expertise could overcome not having the skills / experiences in the job listing.
-## 4. When Attracting Candidates
+
+This is not through a lack of confidence in women - what held them back from applying was not a mistake perception about themselves, but a mistaken perception about the hiring process. They didn't see the hiring process as one where advocacy, relationships or a creative approach to framing your expertise could overcome not having the skills / experiences in the job listing.
+
+## 3. When Attracting Candidates
 
 Diversify your network and do it before you need it and use this network to tap into talent. Encourage *everyone* to tap into their networks to find people from underrepresented groups.
 
-'Follow 10 people on Twitter who aren't white dudes. Chat with them every so often. Do it without an agenda.' - Samantha Geitz
+>'Follow 10 people on Twitter who aren't white dudes. Chat with them every so often. Do it without an agenda.' - Samantha Geitz
 
 Encourage employees to be visible so others can see someone like themselves and apply. Are there actions the company can take to support them being even more visible? Remember that any time you ask an employee to take on additional work like this benefiting the organisation be sure to recognise and reward them for it and don't overload them.
 
@@ -63,6 +68,7 @@ Jan Wildeboer has an interesting method to eliminate candidates that exhibit bia
 ### Important Stats
 - Resumes with African-American sounding names receive 50% fewer callbacks than white sounding names as do candidates with accents, that are women or working mothers.
 - Men that apply for managerial positions are evaluated based on their leadership potential whereas women are judged on past performance.
+
 ## 6. When Evaluating Candidates
 - Create an objective criteria for reviewing resumes.
 - Redact unnecessary personal info.
