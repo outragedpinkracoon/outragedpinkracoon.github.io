@@ -9,7 +9,7 @@ Hiring is an absolutely critical part of building a successful business and miss
 
 If we want to attract diverse people that really match up with what we are looking for in a role, we need to break out of our old patterns of copying and pasting other archaic processes and ideas from others and really get to know what works for us and our organisations.
 
-This means we need to move away from an outdated 'Elitist Hiring' process where we use gatekeeping tactics to keep as many people out to a 'Compassionate Hiring' process where we want to make as many people feel welcomed and that they belong as possible.
+We need to move away from an outdated 'Elitist Hiring' using gatekeeping tactics to 'Compassionate Hiring' where we want to make as many people feel welcomed and that they belong in our company as possible.
 
 ## Elitist Hiring Says: Barriers Keep Out the Weak
 
