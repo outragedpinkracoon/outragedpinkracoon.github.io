@@ -12,7 +12,7 @@ If your executive team is mostly male and pale, explain any goals you have from 
 
 If your workforce isn't diverse at all, emphasise how welcoming and inclusive your company is through text, not photos.
 
-Be transparent about your interview process. It’s important for women job searchers to know what the hiring process looks like when applying because of non-work related commitments (women tend to be the primary caregivers).
+Be transparent about your interview process. It’s important for women job searchers to know what the hiring process looks like when applying because of non-work related commitments as women tend to be the primary caregivers.
 
 State that you will ask how a candidate has supported creating a more diverse and inclusive team or community in the past during the interview process. Doing so can help demonstrate that your company cares about equity and inclusion and that you expect all new hires to help move forwards with this.
 
