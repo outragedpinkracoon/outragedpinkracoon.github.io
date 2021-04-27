@@ -76,7 +76,7 @@ The Elitist hiring process wants us to believe that there is The Best Code and t
 ### You Can't Automate The Human Aspect Away
 There are many apps now that promise to find you the best applicants by offering online coding tests, but these often have nothing to do with the day to day requirements of the job. They easily turn away those that could be amazing at the role but are not well versed at these kinds of tests. They also don't allow room for conversation about approach and decision making.
 
-### Coding Is One Aspect Of Being A Coder
+### Coding Is One Aspect Of Being A Programmer
 Being a programmer doesn't just involve coding all day, you are often managing stakeholder expectations, mentoring and coaching others, breaking down projects and tasks into manageable chunks, contributing to meetings and processes and a whole host of other activities. Elitist hiring wants us to believe that our worth is determined only by our ability to code yet as business problems become more volatile, uncertain, complex and ambiguous [VUCA](https://fearlessorganization.com/) we are going to need much more emotionally intelligent people in our teams.
 
 If your hiring process starts with a coding test and not a conversation I'm going to instantly assume you place very little value in emotional skills and 'catalytic' skills (thanks [April Wensel](https://twitter.com/aprilwensel?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), the skills that make other things happen) and will avoid applying to your company.
