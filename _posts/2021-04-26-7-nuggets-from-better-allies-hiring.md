@@ -1,5 +1,5 @@
 ---
-title: 7 Nuggets from 'The Better Allies Approach to Hiring'
+title: 7 Nuggets from 'The Better Allies Approach to Hiring' Book
 layout: post
 categories: [leadership, books]
 ---
