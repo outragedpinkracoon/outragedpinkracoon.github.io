@@ -1,6 +1,6 @@
 ---
 title: Other companies tech hiring processes are costing YOU talent
-description: The technical hiring process is a critical for attracting diverse and amazing applicants. Here are some practical tips you can do right now to make your hiring process more compassionate, take less time for the applicant and your staff and find you amazing people.
+description: The technical hiring process is critical for attracting  diverse and amazing applicants - but are you sabotaging your own recruitment efforts by using other people’s outdated processes? Here are some practical tips on developing a 'compassionate hiring' ethos that benefits your company, your colleagues and your wonderful future hires.
 layout: post
 categories: [hiring]
 ---
