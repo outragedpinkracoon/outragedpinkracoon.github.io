@@ -106,7 +106,7 @@ There are many apps now that promise to find you the best applicants by offering
 ### Coding Is One Aspect Of Being A Programmer
 Being a programmer doesn't just involve coding all day, you are often managing stakeholder expectations, mentoring and coaching others, breaking down projects and tasks into manageable chunks, contributing to meetings and processes and a whole host of other activities. Elitist hiring wants us to believe that our worth is determined only by our ability to code yet as business problems become more [volatile, uncertain, complex and ambiguous (VUCA)](https://fearlessorganization.com/) we are going to need much more emotionally intelligent people in our teams.
 
-If your hiring process starts with a coding test and not a conversation it suggests your company places very little value in emotional intelligence and [catalytic skills](https://twitter.com/aprilwensel?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor which are essential developer skills in the modern VUCA workplace. This will no doubt drive away many talented individuals you actually need on your team.
+If your hiring process starts with a coding test and not a conversation it suggests your company places very little value in emotional intelligence and [catalytic skills](https://twitter.com/aprilwensel?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) which are essential developer skills in the modern VUCA workplace. This will no doubt drive away many talented individuals you actually need on your team.
 
 ## Compassionate Hiring Says: We Want To Get To Know You
 Compassionate hiring says we know that great programmers are more than the sum of their coding ability and we want to get to know them during the hiring process.
