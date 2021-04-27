@@ -33,6 +33,28 @@ It also recommends encouraging applicants to apply even if they don't meet all t
 - Figure out what 'good looks like in the current team and nail down these behaviours you are looking for.
 - List the behaviours and skills you are looking for from someone with X years in Y technology.
 
+## Elitist Hiring Says: Only Genius Tech Types Are Welcome Here
+
+You don't have to search Indeed long to find a tech job ad that's peppered with gendered and elitist terms such as:
+- 'Genius'
+- 'Gravitas'
+- 'A real technical wizard'
+- 'An expert rockstar developer'
+- 'Our world class, elite team'
+
+The same ads often refer to the applicant as 'he/him' as well. This is a way to instantly disengage your non-male readers and shout 'you are not welcome here'. Again, if you were to break down these terms into the behaviours and skills you are actually looking for what would they be? What does 'genius' actually mean?
+
+## Compassionate Hiring Says: We Really Care About How We Communicate
+
+We want anyone reading our ads to feel welcomed and included, reducing the chance that they will read something and think 'wow this job is definitely not for me'. It might be tempting to swap between she and he but this is still excluding those that are nonbinary. 'They' is much better and inclusive of nonbinary readers, or simply 'the applicant'.
+
+### Challenge Yourself
+
+- Strip out any reference to a given gender in your job ads.
+- Strip out any elitist or gendered terms, you can use many applications to [do this automatically](http://gender-decoder.katmatfield.com/).
+- Get someone ideally in your current team from an underrepresented group to read the job ad and give you feedback on it.
+- If you have used terms like 'genius' or 'rockstar' remove them and think about what behaviours or skills you actually need.
+
 ## Elitist Hiring Says: Longer Processes Mean Better Quality Hires
 
 No one enjoys being greeted with a 10 stage interview process. Most interviews I've done have ranged from 3 hours all the way to 15 hours+. Elitist hiring thinks we are 'weeding out the applicants that won't fit, and making people do lots of tests and trials makes the company a kind of exclusive club. In reality, the more hoops to jump through the less likely you are to find and attract diverse people that really fit your needs.
