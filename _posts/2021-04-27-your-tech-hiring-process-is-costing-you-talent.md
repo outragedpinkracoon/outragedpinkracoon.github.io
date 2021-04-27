@@ -38,11 +38,12 @@ It also recommends encouraging applicants to apply even if they don't meet all t
 You don't have to search Indeed long to find a tech job ad that's peppered with gendered and elitist terms such as:
 - 'Genius'
 - 'Gravitas'
+- 'Smart'
 - 'A real technical wizard'
 - 'An expert rockstar developer'
 - 'Our world class, elite team'
 
-The same ads often refer to the applicant as 'he/him' as well. This is a way to instantly disengage your non-male readers and shout 'you are not welcome here'. Again, if you were to break down these terms into the behaviours and skills you are actually looking for what would they be? What does 'genius' actually mean?
+The same ads often refer to the applicant as 'he/him' as well. This is a way to instantly disengage your non-male readers and shout 'you are not welcome here'. If you were to break down these terms into the behaviours and skills you are actually looking for what would they be?
 
 ## Compassionate Hiring Says: We Really Care About How We Communicate
 
