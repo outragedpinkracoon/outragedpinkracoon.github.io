@@ -1,8 +1,7 @@
 ---
-title: Key Takeaways from 'The Better Allies Approach to Hiring'
+title: Things to Remember from 'The Better Allies Approach to Hiring'
 layout: post
-description: My key takeaways from the excellent book on hiring by Better Allies.
-categories: [personal-development]
+categories: [leadership, books]
 ---
 ## Your Careers Page
 - To be fully transparent, consider putting your diversity statistics on your careers page, along with an explanation of what you are doing to improve them.
