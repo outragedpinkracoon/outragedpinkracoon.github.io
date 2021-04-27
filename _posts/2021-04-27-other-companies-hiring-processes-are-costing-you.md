@@ -1,18 +1,18 @@
 ---
-title: Your Tech Hiring Process Is Costing You Talent
+title: 'Other companies' tech hiring processes are costing YOU talent
 description: The technical hiring process is a critical for attracting diverse and amazing applicants. Here are some practical tips you can do right now to make your hiring process more compassionate, take less time for the applicant and your staff and find you amazing people.
 layout: post
 categories: [hiring]
 ---
 
-Hiring is an absolutely critical part of building a successful business and turning away great talent is holding you back from being as innovative, creative and amazing as you can be in your organisation.
+Hiring is an absolutely critical part of building a successful business and missing out on great talent is holding you back from being as innovative, creative and amazing as you can be in your organisation.
 
 If we want to attract diverse people that really match up with what we are looking for in a role, we need to break out of our old patterns of copying and pasting other archaic processes and ideas from others and really get to know what works for us and our organisations.
 
 ## Elitist Hiring Says: Barriers Keep Out the Weak
 
 Elitist hiring says you need:
-- A first-class honours degree or PhD in computer science.
+- a first-class honours degree or PhD in computer science.
 - X number of years in Y technology.
 - an impossible number of technology stacks.
 - many other ancillary skills or certifications.
@@ -21,17 +21,19 @@ The elitist hiring process wants us to think that this makes any hires to the co
 
 ## Compassionate Hiring Says: Everyone is Welcome Here
 
-Putting up barriers like this turns away amazing applicants with unconventional routes into tech. Coding bootcamps allow folk to retrain into tech that already has had other businesses or rich life experiences and breathe so much new life into the industry. Similarly some of the best programmers I've ever worked with have been completely self-taught.
+Putting up barriers like this turns away amazing applicants with unconventional routes into tech. Coding bootcamps allow folk with valuable past business or life experiences to retrain into tech, which breathes so much vital new life into the industry. Similarly some of the best programmers I've ever worked with have been completely self-taught.
 
-The excellent book ['The Better Allies Approach to Hiring'](https://outragedpinkracoon.github.io/2021/04/26/7-nuggets-from-better-allies-hiring.html) recommends limiting the number of job requirements on an ad to just five. If you only have five to work with, you better make sure everything you ask for is absolutely critical and this is a great way to get clarity on what it is you are actually looking for.
+The excellent book ['The Better Allies Approach to Hiring'](https://outragedpinkracoon.github.io/2021/04/26/7-nuggets-from-better-allies-hiring.html) recommends limiting the number of job requirements on an ad to just 5. If you only have 5 to work with, you better make sure everything you ask for is absolutely critical and this is a great way to get clarity on what it is you are actually looking for.
 
 It also recommends encouraging applicants to apply even if they don't meet all the requirements on the job ad by adding text like 'we'd love to hear from you even if you don't meet 100% of the requirements'. A famous Hewlett-Packard study found that women applied for a promotion only when they believed they met 100% of the qualifications listed for a job, while men applied when they could meet 60% of the requirements.
 
 ### Challenge Yourself
 - List the behaviours and skills you expect to get from asking for a degree.
 - Determine what programming knowledge is absolutely essential to the job on day one and can't be taught or grown.
-- Figure out what 'good looks like in the current team and nail down these behaviours you are looking for.
+- Figure out what 'good' looks like in the current team and nail down these behaviours you are looking for.
 - List the behaviours and skills you are looking for from someone with X years in Y technology.
+
+You will find that THIS is your actual job requirements list when looking for in a candidate.
 
 ## Elitist Hiring Says: Only Genius Tech Types Are Welcome Here
 
@@ -58,7 +60,7 @@ We want anyone reading our ads to feel welcomed and included, reducing the chanc
 
 ## Elitist Hiring Says: Longer Processes Mean Better Quality Hires
 
-No one enjoys being greeted with a 10 stage interview process. Most interviews I've done have ranged from 3 hours all the way to 15 hours+. Elitist hiring thinks we are 'weeding out the applicants that won't fit, and making people do lots of tests and trials makes the company a kind of exclusive club. In reality, the more hoops to jump through the less likely you are to find and attract diverse people that really fit your needs.
+No one enjoys being greeted with a 10 stage interview process. Most interviews I've done have ranged from 3 hours all the way to 15 hours+. Elitist hiring thinks we are 'weeding' out the applicants that won't fit, and making people do lots of tests and trials makes the company a kind of exclusive club. In reality, the more hoops to jump through the less likely you are to find and attract diverse people that really fit your needs.
 
 No amount of process is going to account for when that person joins the team and you really get to know who you have hired.
 
@@ -68,16 +70,16 @@ Compassionate hiring says let's do the minimum we need to do to make sure you ge
 
 Women tend to be the primary caregivers and many other people have critical time commitments outside of work. During the hiring process, they may not only be holding down their current job but looking after others, working a second job and so on. To maximise the chances of not just attracting those with the privilege of time on their hands we need to respect these time commitments of others.
 
-We should avoid the opposite end of the scale where the entire interview is only a 45 min chat with the CTO because the applicant doesn't get time to meet the team or answer their questions about the business.
+We should avoid the opposite end of the scale where the entire interview is only a 45 min chat with the CTO. This disadvantages the applicant in the long term, because they don’t get time to meet the team or have their questions about the business answered in any detail.
 
 Be transparent about the process so that applicants know exactly what they are getting into and if they can dedicate the time to it.
 
 ### Challenge Yourself
 Use your new job requirements list to come up with the lightest possible process that directly addresses these and whether a applicant fits the bill or not. Keep the entire interview process under 3 hours maximum as a general rule. Publish this on your careers page transparently.
 
-Ensure the process gives the applicant exposure to members of the team they will be working with _as early as possible_ so they can get answers to any questions they have and put any concerns to rest before you use it any more of their time.
+Ensure the process gives the applicant exposure to members of the team they will be working with _as early as possible_ so they can get answers to any questions they have and put any concerns to rest before you use up any more of their time.
 
-It's critical that the interview process and the questions are _exactly the same_ for each and every person in the pipeline. This removes as much bias as possible and veering into the territory of off-topic discussions based on the interviewer’s likes and dislikes.
+It's critical that the interview process and the questions are _exactly the same_ for each and every person in the pipeline. This removes as much bias as possible and avoids veering into the territory of off-topic discussions based on the interviewer’s likes and dislikes.
 > Use structured interview tactics such as questions focussed on skills and abilities sought after. Ask everyone the same questions in the same order. - Better Allies Approach to Hiring
 
 ## Elitist Hiring Says: Code Tests Ensure Quality
@@ -87,7 +89,7 @@ Elitist hiring often involves a code test before the applicant even gets to meet
 There are numerous problems with this.
 
 ### 2 Hours is Never 2 Hours
-Code tests never take 2 hours, 3 hours or whatever the recommended time is. By the time you set up the testing suite, linter and everything else you need you've easily used up most of that time. applicants are never going to admit your 2-hour tech test took 10 hours so the cycle continues.
+Code tests never take 2 hours, 3 hours or whatever the recommended time is. By the time you set up the testing suite, linter and everything else you need you've easily used up most of that time. Applicants are never going to admit your 2-hour tech test took 10 hours so the cycle continues.
 
 As we mentioned before we want to reduce time commitments and anything above 2 hours is an unreasonable ask, and anything under 2 hours probably isn't testing for much.
 
@@ -120,7 +122,7 @@ The list of requirements to pass was sent out clearly in advance of the task, su
 - 'We will ask you questions about your topic, but don't worry if you don't know the answer. How you handle not knowing is just as important as domain knowledge'.
 
 The reason I loved this was because:
-- applicants genuinely enjoyed the task, even those that were introverted.
+- Applicants genuinely enjoyed the task, even those that were introverted.
 - The hiring team enjoyed the task and got to learn new and interesting things and didn't require much of their time.
 - With a clear set of guidelines for pass/fail we eliminated as much bias as we could and the One True Path mentality.
 - It gave a true reflection of what working at the company would really be like.
@@ -149,14 +151,16 @@ The elitist school of hiring believes that they can have a set of 'male and pale
 
 A lot, it turns out.
 
-As a woman, I've gone through many interviews where I haven't seen another non-male or non-white interviewer. This is instantly alienating and makes me think 'I don't belong here'. Worse a lot of interviewers give no care to put the applicant at ease, making them feel welcome and supported and that they want them to be at their best. I've failed many an interview not because I was wrong for the job because of the interviewers or the process failed to get the best out of me.
+As a woman, I've gone through many interviews where I haven't seen another non-male or non-white interviewer. This is instantly alienating and makes me think 'I don't belong here'.
+
+Worse, a lot of interviewers give no attention to putting the applicant at ease, or making them feel welcome and supported. I’ve failed many an interview not because I was wrong for the job, but because the interviewers or the process failed to get the best out of me.
 
 This has a real tangible effect on diverse hiring - meeting someone of the same gender, age or race as themselves resulted in a 50% increase in the odds a woman would be hired for a position at Cisco.
 
 Interviewing is not a chance to strut your stuff and feed your ego. It's a time to be kind and supportive of others while they are in an extremely vulnerable position.
 ## Compassionate Hiring Says: We Pride Ourselves On Our Process
 
-Compassionate hiring says interviewing is a skill and we pride ourselves on the people involved and the process. We think our process is the kindest, welcoming and most fun that it can be and our interviewers are engaged, trained and rewarded for being part of it.
+Compassionate hiring says interviewing is a skill and we pride ourselves on the people involved and the process. We think our process is the kindest, most welcoming and most fun that it can be and our interviewers are engaged, trained and rewarded for being part of it.
 
 All too often hiring is an afterthought that no one wants to be a part of, a drain on time and energy both for the interviewers and the applicants. It doesn't have to be that way.
 
@@ -165,7 +169,7 @@ Your interview process and the people in it are clear advertisements for your bu
 ### Challenge Yourself
 - Ensure you have a diverse range of people running interviews to maximise the chance that applicants will see someone that looks like them and be more likely to feel at ease.
 - Be mindful of how people are acting in interviews. Check your employees are behaving in a kind and respectful manner with applicants and championing your culture and values.
-- Provide support and training for anyone involved in interviews. It's not enough to assume senior people are able to magically be amazing at interviews. Develop a group of people that are interested and engaged with the process that acts as real advertisements for why your company is a great place to work.
+- Provide support and training for anyone involved in interviews. It’s not enough to assume senior people are able to magically be amazing at interviews. Developing a group of people that are interested and engaged with the process acts as a real advertisement for why your company is a great place to work.
 - Reward people for being involved in hiring and be sure not to pile this on top of existing workloads as a side thought. Hiring is a core part of the job and needs to be acknowledged as such.
 
 ## Summary
