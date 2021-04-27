@@ -2,7 +2,7 @@
 title: Other companies tech hiring processes are costing YOU talent
 description: The technical hiring process is critical for attracting  diverse and amazing applicants - but are you sabotaging your own recruitment efforts by using other people’s outdated processes? Here are some practical tips on developing a 'compassionate hiring' ethos that benefits your company, your colleagues and your wonderful future hires.
 layout: post
-categories: [hiring]
+categories: [hiring, leadership]
 ---
 
 Hiring is an absolutely critical part of building a successful business and missing out on great talent is holding you back from being as innovative, creative and amazing as you can be in your organisation.

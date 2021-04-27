@@ -1,7 +1,7 @@
 ---
 title: 7 Nuggets from 'The Better Allies Approach to Hiring' Book
 layout: post
-categories: [hiring, books]
+categories: [leadership, books]
 ---
 There's a lot of great content in the book ['The Better Allies Approach to Hiring'](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338) including real practical advice about how to improve your hiring process right now. These are the 7 things I want to remember the most and reference in my article on [how other companies tech hiring processes are costing you talent](https://outragedpinkracoon.github.io/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html).
 
