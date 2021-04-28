@@ -1,15 +1,12 @@
 ---
 title: Other companies tech hiring processes are costing YOU talent
-description: The technical hiring process is critical for attracting  diverse and amazing applicants - but are you sabotaging your own recruitment efforts by using other people’s outdated processes? Here are some practical tips from my hiring practices on developing a 'compassionate hiring' ethos that benefits your company, your colleagues and your wonderful future hires.
+description: The technical hiring process is critical for attracting  diverse and amazing applicants - but are you sabotaging your own recruitment efforts by using other people’s outdated processes? These tips from my hiring practices on developing a 'compassionate hiring' ethos will benefit your company, your colleagues and your future hires.
 layout: post
 categories: [hiring, leadership]
 ---
+If we want to attract diverse people and maximise the creativity and innovation in our companies, we need to break out of our old patterns of copying the archaic 'elitist' processes of others and focus on what _we_ need for the roles _we_ are hiring.
 
-Hiring is an absolutely critical part of building a successful business and missing out on great talent is holding you back from being as innovative, creative and amazing as you can be in your organisation. I'll be using examples from the practices we implemented at my last company in this article, where I lead on recruiting and onboarding a start-up engineering team in a pandemic and had our most successful year of business.
-
-If we want to attract diverse people that really match up with what we are looking for in a role, we need to break out of our old patterns of copying and pasting other archaic processes and ideas from others and really get to know what works for us and our organisations.
-
-We need to move away from an outdated 'Elitist Hiring' using gatekeeping tactics to 'Compassionate Hiring' where we want to make as many people feel welcomed and that they belong in our company as possible.
+We'll look at the pitfalls of the outdated gatekeeping tactics of 'Elitist Hiring' and how a 'Compassionate Hiring' process that makes people feel welcomed and included is more effective. To demonstrate what this looks like I draw on practices I implemented at my last company, where I recruited a start-up engineering team in a pandemic and had our most successful year of business.
 
 ## Elitist Hiring Says: Barriers Keep Out the Weak
 
