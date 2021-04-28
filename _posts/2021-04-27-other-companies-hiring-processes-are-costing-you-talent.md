@@ -5,7 +5,7 @@ layout: post
 categories: [hiring, leadership]
 ---
 
-Hiring is an absolutely critical part of building a successful business and missing out on great talent is holding you back from being as innovative, creative and amazing as you can be in your organisation. I'll be using examples from the practices we implemented at my last company in this article, where I recruited and onboarded a start-up engineering team in a pandemic and had our most successful year of business.
+Hiring is an absolutely critical part of building a successful business and missing out on great talent is holding you back from being as innovative, creative and amazing as you can be in your organisation. I'll be using examples from the practices we implemented at my last company in this article, where I lead on recruiting and onboarding a start-up engineering team in a pandemic and had our most successful year of business.
 
 If we want to attract diverse people that really match up with what we are looking for in a role, we need to break out of our old patterns of copying and pasting other archaic processes and ideas from others and really get to know what works for us and our organisations.
 
