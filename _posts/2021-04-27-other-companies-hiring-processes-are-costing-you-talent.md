@@ -6,7 +6,7 @@ categories: [hiring, leadership]
 ---
 To attract diverse people that will have a positive, creative and lasting impact on our companies, it's time to leave behind the old patterns of copying the archaic 'elitist' processes of others and focus on what _we_ need for the roles _we_ are hiring.
 
-We'll look at the pitfalls of the outdated gatekeeping tactics of 'Elitist Hiring' and how a 'Compassionate Hiring' process that makes people feel welcomed and included is more effective. To demonstrate what this looks like I draw on practices I implemented at my last company, where I recruited a start-up engineering team in a pandemic and had our most successful year of business.
+We'll look at the pitfalls of the outdated gatekeeping tactics of 'Elitist Hiring' and how a 'Compassionate Hiring' process that makes people feel welcomed and included is more effective. To demonstrate what this looks like I draw on practices I implemented at my last company, where I remotely recruited a start-up engineering team in a pandemic and had our most successful year of business.
 
 ## Elitist Hiring Says: Barriers Keep Out the Weak
 
