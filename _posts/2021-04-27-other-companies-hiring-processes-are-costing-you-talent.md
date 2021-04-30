@@ -4,7 +4,7 @@ description: The technical hiring process is critical for attracting  diverse an
 layout: post
 categories: [hiring, leadership]
 ---
-If we want to attract diverse people and maximise the creativity and innovation in our companies, we need to break out of our old patterns of copying the archaic 'elitist' processes of others and focus on what _we_ need for the roles _we_ are hiring.
+To attract diverse people that have a positive, creative and lasting impact on our companies, we need to break out of our old patterns of copying the archaic 'elitist' processes of others and focus on what _we_ need for the roles _we_ are hiring.
 
 We'll look at the pitfalls of the outdated gatekeeping tactics of 'Elitist Hiring' and how a 'Compassionate Hiring' process that makes people feel welcomed and included is more effective. To demonstrate what this looks like I draw on practices I implemented at my last company, where I recruited a start-up engineering team in a pandemic and had our most successful year of business.
 
