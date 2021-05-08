@@ -13,3 +13,5 @@ My passion lies with people. Hiring, coaching, mentoring, collaboration, culture
 You can find out more about me on my [LinkedIn profile](https://www.linkedin.com/in/valeriejanegibson/). Always open to chatting with interesting people so do drop me a line.
 
 I have 2 really [chubster cats](https://www.instagram.com/outragedpinkracoon/).
+
+Racoon picture for free use by [Chris Ensminger on Unsplash](https://unsplash.com/photos/gWo-hfRotrI)
