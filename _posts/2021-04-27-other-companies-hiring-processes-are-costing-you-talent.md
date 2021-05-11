@@ -146,6 +146,7 @@ This tells the applicant nothing of substance about the approach to the code. Do
 Make sure the pass/fail criteria is absolutely as clear and unambiguous as it possibly can be and that more than one person is involved in the assessment of it.
 
 > What if we just ditch the code test and look at their work on Github?
+
 Tread very cautiously here. Remember that [95% of open source contributors are men](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338), women and nonbinary folks tend to have a difficult time in that space. It also assumes that someone has the time and privilege to be doing that outside of work, so do this with serious caution.
 
 ## Elitist Hiring says: We're All Rockstars At Hiring
