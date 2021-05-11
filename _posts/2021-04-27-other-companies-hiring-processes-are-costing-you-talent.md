@@ -27,13 +27,11 @@ The excellent book ['The Better Allies Approach to Hiring'](https://outragedpink
 It also recommends encouraging applicants to apply even if they don't meet all the requirements on the job ad by adding text like 'we'd love to hear from you even if you don't meet 100% of the requirements'. A famous [Hewlett-Packard study](https://www.amazon.co.uk/Lean-Women-Work-Will-Lead/dp/0753541629) found that women applied for a promotion only when they believed they met 100% of the qualifications listed for a job, while men applied when they could meet 60% of the requirements.
 
 ### Challenge Yourself
-- Instead of asking for a degree, figure out the behaviours and skills you expect to see.
-- Determine what programming knowledge is absolutely essential to the job on day one and can't be taught or grown.
-- Figure out what 'good' looks like in the current team and nail down these behaviours you are looking for.
-- List the behaviours and skills you are looking for from someone with X years in Y technology.
-- Limit the requirements you ask for on a job ad to 5.
-- Remove any 'nice to have' requirements.
-- Add text to encourage anyone to apply even if they don't meet the full list of skills.
+- Limit the requirements you ask for on a job ad to 5 and remove any ‘nice to have’ requirements.
+- Instead of asking for a degree or X years in Y technology, list the behaviours and skills you expect to see.
+- Determine what programming knowledge is absolutely essential to the job on day one and can’t be taught or grown.
+- Figure out what ‘good’ looks like in the current team and nail down these behaviours you are looking for.
+- Add text to encourage anyone to apply even if they don’t meet the full list of skills.
 
 You will find that THIS is your actual job requirements list when looking for in a candidate.
 
