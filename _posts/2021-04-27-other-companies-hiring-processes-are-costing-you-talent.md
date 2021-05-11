@@ -141,7 +141,8 @@ If you must do a coding test, write down the requirements of the test clearly an
 This tells the applicant nothing of substance about the approach to the code. Do you want it to be scrappy, but not crappy? Do you want it to be highly performant and able to be added to easily? Take those loose ideas and turn them into really specific concrete things you want to see:
 - 'We expect you to use RSpec for testing, but 100% coverage is not required. Happy path tests are enough as a minimum'.
 - 'We expect you to use Rubocop and have no linting errors present'.
-- 'Please use an object-orientated style of coding and apply SOLID principles where you feel it makes sense, but this is not a requirement to pass'.
+- 'Use an object-orientated style of coding and apply SOLID principles where you feel it makes sense, but this is not a requirement to pass'.
+- 'Write the code in the style you would use for a new, experimental feature in it’s first iteration'.
 
 Make sure the pass/fail criteria is absolutely as clear and unambiguous as it possibly can be and that more than one person is involved in the assessment of it.
 
