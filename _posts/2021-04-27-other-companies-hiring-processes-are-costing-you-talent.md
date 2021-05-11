@@ -130,7 +130,7 @@ The reason I loved this was because:
 - The applicant got time to ask questions to the people they would be working with on a daily basis in their team.
 
 ### Challenge Yourself
-Given the list of requirements for the role, decide what you are gaining from a technical test. What behaviours or attributes are you really testing for and is the code test really answering them? Could a guided, structured conversation, lightning talk or something else assess the same things?
+Given the list of requirements for the role, decide what you are gaining from a coding test. What behaviours or attributes are you really testing for and is the code test really answering them? Could a guided, structured conversation, lightning talk or something else assess the same things?
 
 If you must do a coding test, write down the requirements of the test clearly and unambiguously. Some poor examples I have seen of this are:
 - 'Code must be robust'
