@@ -75,11 +75,12 @@ We should avoid the opposite end of the scale where the entire interview is only
 Be transparent about the process so that applicants know exactly what they are getting into and if they can dedicate the time to it.
 
 ### Challenge Yourself
-Use your new job requirements list to come up with the lightest possible process that directly addresses these and whether an applicant fits the bill or not. Keep the entire interview process under 3 hours maximum as a general rule. Publish this on your careers page transparently.
+- Use your new job requirements list to come up with the lightest possible process that directly addresses whether a candidate meets them or not.
+- Keep the entire interview process under 3 hours maximum as a general rule.
+- Publish your process on your careers page transparently.
+- Ensure applicants are exposed to members of the team they will be working with _as early as possible_. This means they can get answers to any questions they have and put any concerns to rest before you use up any more of their time.
+- It’s critical that the interview process and the questions are _exactly the same_ for each and every person in the pipeline. This removes as much bias as possible and avoids veering into the territory of off-topic discussions based on the interviewer’s likes and dislikes.
 
-Ensure the process gives the applicant exposure to members of the team they will be working with _as early as possible_ so they can get answers to any questions they have and put any concerns to rest before you use up any more of their time.
-
-It's critical that the interview process and the questions are _exactly the same_ for each and every person in the pipeline. This removes as much bias as possible and avoids veering into the territory of off-topic discussions based on the interviewer’s likes and dislikes.
 > Use structured interview tactics such as questions focussed on skills and abilities sought after. Ask everyone the same questions in the same order. - Better Allies Approach to Hiring
 
 ## Elitist Hiring Says: Code Tests Ensure Quality
