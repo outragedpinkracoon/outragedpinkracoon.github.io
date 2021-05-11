@@ -180,7 +180,7 @@ Compassionate hiring takes time, energy and effort but will attract amazing and 
 
 To maximise our chances of success we need to:
 - Remove the barriers to application and make everyone feel welcome.
-- Be mindful of any gender or elitist language in our hiring communications.
+- Be mindful of any gendered or elitist language in our hiring communications.
 - Be respectful of the applicant's time and energy and keep our processes as light and kind as possible.
 - Ensure our process really checks for what matters to perform the role and we are not just copying and pasting code tests to be elitist.
 - Get to know people as a whole human being and allow for great conversations with them.
