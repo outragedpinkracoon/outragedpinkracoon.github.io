@@ -31,6 +31,9 @@ It also recommends encouraging applicants to apply even if they don't meet all t
 - Determine what programming knowledge is absolutely essential to the job on day one and can't be taught or grown.
 - Figure out what 'good' looks like in the current team and nail down these behaviours you are looking for.
 - List the behaviours and skills you are looking for from someone with X years in Y technology.
+- Limit the requirements you ask for on a job ad to 5.
+- Remove any 'nice to have' requirements.
+- Add text to encourage anyone to apply even if they don't meet the full list of skills.
 
 You will find that THIS is your actual job requirements list when looking for in a candidate.
 
