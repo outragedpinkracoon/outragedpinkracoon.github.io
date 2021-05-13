@@ -154,7 +154,7 @@ Make sure the pass/fail criteria is absolutely as clear and unambiguous as it po
 Tread very cautiously here. Remember that [95% of open source contributors are men](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338), women and nonbinary folks tend to have a difficult time in that space. It also assumes that someone has the time and privilege to be doing that outside of work, so do this with serious caution.
 
 ## Elitist Hiring says: We're All Rockstars At Hiring
-The elitist school of hiring believes that they can have a set of 'male and pale' interviewers that have never had any training or experience in doing interviews. The company is so elite that everyone should want to work there right? So why do you even need to try? If you've already attracted 'World Class talent' into your team what is there to worry about?
+The elitist school of hiring believes that they can have a set of 'male and pale' interviewers that have never had any training or experience in doing interviews and still succeed. The company is so elite that everyone should want to work there right? So why do you even need to try? If you've already attracted 'World Class talent' into your team what is there to worry about?
 
 A lot, it turns out.
 
