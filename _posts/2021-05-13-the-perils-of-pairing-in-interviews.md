@@ -1,6 +1,6 @@
 ---
 title: "Pairing Isn't Staring: Five Perils of Pairing In Interviews"
-description: Many technical hiring processes have a 'pairing' step, but for many of them it actually involves staring and not pairing! Let's look at five possible perils of interview pairing and how we can address them to set the candidate up for success.
+description: Many technical hiring processes have a 'pairing' step, but many actually involves staring and not pairing! Let's look at five possible perils of interview pairing and how we can address them to set the candidate up for success.
 layout: post
 categories: [hiring, leadership]
 ---
@@ -50,7 +50,7 @@ The number of amazing engineers that fail interviews because in the heat of the 
 
 This is the trouble with pairing at all in interviews. It's a very artificial environment where the candidate is _really_ vulnerable and it takes _so much_ skill from the interviewers to keep them calm and get the best out of them.
 
-If candidates are failing for not knowing 'basic syntax' but have a track record of high performance in other jobs, it's time to look at if the 'pairing' step is actually serving you and the candidates at all or if something else would be more suitable.
+If candidates are failing for not knowing 'basic syntax' but have a track record of high performance in other jobs, it's time to look at if the 'pairing' step is actually serving the company and the candidates at all or if something else would be more suitable.
 
 ## Peril 5: There Is No Pairing In The Day to Day
 Using a pairing step in an interview when the culture of the team doesn't involve pairing is problematic for a number of reasons.
