@@ -1,5 +1,7 @@
 url: "https://outragedpinkracoon.com" # the base hostname & protocol for your site, e.g. http://example.com
-title: "Outraged Pink Racoon" # the name of your site, e.g. ACME Corp.
+title: "Outraged Pink Racoon - Blog" # the name of your site, e.g. ACME Corp.
+description: "It's time to move towards compassion, empathy and kindness in tech. These are some thoughts about how we can get there together."
+author: "Valerie Dryden -> www.linkedin.com/in/valeriejanedryden"
 locale: 'en_GB'
 permalink: /:year/:month/:day/:title.html
 twitter:
@@ -7,6 +9,7 @@ twitter:
   card: summary
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
 defaults:
   - scope:
       path: ""
