@@ -26,10 +26,12 @@ If the interview is online there are plenty of tools now like [Visual Studio Cod
 
 When pairing in person, be sure to check if the person is comfortable and has what they need, offering a glass of water and a smile goes a long way but also make sure they can use the equipment comfortably, hear well and so on.
 
-## Peril 3: No Information About Setup
+## Peril 3: No Information About Setup or Format
 If the candidate needs to have certain things installed on their machines, tell them in advance and ideally give them a sample bit of code to run to ensure everything is working okay in advance. It's a disaster if a candidate's first experience of the interview is realising they can't run the interview code for whatever reason.
 
 Set candidates up for success with clear environment setup guidelines.
+
+Similarly, if it's going to be a pairing exercise followed by a round of questions let them know the format in advance so they can prepare. Allow 5 mins for a break in between and let them have a real mental break from coding mode.
 
 ## Peril 4: Undefined Success Criteria
 A lot of the time the candidate is sent an invite to a pairing interview with little to no explanation of what will be expected. Worse, a lot of the time interviewers have no common framework to work to in deciding if a candidate has passed or not. Be clear on expectations and send them out in advance to the candidate and think about:
