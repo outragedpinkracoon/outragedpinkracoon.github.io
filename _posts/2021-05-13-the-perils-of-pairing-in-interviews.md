@@ -4,7 +4,7 @@ description: Many technical hiring processes have a 'pairing' step, but not many
 layout: post
 categories: [hiring, leadership]
 ---
-Many companies use a 'pairing' step in interviews, so let's have a look at five possible perils of using pairing in interviews and how we can address them to set the candidate up for success.
+Many companies use a 'pairing' step in interviews which very often can be nerve-wracking for the candidate even in the best case. Let's have a look at five possible perils of using pairing in interviews and how we can address them to set the candidate up for success.
 
 ## Peril 1: The Power Dynamic Is Misaligned
 Often in pairing situations, which are already intimidating, candidates are paired up with often two people that are much higher than them in the company. For example, a junior dev might be interviewed by a staff engineer and a principal or a mid-level engineer gets interviewed by a CTO and a senior developer.
