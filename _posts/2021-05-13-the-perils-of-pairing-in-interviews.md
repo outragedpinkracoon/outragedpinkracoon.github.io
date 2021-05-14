@@ -67,6 +67,10 @@ In this situation, it would be better to bin the 'pairing' step and find a more 
 When we do a pairing interview we need to:
 - Balance the power dynamic as best as possible and let the candidate know who will be interviewing them.
 - Make sure pairing is actively happening, and the candidate isn't just being stared at.
-- Send out the setup instructions for the task in advance.
+- Check if pairing is definitely the correct tool for the job.
+- Send out the setup instructions for the task in advance and details of the process.
+- Allow for breaks.
 - Be clear about the success criteria and don't berate people for not knowing 'the basics'
 - Avoid a pairing interview if there is no pairing in the day-to-day.
+
+If we do this, we stand the best chance of identifying, fairly assessing and attracting the candidates we need.
