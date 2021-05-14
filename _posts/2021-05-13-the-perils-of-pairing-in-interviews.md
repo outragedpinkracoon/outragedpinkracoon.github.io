@@ -1,6 +1,6 @@
 ---
 title: "Pairing Isn't Staring: Five Perils of Pairing In Interviews"
-description: Many technical hiring processes have a 'pairing' step, but not many of them actually involve pairing but staring! Let's look at five possible perils of interview pairing and how we can address them to set the candidate up for success.
+description: Many technical hiring processes have a 'pairing' step, but for many of them it actually involves staring and not pairing! Let's look at five possible perils of interview pairing and how we can address them to set the candidate up for success.
 layout: post
 categories: [hiring, leadership]
 ---
@@ -24,7 +24,7 @@ Pairing is a skill so the company should provide support and training for anyone
 
 If the interview is online there are plenty of tools now like [Visual Studio Code Live Share](https://visualstudio.microsoft.com/services/live-share/) or [Code With Me by JetBrains](https://www.jetbrains.com/code-with-me/#:~:text=Code%20With%20Me%20is%20a,it%20together%20in%20real%20time.) which make the pairing sessions seamless and collaborative.
 
-When pairing in person, be sure to check if the person is comfortable and has what they need, offering a glass of water and a smile goes a long way but also make sure they can use the equipment comfortably, hear well and so on.
+When pairing in person, be sure to check if the person is comfortable and has what they need and they can use the equipment comfortably, hear well and so on. Offering a glass of water and a smile goes a long way.
 
 ## Peril 3: No Information About Setup or Format
 If the candidate needs to have certain things installed on their machines, tell them in advance and ideally give them a sample bit of code to run to ensure everything is working okay in advance. It's a disaster if a candidate's first experience of the interview is realising they can't run the interview code for whatever reason.
