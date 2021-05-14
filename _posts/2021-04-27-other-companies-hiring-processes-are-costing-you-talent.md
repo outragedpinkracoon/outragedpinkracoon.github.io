@@ -22,7 +22,7 @@ The elitist hiring process wants us to think that this makes any hires to the co
 
 Compassionate hiring accepts that talent can come from any route and doesn't always fit a rigid skill requirements list. Coding bootcamps allow folk with valuable past business or life experiences to retrain into tech, which breathes so much vital new life into the industry. Similarly some of the best programmers I've ever worked with have been completely self-taught.
 
-The excellent book ['The Better Allies Approach to Hiring'](https://outragedpinkracoon.github.io/2021/04/26/7-nuggets-from-better-allies-hiring.html) recommends limiting the number of job requirements on an ad to just 5. If you only have 5 to work with, you better make sure everything you ask for is absolutely critical and this is a great way to get clarity on what it is you are actually looking for.
+The excellent book ['The Better Allies Approach to Hiring'](https://outragedpinkracoon.com/2021/04/26/7-nuggets-from-better-allies-hiring.html) recommends limiting the number of job requirements on an ad to just 5. If you only have 5 to work with, you better make sure everything you ask for is absolutely critical and this is a great way to get clarity on what it is you are actually looking for.
 
 It also recommends encouraging applicants to apply even if they don't meet all the requirements on the job ad by adding text like 'we'd love to hear from you even if you don't meet 100% of the requirements'. A famous [Hewlett-Packard study](https://www.amazon.co.uk/Lean-Women-Work-Will-Lead/dp/0753541629) found that women applied for a promotion only when they believed they met 100% of the qualifications listed for a job, while men applied when they could meet 60% of the requirements.
 
