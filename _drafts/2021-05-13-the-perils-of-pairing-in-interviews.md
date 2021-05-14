@@ -13,7 +13,7 @@ If we want people to feel at ease, we need to get people to interview them that 
 
 Send out information about _who_ will be on the call in advance so the candidate isn't caught off guard.
 
-## Peril 2: Pairing Doesn't Involve Collaboration
+## Peril 2: Pairing Isn't Staring!
 Pairing by it's very definition is meant to solve a problem of working in isolation on a problem. But many pairing interviews involve the candidate being stared at by multiple people while they get given orders to do. This isn't _at all_ in the spirit of pairing. Interviews are nerve wracking enough - I've been doing this a long time and the minute someone watches me type even in a non interview situation I start making all sorts of mistakes. A pairing interview should give the candidate a flavour of what it's like to work at a company with the other engineers.
 
 If the interview is online there are plenty tools now like Visual Studio Code Live Share or Code With Me by JetBrains which make the pairing sessions seamless and collaborative.
