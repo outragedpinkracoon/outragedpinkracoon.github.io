@@ -31,7 +31,7 @@ If the candidate needs to have certain things installed on their machines, tell 
 
 Set candidates up for success with clear environment setup guidelines.
 
-Similarly, if it's going to be a multi-part interview let them know the format in advance so they can prepare. Allow 5 mins for a break in between each section and let them have a real mental break from coding / pairing mode.
+If it's going to be a multi-part interview let them know the format in advance so they can prepare. It's exhausting pairing even when it does go as well as it can, so allow for a break between each section and remind the candidate of what the next section will be so they can think a little bit about it in advance.
 
 ## Peril 4: Undefined Success Criteria
 A lot of the time the candidate is sent an invite to a pairing interview with little to no explanation of what will be expected. Worse, a lot of the time interviewers have no common framework to work to in deciding if a candidate has passed or not. Be clear on expectations and send them out in advance to the candidate and think about:
