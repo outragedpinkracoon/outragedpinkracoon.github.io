@@ -124,7 +124,7 @@ The list of requirements to pass was sent out clearly in advance of the task, su
 - 'We will ask you questions about your topic, but don't worry if you don't know the answer. How you handle not knowing is just as important as domain knowledge'.
 
 The reason I loved this was because:
-- Applicants genuinely enjoyed the task, even those who were introverted.
+- Applicants genuinely enjoyed the task, even those who were introverted which may be surprising. They knew exactly what was expected and how to prepare so they were set up for success.
 - The hiring team enjoyed the task and got to learn new and interesting things and didn't require much of their time.
 - With a clear set of guidelines for success we eliminated as much bias as we could and the One True Path mentality.
 - It gave a true reflection of what working at the company would really be like.
