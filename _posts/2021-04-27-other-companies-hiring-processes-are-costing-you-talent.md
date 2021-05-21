@@ -169,7 +169,8 @@ Interviewing is not a chance to strut your stuff and feed your ego. It's a time 
 
 Compassionate hiring says interviewing is a skill and we pride ourselves on the people involved and the process. We think our process is the kindest, most welcoming and most fun that it can be and our interviewers are engaged, trained and rewarded for being part of it.
 
-All too often hiring is an afterthought that no one wants to be a part of, a drain on time and energy both for the interviewers and the applicants. It doesn't have to be that way.
+All too often hiring is an afterthought that no one wants to be a part of, a drain on time and energy both for the interviewers and the applicants.
+It shouldn’t be this way and if it is then it’s costing you great hires.
 
 Your interview process and the people in it are clear advertisements for your business. If this is at odds with your _real_ culture, then it's costing you great talent. It's crucial that the questions you ask, the way you make people feel and how you engage with applicants is reflective of the way people interact in your company. Interviewing is a two-way street and you need to tell the applicant they belong, are welcome and will be supported in your company.
 
