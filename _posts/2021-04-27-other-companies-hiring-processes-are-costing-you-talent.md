@@ -183,7 +183,9 @@ Compassionate hiring says interviewing is a skill and we pride ourselves on the 
 All too often hiring is an afterthought that no one wants to be a part of, a drain on time and energy both for the interviewers and the applicants.
 It shouldn’t be this way and if it is then it’s costing you great hires.
 
-Your interview process and the people in it are clear advertisements for your business. If this is at odds with your _real_ culture, then it's costing you great talent. The questions you ask, the way you make people feel and how you engage with applicants must be reflective of the way people interact in your company. Interviewing is a two-way street and you need to tell the applicant they belong, are welcome and will be supported in your company.
+Your interview process and the people in it are clear advertisements for your business. If this is at odds with your _real_ culture, then it's costing you great talent. The questions you ask, the way you make people feel and how you engage with applicants must be reflective of the way people interact in your company.
+
+Interviewing is a two-way street and you need to tell the applicant they belong, are welcome and will be supported in your company. A bad experience at interview stage will turn many great candidates away.
 
 ### Challenge Yourself
 - Ensure you have a diverse range of people running interviews to maximise the chance that applicants will see someone that looks like them and be more likely to feel at ease.
