@@ -191,3 +191,9 @@ To maximise our chances of success we need to:
 - Ensure our process really checks for what matters to perform the role and we are not just copying and pasting code tests to be elitist.
 - Get to know people as a whole human being and allow for great conversations with them.
 - Mindfully grow and develop our interviewing teams, keeping them diverse and engaged and able to attract talent to our companies.
+
+## Hiring is hard!
+
+Let’s stop defaulting to the old elitist mindset because it’s easier and familiar rather than challenging ourselves to have a hiring process that is compassionate, inclusive and works for us and the candidates, setting them up for success. Too many amazing people are missing out on great jobs because the hiring process is failing them and the change starts with us.
+
+So be brave. Challenge yourself if you’re a hiring manager and have some control over the process. Or if you can and you have the energy, try to provide feedback on the process to companies where you can to make your own proud little dent in this landscape that sorely needs to change.
