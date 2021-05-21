@@ -19,7 +19,7 @@ Compassionate practices aren't just good for our well-being and individual succe
 
 I'm going to use 5 examples to compare what the 'Elitist' mindset looks like that we need to leave behind in the past to the 'Compassionate' mindset we need to move towards with some practical guidance and tips.
 
-## Elitist Hiring Says: Barriers Keep Out the Weak
+## 1. Elitist Hiring Says: Barriers Keep Out the Weak
 
 Elitist hiring says you need:
 - a first-class honours degree or PhD in computer science.
@@ -46,7 +46,7 @@ It also recommends encouraging applicants to apply even if they don't meet all t
 
 You will find that THIS is your actual job requirements list when looking for in a candidate.
 
-## Elitist Hiring Says: Only Genius Tech Types Are Welcome Here
+## 2. Elitist Hiring Says: Only Genius Tech Types Are Welcome Here
 
 You don't have to search Indeed long to find a tech job ad that's peppered with gendered and elitist terms such as:
 - 'Genius'
@@ -69,7 +69,7 @@ We want anyone reading our ads to feel welcomed and included, reducing the chanc
 - Get someone ideally in your current team from an underrepresented group to read the job ad and give you feedback on it.
 - If you have used terms like 'genius' or 'rockstar' remove them and think about what behaviours or skills you need.
 
-## Elitist Hiring Says: Longer Processes Mean Better Quality Hires
+## 3. Elitist Hiring Says: Longer Processes Mean Better Quality Hires
 
 No one enjoys being greeted with a 10 stage interview process. Most interviews I've done have ranged from 3 hours to 15 hours+. An Elitist hiring mindset believes this 'weeds' out the applicants that won't fit, and making people do lots of tests and trials makes the company a kind of exclusive club. In reality, the more hoops to jump through the less likely you are to find and attract diverse people that fit your needs.
 
@@ -95,7 +95,7 @@ Be transparent about the process so that applicants know exactly what they are g
 
 > Use structured interview tactics such as questions focussed on skills and abilities sought after. Ask everyone the same questions in the same order. - Better Allies Approach to Hiring
 
-## Elitist Hiring Says: Code Tests Ensure Quality
+## 4. Elitist Hiring Says: Code Tests Ensure Quality
 
 Elitist hiring often involves a code test before the applicant even gets to meet a member of the team, often without offering the applicant a chance to explain their work and reasoning. This allegedly vets out those that don't meet a given expected standard and keeps the calibre of the team intact.
 
@@ -164,7 +164,7 @@ Make sure the pass/fail criteria is as clear and unambiguous as it possibly can 
 
 Tread very cautiously here. Remember that [95% of open source contributors are men](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338), women and nonbinary folks tend to have a difficult time in that space. It also assumes that someone has the time and privilege to be doing that outside of work, so do this with serious caution.
 
-## Elitist Hiring says: We're All Rockstars At Hiring
+## 5. Elitist Hiring says: We're All Rockstars At Hiring
 The elitist school of hiring believes that they can have a set of 'male and pale' interviewers that have never had any training or experience in doing interviews and still succeed. The company is so elite that everyone should want to work there right? So why do you even need to try? If you've already attracted 'World Class talent' into your team what is there to worry about?
 
 A lot, it turns out.
