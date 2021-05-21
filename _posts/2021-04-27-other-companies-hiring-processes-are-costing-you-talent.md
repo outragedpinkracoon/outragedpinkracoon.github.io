@@ -66,7 +66,7 @@ We want anyone reading our ads to feel welcomed and included, reducing the chanc
 
 - Strip out any reference to a given gender in your job ads.
 - Strip out any elitist or gendered terms, you can use many applications to [do this automatically](http://gender-decoder.katmatfield.com/).
-- Get someone ideally in your current team from an underrepresented group to read the job ad and give you feedback on it.
+- Get someone ideally in your current team from an underrepresented group to read the job ad and give you feedback on it. Reward them for spending time on it, showing it’s a valuable part of their role.
 - If you have used terms like 'genius' or 'rockstar' remove them and think about what behaviours or skills you need.
 
 ## 3. Elitist Hiring Says: Longer Processes Mean Better Quality Hires
