@@ -158,7 +158,9 @@ The elitist school of hiring believes that they can have a set of 'male and pale
 
 A lot, it turns out.
 
-As a woman, I've gone through many interviews where I haven't seen another non-male or non-white interviewer. This is instantly alienating and makes me think 'I don't belong here'. A lot of interviewers give no care to putting the applicant at ease, or making them feel welcome and supported or helping them feel that they want them to be at their best. I've failed interviews in the past not because I was wrong for the job, but because the interviewers or the process failed to get the best out of me.
+I’ve gone through many interviews where I haven’t seen a non-male or non-white interviewer. This is instantly alienating and makes me think ‘I don’t belong here’ and that the company clearly doesn’t give any care to diversity. This is instantly alienating and makes me think 'I don't belong here'.
+
+A lot of interviewers give no care to putting the applicant at ease, or making them feel welcome and supported or helping them feel that they want them to be at their best. I've failed interviews in the past not because I was wrong for the job, but because the interviewers or the process failed to get the best out of me.
 
 This has a real tangible effect on diverse hiring - meeting someone of the same gender, age or race as themselves resulted in a [50% increase](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338) in the odds a woman would be hired for a position at Cisco.
 
