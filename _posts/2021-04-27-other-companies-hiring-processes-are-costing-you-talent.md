@@ -48,7 +48,7 @@ You will find that THIS is your actual job requirements list when looking for in
 
 ## 2. Elitist Hiring Says: Only Genius Tech Types Are Welcome Here
 
-You don't have to search Indeed long to find a tech job ad that's peppered with gendered and elitist terms such as:
+You don't have to search Indeed long to find a tech job ad that's peppered with elitist vocabulary such as:
 - 'Genius'
 - 'Gravitas'
 - 'Smart'
@@ -56,7 +56,7 @@ You don't have to search Indeed long to find a tech job ad that's peppered with 
 - 'An expert rockstar developer'
 - 'Our world-class, elite team'
 
-The same ads often refer to the applicant as 'he/him' as well. This is a way to instantly disengage your non-male readers and shout 'you are not welcome here'. If you were to break down these terms into the behaviours and skills you are looking for what would they be?
+The same ads often refer to the applicant as 'he/him' as well and use masculine encoded words. This is a way to instantly disengage your non-male readers and shout 'you are not welcome here'. If you were to break down these terms into the behaviours and skills you are looking for what would they be?
 
 ## Compassionate Hiring Says: We Care About How We Communicate
 
