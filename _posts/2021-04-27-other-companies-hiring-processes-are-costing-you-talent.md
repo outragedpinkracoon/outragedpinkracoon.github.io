@@ -77,7 +77,7 @@ No amount of process is going to account for when that person joins the team and
 
 ## Compassionate Hiring Says: Your Time Is Precious To Us
 
-Compassionate hiring says let's do the minimum we need to do to make sure we get reasonable confidence that you are a great addition to the team and that you get your questions answered.
+Compassionate hiring says let's do the minimum we need to do to make sure we get reasonable confidence that the applicant is a great addition to the team and that they get their questions answered.
 
 Many people have critical time commitments outside of work - especially women who [tend to be the primary caregivers](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338). During the hiring process, they may not only be holding down their current job but looking after others, working a second job and so on. To maximise the chances of not just attracting those with the privilege of time on their hands we need to respect these time commitments of others.
 
