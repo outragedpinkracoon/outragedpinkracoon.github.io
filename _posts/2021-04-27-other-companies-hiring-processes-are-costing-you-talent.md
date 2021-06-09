@@ -71,7 +71,7 @@ We want anyone reading our ads to feel welcomed and included, reducing the chanc
 
 ## 3. Elitist Hiring Says: Longer Processes Mean Better Quality Hires
 
-No one enjoys being greeted with a 10 stage interview process. Most interviews I've done have ranged from 3 hours to 15 hours+. An Elitist hiring mindset believes this 'weeds' out the applicants that won't fit, and making people do lots of tests and trials makes the company a kind of exclusive club. In reality, the more hoops to jump through the less likely you are to find and attract diverse people that fit your needs.
+No one enjoys being greeted with a 10 stage interview process. Most interviews I've done have ranged from 3 hours to 15 hours+. An Elitist hiring mindset believes this 'weeds' out the applicants that won't fit, and making people do lots of tests and trials makes the company a kind of exclusive club. In reality, the more hoops to jump through the less likely you are to find and attract diverse people that fit your needs. In the current market, developers are in high demand and if your process is too long your star hires are going to get snapped up by other companies that have moved faster.
 
 No amount of process is going to account for when that person joins the team and you get to know who you have hired.
 
