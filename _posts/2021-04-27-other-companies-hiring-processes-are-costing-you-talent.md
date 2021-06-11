@@ -40,9 +40,10 @@ It also recommends encouraging applicants to apply even if they don't meet all t
 ### Challenge Yourself
 - Limit the requirements you ask for on a job ad to 5 and remove any ‘nice to have’ requirements.
 - Instead of asking for a degree or X years in Y technology, list the behaviours and skills you expect to see.
-- Determine what programming knowledge is essential to the job on day one and can’t be taught or grown.
+- Determine what programming knowledge is essential to the job on day one and can’t be taught or grown with minimal impact on productivity of the team or the individual.
 - Figure out what ‘good’ looks like in the current team and nail down these behaviours you are looking for.
 - Add text to encourage anyone to apply even if they don’t meet the full list of skills.
+- Add text to encourage anyone to apply even if they have had a career break for any reason. Even more important now in the wake of the pandemic and the disruption it has placed on people's working lives and security.
 
 You will find that THIS is your actual job requirements list when looking for in a candidate.
 
@@ -88,7 +89,7 @@ Be transparent about the process so that applicants know exactly what they are g
 ### Challenge Yourself
 - Use your new job requirements list to come up with the lightest possible process that directly addresses whether a candidate meets them or not.
 - Keep the entire interview process under 4 hours maximum as a general rule, including any tests and preparation for them.
-- Publish your process on your careers page transparently.
+- Publish your process on your careers page transparently. Explain how each step relates to the day to day of the role and what you are looking for.
 - Ensure applicants are exposed to members of the team they will be working with _as early as possible_. This means they can get answers to any questions they have and put any concerns to rest before you use up any more of their time.
 - Give the applicant plenty of time to ask questions! The questions someone asks can be just as revealing as the answers they give and lead to great conversations that help both sides understand each other better.
 - It’s critical that the interview process and the questions are _exactly the same_ for each person in the pipeline. This removes as much bias as possible and avoids veering into the territory of off-topic discussions based on the interviewer’s likes and dislikes.
@@ -193,7 +194,7 @@ Interviewing is a two-way street and you need to tell the applicant they belong,
 - Ensure you have a diverse range of people running interviews to maximise the chance that applicants will see someone that looks like them and be more likely to feel at ease.
 - Be mindful of how people are acting in interviews. Check your employees are behaving in a kind and respectful manner with applicants and championing your culture and values.
 - Provide support and training for anyone involved in interviews. It’s not enough to assume senior people can magically be amazing at interviews. Developing a group of people that are interested and engaged with the process acts as a real advertisement for why your company is a great place to work.
-- Reward people for being involved in hiring and be sure not to pile this on top of existing workloads as a side thought. Hiring is a core part of the job and needs to be acknowledged as such.
+- Reward people for being involved in hiring and create space for them to do it well. Hiring is a core part of the job and needs to be acknowledged as such.
 
 ## Summary
 
