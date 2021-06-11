@@ -3,7 +3,7 @@ title: 7 Nuggets from 'The Better Allies Approach to Hiring' Book
 layout: post
 categories: [leadership, books]
 ---
-There's a lot of great content in the book ['The Better Allies Approach to Hiring'](https://www.amazon.co.uk/Better-Allies-Approach-Hiring/dp/1732723338) including real practical advice about how to improve your hiring process right now. These are the 7 things I want to remember the most and reference in my article on [how other companies tech hiring processes are costing you talent](https://outragedpinkracoon.com/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html).
+There's a lot of great content in the book ['The Better Allies Approach to Hiring'](https://betterallies.com/buy/) including real practical advice about how to improve your hiring process right now. These are the 7 things I want to remember the most and reference in my article on [how other companies tech hiring processes are costing you talent](https://outragedpinkracoon.com/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html).
 
 ## 1. On the Careers Page
 To be fully transparent, consider putting your diversity statistics on your careers page, along with an explanation of what you are doing to improve them.

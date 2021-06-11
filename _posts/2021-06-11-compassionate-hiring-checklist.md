@@ -31,3 +31,8 @@ This is a quick reference guide based on my blog about [how other companies tech
 - We are mindful of how people are acting in interviews and check those involved are behaving in a kind and respectful manner with applicants and championing our culture and values.
 - We provide support and training for anyone involved in interviews.
 - We reward people for being involved in hiring and create space for those involved to do it well.
+
+## References
+- [Better Allies && Better Allies Approach To Hiring](https://betterallies.com/buy/)
+- [Lean In](https://leanin.org/book)
+- [The Fearless Organisation](https://fearlessorganization.com/)
