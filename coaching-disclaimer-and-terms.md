@@ -62,6 +62,8 @@ Personally identifiable data and information will only be used for the purpose o
 ### Cancellation and lateness
 The Client agrees that it is the Client’s responsibility to notify the Coach by text or email at least 48 hours in advance of the scheduled meeting if the client cannot attend the session. The Client will be billed in full for a missed session if the client does not turn up or hasn't rescheduled following the cancellation and lateness policy defined in this agreement. The Coach will wait in the session for 15 minutes before the Client is noted as not turning up. Exceptions may be made for any situations arising that are out of the Client’s control.  Should a session booked for less than 48 hours in advance be cancelled, then the session fee would still be payable.
 
+Session duration will not be extended due to the Client being late.
+
 ### Payment terms
 Invoices will be sent to the Client by email after each session, payable via the payment options given in the invoice within a month of issue, with a charge levied for late payment. Where more than one session has been agreed upon in a month, fees will be grouped together into one invoice that will be sent out at the end of that month.
 
