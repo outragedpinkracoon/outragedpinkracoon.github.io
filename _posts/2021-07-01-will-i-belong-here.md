@@ -72,12 +72,12 @@ Some questions to ask:
 - Are you actively sponsoring (monetarily) any females in your community?
 - Do you have any schemes that help people returning to work to join your company?
 
-# A Concrete Example of Why I Picked Zego
-In my last job search, this is the exact process that happened, and it illustrates why all of the above points matter.
+# Why I Picked Zego
+This is the series of events from my last job search which illustrates why all of the above points matter.
 
 - Saw a tweet from someone at Zego that I used to work with, saying Zego increased the number of female employees that worked there by ~40% last year. Had never heard of Zego.
 - Got in touch with an ex-colleague and asked about the company culture and ways of working. On this call, they mentioned the CTO was female(!) and this got me really excited.
-- Learned the company supported remote working.
+- Learned the company supported remote working, big plus.
 - Had an informal coffee chat with the female CTO, loved her and thought she was fabulous. Learned there were several other females in the engineering department, both in management and technical roles. Got comfort on sustainable working on the back of the $150m raise and asked about impact on culture.
 - Saw blog videos about 2 female staff members, what they love doing outside of work, why they joined Zego and what it's been like working there.
 - Reached out to the 2 staff members in the videos for informal coffee chats. Got on really well with them and got an honest opinion of the company.
