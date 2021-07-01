@@ -49,7 +49,7 @@ Some questions to ask:
 - Is there anything that shows that your company works sustainably even when growing fast?
 - What are your Glassdoor reviews like, have you responded to any overly negative ones? Responses go a long way and can be more positively impactful than straight-up positive reviews.
 
-# 4. Any Processes or Policies That Show I Am Cared For
+# 4. Processes or Policies That Show I Am Cared For
 I like to see any posts on LinkedIn and social media that talk about positive changes to company policies and processes to make a more inclusive environment. It could be a 4-day working week at full pay, a benefit that lets you claim mental health treatments like counselling or coaching, enhanced holidays/sick leave or anything else that signals that the company cares about people.
 
 This isn't about free beer or ping pong, which completely turns me off workplaces. I have the same reaction to a huge emphasis on company socials because it often seems forced, fake and points to personality cults. I like to know I _can_ be social with others when I want to, but I won't be _made to_. The last thing I want when I'm the only female on a team is to feel even more different by being on lots of calls or in gatherings where it brings it home in a very physical way.
