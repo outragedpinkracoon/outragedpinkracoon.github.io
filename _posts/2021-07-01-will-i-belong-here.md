@@ -51,7 +51,7 @@ Some questions to ask:
 # 4. Processes or Policies That Show I Am Cared For
 I like to see any posts on LinkedIn and social media that talk about positive changes to company policies and processes to make a more inclusive environment. It could be a 4-day working week at full pay, a benefit that lets you claim mental health treatments like counselling or coaching, enhanced holidays/sick leave or anything else that signals that the company cares about people.
 
-This isn't about free beer or ping pong, which completely turns me off workplaces. I have the same reaction to a huge emphasis on company socials because it often seems forced, fake and points to personality cults. I like to know I _can_ be social with others when I want to, but I won't be _made to_. The last thing I want when I'm the only female on a team is to feel even more different by being on lots of calls or in gatherings where it brings it home in a very physical way.
+This isn't about free beer or ping pong, which completely turns me off workplaces. I have the same reaction to a huge emphasis on company socials or being a 'family' because it is often forced, fake and points to personality cults and unhealthy culture. I like to know I _can_ be social with others when I want to, but I won't be _made to_. The last thing I want when I'm the only female on a team is to feel even more different by being on lots of calls or in gatherings where it brings it home in a very physical way.
 
 I need to shout out to remote work here. Being at home allows me to mitigate a lot of the micro-aggressions that could happen in person in an office and levels out power dynamics (this is a whole blog in itself). If a company supports remote work I'm 100% more likely to apply.
 
@@ -78,7 +78,7 @@ In my last job search, this is the exact process that happened, and it illustrat
 - Saw a tweet from someone at Zego that I used to work with, saying Zego increased the women that worked there by ~40% last year.
 - Got in touch with an ex-colleague and asked about the company culture and ways of working. On this call, they mentioned the CTO was female(!) and this got me really excited.
 - Learned the company supported remote working.
-- Had an informal coffee chat with the female CTO, loved her and thought she was fabulous. Learned there were several other females in the engineering department, both in management and technical roles.
+- Had an informal coffee chat with the female CTO, loved her and thought she was fabulous. Learned there were several other females in the engineering department, both in management and technical roles. Got comfort on sustainable working on the back of the $150m raise and asked about impact on culture.
 - Saw blog videos about 2 female staff members, what they love doing outside of work, why they joined Zego and what it's been like working there.
 - Reached out to the 2 staff members in the videos for informal coffee chats. Got on really well with them and got an honest opinion of the company.
 - Followed the normal application process through to completion, felt welcomed and respected. Got job offer.
