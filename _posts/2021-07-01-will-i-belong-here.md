@@ -81,7 +81,7 @@ In my last job search, this is the exact process that happened, and it illustrat
 - Saw blog videos about 2 female staff members, what they love doing outside of work, why they joined Zego and what it's been like working there. Reached out to them for informal coffee chats. Got on really well with them and got an honest opinion of the company.
 - Followed the normal application process through to completion, really liked everyone I met and felt welcomed and respected.
 - Watched a recording of the female CTO talking on CTO Craft about onboarding and absolutely loved it.
-- Saw a LinkedIn post about trans inclusive policies rolled out at Zego
+- Saw a LinkedIn post about trans inclusive policies rolled out at Zego.
 - Got even more excited about my new job.
 
 You can see what power just one blog and one Tweet can have!
