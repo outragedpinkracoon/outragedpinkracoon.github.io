@@ -79,8 +79,9 @@ In my last job search, this is the exact process that happened, and it illustrat
 - Got in touch with an ex-colleague and asked about the company culture and ways of working. On this call, they mentioned the CTO was female(!) and this got me really excited.
 - Learned the company supported remote working.
 - Had an informal coffee chat with the female CTO, loved her and thought she was fabulous. Learned there were several other females in the engineering department, both in management and technical roles.
-- Saw blog videos about 2 female staff members, what they love doing outside of work, why they joined Zego and what it's been like working there. Reached out to them for informal coffee chats. Got on really well with them and got an honest opinion of the company.
-- Followed the normal application process through to completion, really liked everyone I met and felt welcomed and respected. Got job offer.
+- Saw blog videos about 2 female staff members, what they love doing outside of work, why they joined Zego and what it's been like working there.
+- Reached out to the 2 staff members in the videos for informal coffee chats. Got on really well with them and got an honest opinion of the company.
+- Followed the normal application process through to completion, felt welcomed and respected. Got job offer.
 - Watched a recording of the female CTO talking on CTO Craft about onboarding and absolutely loved it and various other posts on community activities.
 - Saw a LinkedIn post about trans inclusive policies rolled out at Zego.
 - Got even more excited about my new job.
