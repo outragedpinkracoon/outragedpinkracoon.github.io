@@ -75,7 +75,7 @@ Some questions to ask:
 # A Concrete Example of Why I Picked Zego
 In my last job search, this is the exact process that happened, and it illustrates why all of the above points matter.
 
-- Saw a tweet from someone at Zego that I used to work with, saying Zego increased the women that worked there by ~40% last year.
+- Saw a tweet from someone at Zego that I used to work with, saying Zego increased the number of female employees that worked there by ~40% last year.
 - Got in touch with an ex-colleague and asked about the company culture and ways of working. On this call, they mentioned the CTO was female(!) and this got me really excited.
 - Learned the company supported remote working.
 - Had an informal coffee chat with the female CTO, loved her and thought she was fabulous. Learned there were several other females in the engineering department, both in management and technical roles. Got comfort on sustainable working on the back of the $150m raise and asked about impact on culture.
