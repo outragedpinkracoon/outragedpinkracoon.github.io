@@ -6,8 +6,7 @@ categories: [hiring, leadership]
 ---
 The first thing I do when looking into a new company is ask myself 'will I belong here?'. This is because I need to feel seen, valued, heard, respected and connected to others to be at my best and contribute as fully as I can.
 
-I'll give a breakdown of 5 things I look for as a (white) female in tech when I try to answer this question to help you generate some ideas about how you can start to attract more diverse people into roles in your company.
-
+I'll give a breakdown of 5 things I look for as a (white) female in tech when I try to answer this question to help you generate some ideas about how you can start to attract more diverse people into roles in your company. After this I'll run through the exact process that happened that resulted in my joining my latest role at [Zego](https://www.zego.com/) as a concrete example.
 # 1. What's The Make-Up of the Company?
 When I find an interesting company I go straight to the Team page on their website or LinkedIn. I'm trying to see if there's anyone who looks like me on that page and more specifically is there anyone that looks like me higher up in the company. If the C-suite are all male and pale and there's a void of female leadership it tells me that there's a high chance the people managing me will not be able to empathise with me and my situation.
 
@@ -25,7 +24,7 @@ Even if your company is all male and pale, I might still be interested if I can 
 
 Company or technical team values can help with this too if they are published and operationalised. If I can see the behaviours and concrete ways the people in your company work then I can get a better idea of if I'm going to feel like I belong or not.
 
-I love blogs about the people in the company, it was one of the main things that attracted me to Zego where I now work. There was a wealth of blogs about other females in the business, what they love doing outside of work, why they joined the company and how they find working there. It wasn't just them though, it was a wide range of employees so the females were not burdened in isolation with doing this extra work.
+I love blogs about the people in the company, it was one of the main things that attracted me to [Zego](https://www.zego.com/) where I now work. There was a wealth of blogs about other females in the business, what they love doing outside of work, why they joined the company and how they find working there. It wasn't just them though, it was a wide range of employees so the females were not burdened in isolation with doing this extra work.
 
 >Before you read ANY FURTHER I want to say this right now. Should you decide to ask females in your company to produce assets like blogs or videos etc you MUST make this a valued and core part of the job and praise and celebrate it. Do not tack on more labour to those that are already emotionally burdened and may be struggling to progress and be seen.
 
@@ -72,6 +71,21 @@ Some questions to ask:
 - What's your public persona as a company, are you associated with any community activities for females in tech?
 - Are you actively sponsoring (monetarily) any females in your community?
 - Do you have any schemes that help people returning to work to join your company?
+
+# A Concrete Example of Why I Picked Zego
+In my last job search, this is the exact process that happened, and it illustrates why all of the above points matter.
+
+- Saw a tweet from someone at Zego that I used to work with, saying Zego increased the women that worked there by ~40% last year
+- Got in touch with an ex-colleague and asked about the company culture and ways of working. On this call, they mentioned the CTO was female(!) and this got me really excited.
+- Had an informal coffee chat with the female CTO, loved her and thought she was fabulous. Learned there were several other females in the engineering department, both in management and technical roles.
+- Saw blog videos about 2 female staff members, what they love doing outside of work, why they joined Zego and what it's been like working there. Reached out to them for informal coffee chats. Got on really well with them and got an honest opinion of the company.
+- Followed the normal application process through to completion, really liked everyone I met.
+- Got an amazing new job.
+- Watched a recording of the female CTO talking on CTO Craft about onboarding and absolutely loved it.
+- Saw a LinkedIn post about trans inclusive policies rolled out at Zego
+- Got even more excited about my new job.
+
+You can see what power just one blog and one Tweet can have!
 
 # Summary
 
