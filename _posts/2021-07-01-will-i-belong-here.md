@@ -6,7 +6,7 @@ categories: [hiring, leadership]
 ---
 The first thing I do when looking into a new company is ask myself 'will I belong here?'. This is because I need to feel seen, valued, heard, respected and connected to others to be at my best and contribute as fully as I can.
 
-I'll give a breakdown of 5 things I look for as a white female in tech when I try to answer this question to help you generate some ideas about how you can start to attract more diverse people into roles in your company.
+I'll give a breakdown of 5 things I look for as a (white) female in tech when I try to answer this question to help you generate some ideas about how you can start to attract more diverse people into roles in your company.
 
 # 1. What's The Make-Up of the Company
 When I find an interesting company I go straight to the Team page on their website or LinkedIn. I'm trying to see if there's anyone who looks like me on that page and more specifically is there anyone that looks like me higher up in the company. If the C-suite are all male and pale and there's a void of female leadership it tells me that there's a high chance the people managing me will not be able to empathise with me and my situation.
