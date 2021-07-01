@@ -56,9 +56,12 @@ This isn't about free beer or ping pong, which completely turns me off workplace
 
 I need to shout out to remote work here. Being at home allows me to mitigate a lot of the micro-aggressions that could happen in person in an office and levels out power dynamics (this is a whole blog in itself). If a company supports remote work I'm 100% more likely to apply.
 
+I've seen a few companies like Attest and Monzo open-source their engineering progression frameworks. I could see things like empathy and collaboration being valued in their literature, which greatly increased the chance that I felt like a) I'd be able to progress and b) I'd fit in.
+
 Some questions to ask:
 - Are you posting on social media or your blog about the policies and processes you have to help people be at their best?
 - Do you support remote/flexible working? If not, why not?
+- Is anything like your progression framework open sourced for people to see before they apply?
 
 # 5. Community Involvement
 Lastly, I like to see what community activities the company is involved in like sponsoring women in tech meetups or running internal conferences or panel discussions that show they are actively thinking about diversity and putting their money where their virtue signalling is. This is a great way to get male employees involved in these communities and show that your employees are empathetic and able to relate and support females in tech.
