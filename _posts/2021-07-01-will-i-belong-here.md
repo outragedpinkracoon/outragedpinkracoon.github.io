@@ -8,7 +8,7 @@ The first thing I do when looking into a new company is ask myself 'will I belon
 
 I'll give a breakdown of 5 things I look for as a (white) female in tech when I try to answer this question to help you generate some ideas about how you can start to attract more diverse people into roles in your company.
 
-# 1. What's The Make-Up of the Company
+# 1. What's The Make-Up of the Company?
 When I find an interesting company I go straight to the Team page on their website or LinkedIn. I'm trying to see if there's anyone who looks like me on that page and more specifically is there anyone that looks like me higher up in the company. If the C-suite are all male and pale and there's a void of female leadership it tells me that there's a high chance the people managing me will not be able to empathise with me and my situation.
 
 If the only females in the company are junior support developers or non-technical it's going to ring real alarm bells for me in terms of where I can progress in the company and I'm going to be looking for some comfort that tells me otherwise. At best my concern will be that I'm going to feel isolated and at worst it's going to hold back my progress. I want to know someone 'gets it' and can sponsor/mentor me so that I can progress.
