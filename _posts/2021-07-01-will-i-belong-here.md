@@ -76,7 +76,7 @@ Some questions to ask:
 # Summary
 
 Key points:
-- Be aware of where females are in your company hierarchy because this affects my perception of growth opportunities and sponsorship.
+- Be aware of where females are in your company hierarchy because this affects the perception of growth opportunities and sponsorship.
 - If you don't yet have any females in your company that's okay, be honest about it and own it/address it.
 - Your website/social media presence is a huge asset in being able to showcase the way of working, values and people in your organisation.
 - Shout about policies and processes that show you care about your people.
