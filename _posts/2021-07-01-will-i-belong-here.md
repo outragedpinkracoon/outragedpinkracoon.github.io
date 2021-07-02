@@ -6,27 +6,27 @@ categories: [hiring, leadership]
 ---
 The first thing I do when looking into a new company is ask myself 'will I belong here?'. This is because I need to feel seen, valued, heard, respected and connected to others to be at my best and contribute as fully as I can.
 
-I'll give a breakdown of 5 things I look for as a (white) female in tech when I try to answer this question to help you generate some ideas about how you can start to attract more diverse people into roles in your company. After this I'll run through the exact process that happened that resulted in my joining my latest role at [Zego](https://www.zego.com/) as a concrete example.
+I'll give a breakdown of 5 things I look for as a (white) woman in tech when I try to answer this question to help you generate some ideas about how you can start to attract more diverse people into roles in your company. After this, I'll run through the exact process that happened that resulted in my joining my latest role at [Zego](https://www.zego.com/) as a concrete example.
 # 1. What's The Make-Up of the Company?
-When I find an interesting company I go straight to the Team page on their website or LinkedIn. I'm trying to see if there's anyone who looks like me on that page and more specifically is there anyone that looks like me higher up in the company. If the C-suite are all male and pale and there's a void of female leadership it tells me that there's a high chance the people managing me will not be able to empathise with me and my situation.
+When I find an interesting company I go straight to the Team page on their website or LinkedIn. I'm trying to see if there's anyone who looks like me on that page and more specifically is there anyone that looks like me higher up in the company. If the C-suite are all male and pale and there's a void of women in leadership it tells me that there's a high chance the people managing me will not be able to empathise with me and my situation.
 
-If the only females in the company are junior support developers or non-technical it's going to ring real alarm bells for me in terms of where I can progress in the company and I'm going to be looking for some comfort that tells me otherwise. At best my concern will be that I'm going to feel isolated and at worst it's going to hold back my progress. I want to know someone 'gets it' and can sponsor/mentor me so that I can progress.
+If the only women in the company are junior support developers or non-technical it's going to ring real alarm bells for me in terms of where I can progress in the company and I'm going to be looking for some comfort that tells me otherwise. At best my concern will be that I'm going to feel isolated and at worst it's going to hold back my progress. I want to know someone 'gets it' and can sponsor/mentor me so that I can progress.
 
 It's very hard to feel like you belong when no one around you looks like you or has walked the path you are on.
 
 Some questions to ask:
 - Do you have a team page? It's better to be honest about where you are at and own it/address it than try to hide it.
-- Where are females situated in your company? Do you have any female tech leadership?
-- Are females being sponsored/mentored/given opportunities for growth in your company?
+- Where are women situated in your company? Do you have any women in tech leadership?
+- Are women being sponsored/mentored/given opportunities for growth in your company?
 
 # 2. Who Are the Humans Behind the Company?
 Even if your company is all male and pale, I might still be interested if I can get comfort that the teams I'll be working with are emotionally mature, supportive and will treat me with respect. A bit of text about each team member can go a long way so that I can learn that others love to dance, watch wrestling, pet cats, look at racoons, play board games, collect Pokemon and do whatever other cool human activities we could share in common. If I only see a sea of male faces with no context, it doesn't help me understand what level of emotional burden I'm undertaking as the first non-male to join the team.
 
 Company or technical team values can help with this too if they are published and operationalised. If I can see the behaviours and concrete ways the people in your company work then I can get a better idea of if I'm going to feel like I belong or not.
 
-I love blogs about the people in the company, it was one of the main things that attracted me to [Zego](https://www.zego.com/) where I now work. There was a wealth of blogs about other females in the business, what they love doing outside of work, why they joined the company and how they find working there. It wasn't just them though, it was a wide range of employees so the females were not burdened in isolation with doing this extra work.
+I love blogs about the people in the company, it was one of the main things that attracted me to [Zego](https://www.zego.com/) where I now work. There was a wealth of blogs about other women in the business, what they love doing outside of work, why they joined the company and how they find working there. It wasn't just them though, it was a wide range of employees so the women were not burdened in isolation with doing this extra work.
 
->Before you read ANY FURTHER I want to say this right now. Should you decide to ask females in your company to produce assets like blogs or videos etc you MUST make this a valued and core part of the job and praise and celebrate it. Do not tack on more labour to those that are already emotionally burdened and may be struggling to progress and be seen.
+>Before you read ANY FURTHER I want to say this right now. Should you decide to ask women in your company to produce assets like blogs or videos etc you MUST make this a valued and core part of the job and praise and celebrate it. Do not tack on more labour to those that are already emotionally burdened and may be struggling to progress and be seen.
 
 
 Some questions to ask:
@@ -51,7 +51,7 @@ Some questions to ask:
 # 4. Processes or Policies That Show I Am Cared For
 I like to see any posts on LinkedIn and social media that talk about positive changes to company policies and processes to make a more inclusive environment. It could be a 4-day working week at full pay, a benefit that lets you claim mental health treatments like counselling or coaching, enhanced holidays/sick leave or anything else that signals that the company cares about people.
 
-This isn't about free beer or ping pong, which completely turns me off workplaces. I have the same reaction to a huge emphasis on company socials or being a 'family' because it is often forced, fake and points to personality cults and unhealthy culture. I like to know I _can_ be social with others when I want to, but I won't be _made to_. The last thing I want when I'm the only female on a team is to feel even more different by being on lots of calls or in gatherings where it brings it home in a very physical way.
+This isn't about free beer or ping pong, which completely turns me off workplaces. I have the same reaction to a huge emphasis on company socials or being a 'family' because it is often forced, fake and points to personality cults and unhealthy culture. I like to know I _can_ be social with others when I want to, but I won't be _made to_. The last thing I want when I'm the only woman on a team is to feel even more different by being on lots of calls or in gatherings where it brings it home in a very physical way.
 
 I need to shout out to remote work here. Being at home allows me to mitigate a lot of the micro-aggressions that could happen in person in an office and levels out power dynamics (this is a whole blog in itself). If a company supports remote work I'm 100% more likely to apply.
 
@@ -63,26 +63,26 @@ Some questions to ask:
 - Is anything like your progression framework open sourced for people to see before they apply?
 
 # 5. Community Involvement
-Lastly, I like to see what community activities the company is involved in like sponsoring women in tech meetups or running internal conferences or panel discussions that show they are actively thinking about diversity and putting their money where their virtue signalling is. This is a great way to get male employees involved in these communities and show that your employees are empathetic and able to relate and support females in tech.
+Lastly, I like to see what community activities the company is involved in like sponsoring women in tech meetups or running internal conferences or panel discussions that show they are actively thinking about diversity and putting their money where their virtue signalling is. This is a great way to get male employees involved in these communities and show that your employees are empathetic and able to relate to and support women in tech.
 
 This can also involve offering paid scholarships for coding boot camps for people to then join the company, apprenticeships, supporting back to work schemes or anything else like this.
 
 Some questions to ask:
-- What's your public persona as a company, are you associated with any community activities for females in tech?
-- Are you actively sponsoring (monetarily) any females in your community?
+- What's your public persona as a company, are you associated with any community activities for women in tech?
+- Are you actively sponsoring (monetarily) any women in your community?
 - Do you have any schemes that help people returning to work to join your company?
 
 # Why I Picked Zego
 This is the series of events from my last job search which illustrates why all of the above points matter.
 
-- Saw a tweet from someone at Zego that I used to work with, saying Zego increased the number of female employees that worked there by ~40% last year. Had never heard of Zego.
-- Got in touch with an ex-colleague and asked about the company culture and ways of working. On this call, they mentioned the CTO was female(!) and this got me really excited.
+- Saw a tweet from someone at Zego that I used to work with, saying Zego increased the number of women employees that worked there by ~40% last year. Had never heard of Zego.
+- Got in touch with an ex-colleague and asked about the company culture and ways of working. On this call, they mentioned the CTO was a woman(!) and this got me excited.
 - Learned the company supported remote working, big plus.
-- Had an informal coffee chat with the female CTO, loved her and thought she was fabulous. Learned there were several other females in the engineering department, both in management and technical roles. Got comfort on sustainable working on the back of the $150m raise and asked about impact on culture.
-- Saw blog videos about 2 female staff members, what they love doing outside of work, why they joined Zego and what it's been like working there.
-- Reached out to the 2 staff members in the videos for informal coffee chats. Got on really well with them and got an honest opinion of the company.
-- Followed the normal application process through to completion, felt welcomed and respected. Got job offer.
-- Watched a recording of the female CTO talking on CTO Craft about onboarding and absolutely loved it and various other posts on community activities.
+- Had an informal coffee chat with the CTO, loved her and thought she was fabulous. Learned there were several other women in the engineering department, both in management and technical roles. Got comfort on sustainable working on the back of the $150m raise and asked about the impact on culture.
+- Saw blog videos about 2 women staff members, what they love doing outside of work, why they joined Zego and what it's been like working there.
+- Reached out to the 2 staff members in the videos for informal coffee chats. Got on well with them and got an honest opinion of the company.
+- Followed the normal application process through to completion, felt welcomed and respected. Got a job offer.
+- Watched a recording of the CTO talking on CTO Craft about onboarding and loved it and various other posts on community activities.
 - Saw a LinkedIn post about trans inclusive policies rolled out at Zego.
 - Got even more excited about my new job.
 
@@ -91,10 +91,10 @@ You can see what power just one blog and one Tweet can have!
 # Summary
 
 Key points:
-- Be aware of where females are in your company hierarchy because this affects the perception of growth opportunities and sponsorship.
-- If you don't yet have any females in your company that's okay, be honest about it and own it/address it.
+- Be aware of where women are in your company hierarchy because this affects the perception of growth opportunities and sponsorship.
+- If you don't yet have any women in your company that's okay, be honest about it and own it/address it.
 - Your website/social media presence is a huge asset in being able to showcase the way of working, values and people in your organisation.
 - Shout about policies and processes that show you care about your people.
-- Community involvement can be a great way to show that your company has allies that care about females in tech.
+- Community involvement can be a great way to show that your company has allies that care about women in tech.
 
 This is a snapshot of some of the key activities I undertake when trying to decide if I will belong in a company I'm thinking of applying for, but there's so much more that can be done! No matter where you are at with your current diversity ratio, you can make a start _right now_ by owning it and trying to make a difference. Even reading this blog was a big first step!
