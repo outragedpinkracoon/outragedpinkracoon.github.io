@@ -2,15 +2,15 @@
 layout: info_page
 permalink: /about-me/
 title: About Me
-description: Technology leader with 15 years experience working in start ups, agencies and scale ups.
+description: Technology leader with 15 years of experience working in startups, agencies and scale-ups.
 ---
 
-Hello! I'm Valerie Dryden and I've been getting paid to develop software for the last 15 years. My passion lies with people: leadership, hiring, coaching, mentoring, collaboration, project delivery, culture, onboarding, team dynamics, resourcing and everything in between. My goal is to spread as much joy at work as I possibly can and unleash the potential of everyone on my team, including myself!
+I'm Valerie Dryden, a tech leader with 15 years of experience working in start-up and agency environments. As Director of Engineering at the £9m startups, Care Sourcer, I built and nurtured the engineering team during the pandemic; implementing the hiring, onboarding and personal development processes. I also architected systems, orchestrated projects and created technical product roadmaps. I'm just about to join Zego as Head of Engineering of a team of 100+ people.
 
-I strongly believe building emotionally intelligent, collaborative teams is what will get our businesses to succeed and I have a track record of doing so. I've worked in start-ups setting up teams from scratch, agencies working on a wide variety of projects as well as working in scale-ups shipping extremely complex systems.
+I have over a decade of hands-on engineering experience, from building critical payments systems at scale with Deliveroo to client-facing software for companies including Skyscanner and Storm ID. I played a key role in establishing Scotland's first coding boot camp, building the instructional team and curriculum while teaching 100+ students how to code. I have also run workshops at Agile Scotland on effective collaborative working and given talks at Lead Dev Edinburgh and others.
 
-You can find out more about me on my [LinkedIn profile](https://www.linkedin.com/in/valeriejanedryden/). I offer tailored coaching and mentoring to a variety of people and businesses so drop me a line if you think I can help.
+You can find out more about me on my [LinkedIn profile](https://www.linkedin.com/in/valeriejanedryden/). I offer tailored coaching and mentoring to a variety of people and businesses. If you need help setting up or nurturing your tech team or unlocking your potential, get in touch.
 
-I have 2 really [chubster cats](https://www.instagram.com/outragedpinkracoon/).
+I have 2 [chubster cats](https://www.instagram.com/outragedpinkracoon/).
 
 Racoon picture for free use by [Chris Ensminger on Unsplash](https://unsplash.com/photos/gWo-hfRotrI)
