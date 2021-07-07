@@ -6,13 +6,9 @@ categories: [books, leadership]
 ---
 If you've not read [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/) go buy it now and enjoy having more meaningful and productive conversations in your work and personal lives. It's great and it's a joyful book to read in a chunky font and a playful tone, I love it.
 
-You’ve spent years delivering advice and getting promoted and praised for it. You’re seen to be “adding value” and you’ve the added bonus of staying in control of the situation. On the other hand, when you’re asking questions, you might feel less certain about whether you’re being useful, the conversation can feel slower and you might feel like you’ve somewhat lost control of the conversation (and indeed you have. That’s called “empowering”).
+We've spent years delivering advice and getting promoted and praised for it. We're seen to be 'adding value' and we've the added bonus of staying in control of the situation. On the other hand, when we're asking questions, we might feel less certain about whether we're being useful, the conversation can feel slower and we might feel like you’ve somewhat lost control of the conversation (and indeed you have. That’s called “empowering”).
 
 We can create over-dependence because the more we help people, the more they seem to need our help. Building a coaching habit can help us break out of this cycle by creating autonomy and a sense of mastery in the people we help.
-
-Ask one question at a time. Just one question at a time.
-
-'If you know what question to ask, get to the point and ask it. Then stay quiet and listen to the answer.
 
 ## 1. The Kickstart Question
 
@@ -27,7 +23,9 @@ From here we can let the person choose which of the 3Ps we can choose to focus o
 - People - any issues with team members/colleagues/other departments/bosses/customers/clients
 - Patterns - if there’s a way that you’re getting in your own way, and not showing up in the best possible way.
 
-We are what we give our attention to' and 'what you’re holding in your mind will unconsciously influence what you can notice and focus on'. 'Asking the Kickstart Question works as a little pressure-release valve and helps make explicit something that might be unduly influencing the way you work.
+We are what we give our attention to and what you’re holding in your mind will unconsciously influence what you can notice and focus on.
+
+Asking the Kickstart Question works as a little pressure-release valve and helps make explicit something that might be unduly influencing the way you work.
 
 ## The AWE Question
 
