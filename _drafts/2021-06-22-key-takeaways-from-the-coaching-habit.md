@@ -6,10 +6,6 @@ categories: [books, leadership]
 ---
 If you've not read [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/) go buy it now and enjoy having more meaningful and productive conversations in your work and personal lives. It's great and it's a joyful book to read in a chunky font and a playful tone, I love it.
 
-We've spent years delivering advice and getting promoted and praised for it. We're seen to be 'adding value' and we've the added bonus of staying in control of the situation. On the other hand, when we're asking questions, we might feel less certain about whether we're being useful, the conversation can feel slower and we might feel like you’ve somewhat lost control of the conversation (and indeed you have. That’s called “empowering”).
-
-We can create over-dependence because the more we help people, the more they seem to need our help. Building a coaching habit can help us break out of this cycle by creating autonomy and a sense of mastery in the people we help.
-
 ## 1. The Kickstart Question
 
 'What's on your mind?'
