@@ -63,7 +63,7 @@ The Client agrees that it is the Client’s responsibility to notify the Coach b
 Session duration will not be extended due to the Client being late.
 
 ### Payment terms
-Invoices will be sent to the Client by email after each session, payable via the payment options given in the invoice within a month of issue, with a charge levied for late payment. Where more than one session has been agreed upon in a month, fees will be grouped together into one invoice that will be sent out at the end of that month.
+Invoices will be sent to the Client by email after each session, payable via the payment options given in the invoice within 14 days of issue, with a charge levied for late payment. Where more than one session has been agreed upon in a month, fees may be grouped into one invoice and sent out at the end of that month.
 
 ### Refunds
 Refunds are not available since invoices are sent after sessions have completed and service has been delivered.
