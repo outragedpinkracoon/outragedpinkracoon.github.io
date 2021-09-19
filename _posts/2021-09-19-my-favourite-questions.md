@@ -12,10 +12,10 @@ This is an evolving list of my favourite questions.
 - What's on your mind?
 - And what else?
 - What's the real challenge here for you?
+- What do you want?
+- How can I help?
 - If you're saying yes to this what are you saying no to?
 - What was most useful for you?
-- How can I help?
-- What do you really want?
 
 ## [Dare to Lead](https://www.waterstones.com/book/dare-to-lead/brene-brown/9781785042140)
 
@@ -39,9 +39,9 @@ Okay, some of these are statements to open with rather than questions but it sti
 
 ### The 5Cs of Strategic Thinking, Decision Making and Delegation
 #### 1. Colour
-- Set a clear intention
-- Assign a level of importance
-- Answer 'what does done look like?'
+- What is the intention of this decision or deliverable?
+- What is the level of importance?
+- What does done look like?
 
 #### 2. Context
 - What's happening in other areas that will impact or be impacted by this decision or deliverable?
