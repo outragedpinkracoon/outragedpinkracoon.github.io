@@ -125,12 +125,12 @@ Okay, some of these are statements to open with rather than questions but it sti
 - Where are you at with this?
 - Where do you need to get to by the end of the session?
 
-## From my own coach
+## From My Coach
 ### Gold
 - What intention would you like to set for this session?
 - How would you like to feel?
 
-## My own!
+## From Me
 - How can I make 1:1s most useful for you?
 - How do you like to receive praise?
 - How do you like to receive critical feedback?
