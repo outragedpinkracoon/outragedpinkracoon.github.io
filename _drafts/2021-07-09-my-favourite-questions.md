@@ -6,7 +6,7 @@ categories: [leadership, books]
 ---
 It's surprisingly hard to ask the right question, at the right time to the right person but when you get it right it unlocks doors and ways of thinking you didn't even know were possible.
 
-This is an evolving list of my favourite questions, broken into those I see as absolute gold that I use all the time and the still tasty ones that I use less frequently but still find useful.
+This is an evolving list of my favourite questions, broken into those I see as absolute gold that I use all the time and the tasty ones that I use less frequently but still find useful.
 
 ## [The Coaching Habit](https://www.waterstones.com/book/coaching-habit/bungay-michael-stainer//9780978440749)
 
@@ -17,7 +17,7 @@ This is an evolving list of my favourite questions, broken into those I see as a
 - If you're saying yes to this what are you saying no to?
 - What was most useful for you?
 
-### Still tasty
+### Tasty
 - How can I help?
 - What do you really want?
 
@@ -34,7 +34,7 @@ Okay, some of these are statements to open with rather than questions but it sti
 - Help me understand...
 - What problem are we trying to solve?
 
-### Still tasty
+### Tasty
 - Walk me through...
 - Tell me why this doesn't work for you.
 - I'm working from these assumptions - what about you?
@@ -95,7 +95,7 @@ Okay, some of these are statements to open with rather than questions but it sti
 12. What objective criteria will we use as a basis for our decisions?
 13. How can we disagree in an agreeable fashion?
 
-### Still tasty
+### Tasty
 - How do you view your performance?
 - How does your work contribute to our success?
 - What does our leadership team do that gets in the way of your job?
@@ -117,7 +117,7 @@ Okay, some of these are statements to open with rather than questions but it sti
 - Do you have a goal/outcome in mind?
 - What would make you feel like this was an hour well spent?
 
-### Still tasty
+### Tasty
 - What would you like to explore?
 - Help me understand why this is important to you.
 - What do you think is reasonable to explore in the X minutes we have?
