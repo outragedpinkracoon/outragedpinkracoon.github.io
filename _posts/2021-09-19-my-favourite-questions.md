@@ -64,7 +64,6 @@ Okay, some of these are statements to open with rather than questions but it sti
 ## [Leading With Questions](https://www.waterstones.com/book/leading-with-questions/michael-j-marquardt/9781118658130)
 
 - What can we learn from this?
-- What would you do in my position?
 - What gets in the way of doing your job?
 - What brings you joy in your work?
 - Are there any questions that I have not asked you that I should have asked you and, if so, can we discuss them now?
@@ -72,10 +71,7 @@ Okay, some of these are statements to open with rather than questions but it sti
 - What suggestions for improvement do you have for yourself?
 - How does your work contribute to our success?
 - What does our leadership team do that gets in the way of your job?
-- How could we communicate management decisions more effectively?
-- What have you done today to improve your leadership skills?
 - What makes you proud to work for our organisation?
-- What can the rest of the team do to help you on this project?
 - What is not working in how we deal with each other?
 - Do you have anything to add?
 - What did you hear and come away with from that meeting?
