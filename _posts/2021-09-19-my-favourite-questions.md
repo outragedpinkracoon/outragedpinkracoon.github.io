@@ -107,6 +107,7 @@ Okay, some of these are statements to open with rather than questions but it sti
 - Where are you at with this?
 - Where do you need to get to by the end of the session?
 - What's your vision for the future?
+- How will we know you got what you need from this conversation?
 
 ## From My Coach
 - What intention would you like to set for this session?
