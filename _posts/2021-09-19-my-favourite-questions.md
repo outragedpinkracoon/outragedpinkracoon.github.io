@@ -98,12 +98,14 @@ Okay, some of these are statements to open with rather than questions but it sti
 ## [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach)
 - I heard you mention X things - which one would you like to focus on?
 - What have you already considered?
+- Of these actions we have spoken about, if you could choose 2 what would be the most impactful for you?
 - Do you have a goal/outcome in mind?
 - What would make you feel like this was an hour well spent?
 - What would you like to explore with me today?
 - Help me understand why this is important to you.
 - What do you think is reasonable to explore in the X minutes we have?
 - How do you want to tackle this?
+- Would it be helpful to share my experience?
 - Where are you at with this?
 - Where do you need to get to by the end of the session?
 - What's your vision for the future?
