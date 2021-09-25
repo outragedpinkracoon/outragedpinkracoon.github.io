@@ -4,15 +4,15 @@ permalink: /coaching/
 title: coaching
 description: Remote, private coaching for companies and individuals in tech from a leader with 15 years of experience.
 ---
-I use coaching to work in partnership with my clients to help them discover clarity and purpose. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best.
+I use coaching to work in partnership with my clients in the tech sector to help them discover clarity and purpose. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best.
 
 In the past I've helped with:
 - Training those new to line management and leadership.
-- Dealing with under-performing teams.
-- Fixing a broken hiring/onboarding process.
-- Dealing with interpersonal issues at work.
+- Turning around under-performing teams.
+- Fixing an ineffective hiring/onboarding processes.
+- Coaching those with low confidence.
 
-This can include but is not limited to:
+My career coaching service can include but is not limited to:
 - Identifying and overcoming potential obstacles to being at peak performance.
 - Recognising, utilising and growing existing skills.
 - Discovering growth areas for progression.
