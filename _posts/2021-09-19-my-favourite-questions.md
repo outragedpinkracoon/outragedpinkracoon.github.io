@@ -97,6 +97,7 @@ Okay, some of these are statements to open with rather than questions but it sti
 
 ## [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach)
 - I heard you mention X things - which one would you like to focus on?
+- What is important here?
 - What have you already considered?
 - Of these actions we have spoken about, if you could choose 2 what would be the most impactful for you?
 - Do you have a goal/outcome in mind?
