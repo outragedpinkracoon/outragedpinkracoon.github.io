@@ -4,16 +4,22 @@ permalink: /coaching/
 title: coaching
 description: Remote, private coaching for companies and individuals in tech from a leader with 15 years of experience. Hiring, onboarding, diversity and inclusion, line management, confidence, leadership, team performance and much more.
 ---
-I use coaching to work in partnership with my clients in the tech sector to help them discover clarity and purpose. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best.
+I work in partnership with my clients to help them discover clarity, purpose and joy in their work. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best.
 
-In the past I've helped with:
-- Training those new to line management and leadership.
-- Turning around under-performing teams.
-- Fixing an ineffective hiring/onboarding processes.
-- Diversity and inclusion strategies.
-- Coaching those with low confidence.
+In particular I can help with:
+- Those new to line management and leadership.
+- Those in tech leadership positions looking for a thinking partner.
+- Those in tech roles that are feeling stuck or lost in their situation or career.
+- Consulting on [inclusive hiring and onboarding processes](https://outragedpinkracoon.com/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html).
 
-My career coaching service can include but is not limited to:
+If private remote 1:1 coaching is of interest to you <a href="mailto:coaching@outragedpinkracoon.com?subject=Coaching Inquiry from Website">get in touch</a>.
+
+I believe we spend so much time at work that if we can make it as joyful as possible for ourselves and others, we can lead more fulfilling lives while being more successful in business.
+
+I wish to inspire and elevate others to their true potential, enabling them to find grounded confidence and courage. I hope to use this to grow the next generation of leaders that build compassionate companies where people can find and spread joy for the long term while being the voice that advocates for them.
+
+## Career Coaching
+My career coaching service is a subset of my work that can include but is not limited to:
 - Identifying and overcoming potential obstacles to being at peak performance.
 - Recognising, utilising and growing existing skills.
 - Discovering growth areas for progression.
@@ -24,5 +30,3 @@ My career coaching service can include but is not limited to:
 - Developing emotional awareness and regulation.
 - Overcoming the feeling of being ‘stuck’.
 - Longer-term career trajectory planning.
-
-If private remote 1:1 coaching is of interest to you <a href="mailto:coaching@outragedpinkracoon.com?subject=Coaching Inquiry from Website">get in touch</a>.
