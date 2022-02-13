@@ -13,13 +13,11 @@ So let's [define](https://www.thebalancecareers.com/technical-skills-list-206377
 
 > 'Technical skills refer to the specialised knowledge and expertise needed to accomplish complex actions, tasks, and processes'
 
-And here's the thing that's going forgotten - being a great manager is exceptionally challenging *and technical*.
-
-> *Great teams are built, enabled and nurtured by great technical managers.*
-
-Very rarely is a team successful without a skilled manager present. Yet, software engineers may be paid more than their managers in the current hiring world because many companies do not recognise this. This often leads to many problems that I could easily write another blog post about.
+Being a great manager is exceptionally challenging *and technical*. Very rarely is a team successful without a skilled manager present. Yet, software engineers may be paid more than their managers in the current hiring world because many companies do not recognise this. This often leads to many problems that I could easily write another blog post about.
 
 As managers of software engineers, we want to command respect and make it clear that we can empathise with the struggles of being in those roles that report to us; otherwise, it can be very challenging to do our jobs.
+
+> *Great teams are built, enabled and nurtured by great technical managers.*
 
 Managers need *specialised knowledge and expertise* and often deal with ambiguous, highly complex tasks. This is especially true with engineering managers, who often deal with the same highly complex domain as software engineers. For this reason, these roles often require people from a software engineering background - not only do they need the technical skills of management they also still need to use a lot of the knowledge they gained in their hands-on software engineering roles.
 
