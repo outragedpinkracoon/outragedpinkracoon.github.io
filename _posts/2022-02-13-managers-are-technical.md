@@ -11,7 +11,7 @@ Even now, I still often hear people talk about 'technical skills' about software
 
 So let's define what we mean by technical skills:
 
-'Technical skills refer to the specialised knowledge and expertise needed to accomplish complex actions, tasks, and processes'
+> 'Technical skills refer to the specialised knowledge and expertise needed to accomplish complex actions, tasks, and processes' -
 
 And here's the thing that's going forgotten - being a great manager is exceptionally challenging *and technical*.
 
@@ -23,4 +23,4 @@ As managers of software engineers, we want to command respect and make it clear 
 
 Managers need *specialised knowledge and expertise* and often deal with ambiguous, highly complex tasks. This is especially true with engineering managers, who often deal with the same highly complex domain as software engineers. For this reason, these roles often require people from a software engineering background - not only do they need the technical skills of management they also still need to use a lot of the knowledge they gained in their hands-on software engineering roles.
 
-When I became a manager, I decreased my hands-on programming skills to gain my coaching, management, and leadership skills. I was not reducing my 'technical' skills in general. I still use a lot of the knowledge and skills I learned during my hands-on software engineering career. It's time to remember that technical skills also apply to managers and give the craft the respect it deserves.
+When I became a manager, I decreased my hands-on programming skills to gain my coaching, management, and leadership skills. I was not reducing my 'technical' skills in general. I still use a lot of the knowledge and skills I learned during my hands-on software engineering career. Managers are technical, too.
