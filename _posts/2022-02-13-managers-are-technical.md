@@ -9,9 +9,9 @@ When I became a manager, I was worried my 'technical skills' would wane.
 
 Even now, I still often hear people talk about 'technical skills' about software engineers and 'soft skills' concerning managers. This can make it seem like being a manager means no longer being 'technical’, and somehow the skills required are more accessible or of less value.
 
-So let's define what we mean by technical skills:
+So let's [define](https://www.thebalancecareers.com/technical-skills-list-2063775#:~:text=Technical%20skills%20are%20the%20abilities,%2C%20mechanical%20equipment%2C%20or%20tools.) what we mean by technical skills:
 
-> 'Technical skills refer to the specialised knowledge and expertise needed to accomplish complex actions, tasks, and processes' -
+> 'Technical skills refer to the specialised knowledge and expertise needed to accomplish complex actions, tasks, and processes'
 
 And here's the thing that's going forgotten - being a great manager is exceptionally challenging *and technical*.
 
