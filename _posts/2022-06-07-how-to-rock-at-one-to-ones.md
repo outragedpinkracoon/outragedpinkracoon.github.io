@@ -7,7 +7,7 @@ categories: [leadership]
 
 One-to-ones are your most important meetings. No, really.
 
-I've rarely had a line report that, when asked, 'what does a successful one-to-one look like for you?' could answer based on previous good experiences with managers, which is frankly grim. One-to-ones are an oddly complex topic that needs to be practised, studied and learned, which unfortunately doesn't often happen with new managers.
+I've rarely had a line report that, when asked, 'what does a successful one-to-one look like for you?' could answer based on previous good experiences with managers. One-to-ones are an oddly complex topic that needs to be practised, studied and learned, which unfortunately doesn't often happen with new managers.
 
 In this article I share my insights into how you can rock your one-to-ones, making a difference in your line reports’ happiness and motivation levels. I will focus on normal business-as-usual one-to-ones rather than feedback or performance conversations and any other types of meeting you may need to have.
 
