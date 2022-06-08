@@ -7,11 +7,9 @@ categories: [leadership]
 
 > 'Trust is built in tiny moments' - Brené Brown
 
-One-to-ones are full of tiny moments where you can either build trust or destroy it in a blink of an eye.  When your line report loses faith in you, it's game over for psychological safety. Neither party will be able to do their jobs to the best of their abilities, and your relationship will not be pleasant or authentic.
+One-to-ones are full of tiny moments where you can either build trust or destroy it in a blink of an eye.  When your line report loses faith in you, it's game over for [psychological safety](https://blackwells.co.uk/bookshop/product/9781119477242). Neither party will be able to do their jobs to the best of their abilities, and your relationship will not be pleasant or authentic.
 
-
-I'm a big fan of Brené Browns' [BRAVING acronym](https://brenebrown.com/resources/the-braving-inventory/) when it comes to trust, so I'm going to frame my take on how to build trust in one-to-ones around that.
-
+I'm a big fan of Brené Browns' [BRAVING acronym](https://brenebrown.com/resources/the-braving-inventory/) when it comes to trust and this article walks through how we can apply it to our thinking about one-to-ones and their content.
 
 ### B - Boundaries
 > Setting boundaries is making clear what’s okay and what’s not okay, and why
@@ -32,7 +30,7 @@ Try not to cancel your one-to-ones at the last minute; they are your most import
 ### A - Accountability
 > You own your mistakes, apologise, and make amends
 
-We all make mistakes because of being brave, trying things, and learning new stuff. But we have to admit that and make amends quickly. You can use the one-to-one time with your line report to talk honestly, authentically and respectfully about anything that has gone wrong between you both and make sure it gets nipped in the bud quickly.
+We all make mistakes because of being brave, trying things, and learning new stuff. But we have to admit that and make amends quickly. You can use the one-to-one time with your line report to talk honestly, authentically and respectfully about anything that has gone wrong between you both and make sure it gets nipped in the bud quickly. This is great role modelling to your line report about what accountability looks like.
 
 ### V - Vault
 > You don’t share information or experiences that are not yours to share. I need to know that my confidence is kept and that you’re not sharing with me any information about other people that should be confidential.
