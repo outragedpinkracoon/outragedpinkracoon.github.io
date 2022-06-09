@@ -70,3 +70,5 @@ There will also be times when your line reports need to give you feedback, and i
 There will be times when your line reports do things that you think are wild. There will be times when your line reports say something that you can't believe. There will be times when you get feedback about your line reports that don’t seem right. The most important thing is to stay curious and figure out what your most generous interpretation of these behaviours or actions could be and not jump into judgement. Judgement kills trust.
 
 Learn some tools like [these rumble starters](https://brenebrown.com/art/feedback-toolbox-rumble-language/) from Brené Brown that you can use to ask questions to get information rather than judge.
+
+If you found this interesting, you may want to read Brené's fantastic book [Dare to Lead](https://www.wob.com/en-gb/books/brene-brown/dare-to-lead/9781785042140) to learn more about building trust and becoming a daring leader that has the courage to be vulnerable, make mistakes and keep learning.
