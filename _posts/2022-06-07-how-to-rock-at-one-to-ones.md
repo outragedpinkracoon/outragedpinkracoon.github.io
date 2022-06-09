@@ -81,7 +81,7 @@ It's beneficial as a manager to have a list of go-to questions that work for you
 * What did you learn last week?
 * Which part of your role most frustrates you?
 * What's the biggest challenge for you right now?
-* Do you have any feedback for me on how I can improve?
+* Is there anything I have done lately that I could have done better?
 
 There's plenty of reading about potential questions; for example, [Claire Lew](https://knowyourteam.com/blog/2020/02/19/how-to-coach-employees-ask-these-1-on-1-meeting-questions/) or [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/). I'd encourage you to have a search and find out what works for you.
 
