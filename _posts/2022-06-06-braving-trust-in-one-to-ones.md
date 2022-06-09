@@ -35,7 +35,7 @@ Try not to cancel your one-to-ones at the last minute; they are your most import
 We all make mistakes because of being brave, trying things, and learning new stuff. But we have to admit that and make amends quickly. You can use the one-to-one time with your line report to talk honestly, authentically and respectfully about anything that has gone wrong between you both and make sure it gets nipped in the bud quickly. This is great role modelling to your line report about what accountability looks like.
 
 ### V - Vault
-> 'You don’t share information or experiences that are not yours to share. I `who is I here?  Your line report?` need to know that my confidence is kept and that you’re not sharing with me any information about other people that should be confidential.' - Brené Brown
+> 'You don’t share information or experiences that are not yours to share. I need to know that my confidence is kept and that you’re not sharing with me any information about other people that should be confidential.' - Brené Brown
 
 It’s vital that you never share anything told in confidence to you from your line report, except having to escalate serious matters to HR or your manager. It would also help to make your line report aware of what you may have to share with who and why.
 
