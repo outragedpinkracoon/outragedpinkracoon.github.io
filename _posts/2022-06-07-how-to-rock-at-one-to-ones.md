@@ -40,7 +40,7 @@ I've rarely had a line report that, when asked, 'what does a successful one-to-o
 
 ## How Should You Structure A One-To-One?
 
-Again this is a big question and varies wildly by manager and organisation. If we go back to the purpose of a one-to-one being a safe space where you and your employee can talk about things affecting them at work, then rather than thinking about the structure we can think about the kinds of things we need to cover to achieve this.
+Again this is a big question and varies wildly by manager and organisation. If we go back to the purpose of a one-to-one being a safe space where you and your employee can talk about things affecting them at work, then rather than thinking about the specific content we can think about the kinds of things we need to cover to achieve this.
 
 An effective one-to-one has a defined beginning, middle and end that you mindfully guide your line report through. I often follow a pattern that begins with an opening statement, moves on to explore the problem space, and closes with defining actions and agreeing on the next steps. I would recommend checking out the [GROW model](https://www.performanceconsultants.com/grow-model) for coaching conversations to learn more about this approach.
 
@@ -48,7 +48,7 @@ An effective one-to-one has a defined beginning, middle and end that you mindful
 
 You will have a strong temptation to open with 'how are you doing?' which can seem like a great idea on a base human level. However, it can be an easy way to stray into therapy territory or elicit the usual response of 'I'm fine’, leading to a conversational dead end.
 
-My favourite alternative, shalemessly stolen from [Michael Bungay Stanier's The Coaching Habit](https://www.wob.com/en-gb/books/bungay-michael-stainer/coaching-habit/9780978440749), is to lead with 'what's on your mind?' which has no immediate, easy response and gets right to the heart of the matter.
+My favourite alternative, shamelessly stolen from [Michael Bungay Stanier's The Coaching Habit](https://www.wob.com/en-gb/books/bungay-michael-stainer/coaching-habit/9780978440749), is to lead with 'what's on your mind?' which has no immediate, easy response and gets right to the heart of the matter.
 
 I'm also a fan of leading with some specific praise or acknowledgement as regularly as possible before moving on to what's on their mind. Giving regular praise and constructive feedback is a critical component of building trust.
 
@@ -62,6 +62,8 @@ There are a few rules to follow here:
 * [Actively listen](https://www.verywellmind.com/what-is-active-listening-3024343). Like really, really listen. Your line report should be talking 80% of the time, at least. Make sure you have no distractions like checking emails, Slack etc. None. Zero.
 * Avoid going into [advice mode](https://blackwells.co.uk/bookshop/product/9781989025758) and stay curious.
 * Use excellent questions, e.g. from The Coaching Habit and get good at asking the right question at the right time. Get to the nub of the real challenge for them and get them to a place of insight and clarity by asking questions and staying curious.
+
+This can be challenging, especially if you're not used to having to hold a space for someone. It can be beneficial to always leave 5 mins or more before a one-to-one to clear your mind and get grounded, so you have a better chance of being fully present. The same goes for after, to allow reflection and any note-taking.
 
 ### Agreeing Actions
 
