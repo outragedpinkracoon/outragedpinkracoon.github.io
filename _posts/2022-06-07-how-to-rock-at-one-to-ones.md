@@ -88,6 +88,6 @@ There's plenty of reading about potential questions; for example, [Claire Lew](h
 
 You may also want to use an agenda where your line report can items in advance, so they don't forget what they want to talk to you about. You can also add some agenda items yourself, including your prompt questions, so they have time to think about it. Remember that the agenda is not a place for you to put lots of items about projects and other things on _your_ mind.
 
-## BRAVING Trust
+## Next Steps
 
-Now that we’ve discussed the purpose and structure of an effective one-to-one, it's time to read about how to effectively build trust in your precious one-to-one time to create that safe space we aim for. Head to the [next article](https://outragedpinkracoon.com/2022/06/06/braving-trust-in-one-to-ones.html) to learn more.
+Now that we’ve discussed the purpose and structure of an effective one-to-one, it's time to read about how to effectively build trust in your precious one-to-one time to create that safe space we aim for. Head to the [next article about building trust](https://outragedpinkracoon.com/2022/06/06/braving-trust-in-one-to-ones.html) to learn more.
