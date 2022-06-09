@@ -49,7 +49,7 @@ It's easy to profess to be a great manager, but it's tough to _be_ a great manag
 * Regularly give specific praise about things they have done well.
 * Regularly offer constructive feedback and support for anything they can improve on.
 * Take an interest in what they've been learning, the challenges, and what they are proud of.
-* Talk about how you have sponsored them and found their growth opportunities.
+* Talk about how you have [sponsored them](https://betterallies.medium.com/5-things-allies-can-do-to-sponsor-coworkers-from-underrepresented-groups-266cd512e289) and found them growth opportunities.
 
 Remember that constructive feedback is a gift in service to your line report’s growth. It's essential that you don't shy away from these conversations. Proper practice and training is required to nail these! As a starter, check out Brené Brown's excellent [feedback checklist](https://daretolead.brenebrown.com/wp-content/uploads/2021/09/DaringFeedback-EngagedFeedbackChecklist11.pdf) if you need to do give constructive feedback. I also recommend reading [Radical Candor](https://www.wob.com/en-gb/books/kim-scott/radical-candor/9781529038347) by Kim Scott or my [related blog](https://outragedpinkracoon.com/2018/03/18/radically-candid-programming.html) for a summary.
 
