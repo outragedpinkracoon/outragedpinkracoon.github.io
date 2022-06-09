@@ -89,7 +89,7 @@ There's plenty of reading about other potential questions; for example, [Claire 
 
 ### Using An Agenda
 
-You may also want to use an agenda where your line report can items in advance, so they don't forget what they want to talk to you about. You can also add some agenda items yourself, including your prompt questions, so they have time to think about it. Remember that the agenda is not a place for you to put lots of items about projects and other things on _your_ mind.
+You may also want to use an agenda where your line report can add items in advance, so they don't forget what they want to talk to you about. You can also add some agenda items yourself, including your prompt questions, so they have time to think about it. Remember that the agenda is not a place for you to put lots of items about projects and other things on _your_ mind.
 
 ## Next Steps
 
