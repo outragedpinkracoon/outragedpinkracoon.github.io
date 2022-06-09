@@ -1,6 +1,6 @@
 ---
 title:  BRAVING Trust In A One-To-One
-description: A walk through Brené Browns recipe for building trust, in the context of one-to-ones.
+description: A walk through Brené Brown's recipe for building trust, in the context of one-to-ones.
 layout: post
 categories: [leadership]
 ---
