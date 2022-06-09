@@ -27,7 +27,7 @@ I've rarely had a line report that, when asked, 'what does a successful one-to-o
  A one-to-one is not any of these things:
  * A therapy session. You’re likely to be woefully underqualified to do any therapy with your line reports as a line manager. Be careful not to wander into this territory. Be prepared with a signpost to relevant services that may help them, such as your company’s employee assistance plan and counselling.
  * A chance for you to push your agenda as a manager and talk the whole time. If you need to disseminate information, get status updates, or try something on your mind, schedule a different meeting or do it asynchronously.
- * A chance for your line report to ad-hoc reverse coach you on whatever problems might be on your mind. That's for your manager to hold a space for you or find peer support. [Reverse coaching](https://www.linkedin.com/pulse/why-your-organization-needs-reverse-coaching-program-shinjini-sur/) can be a powerful tool, and I would encourage you to allow your reports to do this at a separate time and space that you both agree.
+ * A chance for your line report to ad-hoc reverse coach or mentor you on whatever problems might be on your mind. That's for your manager to hold a space for you or find peer support. [Reverse coaching and mentoring](https://brenebrown.com/podcast/brene-with-patrice-gordon-on-reverse-mentorship/) can be a powerful tool, and I would encourage you to allow your reports to do this at a separate time and space that you both agree.
 
 ## How Often Should You Do One To Ones?
 
@@ -83,7 +83,9 @@ It's beneficial as a manager to have a list of go-to questions that work for you
 * What's the biggest challenge for you right now?
 * Is there anything I have done lately that I could have done better?
 
-There's plenty of reading about potential questions; for example, [Claire Lew](https://knowyourteam.com/blog/2020/02/19/how-to-coach-employees-ask-these-1-on-1-meeting-questions/) or [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/). I'd encourage you to have a search and find out what works for you.
+That last bullet point on making a feedback request takes a serious amount of courage. However, role modelling to your report on how being vulnerable and having the openness and humility to hear feedback is essential for building safety and you'll often get gold from it.
+
+There's plenty of reading about other potential questions; for example, [Claire Lew](https://knowyourteam.com/blog/2020/02/19/how-to-coach-employees-ask-these-1-on-1-meeting-questions/) or [Lara Hogan](https://larahogan.me/blog/first-one-on-one-questions/). I'd encourage you to have a search and find out what works for you.
 
 ### Using An Agenda
 
