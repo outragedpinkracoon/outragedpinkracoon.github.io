@@ -90,4 +90,4 @@ You may also want to use an agenda where your line report can items in advance, 
 
 ## Next Steps
 
-Now that we’ve discussed the purpose and structure of an effective one-to-one, it's time to read about how to effectively build trust in your precious one-to-one time to create that safe space we aim for. Head to the [next article about building trust](https://outragedpinkracoon.com/2022/06/06/braving-trust-in-one-to-ones.html) to learn more.
+Now that we’ve discussed the purpose and structure of an effective one-to-one, it's time to read about how to effectively build trust in your precious one-to-one time to create that safe space we aim for. Head to the [next article about BRAVING trust](https://outragedpinkracoon.com/2022/06/06/braving-trust-in-one-to-ones.html) to learn more.
