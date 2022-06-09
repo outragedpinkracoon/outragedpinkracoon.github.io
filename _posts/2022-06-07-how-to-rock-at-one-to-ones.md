@@ -7,9 +7,7 @@ categories: [leadership]
 
 One-to-ones are your most important meetings. No, really.
 
-I've rarely had a line report that, when asked, 'what does a successful one-to-one look like for you?' could answer based on previous good experiences with managers. One-to-ones are an oddly complex topic that needs to be practised, studied and learned, which unfortunately doesn't often happen with new managers.
-
-In this article I share my insights into how you can rock your one-to-ones, making a difference in your line reports’ happiness and motivation levels. I will focus on normal business-as-usual one-to-ones rather than feedback or performance conversations and any other types of meeting you may need to have.
+I've rarely had a line report that, when asked, 'what does a successful one-to-one look like for you?' could answer based on previous good experiences with managers. One-to-ones are an oddly complex topic so they need to be practised, studied and learned, which unfortunately doesn't often happen with new managers.
 
 ## What Is The Purpose Of A One-To-One?
 
@@ -18,18 +16,18 @@ In this article I share my insights into how you can rock your one-to-ones, maki
  My definition of the purpose of a one-to-one is:
  > to create a safe space where you and your line report can talk about what's affecting them at work.
 
- This allows you as a manager to ensure that your report feels seen, heard, respected, and valued and has the correct amount of [autonomy, mastery, purpose](https://www.wob.com/en-gb/books/daniel-h-pink/drive/9781847677686), and sense of belonging to feel motivated.
+ This allows you as a manager to ensure that your report feels seen, heard, respected, and valued and that they have the correct amount of [autonomy, mastery, purpose](https://www.wob.com/en-gb/books/daniel-h-pink/drive/9781847677686), and sense of belonging to feel motivated.
 
  When done well, it leads to employees with a high level of [psychological safety](https://blackwells.co.uk/bookshop/product/9781119477242) that will respectfully challenge you so that you can make excellent decisions about the business and your teams. When poorly done, it destroys trust, erodes motivation and ultimately leads to retention risk and reduced productivity.
 
- It can be helpful to explicitly state to your line report what your expectations are of one-to-ones and hear from them what they expect so that you can come to an agreement and be on the same page.
+ It can be helpful to explicitly state to your line report what your expectations are of one-to-ones as well as hear from them what they expect so that you can come to an agreement and be on the same page.
 
 ### What A One-To-One Is Not
 
  A one-to-one is not any of these things:
  * A therapy session. You’re likely to be woefully underqualified to do any therapy with your line reports as a line manager. Be careful not to wander into this territory. Be prepared with a signpost to relevant services that may help them, such as your company’s employee assistance plan and counselling.
  * A chance for you to push your agenda as a manager and talk the whole time. If you need to disseminate information, get status updates, or try something on your mind, schedule a different meeting or do it asynchronously.
- * A chance for your line report to ad-hoc reverse coach you on whatever problems might be on your mind. That's for your manager to hold a space for you or find peer support. Reverse coaching can be a powerful tool, and I would encourage you to allow your reports to do this at a separate time and space that you both agree.
+ * A chance for your line report to ad-hoc reverse coach you on whatever problems might be on your mind. That's for your manager to hold a space for you or find peer support. [Reverse coaching](https://www.linkedin.com/pulse/why-your-organization-needs-reverse-coaching-program-shinjini-sur/) can be a powerful tool, and I would encourage you to allow your reports to do this at a separate time and space that you both agree.
 
 ## How Often Should You Do One To Ones?
 
@@ -48,9 +46,9 @@ An effective one-to-one has a defined beginning, middle and end that you mindful
 
 ### Opening Statement
 
-You will have a strong temptation to open with 'how are you doing?' which can seem like a great idea on a base human level. However, it can be an easy way to stray into therapy territory or elicit the cultural response of 'I'm fine’, leading to a conversational dead end.
+You will have a strong temptation to open with 'how are you doing?' which can seem like a great idea on a base human level. However, it can be an easy way to stray into therapy territory or elicit the usual response of 'I'm fine’, leading to a conversational dead end.
 
-My favourite alternative is to lead with 'what's on your mind?' which has no immediate, easy cultural response and gets right to the heart of the matter. I shamelessly stole this from [The Coaching Habit](https://www.wob.com/en-gb/books/bungay-michael-stainer/coaching-habit/9780978440749), which is an absolute must-read that will level up your one-to-ones and change your life.
+My favourite alternative, shalemessly stolen from [Michael Bungay Stanier's The Coaching Habit](https://www.wob.com/en-gb/books/bungay-michael-stainer/coaching-habit/9780978440749), is to lead with 'what's on your mind?' which has no immediate, easy response and gets right to the heart of the matter.
 
 I'm also a fan of leading with some specific praise or acknowledgement as regularly as possible before moving on to what's on their mind. Giving regular praise and constructive feedback is a critical component of building trust.
 
@@ -63,11 +61,11 @@ This is where your line report generously and vulnerably offers up information a
 There are a few rules to follow here:
 * [Actively listen](https://www.verywellmind.com/what-is-active-listening-3024343). Like really, really listen. Your line report should be talking 80% of the time, at least. Make sure you have no distractions like checking emails, Slack etc. None. Zero.
 * Avoid going into [advice mode](https://blackwells.co.uk/bookshop/product/9781989025758) and stay curious.
-* Use excellent questions, e.g. the coaching habit, and get good at asking the right question at the right time. Get to the nub of the real challenge for them and get them to a place of insight and clarity by asking questions and staying curious.
+* Use excellent questions, e.g. from The Coaching Habit and get good at asking the right question at the right time. Get to the nub of the real challenge for them and get them to a place of insight and clarity by asking questions and staying curious.
 
 ### Agreeing Actions
 
-It's essential to hold your line report and yourself accountable. Be sure to replay back what you've heard from your line report, so you're both on the same page and design and actions together. These actions should be [STRAM](https://footwearexchange.com/stram-effective-way-to-set-smart-goal/).
+It's essential to hold your line report and yourself accountable. Be sure to replay back what you've heard from your line report, so you're both on the same page and design and actions together. These actions should be [STRAM (Specific, Trackable, Relevant, Attainable and Motivating)](https://footwearexchange.com/stram-effective-way-to-set-smart-goal/).
 
 Get granular on what support from you looks like and how much or how little direction may be required. Sometimes they will be able to do a task easily without much supervision and, at other times, will need much guidance even as a more experienced employee.
 

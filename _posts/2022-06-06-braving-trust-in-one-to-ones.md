@@ -11,8 +11,6 @@ One-to-ones are full of tiny moments where you can either build trust or destroy
 
 I'm a big fan of Brené Browns' [BRAVING acronym](https://brenebrown.com/resources/the-braving-inventory/) when it comes to trust and this article walks through how we can apply it to our thinking about one-to-ones and their content.
 
-Each section will start with a quote from Brené that defines what each part of the acronym means in case you are unfamiliar with it.
-
 ### B - Boundaries
 > 'Setting boundaries is making clear what’s okay and what’s not okay, and why.' - Brené Brown
 
