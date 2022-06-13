@@ -29,9 +29,9 @@ I've rarely had a line report that, when asked, 'what does a successful one-to-o
  * A chance for you to push your agenda as a manager and talk the whole time. If you need to disseminate information, get status updates, or try something on your mind, schedule a different meeting or do it asynchronously.
  * A chance for your line report to ad-hoc reverse coach or mentor you on whatever problems might be on your mind. That's for your manager to hold a space for you or find peer support. [Reverse coaching and mentoring](https://brenebrown.com/podcast/brene-with-patrice-gordon-on-reverse-mentorship/) can be a powerful tool, and I would encourage you to allow your reports to do this at a separate time and space that you both agree.
 
-## How Often Should You Do One To Ones?
+## How Often Should You Do One-To-Ones?
 
- This, again, can vary wildly based on the manager and the line report. Personally, my ideal cadence for doing one to ones with my line reports is every week for half an hour. This has several advantages:
+ This, again, can vary wildly based on the manager and the line report. Personally, my ideal cadence for doing one-to-ones with my line reports is every week for half an hour. This has several advantages:
  * If either party needs a holiday or cancels, the time between one-to-ones is not too great.
  * The things that are important to someone week to week can vary wildly, especially in a chaotic culture, and it ensures I don't miss out on any critical insights from their world.
  * If you are a more introverted manager, holding a space for someone for half an hour rather than an hour is a lot less energy-draining, and the same is true for more introverted reports.
@@ -93,6 +93,6 @@ There's plenty of reading about other potential questions; for example, [Claire 
 
 You may also want to use an agenda where your line report can add items in advance, so they don't forget what they want to talk to you about. You can also add some agenda items yourself, including your prompt questions, so they have time to think about it. Remember that the agenda is not a place for you to put lots of items about projects and other things on _your_ mind.
 
-## Next Steps
+## Building Trust in One-to-Ones
 
 Now that we’ve discussed the purpose and structure of an effective one-to-one, it's time to read about how to effectively build trust in your precious one-to-one time to create that safe space we aim for. Head to the [next article about BRAVING trust](https://outragedpinkracoon.com/2022/06/06/braving-trust-in-one-to-ones.html) to learn more.

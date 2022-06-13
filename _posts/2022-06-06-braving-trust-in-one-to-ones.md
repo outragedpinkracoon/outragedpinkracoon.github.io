@@ -25,7 +25,7 @@ Set a firm boundary around making the most of this precious time with your line 
 ### R - Reliability
 > 'You do what you say you’ll do. This means staying aware of your competencies and limitations at work, so you don’t overpromise and can deliver on commitments and balance competing priorities.' - Brené Brown
 
-I mention in my [post about how to rock at one to ones](https://outragedpinkracoon.com/2022/06/07/how-to-rock-at-one-to-ones.md.html) the importance of agreeing and designing actions together. It's crucial that you follow up on these, and if you didn't manage it, that's fine, but be honest about it and hold yourself accountable for making it suitable. Few things will erode trust and faith in you more than not doing what you say you'll do.
+I mention in my [previous post about how to rock at one-to-ones](https://outragedpinkracoon.com/2022/06/07/how-to-rock-at-one-to-ones.md.html) the importance of agreeing and designing actions together. It's crucial that you follow up on these, and if you didn't manage it, that's fine, but be honest about it and hold yourself accountable for making it suitable. Few things will erode trust and faith in you more than not doing what you say you'll do.
 
 Try not to cancel your one-to-ones at the last minute; they are your most important meetings. Doing this regularly will signal to your line report that you don't value the time with them.
 
