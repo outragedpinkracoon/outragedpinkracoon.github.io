@@ -2,7 +2,7 @@
 title: Compassionate Hiring Checklist
 description: A quick reference checklist to help ensure your hiring process sets the candidates and your company up for success.
 layout: post
-categories: [hiring, leadership]
+categories: [hiring, management]
 ---
 This is a quick reference guide based on my blog about [how other companies tech hiring processes are costing YOU talent](https://outragedpinkracoon.com/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html). See how many items your current hiring process meets and use them as a guide if you are reworking it or starting from scratch.
 

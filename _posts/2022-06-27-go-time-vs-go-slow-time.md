@@ -2,7 +2,7 @@
 title: Go Time vs Go Slow Time
 description: How to avoid being the harbinger of chaos as an engineering manager and embrace the learning zone.
 layout: post
-categories: [leadership, personal-development]
+categories: [personal-development, management]
 ---
 
 If you are working as an engineering manager at any level, there's a strong chance that you came from a coding background. You were probably used to working through piles of tickets on a regular cadence like a Sprint or using a Kanban board. The definition of success was pretty straightforward, get through as many tickets as possible and add value to users.

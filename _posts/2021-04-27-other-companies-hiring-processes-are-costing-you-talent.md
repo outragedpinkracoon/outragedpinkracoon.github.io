@@ -2,7 +2,7 @@
 title: Other companies tech hiring processes are costing YOU talent
 description: Are you sabotaging your recruitment efforts by using other companies' outdated 'elitist' processes? These practical tips will help you develop a 'compassionate hiring' ethos to attract diverse and impactful candidates.
 layout: post
-categories: [hiring, leadership]
+categories: [hiring, management]
 ---
 To attract diverse people that will have a positive, creative and lasting impact on our companies, it's time to leave behind the old patterns of copying the archaic 'elitist' processes of others and focus on what _we_ need for the roles _we_ are hiring.
 

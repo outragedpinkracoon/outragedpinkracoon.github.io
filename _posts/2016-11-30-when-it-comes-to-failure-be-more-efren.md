@@ -2,7 +2,7 @@
 title: When It Comes to Failure, Be More Efren
 description: When deciding how to react to failure and mishaps, be more Efren Reyes and keep on smiling your way to success.
 layout: post
-categories: [working-life]
+categories: [personal-development]
 ---
 Back in 2005 the legendary [Efren Reyes](https://en.wikipedia.org/wiki/Efren_Reyes) and [Mike Sigel](https://en.wikipedia.org/wiki/Mike_Sigel), two of the greatest players that have ever lived, faced each other in the King of the Hill tournament for $200k - the largest prize money that had ever been available in pool, so no pressure. You can watch the match [here](https://www.youtube.com/watch?v=U_a2zMFGMQE).
 

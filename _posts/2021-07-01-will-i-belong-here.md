@@ -2,7 +2,7 @@
 title: Will I Belong Here?
 description: I'll share my view on how I look to answer this key question when I'm job hunting to help you increase the number of diverse and amazing applicants that apply for your positions.
 layout: post
-categories: [hiring, leadership]
+categories: [hiring]
 ---
 The first thing I do when looking into a new company is ask myself 'will I belong here?'. This is because I need to feel seen, valued, heard, respected and connected to others to be at my best and contribute as fully as I can.
 

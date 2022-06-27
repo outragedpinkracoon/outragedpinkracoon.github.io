@@ -2,7 +2,7 @@
 title:  How To Rock At One-To-Ones
 description: An exploration of the purpose, structure and outcome of one-to-ones to help you rock at them.
 layout: post
-categories: [leadership]
+categories: [one-to-ones, management]
 ---
 
 One-to-ones are your most important meetings. No, really.

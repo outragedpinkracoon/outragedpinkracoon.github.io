@@ -2,7 +2,7 @@
 title:  BRAVING Trust In A One-To-One
 description: A walk through Brené Brown's recipe for building trust, in the context of one-to-ones.
 layout: post
-categories: [leadership]
+categories: [one-to-ones, management]
 ---
 
 > 'Trust is built in tiny moments.' - Brené Brown
