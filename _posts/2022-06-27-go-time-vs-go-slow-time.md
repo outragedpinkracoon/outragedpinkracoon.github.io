@@ -84,6 +84,7 @@ Learning and improving ourselves and encouraging our teams to do the same feeds 
 As I mentioned before, we want to oscillate between the learning zone and the performance zone, so it's also vital for morale that we get back into 'Go Time' to apply our learning; otherwise, we risk ['boreout'](https://www.bbc.com/worklife/article/20210701-the-damaging-effects-of-boreout-at-work) from not being engaged.
 
 ![reflective cycle](/assets/images/go-time/1.png)
+_(image from [Eduardo's talk](https://www.ted.com/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about/transcript?language=en))_
 
 Organisational health and competitive advantage rely on us making space for teams and ourselves to move between 'Go Time' and 'Go Slow Time' at a regular cadence.
 
