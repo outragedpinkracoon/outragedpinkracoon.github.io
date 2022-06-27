@@ -7,7 +7,7 @@ categories: [leadership]
 
 If you are working as an engineering manager at any level, there's a strong chance that you came from a coding background. You were probably used to working through piles of tickets on a regular cadence like a Sprint or using a Kanban board. The definition of success was pretty straightforward, get through as many tickets as possible and add value to users.
 
-But now, as an engineering manager, it's less clear what success looks like. There is no kanban board. There is no working to sprints. There's just stuff to do. All the time. In the chaos.
+But now, as an engineering manager, it's less clear what success looks like. There is no Kanban board. There is no working to sprints. There's just stuff to do. All the time. In the chaos.
 
 And this is when you reach a crossroads. There will come a time when the chaos starts to slow down, and you can breathe, and things are not on fire.
 
