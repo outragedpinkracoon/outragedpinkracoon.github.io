@@ -39,7 +39,7 @@ Eduardo states that to maximise our growth, we must deliberately oscillate betwe
 
 ## Go Time
 
-The performance zone for us as managers that's what I call 'Go Time'. This can include activities such as:
+The performance zone for us as managers is what I call 'Go Time'. This can include activities such as:
 * Facilitating a critical and urgent project.
 * Spinning up a new team.
 * Investigating bottlenecks or problems in a system.
