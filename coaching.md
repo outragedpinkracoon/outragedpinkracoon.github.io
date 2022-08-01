@@ -4,6 +4,9 @@ permalink: /coaching/
 title: coaching
 description: Remote, private coaching for companies and individuals in tech from a leader with 15 years of experience. Hiring, onboarding, diversity and inclusion, line management, confidence, leadership, team performance and much more.
 ---
+
+** NOTE, I am currently at capacity for coaching. Please check back in September**
+
 I work in partnership with my clients to help them discover clarity, purpose and joy in their work. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best.
 
 In particular I can help with:
