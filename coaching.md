@@ -4,16 +4,15 @@ permalink: /coaching/
 title: coaching
 description: Remote, private coaching for companies and individuals in tech from a leader with 15 years of experience. Hiring, onboarding, diversity and inclusion, line management, confidence, leadership, team performance and much more.
 ---
-
-** NOTE, I am currently at capacity for coaching. Please check back in September**
-
 I work in partnership with my clients to help them discover clarity, purpose and joy in their work. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best.
 
-In particular I can help with:
-- Those new to line management and leadership.
-- Those in tech leadership positions looking for a thinking partner.
-- Those in tech roles that are feeling stuck or lost in their situation or career.
-- Consulting on [inclusive hiring and onboarding processes](https://outragedpinkracoon.com/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html).
+I am [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/) and [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach/]) trained, as well as undertaking my [ILM level 5 qualification](https://www.britishschoolofcoaching.com/qualifications/ilm-level-5-coaching-mentoring/) in coaching and mentoring.
+
+I have helped several clients who are:
+- New to management and leadership, or wishing to further hone their skills.
+- In tech leadership positions looking for a thinking partner.
+- Feeling stuck or lost in their situation or career.
+- Needing help with [inclusive hiring and onboarding processes](https://outragedpinkracoon.com/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html).
 
 If private remote 1:1 coaching is of interest to you <a href="mailto:coaching@outragedpinkracoon.com?subject=Coaching Inquiry from Website">get in touch</a>.
 
