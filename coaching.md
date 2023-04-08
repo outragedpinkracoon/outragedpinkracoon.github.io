@@ -21,10 +21,10 @@ If private remote 1:1 coaching is of interest to you <a href="mailto:coaching@ou
 ### Testimonials
 
 > With a strong growth mindset, Valerie is constantly pushing the boundaries to bring out the best in herself and others around her. Valerie's dedication to learning, sharing knowledge and wisdom has uplifted and accelerated the growth of so many people around her. She's passionate about creating safe environments for people to thrive and achieve. <br><br>I have personally learnt so much working closely with Valerie on initiatives that have made an impact on the performance of individuals and teams. Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time. I admire Valerie's technical acumen and emotional intelligence to drive things forward.
-<br><br> <span class='blue'> -- Kishor Patel, VP Engineering @ Vortexa <span>
+<br><br> <span class='pink'> -- Kishor Patel, VP Engineering @ Vortexa <span>
 
 > Valerie's passion for people is incredible, she actively goes above and beyond to ensure that the team she hired was both compassionate and high performing. Valerie has spent time on researching how to be a good leader, and it's definitely paid off - she has used that knowledge to get the best out of all the engineers she manages. She had cultivated such a supportive, compassionate, and collaborative environment, she ensured that everyone's voices and opinions were heard, and that they felt safe enough to share. <br><br> She is such a strong and inspiring leader, if you ever have a chance to work with her, you're in for a treat.
-<br><br> <span class='blue'>-- Puyan San, Lead Engineer @ Ooni</span>
+<br><br> <span class='pink'>-- Puyan San, Lead Engineer @ Ooni</span>
 
 > Everyone that encounters Val is drawn in by her energy, enthusiasm, technical prowess but most importantly and also what I would class as her standout attribute: her desire to improve people. You will find it hard to find a more passionate people manager anywhere. <br><br> Every business around could do with a Val type character working for them, she is a breath of fresh air and would do everything in her power to look after her people.
-<br><br> <span class='blue'>Stephen Hill, Former Director @ Neogen Recruitment<span>
+<br><br> <span class='pink'>Stephen Hill, Former Director @ Neogen Recruitment<span>
