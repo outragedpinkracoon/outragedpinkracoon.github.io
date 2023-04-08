@@ -4,7 +4,7 @@ permalink: /coaching/
 title: coaching and mentoring
 description: Remote, private coaching for companies and individuals in tech from a leader with 15 years of experience. Hiring, onboarding, diversity and inclusion, line management, confidence, leadership, team performance and much more.
 ---
-I work in partnership with my clients to help them discover clarity, purpose and joy in their work. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best. Whether you are a member of the c-suite in need of an executive thinking partner or an engineer that has just transitioned to management, my services will be able to support you in your journey.
+I am an ILM qualified coach that works in partnership with my clients to help them discover clarity, purpose and joy in their work. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best. Whether you are a member of the c-suite in need of an executive thinking partner or an engineer that has just transitioned to management, my services will be able to support you in your journey.
 
 I hold a [Level 5 ILM](https://www.britishschoolofcoaching.com/qualifications/ilm-level-5-coaching-mentoring/) qualification in coaching and mentoring, as well as being [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/) and [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach/]) trained.
 
