@@ -44,7 +44,7 @@ The Coach may agree to provide additional coaching sessions after completion of 
 Where a Client is unhappy with or unsure of any of the terms and conditions in this agreement, they can contact the Coach to discuss any concerns and see if they can be resolved before the first coaching session. Participation by any individual in the first coaching session constitutes acceptance of these terms and conditions.
 
 ### Per Session Fee
-The fee price for the Client’s coaching sessions will be £100.00 for a 50-minute session.
+The fee price for the Client’s coaching sessions will be £100.00 (ex-VAT) for a 50-minute session.
 
 In return for the fees payable by the Client (or by a third party on their behalf), the Coach agrees to provide the service as described in this agreement in accordance with the terms and conditions set out in this agreement. The Client agrees to pay fees for the service on the terms and conditions set out in this agreement (in situations where a third party pays the fees, the third party counts as an agent acting on behalf of the Client).
 

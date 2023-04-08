@@ -1,34 +1,30 @@
 ---
 layout: info_page
 permalink: /coaching/
-title: coaching
+title: coaching and mentoring
 description: Remote, private coaching for companies and individuals in tech from a leader with 15 years of experience. Hiring, onboarding, diversity and inclusion, line management, confidence, leadership, team performance and much more.
 ---
-I work in partnership with my clients to help them discover clarity, purpose and joy in their work. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best.
+I work in partnership with my clients to help them discover clarity, purpose and joy in their work. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best. Whether you are a member of the c-suite in need of an executive thinking partner or an engineer that has just transitioned to management, my services will be able to support you in your journey.
 
-I am [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/) and [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach/]) trained, as well as undertaking my [ILM level 5 qualification](https://www.britishschoolofcoaching.com/qualifications/ilm-level-5-coaching-mentoring/) in coaching and mentoring.
+I hold a [Level 5 ILM](https://www.britishschoolofcoaching.com/qualifications/ilm-level-5-coaching-mentoring/) qualification in coaching and mentoring, as well as being [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/) and [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach/]) trained.
 
-I have helped several clients who are:
-- New to management and leadership, or wishing to further hone their skills.
-- In tech leadership positions looking for a thinking partner.
-- Feeling stuck or lost in their situation or career.
-- Needing help with [inclusive hiring and onboarding processes](https://outragedpinkracoon.com/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html).
+I currently mentor many founders via the Barclays Eagle Labs scheme, and Codebase Techscaler program. In particular I can help with:
+* Your first technical hire into a startup
+* Technical vision and implementation
+* Hiring and onboarding
+* Building a healthy culture in remote teams
+* Career coaching for individuals
+* Management training for new managers
 
 If private remote 1:1 coaching is of interest to you <a href="mailto:coaching@outragedpinkracoon.com?subject=Coaching Inquiry from Website">get in touch</a>.
 
-I believe we spend so much time at work that if we can make it as joyful as possible for ourselves and others, we can lead more fulfilling lives while being more successful in business.
+### Testimonials
 
-I wish to inspire and elevate others to their true potential, enabling them to find grounded confidence and courage. I hope to use this to grow the next generation of leaders that build compassionate companies where people can find and spread joy for the long term while being the voice that advocates for them.
+> With a strong growth mindset, Valerie is constantly pushing the boundaries to bring out the best in herself and others around her. Valerie's dedication to learning, sharing knowledge and wisdom has uplifted and accelerated the growth of so many people around her. She's passionate about creating safe environments for people to thrive and achieve. <br><br>I have personally learnt so much working closely with Valerie on initiatives that have made an impact on the performance of individuals and teams. Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time. I admire Valerie's technical acumen and emotional intelligence to drive things forward.
+<br><br> <span class='blue'> -- Kishor Patel, VP Engineering @ Vortexa <span>
 
-## Career Coaching
-My career coaching service is a subset of my work that can include but is not limited to:
-- Identifying and overcoming potential obstacles to being at peak performance.
-- Recognising, utilising and growing existing skills.
-- Discovering growth areas for progression.
-- Building a sense of grounded confidence with humility and openness.
-- Exploration of personal values and how to use them to excel.
-- Self-sponsorship techniques.
-- Formulating a set of attainable goals and a plan of action for the short and long term.
-- Developing emotional awareness and regulation.
-- Overcoming the feeling of being ‘stuck’.
-- Longer-term career trajectory planning.
+> Valerie's passion for people is incredible, she actively goes above and beyond to ensure that the team she hired was both compassionate and high performing. Valerie has spent time on researching how to be a good leader, and it's definitely paid off - she has used that knowledge to get the best out of all the engineers she manages. She had cultivated such a supportive, compassionate, and collaborative environment, she ensured that everyone's voices and opinions were heard, and that they felt safe enough to share. <br><br> She is such a strong and inspiring leader, if you ever have a chance to work with her, you're in for a treat.
+<br><br> <span class='blue'>-- Puyan San, Lead Engineer @ Ooni</span>
+
+> Everyone that encounters Val is drawn in by her energy, enthusiasm, technical prowess but most importantly and also what I would class as her standout attribute: her desire to improve people. You will find it hard to find a more passionate people manager anywhere. <br><br> Every business around could do with a Val type character working for them, she is a breath of fresh air and would do everything in her power to look after her people.
+<br><br> <span class='blue'>Stephen Hill, Former Director @ Neogen Recruitment<span>
