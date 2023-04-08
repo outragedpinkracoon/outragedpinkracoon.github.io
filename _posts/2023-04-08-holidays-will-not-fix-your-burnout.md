@@ -17,4 +17,4 @@ So a holiday can clear your head, but it won't solve the problem. If this is you
 5. Remove Slack and email from your phone at the end of the day. Or, ideally, don't have it there at all.
 6. Tame your Slack notifications and emails. Get it under control; it's background stress you don't need.
 
-Pick at least 2 for next week and make it happen.
+Your homework is to pick the 2 of these that seem the most achievable for you and action them straight away. Then come back for the rest.
