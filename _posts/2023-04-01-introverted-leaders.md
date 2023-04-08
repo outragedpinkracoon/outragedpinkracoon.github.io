@@ -1,4 +1,3 @@
-
 ---
 title: Introverted Leaders
 description: Never let anyone tell you introverts can't be leaders.
