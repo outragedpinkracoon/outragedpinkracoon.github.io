@@ -15,4 +15,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image:  /assets/images/site/racoon.jpg
+      image:  /assets/images/site/racoon.png
