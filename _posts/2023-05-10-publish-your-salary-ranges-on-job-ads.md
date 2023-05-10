@@ -21,7 +21,9 @@ The study by NBER stated various systemic reasons for this behaviour. Women are 
 
 Men will always ask for more money than women. White women will always ask for more money than people of colour. And the cycle continues. By publishing your salary ranges, you are giving underrepresented people a fairer shot at asking for what they are worth.
 
-And if someone asks for top dollar, so what? Assess them and see if they match that profile. If they don't, that's fine. You learned something about them and their attitude that you wouldn't have had you not published the range. And if that person is a woman or person of colour, give them a freaking medal for being that brave and hire them right now.
+If someone asks for top dollar, so what? Assess them and see if they match that profile. If they don't, that's fine. You learned something about them and their attitude that you wouldn't have had you not published the range.
+
+And if that person is a woman or person of colour, **give them a freaking medal for being that brave and hire them right now**.
 
 ### Let's talk about why wage deflation is BS
 
