@@ -23,3 +23,5 @@ Men will always ask for more money than women. White women will always ask for m
 If someone asks for top dollar, so what? Assess them and see if they match that profile. If they don't, then don't hire them or negotiate down. Hiring is a dance of negotiation.
 
 And if that person is from an underrepresented group, **give them a medal for being that brave and hire them right now**.
+
+Read more: [Part 2 - Deflation](https://outragedpinkracoon.com/2023/05/10/publish-your-salary-ranges-part-2-deflation.html)
