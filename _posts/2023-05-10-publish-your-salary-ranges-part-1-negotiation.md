@@ -1,11 +1,11 @@
 ---
-title: Publish Your Salary Ranges 1 - Negotiation Bias
+title: Share Your Salary Ranges 1 - Negotiation Bias
 description: Don't let this one limiting belief stop you from doing the right thing for underrepresented candidates.
 layout: post
 categories: [hiring]
 ---
 
-I often see 'leaders' on LinkedIn commenting that if you publish salary ranges, people 'will always ask for the top amount'.
+I often see 'leaders' on LinkedIn commenting that if you share salary ranges on job ads or during the hiring process, people 'will always ask for the top amount'.
 
 ### Let's talk about why that's BS
 

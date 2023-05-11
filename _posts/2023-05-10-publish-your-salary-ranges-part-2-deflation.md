@@ -1,10 +1,10 @@
 ---
-title: Publish Your Salary Ranges 2 - Salary Deflation
+title: Share Your Salary Ranges 2 - Salary Deflation
 description: Let's put to bed why using the current salary of a candidate is a terrible idea.
 layout: post
 categories: [hiring]
 ---
-A popular tactic instead of publishing salary ranges on job ads is to instead base offers on the candidate's current salary.
+A popular tactic instead of publishing salary ranges on job ads (or disclosing them in the process) is to instead base offers on the candidate's current salary.
 
 ### Let's talk about why that's BS
 
