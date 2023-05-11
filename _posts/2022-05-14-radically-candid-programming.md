@@ -4,18 +4,21 @@ description: Giving and being willing to receive constructive feedback and why i
 layout: post
 categories: [personal-development]
 ---
-I recently read Kim Scott’s book [Radical Candor](https://www.radicalcandor.com/), which is pitched at bosses and their interactions with their direct reports. However, this framework can apply to many areas of our lives, both at home and at work. I’d like to share with you the parts that stuck with me and can help in our daily lives as software engineers - from leaving comments on code reviews and pair programming ('pairing') to having one to ones with our line managers.
+
+*Updated to bump it's ranking in my index list - original date May 2018*
+
+Kim Scott’s book [Radical Candor](https://www.radicalcandor.com/) is pitched at bosses and their interactions with their direct reports but can apply to many areas of our lives, both at home and at work. I’d like to share with you the parts that stuck with me and can help in our daily lives as software engineers - from leaving comments on code reviews and pair programming ('pairing') to having one to ones with our line managers.
 
 This idea is split across two posts: first we will look at defining Radical Candor and next we will look at how we can implement it in our daily lives.
 
 ## MY LESSON FROM FRED
-My desire to share my take on Radical Candor and programming comes from an encounter I had working on a tech stack we shall call Flurb with a colleague we shall call Fred. Fred and I were good acquaintances and often talked outside of work, but this was the first time Fred and I had properly paired together.
+My desire to share my take on Radical Candor and programming comes from an encounter from my past I had working on a tech stack we shall call Flurb with a colleague we shall call Fred. Fred and I were good acquaintances and often talked outside of work, but this was the first time Fred and I had properly paired together.
 
 You might think that because we knew each other prior to coming onto the project that we would work really well together. We were both extremely talented and capable of making great things individually after all.
 
 However, we spent an entirely miserable few weeks together. What went wrong? Let’s look at the background context:
 
-- I had 7 years of experience, but had never worked in Flurb before.
+- I had 10 years of experience, but had never worked in Flurb before.
 - Fred was ‘more junior’ than me on paper but had more Flurb experience.
 - Fred had been on the project for a while and it was my first time on a very large Flurb codebase.
 - In this case, it meant that several things all went wrong at once.
