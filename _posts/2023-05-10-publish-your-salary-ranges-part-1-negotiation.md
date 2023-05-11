@@ -5,7 +5,7 @@ layout: post
 categories: [hiring]
 ---
 
-I often see leaders (aka white males) on LinkedIn commenting that if you publish salary ranges, people 'will always ask for the top amount'.
+I often see 'leaders' on LinkedIn commenting that if you publish salary ranges, people 'will always ask for the top amount'.
 
 ### Let's talk about why that's BS
 
