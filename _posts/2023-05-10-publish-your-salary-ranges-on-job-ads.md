@@ -1,10 +1,9 @@
 ---
-title: Publish Your Salary Ranges on Job Ads
-description: Don't talk to me about your DI&E strategies if you don't publish your salary ranges.
+title: Publish Your Salary Ranges 1 - Negotiation Bias
+description: Don't let this one limiting belief stop you from doing the right thing for underrepresented candidates.
 layout: post
 categories: [hiring]
 ---
-I'm not going to even cover the basics of how if you don't publish your salary range, you end up wasting the company's time and the candidate's time by not realising there's a mismatch until you're weeks into a process. If that's you, go sort your life out before reading further.
 
 I often see leaders (aka white males) on LinkedIn commenting that if you publish salary ranges, people 'will always ask for the top amount'.
 
@@ -24,15 +23,3 @@ Men will always ask for more money than women. White women will always ask for m
 If someone asks for top dollar, so what? Assess them and see if they match that profile. If they don't, that's fine. You learned something about them and their attitude that you wouldn't have had you not published the range.
 
 And if that person is a woman or person of colour, **give them a freaking medal for being that brave and hire them right now**.
-
-### Let's talk about why wage deflation is BS
-
-Another popular tactic instead of publishing salary ranges on job ads is to instead base offers on the candidate's current salary.
-
-[A study by the Economic Policy Institute](https://www.epi.org/publication/what-is-the-gender-pay-gap-and-is-it-real/) found that women in the United States make, on average, 82 cents for every dollar that men make. This gap is even wider for women of colour. The study found that black women make 63 cents and Hispanic women make 54 cents for every dollar white men make.
-
-So guess what, if you use this a guide you're instantly paying people up to 46% less than the white male equivalent from day one and propagating wage deflation. UK tech start ups reportedly have [the worst gender pay gap in Europe](https://www.uktech.news/news/industry-analysis/uk-tech-gender-pay-gap-20230308#:~:text=The%20data%2C%20which%20is%20taken,in%202022%20stood%20at%2014.9%25.), so let's not make that worse.
-
-A candidate's current salary has nothing to do with the role in the company they are applying for. Assess them fairly, benchmark against your current staff to ensure they are not getting a raw deal versus inbound hires and offer appropriately based on their skills.
-
-Publish your salaries. No excuses.
