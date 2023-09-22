@@ -110,7 +110,7 @@ Okay, some of these are statements to open with rather than questions but it sti
 - Could you say more about...?
 - If this change is relevant and meaningful, what opportunities does it offer?
 
-## [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach/0
+## [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach/0)
 ### Gold
 - I heard you mention X things - which one would you like to focus on?
 - What have you already considered?
