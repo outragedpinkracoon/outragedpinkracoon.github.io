@@ -1,9 +1,12 @@
 ---
-title: When It Comes to Failure, Be More Efren
+title: Continuous, Inescapeable Failure.
 description: When deciding how to react to failure and mishaps, be more Efren Reyes and keep on smiling your way to success.
 layout: post
 categories: [personal-development]
 ---
+
+This post was originally written by me in 2016, but it deserves a bump!
+
 Back in 2005 the legendary [Efren Reyes](https://en.wikipedia.org/wiki/Efren_Reyes) and [Mike Sigel](https://en.wikipedia.org/wiki/Mike_Sigel), two of the greatest players that have ever lived, faced each other in the King of the Hill tournament for $200k - the largest prize money that had ever been available in pool, so no pressure. You can watch the match [here](https://www.youtube.com/watch?v=U_a2zMFGMQE).
 
 The tournament was the best of 3 rounds, with each round being the first to 8 to win that round. On paper, it should have been a closely contested match. However, Efren destroyed Sigel 8-0 and 8-5.
@@ -30,7 +33,7 @@ When we develop software we deal with failure every day. In fact, almost every m
 
 We have a really important choice to make here.
 
-We can dwell on our mistakes, beat ourselves up and let it make us upset and angry and tell ourselves stories about what a terrible developer  we are. We can let this bleed into the next piece of work we do and inevitably cause ourselves to make more mistakes, because we are not focused. Or we can lash out at us around us and blame our tools, our colleagues and our managers and never grow from the wonderful opportunity to learn that has just been presented to us.
+We can dwell on our mistakes, beat ourselves up and let it make us upset and angry and tell ourselves stories about what a terrible developer we are. We can let this bleed into the next piece of work we do and inevitably cause ourselves to make more mistakes, because we are not focused. Or we can lash out at us around us and blame our tools, our colleagues and our managers and never grow from the wonderful opportunity to learn that has just been presented to us.
 
 Or we can just let it go. We can accept that being a software developer is hard, and that things will go wrong. In fact, most days more things will go wrong than will go right. And that’s fine. We have to be friends with our failures and own them, learn from them. If we are not doing things wrong sometimes and screwing up, we are probably not challenging ourselves to be out of our comfort zone. As long as we took every reasonable step we could to do our best to mitigate any risk, we did our best. And that's enough.
 
