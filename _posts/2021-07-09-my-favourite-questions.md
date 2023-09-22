@@ -9,15 +9,11 @@ It's surprisingly hard to ask the right question, at the right time to the right
 This is an evolving list of my favourite questions, broken into those I see as absolute gold that I use all the time and the still tasty ones that I use less frequently but still find useful.
 
 ## [The Coaching Habit](https://www.waterstones.com/book/coaching-habit/bungay-michael-stainer//9780978440749)
-
-### Gold
 - What's on your mind?
 - And what else?
 - What's the real challenge here for you?
 - If you're saying yes to this what are you saying no to?
 - What was most useful for you?
-
-### Still tasty
 - How can I help?
 - What do you really want?
 
@@ -25,7 +21,6 @@ This is an evolving list of my favourite questions, broken into those I see as a
 
 Okay, some of these are statements to open with rather than questions but it still counts.
 
-### Gold
 - What does support look like?
 - What's my part?
 - I'm curious about...
@@ -33,8 +28,6 @@ Okay, some of these are statements to open with rather than questions but it sti
 - Tell me more.
 - Help me understand...
 - What problem are we trying to solve?
-
-### Still tasty
 - Walk me through...
 - Tell me why this doesn't work for you.
 - I'm working from these assumptions - what about you?
@@ -71,7 +64,6 @@ Okay, some of these are statements to open with rather than questions but it sti
 
 ## [Leading With Questions](https://www.waterstones.com/book/leading-with-questions/michael-j-marquardt/9781118658130)
 
-### Gold
 - What can we learn from this?
 - What would you do in my position?
 - What gets in the way of doing your job?
@@ -111,13 +103,11 @@ Okay, some of these are statements to open with rather than questions but it sti
 - If this change is relevant and meaningful, what opportunities does it offer?
 
 ## [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach/0)
-### Gold
+
 - I heard you mention X things - which one would you like to focus on?
 - What have you already considered?
 - Do you have a goal/outcome in mind?
 - What would make you feel like this was an hour well spent?
-
-### Still tasty
 - What would you like to explore?
 - Help me understand why this is important to you.
 - What do you think is reasonable to explore in the X minutes we have?
@@ -126,11 +116,11 @@ Okay, some of these are statements to open with rather than questions but it sti
 - Where do you need to get to by the end of the session?
 
 ## From my own coach
-### Gold
+
 - What intention would you like to set for this session?
 - How would you like to feel?
 
-## My own!
+## My own
 - How can I make 1:1s most useful for you?
 - How do you like to receive praise?
 - How do you like to receive critical feedback?
