@@ -2,7 +2,7 @@
 title:  Energy Eggs
 description: So if I go to an office I'll be more productive and connected to others? Let's see about that.
 layout: post
-categories: [productivity, leadership]
+categories: [productivity, leadership, remote-work]
 ---
 
 So if I go to an office I'll be more productive and connected to others? Let's talk about that. Let's imagine I start the day with **10** 'energy eggs' 🥚🥚🥚🥚🥚🥚🥚🥚🥚🥚.
@@ -36,4 +36,6 @@ Not everyone experiences work the same way.
 
 Flexing on conditions and offering remote with an optional office to visit means you can attract diverse range of talent and exponentially increase the productivity of your workforce.
 
-💡 What do your 'energy eggs' look like? Come talk to me about it on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7110545597211779073/)
+💡 What do your 'energy eggs' look like? 
+
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7110545597211779073/)
