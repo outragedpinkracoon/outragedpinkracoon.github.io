@@ -2,7 +2,7 @@
 title: "Launch Alert! ‘Holy Shit I'm A Manager!™’ is now live!"
 description: My new course to teach Engineering Managers everything they need to succeed in the role is now live! No corporate BS, just a ton of fun and a bunch of racoon art.
 layout: post
-categories: [trainer, management, leadership]
+categories: [training, management, leadership]
 ---
 
 🚀 Launch Alert: ‘Holy Shit I'm A Manager!’ is now live! 🚀
