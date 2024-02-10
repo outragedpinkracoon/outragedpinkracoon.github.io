@@ -1,11 +1,13 @@
 ---
 title:  Energy Eggs
-description: So if I go to an office I'll be more productive and connected to others? Let's see about that.
+description: It's important to remember that productivity and connectedness to others looks different to everyone.
 layout: post
 categories: [productivity, leadership, remote-work]
 ---
 
-So if I go to an office I'll be more productive and connected to others? Let's talk about that. Let's imagine I start the day with **10** 'energy eggs' 🥚🥚🥚🥚🥚🥚🥚🥚🥚🥚.
+There's a lot of chat that if people go into the office they will feel more productive and connected to their colleagues. The trouble is that not every experiences connectedness in the same way, and what works for some doesn't work for others. We should optimise for choice, and letting people work in the best way that maximises their productivity.
+
+Let's imagine I start the day with **10** 'energy eggs' 🥚🥚🥚🥚🥚🥚🥚🥚🥚🥚.
 
 ❌ Starting the day irritated and tired by a long commute on a bus with aggressive folk, bad smells and lots of noise: -3 eggs 🥚🥚🥚. 
 
