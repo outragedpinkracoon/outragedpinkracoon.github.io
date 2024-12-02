@@ -5,7 +5,6 @@ layout: post
 categories: [management, advent, fun]
 ---
 
-# Advent of Bad Management
 🎄You've heard of Advent of Code... now it's time for Advent of Bad Management! Are you in??🎄
 
 Mrs Claus has finally had enough and hired you as Santa's executive consultant to help Santa dodge the naughty list. What she doesn't know, is you're really The Grinch in disguise and would love nothing more than Christmas to be cancelled.
@@ -23,36 +22,36 @@ In a very scientific manner I'll pick my favourite response every day based on w
 
 [Link to original LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7267880468044255232/)
 
-# Scenario 1
+## Scenario 1
 
 🎅: "Ugh, it’s only Day 1 and everything's already gone to hell," Santa thought as he watched elves frantically produce random amounts of toys. "How hard is it to follow a quota? Oh wait, I forgot to give them one… well they should know what to do by now!" 
 
 [Join in here!](https://www.linkedin.com/feed/update/urn:li:activity:7269275673981071361/)
 
 
-# Scenario 2
+## Scenario 2
 Released Dec 3
 
-# Scenario 3
+## Scenario 3
 Released Dec 4
 
-# Scenario 4
+## Scenario 4
 Released Dec 5
-# Scenario 5
+## Scenario 5
 Released Dec 6
 
-# Scenario 6
+## Scenario 6
 Released Dec 9
 
-# Scenario 7
+## Scenario 7
 Released Dec 10
 
-# Scenario 8
+## Scenario 8
 Released Dec 11
 
-# Scenario 9
+## Scenario 9
 Released Dec 12
 
-# Scenario 10
+## Scenario 10
 Released Dec 13
 
