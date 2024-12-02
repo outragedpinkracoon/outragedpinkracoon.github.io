@@ -26,9 +26,9 @@ In a very scientific manner I'll pick my favourite response every day based on w
 
 🎅: "Ugh, it’s only Day 1 and everything's already gone to hell," Santa thought as he watched elves frantically produce random amounts of toys. "How hard is it to follow a quota? Oh wait, I forgot to give them one… well they should know what to do by now!" 
 
-[Join in here!](https://www.linkedin.com/feed/update/urn:li:activity:7269275673981071361/)
+* [Join in here!](https://www.linkedin.com/feed/update/urn:li:activity:7269275673981071361/)
+* [Top 3 & winner!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7269442677656489985-Oslv)
 
-[Top 3 & winner!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7269442677656489985-Oslv)
 ## Scenario 2
 Released Dec 3
 
