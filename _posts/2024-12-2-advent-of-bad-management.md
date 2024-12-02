@@ -28,7 +28,7 @@ In a very scientific manner I'll pick my favourite response every day based on w
 
 [Join in here!](https://www.linkedin.com/feed/update/urn:li:activity:7269275673981071361/)
 
-
+[Top 3 & winner!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7269442677656489985-Oslv)
 ## Scenario 2
 Released Dec 3
 
