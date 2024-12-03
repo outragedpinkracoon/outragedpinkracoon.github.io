@@ -27,12 +27,13 @@ In a very scientific manner I'll pick my favourite response every day based on w
 🎅: "Ugh, it’s only Day 1 and everything's already gone to hell," Santa thought as he watched elves frantically produce random amounts of toys. "How hard is it to follow a quota? Oh wait, I forgot to give them one… well they should know what to do by now!" 
 
 * [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7269275673981071361/)
-* [Top 3](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7269442677656489985-Oslv)
+* [Top 3!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7269442677656489985-Oslv)
 
 ## Scenario 2
 🎅: After the fiasco with missing quotas, Santa sighed deeply. "Alright, if they can’t figure it out, I'll just do it myself," he muttered, deciding that the only way forward was to loom over every elf and tell them how to hold a paintbrush. "What do I even pay you for?"
 
 [Join in here!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7269648005979377667-fi1w?utm_source=share&utm_medium=member_desktop)
+[Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7269812867544109056/)
 
 ## Scenario 3
 Released Dec 4
