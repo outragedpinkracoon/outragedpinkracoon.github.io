@@ -36,10 +36,12 @@ In a very scientific manner I'll pick my favourite response every day based on w
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7269812867544109056/)
 
 ## Scenario 3
-[Join in here!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7270004685858578433-B3h6?utm_source=share&utm_medium=member_desktop)
+* [See submissions here!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7270004685858578433-B3h6?utm_source=share&utm_medium=member_desktop)
+* [Top 3!](https://www.linkedin.com/feed/update/urn:li:share:7270141042966835203/)
 
 ## Scenario 4
 Released Dec 5
+
 ## Scenario 5
 Released Dec 6
 
