@@ -40,7 +40,8 @@ In a very scientific manner I'll pick my favourite response every day based on w
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:share:7270141042966835203/)
 
 ## Scenario 4
-* [Join in here!](https://www.linkedin.com/feed/update/urn:li:activity:7270363660512854016/)
+* [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7270363660512854016/)
+* [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7270534516031512576/)
 
 ## Scenario 5
 Released Dec 6
