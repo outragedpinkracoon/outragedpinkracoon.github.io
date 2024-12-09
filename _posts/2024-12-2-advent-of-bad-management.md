@@ -23,7 +23,9 @@ In a very scientific manner I'll pick my favourite response every day based on w
 
 ## Scenario 1
 
-🎅: "Ugh, it’s only Day 1 and everything's already gone to hell," Santa thought as he watched elves frantically produce random amounts of toys. "How hard is it to follow a quota? Oh wait, I forgot to give them one… well they should know what to do by now!" 
+🎅: "Ugh, it’s only Day 1 and everything's already gone to hell," Santa thought as he watched elves frantically produce random amounts of toys. "How hard is it to follow a quota? Oh wait, I forgot to give them one… well they should know what to do by now!"
+
+🤦‍♀️ Santa forgot to clarify the expected gift-making quota for the elves (not that he'd admit it!), leading to wildly varying toy production. Some elves made 1000 toys quickly; some made 2 to the highest standards.
 
 * [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7269275673981071361/)
 * [Top 3!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7269442677656489985-Oslv)
@@ -31,22 +33,41 @@ In a very scientific manner I'll pick my favourite response every day based on w
 ## Scenario 2
 🎅: After the fiasco with missing quotas, Santa sighed deeply. "Alright, if they can’t figure it out, I'll just do it myself," he muttered, deciding that the only way forward was to loom over every elf and tell them how to hold a paintbrush. "What do I even pay you for?"
 
+🤦‍♀️ Santa has decided the only solution is to micromanage every elf since they clearly can't be trusted.
+
 * [See submissions here!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7269648005979377667-fi1w?utm_source=share&utm_medium=member_desktop)
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7269812867544109056/)
 
 ## Scenario 3
+🎅: "We’re way behind," Santa mumbled, staring at his workshop calendar. "Alright, everyone, we’re finishing this by tomorrow!" He knew it was impossible, but hey, miracles happen, right? "I really hope miracles happen..." 
+
+🤦‍♀️ Santa realises they're behind schedule and sets an impossible deadline for all toy production to be complete—by tomorrow.
+
 * [See submissions here!](https://www.linkedin.com/posts/outragedpinkracoon_adventofbadmanagement-festivefun-management-activity-7270004685858578433-B3h6?utm_source=share&utm_medium=member_desktop)
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:share:7270141042966835203/)
 
 ## Scenario 4
+🎅: Santa watched the exhausted elves. "Why are they slowing down? It's not like I asked for the impossible," he mused, bewildered. "Maybe if I just ignore it, they'll magically get less tired... right?" The elves, trying to meet the impossible deadline, are visibly exhausted. Productivity tanks, the elves start to openly protest.
+
+🤦‍♀️ Santa's elves are burnt out after his unrealistic deadline.
+
 * [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7270363660512854016/)
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7270534516031512576/)
 
 ## Scenario 5
+🎅: Santa smiled to himself. "Cookies! Who doesn’t love cookies? This will get them back on track," he thought. But as he watched elves make nothing but tiny, useless trinkets to maximise their cookie intake, he realised, "Oh... maybe this wasn’t the smartest plan." Worse, now the elves are getting chonkier and lazier, and napping a lot of the time while covered in crumbs.
+
+🤦‍♀️ Santa's cookie incentive backfired, and now production quality's plummeted. How can he fix this?
+
 * [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7270739297299845121/)
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7270897946445975552/)
 
 ## Scenario 6
+
+🎅: Santa blinked in surprise as the reindeer formed a picket line. "Wait, they have complaints too? How hard can it be to pull the sleigh!" He sighed. Feeling neglected because of all the attention on the elves lately, the reindeer stage a revolt, refusing to train their stamina. Santa hadn't even realised they had complaints.
+
+🤦‍♀️ Oh no! At this rate the reindeer won't be able to make the journey to deliver presents.
+
 * [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7271813667967406080/)
 
 ## Scenario 7
