@@ -12,8 +12,7 @@ Mrs Claus has finally had enough and hired you as Santa's executive consultant t
 🔔 Starting every weekday from Dec 2nd until the 20th, I'll be posting chaotic scenarios that follow Santa as he jingles his way through some seriously questionable leadership choices.
 
 🎅 How to Play:
-1. Vote on what you think is Santa's worst idea.
-2. Explain to him why it's definitely a good idea with no downsides
+1. Vote on what you think is Santa's worst idea and explain to him in the comments why it's definitely a good idea with no downsides
 3. OR explain an even worse idea he can do instead, and why it's definitely a great alternative.
 
 In a very scientific manner I'll pick my favourite response every day based on what makes me laugh the most. I'll tag the winner in the comments, who wins our everlasting respect. A truly priceless gift! 🎁
