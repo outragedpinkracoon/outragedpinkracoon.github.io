@@ -69,9 +69,16 @@ In a very scientific manner I'll pick my favourite response every day based on w
 🤦‍♀️ Oh no! At this rate the reindeer won't be able to make the journey to deliver presents.
 
 * [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7271813667967406080/)
+* [Top 3!](https://www.linkedin.com/feed/update/urn:li:share:7272003384981835777/)
 
 ## Scenario 7
-Released Dec 10
+🎅:  "A new process? From the elves?" Santa scoffed. "No way—I’ve been running this workshop for centuries! I know best." He dismissed the elves, completely oblivious to their growing frustration. The elves propose a more efficient toy-making process, but Santa dismisses it, convinced his old way works better affecting morale.
+
+🤦‍♀️ Santa's ignoring the elves' great ideas and it's affecting toy production levels.
+
+
+* [Join in here!](https://www.linkedin.com/posts/outragedpinkracoon_management-leadership-adventofbadmanagement-activity-7272184465005674498-tpsh?utm_source=share&utm_medium=member_desktop)
+
 
 ## Scenario 8
 Released Dec 11
