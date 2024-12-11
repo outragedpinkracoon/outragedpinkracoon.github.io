@@ -81,7 +81,12 @@ In a very scientific manner I'll pick my favourite response every day based on w
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:share:7272328293821952000/)
 
 ## Scenario 8
-Released Dec 11
+* [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7272550692165189632/)
+🎅: Santa entered the break room, only to find the reindeer and elves locked in a shouting match over space. "Why does everyone need a break anyway?" he thought, scratching his head. "Maybe if I just let them sort it out..." Tensions rise between the elves and reindeer over shared break room space. No one feels heard, and things are getting tense. Hoofs are scuffing and forks are being brandished!
+
+🤦‍♀️ Santa's workshop break room has turned into a battlefield.
+* Top 3 released later today!
+
 
 ## Scenario 9
 Released Dec 12
