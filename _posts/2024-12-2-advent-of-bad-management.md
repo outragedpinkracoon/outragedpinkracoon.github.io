@@ -93,7 +93,7 @@ In a very scientific manner I'll pick my favourite response every day based on w
 
 🤦‍♀️  The workshop's lost the Christmas spirit. How can Santa bring it back?
 * [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7272901768798212096/)
-
+* [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7273074683493728257/)
 
 ## Scenario 10
 Released Dec 13
