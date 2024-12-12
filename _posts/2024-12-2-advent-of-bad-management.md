@@ -81,15 +81,19 @@ In a very scientific manner I'll pick my favourite response every day based on w
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:share:7272328293821952000/)
 
 ## Scenario 8
-* [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7272550692165189632/)
 🎅: Santa entered the break room, only to find the reindeer and elves locked in a shouting match over space. "Why does everyone need a break anyway?" he thought, scratching his head. "Maybe if I just let them sort it out..." Tensions rise between the elves and reindeer over shared break room space. No one feels heard, and things are getting tense. Hoofs are scuffing and forks are being brandished!
 
 🤦‍♀️ Santa's workshop break room has turned into a battlefield.
-* Top 3 released later today!
+* [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7272550692165189632/)
+* [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7272738798629748736/)
 
 
 ## Scenario 9
-Released Dec 12
+🎅: Santa looked around the workshop. The cheer was gone, the elves were grumpy, and even the reindeer looked disheartened after the recent bust up over the break room. "How did it come to this?" he wondered. "Maybe I forgot what Christmas spirit was all about..." No one feels motivated or appreciated and it's affecting morale and toy production levels.
+
+🤦‍♀️  The workshop's lost the Christmas spirit. How can Santa bring it back?
+* [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7272901768798212096/)
+
 
 ## Scenario 10
 Released Dec 13
