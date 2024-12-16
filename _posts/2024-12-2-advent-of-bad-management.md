@@ -21,6 +21,10 @@ In a very scientific manner I'll pick my favourite response every day based on w
 
 [Link to original LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7267880468044255232/)
 
+## OVERALL WINNER
+
+Big congratulations to Craig Nicol for being the overall winner of Advent of Bad Management!
+
 ## Scenario 1
 
 🎅: "Ugh, it’s only Day 1 and everything's already gone to hell," Santa thought as he watched elves frantically produce random amounts of toys. "How hard is it to follow a quota? Oh wait, I forgot to give them one… well they should know what to do by now!"
@@ -96,5 +100,9 @@ In a very scientific manner I'll pick my favourite response every day based on w
 * [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7273074683493728257/)
 
 ## Scenario 10
-Released Dec 13
+🎅: Santa stood before his team, taking a deep breath. "I’ve made mistakes. Lots of them," he admitted. "It’s time to change, to listen, and to make this workshop a place of joy again." The elves exchanged glances, a glimmer of hope in their eyes. Santa finally realises he’s been a terrible manager.
+
+🤦‍♀️ Santa's ready to make things right. 
+* [See submissions here!](https://www.linkedin.com/feed/update/urn:li:activity:7273264145901277184/)
+* [Top 3!](https://www.linkedin.com/feed/update/urn:li:activity:7273428885952688128/)
 
