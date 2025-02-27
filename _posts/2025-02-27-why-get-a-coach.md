@@ -73,7 +73,7 @@ I've not used these directly but there are various websites you can use as well 
 * [Better Up](https://www.betterup.com/)
 * [Coach Hub](https://www.coachhub.com/)
 
-## In Summary
+Have fun and I hope you find a coach that can bring you clarity and courage on your adventures. You won't regret it!
 
 
 
