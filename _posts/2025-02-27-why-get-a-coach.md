@@ -13,16 +13,6 @@ Coaching is a structured, client-led process that focuses on asking powerful que
 
 Coaching does not provide direct solutions but instead empowers the individual to find their own answers through gentle and structured questioning.
 
-## What are the logistics?
-
-Sessions normally last an hour and are often booked in blocks (3 is a good number I find!) to tackle a given issue together. 
-
-Your coach will take notes and remember specific information about you as your grow your relationship with them, allowing them to offer very personal guidance.
-
-Many coaches do sessions online but many also offer in person sessions. You may find you want to meet weekly or every two weeks depending on the gap you need to put into practice what you've learned in your sessions together.
-
-Most coaches offer an initial conversation to discuss your goals and see if there’s a fit if you're looking to book a block with them.
-
 ## How Can a Coach Help?
 
 Coaching can support you in several key areas, including:
@@ -55,23 +45,35 @@ Coaches facilitate growth by enabling you to think critically and take ownership
 
 Whether you need a coach or a mentor depends on your goals. If you’re looking for guided, thought-provoking conversations to drive personal or professional growth and unlock new insights a coach may be the right choice for you.
 
+## What are the logistics?
+
+Unlike mentoring, coaching is a paid service often to reflect the professional qualifications and/or experience of the coach.
+
+Sessions normally last an hour and are often booked in blocks (3 is a good number I find!) to tackle a given issue together. 
+
+Your coach will take notes and remember specific information about you as your grow your relationship with them, allowing them to offer very personal guidance.
+
+Many coaches do sessions online but many also offer in person sessions. You may find you want to meet weekly or every two weeks depending on the gap you need to put into practice what you've learned in your sessions together.
+
+Most coaches offer an initial conversation to discuss your goals and see if there’s a fit if you're looking to book a block with them.
+
 ## How to Find the Right Coach
 
-Look for accredited coaches (e.g., ILM or ICF-certified) with relevant experience and ideally social proof and recommendations. 
+Look for accredited coaches (e.g., ILM or ICF-certified) with relevant experience that come recommended. 
 
-I highly recommend asking people you trust or those in the same or above level as you at work. 
+Try asking your peers or boss at work as well - you often don't need to look far in your network to find someone that has used a coach!
 
-Coaching I highly recommend are:
+Coaches I highly recommend are:
 * [Antoinette Ross](https://www.withinsight.org/) amazing all round coach that can deal with all number of issues
 * [Joel Chippendale](https://monkeysthumb.co.uk) great for technology sector specific leadership coaching
 * [Regina Byrne](https://www.linkedin.com/in/regina-byrne-) fantastic for empowering women to be confident in their jobs
 
-There are various websites you can use as well such as:
+I've not used these directly but there are various websites you can use as well such as:
 * [Noomi](https://www.noomii.com/)
 * [Better Up](https://www.betterup.com/)
 * [Coach Hub](https://www.coachhub.com/)
 
-Disclaimer: I've not used these myself.
+## In Summary
 
 
 
