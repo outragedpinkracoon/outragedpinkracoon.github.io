@@ -6,6 +6,7 @@ description: Terms and conditions for my coaching services
 sitemap: false
 ---
 The coaching disclaimer and terms and conditions outlined below define the relationship between Coach and Client and underpin any services delivered by Valerie Dryden trading as Outraged Racoon Coaching. Please make sure you read the following carefully and if you have any questions or queries then please send them by email to [coaching@outragedpinkracoon.com](coaching@outragedpinkracoon.com).
+
 ## Disclaimer
 I understand that the coaching services I will be receiving from my Coach are not offered as a substitute for professional mental health care or medical care and are not intended to diagnose, treat or cure any mental health or medical conditions. I also understand that my Coach is not acting as a mental health counsellor or a medical professional.
 
@@ -24,6 +25,7 @@ I understand that my Coach will protect my information as confidential unless I 
 I understand that the use of technology is not always secure and I accept the risks of confidentiality in the use of email, text, phone, Google Meet and other technology.
 
 ## Terms and conditions
+
 ### Description
 Coaching is a partnership (defined as an alliance, not a legal business partnership) between the Coach and the Client. It is a thought-provoking and creative process that aims to inspire the client to maximise personal and professional potential.
 
@@ -44,7 +46,7 @@ The Coach may agree to provide additional coaching sessions after completion of 
 Where a Client is unhappy with or unsure of any of the terms and conditions in this agreement, they can contact the Coach to discuss any concerns and see if they can be resolved before the first coaching session. Participation by any individual in the first coaching session constitutes acceptance of these terms and conditions.
 
 ### Per Session Fee
-The fee price for the Client’s coaching sessions will be £200.00 (VAT exempt) for a 50-minute session. There are discounts available for self funders and volume commitments that may be agree on an ad-hoc basis.
+The fee price for the Client’s coaching sessions will be £250.00 (VAT exempt) for a 50-minute session. There are discounts available for self funders and volume commitments that may be agree on an ad-hoc basis.
 
 In return for the fees payable by the Client (or by a third party on their behalf), the Coach agrees to provide the service as described in this agreement in accordance with the terms and conditions set out in this agreement. The Client agrees to pay fees for the service on the terms and conditions set out in this agreement (in situations where a third party pays the fees, the third party counts as an agent acting on behalf of the Client).
 
