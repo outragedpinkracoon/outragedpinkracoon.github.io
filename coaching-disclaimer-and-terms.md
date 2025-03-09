@@ -46,12 +46,13 @@ The Coach may agree to provide additional coaching sessions after completion of 
 Where a Client is unhappy with or unsure of any of the terms and conditions in this agreement, they can contact the Coach to discuss any concerns and see if they can be resolved before the first coaching session. Participation by any individual in the first coaching session constitutes acceptance of these terms and conditions.
 
 ### Per Session Fee
-The fee price for the Client’s coaching sessions will be £250.00 (VAT exempt) for a 50-minute session. There are discounts available for self funders and volume commitments that may be agree on an ad-hoc basis.
+The fee price for the Client’s coaching sessions will be £250.00 (VAT exempt) for a 50-minute session. Discounts may be agreed on an ad-hoc basis.
 
 In return for the fees payable by the Client (or by a third party on their behalf), the Coach agrees to provide the service as described in this agreement in accordance with the terms and conditions set out in this agreement. The Client agrees to pay fees for the service on the terms and conditions set out in this agreement (in situations where a third party pays the fees, the third party counts as an agent acting on behalf of the Client).
 
 ### Procedure
 The time and date of the coaching meetings will be mutually agreed upon by the Coach and Client and will take place virtually. The Client will be sent a calendar invite with a Google Meet link to join for the coaching session video call.
+
 ### Confidentiality
 This coaching relationship and all information (documented or verbal) that the Client shares with the Coach as part of this relationship will be treated as confidential but is not considered a legally confidential relationship (like in Medicine or Law). The Coach agrees not to disclose any information about the Client without the Client’s written consent. The Coach will not disclose the Client’s name as a reference without the Client’s consent. Confidential information does not include information that: (a) was in the Coach’s possession before its being furnished by the Client; (b) is generally known to the public or in the Client’s industry; (c) is obtained by the Coach from a third party, without breach of any obligation to the Client; (d) is independently developed by the Coach without the use of or reference to the Client’s confidential information; or (e) that the Coach is required by law to disclose.
 
