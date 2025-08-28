@@ -20,6 +20,9 @@ I understand that my Coach will treat my information as confidential, subject to
 ## Terms and conditions
 
 ### Description
+
+The Coach is ILM-qualified and adheres to the professional standards of ILM and City & Guilds. In addition, their practice is guided by the [Global Code of Ethics for Coaches and Mentors (AC/EMCC)](https://emccdrive.emccglobal.org/api/file/download/Lt09zkFBBdd6FPMpT31q1BzI3UKLmWftZLCbLprM), ensuring professionalism, confidentiality, and integrity in all sessions.
+
 Coaching is a partnership (an alliance, not a legal business partnership) between the Coach and the Client. It is a thought-provoking and creative process designed to inspire the Client to maximise personal and professional potential.
 
 Coaching is a collaborative conversation focused entirely on the Client’s agenda. Through questions and reflection, coaching helps the Client gain clarity, discover their own answers, and take meaningful action. The process is supportive, challenging where needed, and non-judgmental.
