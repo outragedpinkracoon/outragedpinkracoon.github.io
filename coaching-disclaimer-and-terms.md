@@ -8,85 +8,101 @@ sitemap: false
 The coaching disclaimer and terms and conditions outlined below define the relationship between Coach and Client and underpin any services delivered by Valerie Dryden trading as Outraged Racoon Coaching. Please make sure you read the following carefully and if you have any questions or queries then please send them by email to [coaching@outragedpinkracoon.com](coaching@outragedpinkracoon.com).
 
 ## Disclaimer
-I understand that the coaching services I will be receiving from my Coach are not offered as a substitute for professional mental health care or medical care and are not intended to diagnose, treat or cure any mental health or medical conditions. I also understand that my Coach is not acting as a mental health counsellor or a medical professional.
 
-For legal purposes, I understand that coaching is currently an unregulated industry and that my Coach and their business are not ‘licensed' by any UK body, even though the sessions may take place in the UK.
+I understand that I am solely responsible for my own physical, mental, and emotional well-being, decisions, choices, actions, and results arising from the coaching relationship. Accordingly, I agree that the Coach is not and will not be liable for any actions, inaction, or direct or indirect results of the services provided.
 
-I understand and agree that I am fully responsible for my wellbeing, choices and decisions during and after my coaching sessions.
+I acknowledge that coaching is not a substitute for counselling, psychotherapy, psychoanalysis, mental health care, substance abuse treatment, or medical advice, and that the Coach is not acting as a medical professional or mental health counsellor. Coaching does not diagnose, treat, prevent, or cure any mental disorder or medical condition. For legal purposes, I understand that coaching is an unregulated industry and that my Coach and their business are not “licensed” by any UK body.
 
-I understand that coaching is not a substitute for counselling, psychotherapy, psychoanalysis, mental health care or substance abuse treatment, and I will not use it in place of any form of therapy.
+I understand that coaching is a process designed to support me in achieving the goals I set with my Coach, but that results are not guaranteed. Where our work involves career or business matters, I understand that no promises are made regarding specific outcomes, including (but not limited to) increased clientele, profitability, or business success.
 
-I understand that all comments and ideas offered by my Coach are solely to aid me in achieving the defined goals I create with my Coach. I can give my informed consent, and hereby give such consent to my Coach to assist me in achieving such goals and I understand that results are not guaranteed.
-
-I understand that where our work together involves career or business, my Coach is not promising or guaranteeing outcomes including (but not limited to) increased clientele, profitability and/or business success.
-
-I understand that my Coach will protect my information as confidential unless I state otherwise in writing.
-
-I understand that the use of technology is not always secure and I accept the risks of confidentiality in the use of email, text, phone, Google Meet and other technology.
+I understand that my Coach will treat my information as confidential, subject to the exceptions set out in this agreement, and that the use of technology (including email, text, phone, and video conferencing) carries inherent risks to confidentiality which I accept.
 
 ## Terms and conditions
 
 ### Description
-Coaching is a partnership (defined as an alliance, not a legal business partnership) between the Coach and the Client. It is a thought-provoking and creative process that aims to inspire the client to maximise personal and professional potential.
+Coaching is a partnership (an alliance, not a legal business partnership) between the Coach and the Client. It is a thought-provoking and creative process designed to inspire the Client to maximise personal and professional potential.
 
-Coaching is a collaborative conversation that aims to help you, the Client, to gain clarity and insights. It is focused purely on your agenda. Coaching helps you discover the right way to progress, and, by asking questions of you, helps you to find the right answers and to take actions. Coaching is supportive and non-judgmental. You enter into coaching with the understanding that you are responsible for creating your own results.
+Coaching is a collaborative conversation focused entirely on the Client’s agenda. Through questions and reflection, coaching helps the Client gain clarity, discover their own answers, and take meaningful action. The process is supportive, challenging where needed, and non-judgmental.
+
+Coaching may explore different areas of the Client’s life, including work, finances, health, relationships, education and recreation. Responsibility for all decisions and actions in these areas rests solely with the Client.
 
 ### Responsibilities
-The Client is responsible for creating and implementing their physical, mental and emotional wellbeing, decisions, choices, actions and results. As such, the Client agrees that the Coach is not and will not be liable for any actions or inaction, or any direct or indirect result of any services provided by the Coach. The Client understands that coaching is not therapy, does not substitute for any therapy needed, and does not prevent, cure, or treat any mental disorder or medical disease.
+The Client is responsible for their own physical, mental, and emotional wellbeing, as well as for all decisions, choices, actions, and results. The Coach is not, and will not be, liable for any actions, inaction, or outcomes arising from the coaching relationship.
 
-The Client understands that coaching is not to be used as a substitute for professional advice by legal, mental, medical or other qualified professionals and will seek independent professional guidance for such matters.
+The Client understands that coaching is not therapy and does not substitute for counselling, medical, legal, financial, or other professional advice. Where such expertise is required, the Client will seek independent professional guidance.
 
-The Client agrees to communicate honestly, be open to feedback and assistance and create the time and energy to participate fully in the sessions.
+The Client agrees to communicate honestly, be open to feedback, and commit the necessary time and energy to participate fully in the coaching process.
 
 ### Services
-The date and times of the coaching sessions will be arranged flexibly between the Coach and the Client and each session can be booked up to a month in advance by email or text. The Coach may recommend the frequency of coaching sessions based on a professional assessment of the Client's requirements. This recommendation, or plan, is not binding and may be altered and adjusted throughout the coaching journey by mutual agreement, following the terms set out in this agreement.
+Coaching sessions will be arranged flexibly between the Coach and the Client, with each session bookable up to one month in advance by email or text. The Coach may recommend a frequency of sessions based on a professional assessment of the Client’s needs; this recommendation is not binding and may be adjusted by mutual agreement throughout the coaching journey.
 
-The Coach may agree to provide additional coaching sessions after completion of the initial agreed session(s). These terms and conditions will apply to any additional sessions so provided and the Per Session Fee will remain the same as originally agreed, except where the Coach notifies the client in writing by email of a change to the fee or to any other term or condition, in accordance with the section in these terms and conditions headed ‘Variation of terms and conditions'.
+Additional sessions may be agreed after completion of the initial arrangement. These terms and conditions will apply to all sessions, and the Per Session Fee will remain as originally agreed unless the Coach notifies the Client in writing of any change, in line with the section headed Variation of Terms and Conditions.
 
-Where a Client is unhappy with or unsure of any of the terms and conditions in this agreement, they can contact the Coach to discuss any concerns and see if they can be resolved before the first coaching session. Participation by any individual in the first coaching session constitutes acceptance of these terms and conditions.
+Clients who have concerns about any part of this agreement should raise them with the Coach before the first session. Participation in the first session constitutes acceptance of these terms and conditions.
 
 ### Per Session Fee
-The fee price for the Client's coaching sessions will be £250.00 (VAT exempt) for a 50-minute session. Discounts may be agreed on an ad-hoc basis.
+The fee for coaching is £250.00 (VAT exempt) per 50-minute session. Discounts may be agreed on a discretionary basis for single or block bookings.
 
-In return for the fees payable by the Client (or by a third party on their behalf), the Coach agrees to provide the service as described in this agreement in accordance with the terms and conditions set out in this agreement. The Client agrees to pay fees for the service on the terms and conditions set out in this agreement (in situations where a third party pays the fees, the third party counts as an agent acting on behalf of the Client).
+In return for the fees payable by the Client (or by a third party acting on the Client’s behalf), the Coach will provide the services described in this agreement, in accordance with its terms and conditions.
 
 ### Procedure
-The time and date of the coaching meetings will be mutually agreed upon by the Coach and Client and will take place virtually. The Client will be sent a calendar invite with a Google Meet link to join for the coaching session video call.
+Coaching sessions will take place virtually at times mutually agreed between the Coach and the Client. A calendar invitation with a Google Meet link will be provided for each session.
 
 ### Confidentiality
-This coaching relationship and all information (documented or verbal) that the Client shares with the Coach as part of this relationship will be treated as confidential but is not considered a legally confidential relationship (like in Medicine or Law). The Coach agrees not to disclose any information about the Client without the Client's written consent. The Coach will not disclose the Client's name as a reference without the Client's consent. Confidential information does not include information that: (a) was in the Coach's possession before its being furnished by the Client; (b) is generally known to the public or in the Client's industry; (c) is obtained by the Coach from a third party, without breach of any obligation to the Client; (d) is independently developed by the Coach without the use of or reference to the Client's confidential information; or (e) that the Coach is required by law to disclose.
+All information (documented or verbal) shared by the Client in coaching sessions will be treated as confidential, though the coaching relationship is not a legally privileged relationship (as in medicine or law).
 
-According to the ethics of our profession, topics may be anonymously and hypothetically shared with other coaching professionals for training, supervision, mentoring, evaluation, and further coach professional development and/or consultation purposes.
+The Coach will not disclose any information about the Client without the Client’s written consent, and will not use the Client’s name as a reference without permission. Confidential information does not include information that:
+* (a) was in the Coach’s possession before being provided by the Client;
+* (b) is already public or generally known within the Client’s industry;
+* (c) is obtained by the Coach from a third party without obligation to the Client;
+* (d) is independently developed by the Coach without reference to the Client’s information; or
+* (e) must be disclosed by law, court order, or subpoena.
 
-Personally identifiable data and information will only be used for the purpose of personalising invoices and contacting the Client. No personally identifiable data or information will be disclosed to third parties.
+Exceptions to confidentiality also apply where there is imminent risk of harm to the Client or others, or where illegal activity is disclosed.
+
+In line with professional ethics, topics may be anonymously and hypothetically shared with other coaching professionals for training, supervision, mentoring, or professional development.
+
+Personally identifiable data will only be used for invoicing and direct contact with the Client and will not be shared with third parties. Session notes and records will be retained securely for up to six months after the coaching relationship ends, unless otherwise agreed.
 
 ### Cancellation and lateness
-The Client agrees that it is the Client's responsibility to notify the Coach by text or email at least 48 hours in advance of the scheduled meeting if the client cannot attend the session. The Client will be billed in full for a missed session if the client does not turn up or hasn't rescheduled following the cancellation and lateness policy defined in this agreement. The Coach will wait in the session for 10 minutes before the Client is noted as not turning up. Exceptions may be made for any situations arising that are out of the Client's control.  Should a session booked for less than 48 hours in advance be cancelled, then the session fee would still be payable.
+The Client must notify the Coach by text or email at least 48 hours in advance if unable to attend a scheduled session. Sessions cancelled with less than 48 hours’ notice, or missed without notice, will be billed in full. The Coach will wait up to 10 minutes before recording the session as missed.
 
-Session duration will not be extended due to the Client being late.
+Exceptions may be made at the Coach’s discretion for circumstances outside the Client’s control. Sessions booked within 48 hours of their scheduled time remain payable if cancelled.
+
+Session length will not be extended if the Client arrives late.
 
 ### Payment terms
-Invoices will be sent to the Client by email after each session, payable via the payment options given in the invoice within 7 days of issue, with a charge levied for late payment. Where more than one session has been agreed upon in a month, fees may be grouped into one invoice and sent out at the end of that month.
+Invoices will be issued by email after each session and are payable within 7 days via the payment methods specified on the invoice. A late payment charge of 10% of the outstanding balance will be applied to any invoice not settled within this period.
+
+Where multiple sessions occur within the same month, fees may be grouped into a single invoice issued at month end.
 
 ### Refunds
-Refunds are not available since invoices are sent after sessions have completed and service has been delivered.
+Refunds are not available on a per-session basis since invoices are sent after sessions have completed and service has been delivered.
+
+If a block of sessions (e.g. 3 sessions at a discounted rate) is booked, no refunds will be offered for unused sessions within that block. The discount is offered on the basis of the full block being completed.
 
 ### Termination
 Either the Client or the Coach may terminate this agreement at any time.
 
-In certain circumstances, such as illness or unavailability due to bereavement or other commitments, inappropriate behaviour by the Client, an actual or potential conflict of interest, or other reasons, the Coach can decide to terminate the service to the Client early. In such circumstances, the client will be given reasonable notice of termination by the Coach where practicable.
+The Coach also reserves the right to terminate services early in certain circumstances, such as illness, bereavement, other personal commitments, inappropriate behaviour by the Client, a conflict of interest, or other reasonable grounds. Where practicable, the Client will be given reasonable notice of such termination.
 
 ### Variation of terms and conditions
-The Coach may change any of these terms or conditions including the Per Session Fee by giving the client one week's notice in writing by email of the change(s). If following receipt of such notification of the change(s), the Client no longer wishes to proceed with further coaching sessions, the Client may withdraw from the service immediately by giving notice by email. Should a session be booked for less than 48 hours in advance and be subject to such a change, the session fee would not be payable in this instance.
+These terms and conditions may be updated by the Coach at any time. The current version will always be available on the Coach’s website and applies from the date of publication. It is the Client’s responsibility to review the terms periodically.
+
+Material changes that affect commercial terms (including, without limitation, per-session fee, session duration, cancellation window, late-payment charges, refund rules, and block-booking terms) will be notified to the Client in writing (e.g. by email) and will only apply to sessions booked after the effective date stated in the notice. Sessions already booked (or paid) before that effective date will remain on the previous terms.
+
+Failure to enforce any part of this agreement does not constitute a waiver of the right to enforce the same or any other part in future.
 
 ### Limited liability
-Except as expressly provided in this agreement, the Coach makes no guarantees or warranties, express or implied. In no event will the Coach be liable to the Client for consequential or special damages. Notwithstanding any damages that the Client may incur, the Coach's entire liability under this agreement, and the Client's exclusive remedy, will be limited to the amount paid by the Client to the Coach under this agreement for all services rendered up until the termination date.
+Except as expressly provided in this agreement, the Coach makes no guarantees or warranties, express or implied. The Coach will not be liable for any indirect, consequential, or special damages.
+
+The Client’s sole remedy for any claim under this agreement shall be limited to the total amount paid by the Client to the Coach for services delivered up to the date of termination.
 
 ### Governing law
 
-This agreement is governed by the law of Scotland whose courts have exclusive jurisdiction about any dispute, disagreement, proceedings or legal claim of any nature relating to the service provided or the contract.
+This agreement is governed by the law of Scotland, and the Scottish courts have exclusive jurisdiction over any dispute, proceeding, or legal claim relating to the services provided or this contract.
 
-This is the parties' entire agreement and reflects a complete understanding of the parties concerning the subject matter. This agreement supersedes all prior written and oral representations.
+This document constitutes the entire agreement between the parties and supersedes all prior written or oral representations regarding its subject matter.
 
 ### Feedback
 Feedback about the service is welcomed and can be given during a coaching session or by emailing [coaching@outragedpinkracoon.com](coaching@outragedpinkracoon.com).
