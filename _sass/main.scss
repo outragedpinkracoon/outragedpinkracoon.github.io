@@ -82,6 +82,22 @@ pre {
   display: none;
 }
 
+.header-cta {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  padding: 0.6rem 1.5rem;
+  border: 2px solid $primary-color;
+  border-radius: 6px;
+  font-size: 1rem;
+  color: $primary-color;
+
+  &:hover {
+    background: $primary-color;
+    color: $bg-color;
+    text-decoration: none;
+  }
+}
+
 .page-subtitle {
   font-size: 1.2rem;
   text-align: center;
