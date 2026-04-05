@@ -32,4 +32,6 @@ When you see a company cut thousands of jobs and frame it as 'AI efficiencies', 
 
 P.S. Raise your hand if you thought 'AI-washing' was using Claude to vibe code your washing machine.
 
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_spicytechchat-ai-tech-activity-7441763265459748864-v2Ku?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMfD2YBUmrW9Ms5pgX0i7ctn2PFFKQvV3k)
+
 ![a raccoon surrounded by washing machines](/assets/images/ai-washing/1.png)
