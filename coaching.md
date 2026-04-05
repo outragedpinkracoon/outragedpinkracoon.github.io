@@ -3,8 +3,9 @@ layout: info_page
 permalink: /coaching/
 title: Coaching
 description: Remote, private 1:1 coaching for under-represented folks in tech from someone who's lived it.
-subtitle: Remote, private 1:1 coaching for under-represented folks in tech from someone who's lived it.
+subtitle: Remote 1:1 Coaching For the Under-Represented By Someone Who's Lived It
 ---
+
 I'm neurodivergent, queer, non-binary and disabled. Trust me, my career in tech has been a ride 💅🏻
 
 I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
