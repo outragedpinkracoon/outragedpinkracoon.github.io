@@ -217,6 +217,8 @@ pre {
     align-self: flex-start;
     color: $primary-color;
     font-weight: bold;
+    display: block;
+    margin-top: 0.4rem;
 
     &:hover {
       text-decoration: underline;
