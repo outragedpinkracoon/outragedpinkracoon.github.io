@@ -1,5 +1,5 @@
 ---
-title: As a Woman, You Just Need One More Qualification to Succeed, Right?
+title: One More Qualification Won't Fix a Broken System
 description: It's not you. It was never you. LinkedIn's 2026 State of Women in Leadership report reveals the uncomfortable truth about why women aren't progressing — and it has nothing to do with qualifications.
 layout: post
 categories: [diversity, personal-development]
