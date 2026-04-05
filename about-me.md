@@ -5,6 +5,8 @@ title: Meet Val
 description: ILM Certified Coach | Engineering Executive |Neurodivergent | Queer | Non-Binary | Disabled
 ---
 
+ILM Certified Coach \| Engineering Executive Neurodivergent \| Queer \| Non-Binary \| Disabled
+
 > Racoons are animals that don't belong anywhere, but thrive anyway!
 
 <div class="image-pair">

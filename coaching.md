@@ -4,16 +4,13 @@ permalink: /coaching/
 title: Coaching
 description: Remote, private 1:1 coaching for marginalised folks in tech from someone who's lived it.
 ---
-
 I'm neurodivergent, queer, non-binary and disabled. Trust me, my career in tech has been a ride 💅🏻
 
-I want you to feel weird and wonderful and fully, unapologetically you — and able to live your life true to that. Not in the way the system wants you to be. The system wasn't designed for you, and we'll find a way for you to still be your full-fat, no f*ck given self anyway.
-
-> Racoons are animals that don't belong anywhere, but thrive anyway.
-
-Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to be fully, unapologetically themselves and actually belong.
-
 I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
+
+I want you to feel weird and wonderful and fully, unapologetically you — able to live your life true to that. Not in the way the system wants you to be. The system wasn't designed for you, and we'll find a way for you to be your full-fat, no f*ck given self anyway.
+
+Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to actually belong.
 
 ---
 
