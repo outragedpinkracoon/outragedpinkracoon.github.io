@@ -12,8 +12,11 @@ Nothing says engineering excellence like panic, control and unreasonable conditi
 Timed tests will optimise for rockstars that:
 
 ✅ are great at memorising puzzles, a clear requirement of the day job
+
 ✅ have borderline sociopathic panic tolerance
+
 ✅ never ask annoying clarifying questions
+
 ✅ don't crack when being watched typing in silence (a modern leadership strategy)
 
 Big win: anyone requiring "flexibility" self-selects out, leaving only those willing to work 24/7 for The Cause.
