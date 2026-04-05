@@ -4,6 +4,7 @@ permalink: /coaching/
 title: Coaching
 description: Remote, private 1:1 coaching for under-represented folks in tech from someone who's lived it.
 subtitle: Remote 1:1 Coaching For the Under-Represented By Someone Who's Lived It
+show_cta: true
 ---
 
 I'm neurodivergent, queer, non-binary and disabled. Trust me, my career in tech has been a ride 💅🏻
