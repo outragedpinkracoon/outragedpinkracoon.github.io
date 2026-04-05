@@ -22,12 +22,15 @@ Companies are using AI as a convenient cover story for cuts that were coming any
 The data doesn't back it up either:
 
 💡 DX found AI in software engineering leads to 10% gains, not 10x or more.
+
 💡 A global payment provider replaced 700 people with AI. Quality tanked. They quietly rehired humans.
+
 💡 Researchers at Oxford Economics, Forrester and CNBC agree: real displacement would show up as massive productivity gains. It hasn't.
 
 When you see a company cut thousands of jobs and frame it as 'AI efficiencies', ask:
 
 🍔 Were they thriving before AI came along, empowering their people?
+
 💩 Or were they already in trouble, needing a convenient press release?
 
 P.S. Raise your hand if you thought 'AI-washing' was using Claude to vibe code your washing machine.
