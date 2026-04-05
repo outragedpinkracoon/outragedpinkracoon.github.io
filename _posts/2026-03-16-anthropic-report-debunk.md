@@ -32,4 +32,6 @@ Don't panic. Check the facts in the full report. AI misinformation isn't helping
 
 P.S. It's been a while since I got some cursed AI art. Please enjoy this raccoon with their clipboard backwards. A+.
 
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_ai-leadership-tech-activity-7437115699099168768-wST1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMfD2YBUmrW9Ms5pgX0i7ctn2PFFKQvV3k)
+
 ![a raccoon holding a clipboard backwards](/assets/images/anthropic-report-debunk/1.png)

@@ -28,4 +28,6 @@ Anyway, best of luck scaling that. A+, no notes.
 
 P.S. Don't forget to ghost The Weak that don't pass. No feedback can save them.
 
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_tech-hiring-feral-activity-7417120854897184768-_-Ze?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMfD2YBUmrW9Ms5pgX0i7ctn2PFFKQvV3k)
+
 ![a raccoon sweating at a laptop under exam conditions](/assets/images/leetcode-interviews/1.png)

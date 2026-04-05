@@ -40,4 +40,6 @@ Whatever happens next with AI, with tech, with the world.
 
 Be the kind one.
 
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_kindness-tech-leadership-activity-7443235385490599937-jebG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMfD2YBUmrW9Ms5pgX0i7ctn2PFFKQvV3k)
+
 ![a raccoon holding a glowing lantern in the dark](/assets/images/be-the-kind-one/1.png)

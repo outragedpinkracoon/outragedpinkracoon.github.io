@@ -23,4 +23,6 @@ If you're wondering why you're not progressing despite doing everything right, i
 
 And if you can — a kind word, a recommendation, a hand up to another woman at that cliff — do something with it.
 
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_as-a-woman-if-you-just-get-one-more-qualification-activity-7436335637860990976-Nv7v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMfD2YBUmrW9Ms5pgX0i7ctn2PFFKQvV3k)
+
 ![a woman looking thoughtfully at a wall of qualifications](/assets/images/women-qualifications/1.png)

@@ -25,4 +25,6 @@ Here's what you can do about it right now:
 
 What's one thing you're going to do next week to prevent the 'competency penalty' in your team?
 
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_leadership-tech-ai-activity-7362041020596854784-HO7i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMfD2YBUmrW9Ms5pgX0i7ctn2PFFKQvV3k)
+
 ![a racoon looking shocked at a laptop](/assets/images/ai-competency-penalty/1.png)
