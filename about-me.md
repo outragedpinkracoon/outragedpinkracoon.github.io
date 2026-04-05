@@ -4,6 +4,7 @@ permalink: /about-me/
 title: Meet Val
 description: ILM Certified Coach | Engineering Executive |Neurodivergent | Queer | Non-Binary | Disabled
 subtitle: ILM Certified Coach | Engineering Executive |Neurodivergent | Queer | Non-Binary | Disabled
+show_cta: true
 ---
 
 ILM Certified Coach \| Engineering Executive Neurodivergent \| Queer \| Non-Binary \| Disabled
