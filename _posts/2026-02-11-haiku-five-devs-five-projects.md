@@ -2,7 +2,7 @@
 title: "Haiku: Five Devs, Five Projects"
 description: A haiku about what happens when you spread a team too thin.
 layout: post
-categories: [management, spicy]
+categories: [management, haiku]
 ---
 
 Five devs, five projects.  
