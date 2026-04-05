@@ -5,6 +5,6 @@ layout: post
 categories: [management, spicy]
 ---
 
-Five devs, five projects.
-That's not a team, that's five teams.
+Five devs, five projects.  
+That's not a team, that's five teams.  
 Maybe don't do that.
