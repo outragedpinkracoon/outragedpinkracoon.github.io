@@ -35,4 +35,6 @@ Because the cost of ramming meetings together, or pushing late into the night to
 
 The cost is you.
 
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_selfcare-leadership-racoonsarecute-activity-7406990740419137540-lnR7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMfD2YBUmrW9Ms5pgX0i7ctn2PFFKQvV3k)
+
 ![a raccoon resting peacefully outside](/assets/images/if-you-dont-rest/1.png)
