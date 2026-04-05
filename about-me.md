@@ -70,8 +70,8 @@ P.S I'm not French, I had just finished playing Expedition 33. What a game.
 <div class="image-gallery">
   <img src="/assets/images/who-am-i/1.jpeg" alt="a racoon wearing a beret and holding a baguette" style="width:100%;">
   <img src="/assets/images/who-am-i/2.jpeg" alt="a haunting black and white chalky image of a vampire" style="width:100%;">
-  <img src="/assets/images/who-am-i/3.jpeg" alt="a small creature poking out of a cracked pot" style="width:100%;">
-  <img src="/assets/images/who-am-i/4.jpeg" alt="a skeleton holding a bouquet of flowers" style="width:100%;">
-  <img src="/assets/images/who-am-i/5.jpeg" alt="a frog smoking a pipe" style="width:100%;">
-  <img src="/assets/images/who-am-i/6.jpeg" alt="a chalky black and white image of a lighthouse attracting moths" style="width:100%;">
+  <img src="/assets/images/who-am-i/3.jpeg" alt="a tiny anxious bunny hiding in a cracked terracotta pot" style="width:100%;">
+  <img src="/assets/images/who-am-i/4.jpeg" alt="a dapper skeleton in a top hat holding a bouquet of roses" style="width:100%;">
+  <img src="/assets/images/who-am-i/5.jpeg" alt="a very chill frog in jeans smoking a pipe" style="width:100%;">
+  <img src="/assets/images/who-am-i/6.jpeg" alt="a chalky black and white image of a lighthouse attracting moths at night" style="width:100%;">
 </div>
