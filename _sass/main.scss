@@ -82,6 +82,14 @@ pre {
   display: none;
 }
 
+.page-subtitle {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+  color: $text-color;
+}
+
 .pricing-table {
   display: grid;
   grid-template-columns: 1fr;
