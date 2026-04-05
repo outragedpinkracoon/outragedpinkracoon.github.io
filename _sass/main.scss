@@ -185,6 +185,46 @@ pre {
   margin-bottom: 0.75rem;
 }
 
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+
+  @include respond-to('medium') {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.card {
+  border: 1px solid rgba($primary-color, 0.3);
+  border-radius: 12px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+
+  h3 {
+    margin-top: 0;
+    color: $primary-color;
+  }
+
+  p {
+    flex: 1;
+    margin-bottom: 1rem;
+  }
+
+  a {
+    align-self: flex-start;
+    color: $primary-color;
+    font-weight: bold;
+
+    &:hover {
+      text-decoration: underline;
+      text-decoration-color: $primary-color;
+    }
+  }
+}
+
 .image-pair {
   display: grid;
   grid-template-columns: 1fr;

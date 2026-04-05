@@ -1,5 +1,51 @@
 ---
 layout: info_page
 permalink: /
-title: Home
+title: Chief Racoon Officer At Your Service!
+description: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled | A Little Feral
+subtitle: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled | A Little Feral
 ---
+
+I'm Val — coach, engineering leader, author, artist, and proudly feral. I built this corner of the internet for the people tech was never designed for. The ones who are brilliant and overlooked. The ones navigating a broken system, alone, with no one in their corner.
+
+That changes here.
+
+---
+
+<div class="card-grid">
+
+  <div class="card">
+    <h3>Meet Val</h3>
+    <p>Who is this racoon and why is she in your feed? The full story — lived experience, values, credentials and a frankly unreasonable amount of art.</p>
+    <a href="/about-me/">Find out →</a>
+  </div>
+
+  <div class="card">
+    <h3>Coaching</h3>
+    <p>Remote 1:1 coaching for the highest performers who are somehow still the most overlooked. From someone who's been there.</p>
+    <a href="/coaching/">Work with me →</a>
+  </div>
+
+  <div class="card">
+    <h3>Holy Sh*t I'm A Manager</h3>
+    <p>The course and community I wish I'd had when I was thrown into my first manager position, panicking and alone.</p>
+    <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid">Join the chaos →</a>
+  </div>
+
+  <div class="card">
+    <h3>Stakeholders</h3>
+    <p>Corporate vampire fiction that lets us laugh at the absurdity of tech. Yes, really. No, I'm not sorry.</p>
+    <a href="https://stakeholdersbook.substack.com/about">Read it →</a>
+  </div>
+
+</div>
+
+---
+
+### From the blog
+
+{% for post in site.posts limit:3 %}
+* [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %Y" }}
+{% endfor %}
+
+[Read all posts →](/blog)
