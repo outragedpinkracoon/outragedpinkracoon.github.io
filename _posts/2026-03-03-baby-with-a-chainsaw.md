@@ -1,5 +1,5 @@
 ---
-title: If I Gave a Baby a Chainsaw, Does That Make Them a Carpenter?
+title: Don't Hand the Baby a Chainsaw
 description: Giving someone without engineering knowledge an AI agent doesn't make them an engineer. It makes them a baby with a dangerous power tool.
 layout: post
 categories: [programming, spicy]
