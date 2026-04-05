@@ -82,6 +82,74 @@ pre {
   display: none;
 }
 
+.pricing-table {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+
+  @include respond-to('medium') {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.pricing-card {
+  position: relative;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 1.5rem;
+
+  &--featured {
+    border: 2px solid #6fa3e0;
+  }
+
+  p {
+    margin: 0.25rem 0;
+  }
+}
+
+.pricing-amount {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: $text-color;
+}
+
+.pricing-title {
+  font-size: 1.1rem;
+  color: $text-color;
+}
+
+.pricing-detail {
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.pricing-cta {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1.2rem;
+  border: 2px solid $primary-color;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: $primary-color;
+
+  &:hover {
+    background: $primary-color;
+    color: $bg-color;
+    text-decoration: none;
+  }
+}
+
+.pricing-badge {
+  display: inline-block;
+  background: #dce8f7;
+  color: #3a6ea5;
+  border-radius: 20px;
+  padding: 0.2rem 0.8rem;
+  font-size: 0.8rem;
+  margin-bottom: 0.75rem;
+}
+
 .image-gallery {
   display: grid;
   grid-template-columns: repeat(2, 1fr);

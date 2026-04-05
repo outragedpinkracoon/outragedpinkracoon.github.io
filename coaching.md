@@ -1,30 +1,71 @@
 ---
 layout: info_page
 permalink: /coaching/
-title: coaching and mentoring
-description: Remote, private coaching for companies and individuals in tech from a leader with 15 years of experience. Hiring, onboarding, diversity and inclusion, line management, confidence, leadership, team performance and much more.
+title: Coaching
+description: Remote, private 1:1 coaching for marginalised folks in tech from someone who's lived it.
 ---
-I am an ILM qualified coach that works in partnership with my clients to help them discover clarity, purpose and joy in their work. Through thoughtful questioning and guidance, I inspire them to choose courage over comfort and unlock the confidence to perform at their best. Whether you are a member of the c-suite in need of an executive thinking partner or an engineer that has just transitioned to management, my services will be able to support you in your journey.
 
-I hold a [Level 5 ILM](https://www.britishschoolofcoaching.com/qualifications/ilm-level-5-coaching-mentoring/) qualification in coaching and mentoring, as well as being [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/) and [Leaders Who Coach](https://betterconversations.co/courses-programmes/leaders-who-coach/]) trained.
+I'm neurodivergent, queer, non-binary and disabled. Trust me, my career in tech has been a ride 💅🏻
 
-I currently mentor many founders via the Barclays Eagle Labs scheme, and Codebase Techscaler program. In particular I can help with:
-* Your first technical hire into a startup
-* Technical vision and implementation
-* Hiring and onboarding
-* Building a healthy culture in remote teams
-* Career coaching for individuals
-* Management training for new managers
+I want you to feel weird and wonderful and fully, unapologetically you — and able to live your life true to that. Not in the way the system wants you to be. The system wasn't designed for you, and we'll find a way for you to still be your full-fat, no f*ck given self anyway.
 
-If private remote 1:1 coaching is of interest to you <a href="mailto:coaching@outragedpinkracoon.com?subject=Coaching Inquiry from Website">get in touch</a>.
+> Racoons are animals that don't belong anywhere, but thrive anyway.
 
-### Testimonials
+Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to be fully, unapologetically themselves and actually belong.
 
-> With a strong growth mindset, Valerie is constantly pushing the boundaries to bring out the best in herself and others around her. Valerie's dedication to learning, sharing knowledge and wisdom has uplifted and accelerated the growth of so many people around her. She's passionate about creating safe environments for people to thrive and achieve. <br><br>I have personally learnt so much working closely with Valerie on initiatives that have made an impact on the performance of individuals and teams. Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time. I admire Valerie's technical acumen and emotional intelligence to drive things forward.
-<br><br> <span class='quote-author'> -- Kishor Patel, VP Engineering @ Vortexa <span>
+I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
 
-> Valerie's passion for people is incredible, she actively goes above and beyond to ensure that the team she hired was both compassionate and high performing. Valerie has spent time on researching how to be a good leader, and it's definitely paid off - she has used that knowledge to get the best out of all the engineers she manages. She had cultivated such a supportive, compassionate, and collaborative environment, she ensured that everyone's voices and opinions were heard, and that they felt safe enough to share. <br><br> She is such a strong and inspiring leader, if you ever have a chance to work with her, you're in for a treat.
-<br><br> <span class='quote-author'>-- Puyan San, Lead Engineer @ Ooni</span>
+---
 
-> Everyone that encounters Val is drawn in by her energy, enthusiasm, technical prowess but most importantly and also what I would class as her standout attribute: her desire to improve people. You will find it hard to find a more passionate people manager anywhere. <br><br> Every business around could do with a Val type character working for them, she is a breath of fresh air and would do everything in her power to look after her people.
-<br><br> <span class='quote-author'>Stephen Hill, Former Director @ Neogen Recruitment<span>
+### Who I work with
+
+I work primarily with women, non-binary, queer, disabled and neurodivergent people in tech including:
+
+* Those done with being the highest performer and the most overlooked.
+* New managers thrown in the deep end.
+* Senior leaders smashing their heads on a very real, very present glass ceiling.
+* Individual contributors ready to stop shrinking.
+
+---
+
+### How it works
+
+Sessions are remote and one-to-one. I blend coaching — guided questioning, genuine challenge, new insight — with mentoring from 18 years as a technologist and exec leader. I'm autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner.
+
+Get in touch via [email](mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.) or [LinkedIn](https://www.linkedin.com/in/outragedpinkracoon/) and we'll have a wee chat to figure out if we're a good fit before you commit to anything.
+
+---
+
+### Pricing
+
+<div class="pricing-table">
+  <div class="pricing-card">
+    <p class="pricing-amount">£200</p>
+    <p class="pricing-title">Single session</p>
+    <p class="pricing-detail">One hour, remote, one-to-one.</p>
+    <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Get in touch</a>
+  </div>
+  <div class="pricing-card pricing-card--featured">
+    <span class="pricing-badge">Best value</span>
+    <p class="pricing-amount">£450</p>
+    <p class="pricing-title">Bundle of 3 sessions</p>
+    <p class="pricing-detail">£150 saving. Same great chaos, more of it.</p>
+    <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Get in touch</a>
+  </div>
+</div>
+
+---
+
+### What people say
+
+> Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time. She's passionate about creating safe environments for people to thrive and achieve.
+>
+> <span class='quote-author'>— Kishor Patel, VP Engineering @ Vortexa</span>
+
+> She had cultivated such a supportive, compassionate, and collaborative environment — she ensured that everyone's voices and opinions were heard, and that they felt safe enough to share. If you ever have a chance to work with her, you're in for a treat.
+>
+> <span class='quote-author'>— Puyan San, Founding Engineer @ Nuuri</span>
+
+> You will find it hard to find a more passionate people manager anywhere. She is a breath of fresh air and would do everything in her power to look after her people.
+>
+> <span class='quote-author'>— Stephen Hill, Former Director @ Neogen Recruitment and all round great guy</span>
