@@ -44,7 +44,7 @@ Additional sessions may be agreed after completion of the initial arrangement. T
 Clients who have concerns about any part of this agreement should raise them with the Coach before the first session. Participation in the first session constitutes acceptance of these terms and conditions.
 
 ### Per Session Fee
-The fee for coaching is £250.00 (VAT exempt) per 50-minute session. Discounts may be agreed on a discretionary basis for single or block bookings.
+The fee for coaching is £200.00 (VAT exempt) per 50-minute session. Discounts may be agreed on a discretionary basis for single or block bookings.
 
 In return for the fees payable by the Client (or by a third party acting on the Client’s behalf), the Coach will provide the services described in this agreement, in accordance with its terms and conditions.
 
