@@ -40,3 +40,5 @@ AI is power.
 But power without knowledge is dangerous.
 
 Maybe don't hand the baby a chainsaw.
+
+Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_spicytechchat-engineering-leadership-activity7429464652742295552-OHIA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMfD2YBUmrW9Ms5pgX0i7ctn2PFFKQvV3k)
