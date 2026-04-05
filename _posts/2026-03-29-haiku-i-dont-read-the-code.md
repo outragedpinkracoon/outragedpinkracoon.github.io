@@ -5,6 +5,6 @@ layout: post
 categories: [programming, fun]
 ---
 
-I don't read the code.
-The AI doesn't either.
+I don't read the code.  
+The AI doesn't either.  
 Looks good to me, merged.
