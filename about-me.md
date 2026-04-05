@@ -2,7 +2,26 @@
 layout: info_page
 permalink: /about-me/
 title: Meet Val
-description: ILM certified coach | executive engineering leader | neurodivergent | queer | disabled
+description: ILM Certified Coach | Engineering Executive |Neurodivergent | Queer | Non-Binary | Disabled
+---
+
+> Racoons are animals that don't belong anywhere, but thrive anyway!
+
+<div class="image-pair">
+  <img src="/assets/images/who-am-i/racoon.jpeg" alt="a racoon wearing a beret and holding a baguette" style="width:100%;">
+  <img src="/assets/images/who-am-i/mypic.png" alt="me smiling and holding a cup of coffee" style="width:100%;">
+</div>
+
+### My story
+
+I've been in tech for almost two decades and I've never had a manager that looked like me. Barely worked with anyone that looked like me — never mind the queer, neurodivergent, disabled version of me. I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. Told I lack the pedigree to be on the C-Suite. Multiple times.
+
+And yet. Here I am.
+
+I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. It's harder still when you finally claw your way to the top and hit that ceiling. 
+
+I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.
+
 ---
 
 ### Who I work with
@@ -11,8 +30,6 @@ I primarily work with women, non-binary, queer, and neurodivergent people in tec
 
 If you work in tech and you're done with navigating a broken system alone, let's talk.
 
-> Racoons are animals that don't belong anywhere, but thrive anyway!
-
 ---
 
 ### How I work
@@ -20,18 +37,6 @@ If you work in tech and you're done with navigating a broken system alone, let's
 Here's the thing: most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to be fully, unapologetically themselves and actually belong.
 
 I unlock that through a blend of coaching (guided questioning, genuine challenge, new insight) and mentoring (18 years of lived experience as a technologist and executive leader, at your disposal). I'm autistic, which means I can't do performative niceness. What you get is directness, honesty, and someone actually in your corner.
-
----
-
-### My story
-
-I've been in tech for almost two decades and I've never had a manager that looked like me. Barely worked with anyone that looked like me — never mind the queer, neurodivergent, disabled version of me. I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept.
-
-And yet. Here I am.
-
-I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. It's harder still when you finally claw your way to the top and hit that ceiling. 
-
-I coach because I know what it costs, and I know it doesn't have to cost that much.
 
 ---
 
@@ -65,10 +70,8 @@ I draw [weird little creatures](https://cara.app/outragedracoonpaws/all) with my
 
 The racoon is not a metaphor. It is just me.
 
-P.S I'm not French, I had just finished playing Expedition 33. What a game.
-
 <div class="image-gallery">
-  <img src="/assets/images/who-am-i/1.jpeg" alt="a racoon wearing a beret and holding a baguette" style="width:100%;">
+  <img src="/assets/images/who-am-i/1.jpeg" alt="a tiny demon bat sitting on an orange" style="width:100%;">
   <img src="/assets/images/who-am-i/2.jpeg" alt="a haunting black and white chalky image of a vampire" style="width:100%;">
   <img src="/assets/images/who-am-i/3.jpeg" alt="a tiny anxious bunny hiding in a cracked terracotta pot" style="width:100%;">
   <img src="/assets/images/who-am-i/4.jpeg" alt="a dapper skeleton in a top hat holding a bouquet of roses" style="width:100%;">
