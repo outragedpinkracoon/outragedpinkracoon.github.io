@@ -2,7 +2,8 @@
 layout: info_page
 permalink: /coaching/
 title: Coaching
-description: Remote, private 1:1 coaching for marginalised folks in tech from someone who's lived it.
+description: Remote, private 1:1 coaching for under-represented folks in tech from someone who's lived it.
+subtitle: Remote, private 1:1 coaching for under-represented folks in tech from someone who's lived it.
 ---
 I'm neurodivergent, queer, non-binary and disabled. Trust me, my career in tech has been a ride 💅🏻
 
