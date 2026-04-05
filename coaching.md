@@ -7,7 +7,7 @@ subtitle: Remote 1:1 Coaching For the Under-Represented By Someone Who's Lived I
 show_cta: true
 ---
 
-I'm neurodivergent, queer, non-binary and disabled. Trust me, my career in tech has been a ride 💅🏻
+I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride 💅🏻
 
 I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
 
@@ -43,14 +43,14 @@ Get in touch via [email](mailto:coaching@outragedpinkracoon.com?subject=Coaching
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
     <p class="pricing-detail">One hour, remote, one-to-one.</p>
-    <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Get in touch</a>
+    <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
   </div>
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Best value</span>
     <p class="pricing-amount">£450</p>
     <p class="pricing-title">Bundle of 3 sessions</p>
     <p class="pricing-detail">£150 saving. Same great chaos, more of it.</p>
-    <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Get in touch</a>
+    <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
   </div>
 </div>
 
