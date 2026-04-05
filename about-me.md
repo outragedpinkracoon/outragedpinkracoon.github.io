@@ -3,11 +3,9 @@ layout: info_page
 permalink: /about-me/
 title: Meet Val
 description: ILM Certified Coach | Engineering Executive |Neurodivergent | Queer | Non-Binary | Disabled
-subtitle: ILM Certified Coach | Engineering Executive |Neurodivergent | Queer | Non-Binary | Disabled
+subtitle: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled | A Little Feral
 show_cta: true
 ---
-
-ILM Certified Coach \| Engineering Executive Neurodivergent \| Queer \| Non-Binary \| Disabled
 
 > Racoons are animals that don't belong anywhere, but thrive anyway!
 
@@ -70,7 +68,7 @@ I unlock that through a blend of coaching (guided questioning, genuine challenge
 
 ### The human bit
 
-I draw [weird little creatures](https://cara.app/outragedracoonpaws/all) with my human meat brain and my human meat hands and the occasional haunting vampire portrait. I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy. 
+I draw [weird little feral creatures](https://cara.app/outragedracoonpaws/all) with my human meat brain and my human meat hands — giving myself precious space to play, dream and breathe. The occasional haunting vampire portrait too. I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy. 
 
 The racoon is not a metaphor. It is just me.
 
