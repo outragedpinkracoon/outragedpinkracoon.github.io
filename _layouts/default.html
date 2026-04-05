@@ -19,6 +19,7 @@
       <a href='/coaching'>Coaching</a>
     </nav>
     <header><a href='/'>OUTRAGED PINK RACOON</a></header>
+      {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
     <div>
       {{ content }}
     </div>
