@@ -5,8 +5,7 @@ layout: post
 categories: [diversity, personal-development]
 ---
 
-As a woman, if you just get one more qualification, do one more course, prove yourself one more time — you'll progress in your career right?
-
+As a woman, if you just get one more qualification, do one more course, prove yourself one more time — you'll progress in your career right?  
 ❌ Wrong.
 
 LinkedIn's 2026 State of Women in Leadership report landed recently, and one number stopped me cold: in tech, the VP-to-C-Suite cliff sits at 39%.
