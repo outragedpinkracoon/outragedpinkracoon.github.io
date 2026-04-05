@@ -1,7 +1,7 @@
 ---
 layout: info_page
 permalink: /about-me/
-title: Who Am I?
+title: Meet Val
 description: ILM certified coach | executive engineering leader | neurodivergent | queer | disabled
 ---
 
@@ -37,7 +37,7 @@ I coach because I know what it costs, and I know it doesn't have to cost that mu
 
 ### What I stand for
 
-* I am direct — not just because it's a brand choice, but because I'm autistic and I genuinely cannot do performative niceness.
+* I am direct — not because it's a brand choice, but because I'm autistic and I genuinely cannot do performative niceness.
 * I am in your corner. Unconditionally, without judgement, whoever you are.
 * I am a queer, non-binary, neurodivergent and disabled coach — I'm not an ally looking in from the outside, I'm in the same boat as you.
 * I am an LGBTQIA+ ally and actively ND affirming in everything I do.
@@ -61,11 +61,17 @@ I coach because I know what it costs, and I know it doesn't have to cost that mu
 
 ### The human bit
 
-I draw [weird little creatures](https://cara.app/outragedracoonpaws/all) with my human meat brain and my human meat hands and the occasional haunting vampire portrait. I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy. The raccoon is not a metaphor. She's just me.
+I draw [weird little creatures](https://cara.app/outragedracoonpaws/all) with my human meat brain and my human meat hands and the occasional haunting vampire portrait. I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy. 
 
-P.S I'm not french, I had just finished playing Expedition 33. What a game.
+The racoon is not a metaphor. It is just me.
 
-<div style="display:flex; gap:1rem;">
-  <img src="/assets/images/who-am-i/1.jpeg" alt="a racoon wearing a beret and holding a baguette" style="width:50%;">
-  <img src="/assets/images/who-am-i/2.jpeg" alt="a haunting black and white chalky image of a vampire" style="width:50%;">
+P.S I'm not French, I had just finished playing Expedition 33. What a game.
+
+<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:1rem;">
+  <img src="/assets/images/who-am-i/1.jpeg" alt="a racoon wearing a beret and holding a baguette" style="width:100%;">
+  <img src="/assets/images/who-am-i/2.jpeg" alt="a haunting black and white chalky image of a vampire" style="width:100%;">
+  <img src="/assets/images/who-am-i/3.jpeg" alt="a small creature poking out of a cracked pot" style="width:100%;">
+  <img src="/assets/images/who-am-i/4.jpeg" alt="a skeleton holding a bouquet of flowers" style="width:100%;">
+  <img src="/assets/images/who-am-i/5.jpeg" alt="a frog smoking a pipe" style="width:100%;">
+  <img src="/assets/images/who-am-i/6.jpeg" alt="a chalky black and white image of a lighthouse attracting moths" style="width:100%;">
 </div>
