@@ -157,6 +157,16 @@ pre {
   margin-bottom: 0.75rem;
 }
 
+.image-pair {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+
+  @include respond-to('medium') {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .image-gallery {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
