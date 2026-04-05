@@ -2,7 +2,7 @@
 title: Imposter Syndrome is A Verb
 description: You are not an imposter. Imposter Syndrome is being done to you.
 layout: post
-categories: [personal development]
+categories: [personal-development]
 ---
 
 > 58% of tech workers experience imposter syndrome at some point in their careers, including those working at tech giants like Facebook and Microsoft [1].
