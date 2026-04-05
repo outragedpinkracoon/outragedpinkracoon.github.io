@@ -1,5 +1,5 @@
 ---
-title: Hot Take: Timed LeetCode Tech Interviews Are Incredible
+title: Timed LeetCode Interviews Are Incredible
 description: A completely sincere and not-at-all satirical appreciation of timed, locked-down LeetCode tech interviews and everything they optimise for.
 layout: post
 categories: [hiring, spicy]
