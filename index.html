@@ -29,7 +29,7 @@ That changes here.
   <div class="card">
     <h3>Holy Sh*t I'm A Manager</h3>
     <p>The course and community I wish I'd had when I was thrown into my first manager position, panicking and alone.</p>
-    <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid">Join the chaos →</a>
+    <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid">Join the club →</a>
   </div>
 
   <div class="card">
@@ -44,8 +44,13 @@ That changes here.
 
 ### From the blog
 
-{% for post in site.posts limit:3 %}
-* [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %Y" }}
-{% endfor %}
+<ul id="recent-posts">
+  {% for post in site.posts limit:3 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date"> — {{ post.date | date: "%B %Y" }}</span>
+  </li>
+  {% endfor %}
+</ul>
 
 [Read all posts →](/blog)
