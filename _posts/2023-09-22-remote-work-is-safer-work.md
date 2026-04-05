@@ -2,7 +2,7 @@
 title:  Remote Work is Safer Work
 description: The unspoken benefits of remote work for members under-represented groups
 layout: post
-categories: [remote work, leadership]
+categories: [remote-work, leadership]
 ---
 
 Have you ever wondered how safe your colleagues feel during their commute or in the office?  
