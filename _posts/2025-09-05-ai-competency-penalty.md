@@ -12,15 +12,21 @@ And the bias mostly comes from men that don't use AI. WTF.
 Here's what happens next if we ignore it:
 
 ❌ Folks from under-represented groups avoid using AI.
+
 ❌ Productivity gap grows (59% less, DX/LeadDev report).
+
 ❌ Higher risk of being exited.
+
 ❌ Diversity divide widens.
 
 Here's what you can do about it right now:
 
 ✅ Track adoption rates across demographics, if you can. If uptake is uneven, get curious.
+
 ✅ Champion AI skill-building for everyone, ensuring underrepresented voices have equal access.
+
 ✅ Be a role model — share when and how you use AI to reduce stigma.
+
 ✅ Remove "AI assisted" labels on PRs/deliverables — they harm perceptions of the contributor.
 
 What's one thing you're going to do next week to prevent the 'competency penalty' in your team?
