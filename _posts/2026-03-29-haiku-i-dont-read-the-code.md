@@ -2,7 +2,7 @@
 title: "Haiku: I Don't Read the Code"
 description: A haiku about AI-assisted code review, for a certain kind of team.
 layout: post
-categories: [programming, haiku]
+categories: [programming, haiku, fun]
 ---
 
 I don't read the code.  
