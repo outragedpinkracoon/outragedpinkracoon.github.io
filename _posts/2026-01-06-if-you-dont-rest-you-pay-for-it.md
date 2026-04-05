@@ -34,3 +34,5 @@ And if you need permission to stop, whatever that thing is for you, take it.
 Because the cost of ramming meetings together, or pushing late into the night to churn out content, is far higher than saying "no".
 
 The cost is you.
+
+![a raccoon resting peacefully outside](/assets/images/if-you-dont-rest/1.png)
