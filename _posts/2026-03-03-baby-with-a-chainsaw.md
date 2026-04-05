@@ -13,31 +13,17 @@ If I give someone without engineering knowledge an AI agent, does that make them
 
 ❌ No. It makes them a baby with a dangerous power tool.
 
-At best, they manage small, well-defined, low-risk tasks.
-
-Like someone using a drill to hang a shelf.
-
-Fine. The house probably won't fall down.
+At best, they manage small, well-defined, low-risk tasks. Like someone using a drill to hang a shelf. Fine. The house probably won't fall down.
 
 At worst, they're shipping dangerous code they can't review, debug, secure, or maintain.
 
-And that's not even the scariest part.
+And that's not even the scariest part. The scariest part is apparent success.
 
-The scariest part is apparent success.
-
-The code runs.
-
-The demo looks great.
-
-Until it meets real users. Real load.
-
-And then the house falls down.
+The code runs. The demo looks great. Until it meets real users. Real load. And then the house falls down.
 
 Then an actual engineer opens the codebase and you have to pay them double to cover the therapy fees.
 
-AI is power.
-
-But power without knowledge is dangerous.
+AI is power. But power without knowledge is dangerous.
 
 Maybe don't hand the baby a chainsaw.
 
