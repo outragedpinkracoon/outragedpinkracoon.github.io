@@ -11,7 +11,7 @@ I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust
 
 I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
 
-I want you to feel weird and wonderful and fully, unapologetically you — able to live your life true to that. Not in the way the system wants you to be. The system wasn't designed for you, and we'll find a way for you to be your full-fat, no f*ck given self anyway.
+I want you to feel weird and wonderful and fully, unapologetically you — able to live your life true to that. Not in the way the system wants you to be. The system wasn't designed for you, and we'll find a way for you to be your full-fat, no f*cks given self anyway.
 
 Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to actually belong.
 
