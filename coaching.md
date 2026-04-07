@@ -13,7 +13,7 @@ I coach because I know what it costs us to survive in spaces that were never des
 
 I want you to feel weird and wonderful and fully, unapologetically you — able to live your life true to that. Not in the way the system wants you to be. The system wasn't designed for you, and we'll find a way for you to be your full-fat, no f*cks given self anyway.
 
-Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to actually belong.
+Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way, or they've been brainwashed into thinking they have less power than they do over their situation.
 
 ---
 
