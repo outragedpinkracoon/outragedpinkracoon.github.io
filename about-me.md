@@ -28,7 +28,7 @@ I coach because I know what it costs us to survive in spaces that were never des
 
 ### Who I work with
 
-I primarily work with women, non-binary, queer, and neurodivergent people in tech who are struggling, growing, or trying to figure out how to navigate a world that wasn't built for them. That includes individual contributors who are ready to stop shrinking, new managers who've been thrown in the deep end, and senior leaders smashing their heads on a very real, very present glass ceiling.
+I primarily work with women, disabled, non-binary, queer, and neurodivergent people in tech who are struggling, growing, or trying to figure out how to navigate a world that wasn't built for them. That includes individual contributors who are ready to stop shrinking, new managers who've been thrown in the deep end, and senior leaders smashing their heads on a very real, very present glass ceiling.
 
 If you work in tech and you're done with navigating a broken system alone, let's talk.
 

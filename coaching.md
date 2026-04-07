@@ -19,12 +19,15 @@ Most of the people I work with are already capable. They're not broken. They're 
 
 ### Who I work with
 
-I work primarily with women, non-binary, queer, disabled and neurodivergent people in tech including:
+I work primarily with women, non-binary, queer, disabled and neurodivergent people in tech, including:
 
 * Those done with being the highest performer and the most overlooked.
 * New managers thrown in the deep end.
 * Senior leaders smashing their heads on a very real, very present glass ceiling.
 * Individual contributors ready to stop shrinking.
+* Folks feeling lost, confused and stuck in their career or work situation.
+
+This list is not exhaustive!
 
 ---
 
