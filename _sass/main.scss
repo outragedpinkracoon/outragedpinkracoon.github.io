@@ -86,7 +86,7 @@ h2 {
   margin-left: -24px;
   margin-right: -24px;
   position: relative;
-  box-shadow: 0 5px 0 $teal, 0 9px 0 rgba($yellow, 0.5);
+  box-shadow: none;
 
   // links inside the magenta banner must stay readable
   a {
@@ -505,36 +505,57 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   padding: 0;
   margin: 0 0 1.2rem;
 
+  $_post-colors: $teal, $orange, $magenta;
+
+  @for $i from 1 through 3 {
+    $c: nth($_post-colors, $i);
+    li:nth-child(#{$i}) {
+      background: $c;
+      box-shadow: 5px 5px 0 $ink;
+      transform: rotate(#{(($i - 2) * 0.8)}deg);
+    }
+  }
+
   li {
-    padding: 0.6rem 0 0.6rem 1.1rem;
-    border-left: 3px solid rgba($magenta, 0.25);
-    margin-bottom: 0.4rem;
-    transition: border-color 0.15s ease, padding-left 0.15s ease;
+    padding: 0.9rem 1.2rem;
+    margin-bottom: 1.2rem;
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
-    gap: 0 0.5rem;
+    gap: 0 0.8rem;
+    position: relative;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 
     &:hover {
-      border-left-color: $magenta;
-      padding-left: 1.5rem;
+      transform: rotate(0deg) translate(-2px, -2px) !important;
+      box-shadow: 8px 8px 0 $ink !important;
     }
   }
 
   a {
-    font-weight: 500;
+    font-family: $font-display;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 1.15rem;
     text-decoration: none;
-    color: $ink;
-    &:hover { color: $magenta; }
+    color: $cream;
+
+    &::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+    }
+
+    &:hover { color: $cream; text-decoration: underline; }
   }
 
   .date {
     font-family: $font-primary;
-    font-size: 0.8rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: rgba($ink, 0.38);
+    color: rgba($cream, 0.7);
   }
 }
 
