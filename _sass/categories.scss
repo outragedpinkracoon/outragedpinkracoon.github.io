@@ -38,12 +38,12 @@
     }
 
     // cycle beyond 6
-    li:nth-child(6n+1) a { background: $magenta;  box-shadow: 4px 4px 0 $teal;    transform: rotate(-1.5deg); &:hover, &.active-link { box-shadow: 6px 6px 0 $teal;    transform: rotate(0deg) translate(-2px, -2px); } }
-    li:nth-child(6n+2) a { background: $teal;     box-shadow: 4px 4px 0 $magenta; transform: rotate(1.2deg);  &:hover, &.active-link { box-shadow: 6px 6px 0 $magenta; transform: rotate(0deg) translate(-2px, -2px); } }
-    li:nth-child(6n+3) a { background: $orange;   box-shadow: 4px 4px 0 $ink;     transform: rotate(-1deg);   &:hover, &.active-link { box-shadow: 6px 6px 0 $ink;     transform: rotate(0deg) translate(-2px, -2px); } }
-    li:nth-child(6n+4) a { background: $lavender; box-shadow: 4px 4px 0 $ink;     transform: rotate(1.8deg);  &:hover, &.active-link { box-shadow: 6px 6px 0 $ink;     transform: rotate(0deg) translate(-2px, -2px); } }
-    li:nth-child(6n+5) a { background: $ink;      box-shadow: 4px 4px 0 $magenta; transform: rotate(-0.8deg); &:hover, &.active-link { box-shadow: 6px 6px 0 $magenta; transform: rotate(0deg) translate(-2px, -2px); } }
-    li:nth-child(6n+6) a { background: $magenta;  box-shadow: 4px 4px 0 $orange;  transform: rotate(1.4deg);  &:hover, &.active-link { box-shadow: 6px 6px 0 $orange;  transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+1) a { background: $magenta;  box-shadow: 4px 4px 0 $teal;    transform: rotate(-0.8deg); &:hover, &.active-link { box-shadow: 6px 6px 0 $teal;    transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+2) a { background: $teal;     box-shadow: 4px 4px 0 $magenta; transform: rotate(0.7deg);  &:hover, &.active-link { box-shadow: 6px 6px 0 $magenta; transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+3) a { background: $orange;   box-shadow: 4px 4px 0 $ink;     transform: rotate(-0.6deg); &:hover, &.active-link { box-shadow: 6px 6px 0 $ink;     transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+4) a { background: $lavender; box-shadow: 4px 4px 0 $ink;     transform: rotate(1deg);    &:hover, &.active-link { box-shadow: 6px 6px 0 $ink;     transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+5) a { background: $ink;      box-shadow: 4px 4px 0 $magenta; transform: rotate(-0.5deg); &:hover, &.active-link { box-shadow: 6px 6px 0 $magenta; transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+6) a { background: $magenta;  box-shadow: 4px 4px 0 $orange;  transform: rotate(0.8deg);  &:hover, &.active-link { box-shadow: 6px 6px 0 $orange;  transform: rotate(0deg) translate(-2px, -2px); } }
 
     li {
       display: inline-block;
