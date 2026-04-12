@@ -13,11 +13,11 @@ I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust
 
 I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
 
-I want you to feel weird and wonderful and fully, unapologetically you — able to live your life true to that. Not in the way the system wants you to be. The system wasn't designed for you, and we'll find a way for you to be your full-fat, no f*cks given self anyway.
+I want you to feel weird and wonderful and fully, unapologetically you — able to live your life true to that. Not in the way the system wants you to be.
+
+<div class="callout--teal callout">The system wasn't designed for you, and we'll find a way for you to be your full-fat, no f*cks given self anyway.</div>
 
 Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way, or they've been brainwashed into thinking they have less power than they do over their situation.
-
----
 
 ### Who I work with
 
@@ -31,15 +31,11 @@ I work primarily with women, non-binary, queer, disabled and neurodivergent peop
 
 This list is not exhaustive!
 
----
-
 ### How it works
 
 Sessions are remote and one-to-one. I blend coaching — guided questioning, genuine challenge, new insight — with mentoring from 18 years as a technologist and exec leader. I'm autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner.
 
 Get in touch via [email](mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.) or [LinkedIn](https://www.linkedin.com/in/outragedpinkracoon/) and we'll have a wee chat to figure out if we're a good fit before you commit to anything.
-
----
 
 ### Pricing
 
@@ -58,8 +54,6 @@ Get in touch via [email](mailto:coaching@outragedpinkracoon.com?subject=Coaching
     <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
   </div>
 </div>
-
----
 
 ### What people say
 
