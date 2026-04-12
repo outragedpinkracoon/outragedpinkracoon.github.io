@@ -17,11 +17,9 @@ I've been in tech for almost two decades and I've never had a manager that looke
 
 And yet. Here I am.
 
-I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. It's harder still when you finally claw your way to the top and hit that ceiling. 
+I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. It's harder still when you finally claw your way to the top and hit that ceiling.
 
-I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.
-
----
+<div class="callout">I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.</div>
 
 ### Who I work with
 
@@ -29,15 +27,11 @@ I primarily work with women, disabled, non-binary, queer, and neurodivergent peo
 
 If you work in tech and you're done with navigating a broken system alone, let's talk.
 
----
-
 ### How I work
 
 Here's the thing: most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to be fully, unapologetically themselves and actually belong.
 
 I unlock that through a blend of coaching (guided questioning, genuine challenge, new insight) and mentoring (18 years of lived experience as a technologist and executive leader, at your disposal). I'm autistic, which means I can't do performative niceness. What you get is directness, honesty, and someone actually in your corner.
-
----
 
 ### What I stand for
 
@@ -46,8 +40,6 @@ I unlock that through a blend of coaching (guided questioning, genuine challenge
 * I am a queer, non-binary, neurodivergent and disabled coach — I'm not an ally looking in from the outside, I'm in the same boat as you.
 * I am an LGBTQIA+ ally and actively ND affirming in everything I do.
 * I am committed to fairness, generous assumptions, curiosity and kindness in every session.
-
----
 
 ### Credentials
 
@@ -60,8 +52,6 @@ I unlock that through a blend of coaching (guided questioning, genuine challenge
 * BSc Computer Science (First Class)
 * BA Accountancy & Finance
 * Author of [Stakeholders](https://stakeholdersbook.substack.com/about)
-
----
 
 ### The human bit
 

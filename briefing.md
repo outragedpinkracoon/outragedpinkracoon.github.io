@@ -100,26 +100,6 @@ These illustrations exist and should be incorporated into the design. They alrea
 
 The raccoon is the primary character and should appear most prominently. All others can be used to add character and variety throughout the site.
 
-### Planned image placement
-
-**Homepage**
-- Image pair (hero): `raccoon-beret-baguette` + `Me.png`
-- Meet Val card: `raccoon-red-balloon`
-- Coaching card: `pig-face-allowed-to-be-a-lot` ("I am allowed to be a lot")
-- Holy Sh*t I'm A Manager card: `wild-bird-scientist-glasses`
-- Stakeholders card: `skeleton-tuxedo-bouquet`
-
-**About Me**
-- Image pair: `raccoon-beret-baguette` + `Me.png`
-- Gallery (6): `bat-eating-grapefruit`, `vampire-woman-wild-hair`, `rabbit-ears-cracked-flower-pot`, `skeleton-tuxedo-bouquet`, `toad-jeans-smoking-pipe`, `lighthouse-butterflies-night`
-
-**Coaching**
-- Profile near intro: `Me.png`
-- Gallery (6): `fluffy-monster-dragonfly`, `teal-goat-creature`, `rabbit-ears-cracked-flower-pot`, `bear-bowtie-bakery`, `raccoon-red-balloon`, `rose-pink-outline`
-
-**Reserve** (blog post headers, future pages): `black-cat-halloween-pumpkin`, `carrot-potato-characters`, `cat-milk-carton`, `claw-talon`, `dark-bird-witch-hat`, `hedgehog-pinecone`, `monster-arms-outstretched`
-
----
 
 ## Layout and Structure
 

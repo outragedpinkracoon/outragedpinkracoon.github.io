@@ -24,6 +24,13 @@
     font-size: 1.5rem;
     margin: 0 0 0.2rem;
     line-height: 1.25;
+    // reset the global full-bleed banner styles
+    background: none;
+    color: inherit;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    box-shadow: none;
 
     // stretched link — covers the whole li
     a {

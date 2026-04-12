@@ -25,6 +25,7 @@ body {
   font-size: 19px;
   line-height: 1.8;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 // Paper grain — fixed SVG noise overlay, gives everything the uncoated print feel
@@ -62,18 +63,58 @@ h1 {
   @include respond-to('medium') { font-size: 3.8rem; }
 }
 
-// Section headings in Bricolage Grotesque — each a different risograph ink
-h2, h3, h4, h5, h6 {
+// h2 — full-bleed magenta banner, bleeds past the container padding
+h2 {
   font-family: $font-primary;
   font-weight: 800;
   letter-spacing: -0.01em;
   line-height: 1.2;
+  font-size: 1.9rem;
+  color: $cream;
+  background: $magenta;
+  padding: 0.35rem 1.5rem;
+  margin-top: 2.8rem;
+  margin-left: -24px;
+  margin-right: -24px;
+  // off-register teal underline
+  box-shadow: 0 4px 0 $teal;
+
+  // links inside the magenta banner must stay readable
+  a {
+    color: $cream;
+    text-decoration-color: rgba($cream, 0.5);
+    &:hover { color: $cream; text-decoration-color: $cream; }
+  }
 }
 
-h2 { font-size: 1.9rem; margin-top: 2.5rem; color: $magenta; }
-h3 { font-size: 1.4rem; margin-top: 2rem;   color: $teal; }
-h4 { font-size: 1.1rem; margin-top: 1.5rem; color: $orange; }
-h5, h6 { color: $ink; }
+// h3 — thick teal left bar, punchy label feel
+h3 {
+  font-family: $font-primary;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  color: $teal;
+  padding-left: 0.9rem;
+  border-left: 6px solid $teal;
+}
+
+h4 {
+  font-family: $font-primary;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+  color: $orange;
+}
+
+h5, h6 {
+  font-family: $font-primary;
+  font-weight: 800;
+  color: $ink;
+}
 
 code, pre {
   font-size: 0.88rem;
@@ -253,20 +294,20 @@ header {
 
 hr {
   border: none;
-  height: 2px;
-  background: rgba($ink, 0.12);
-  margin: 2.8rem 0;
+  height: 3px;
+  background: rgba($ink, 0.15);
+  margin: 2.5rem 0;
   position: relative;
 
-  // small magenta crop mark — like print registration marks
-  &::before {
+  // magenta off-register line — subtle, not crushing
+  &::after {
     content: '';
     position: absolute;
-    left: 0;
-    top: -4px;
-    width: 28px;
-    height: 10px;
-    background: $magenta;
+    left: 12px;
+    right: -12px;
+    top: 5px;
+    height: 2px;
+    background: rgba($magenta, 0.35);
   }
 }
 
@@ -351,6 +392,7 @@ hr {
   grid-template-columns: 1fr;
   gap: 1.5rem;
   margin: 1.5rem 0;
+  clear: both;
 
   @include respond-to('medium') {
     grid-template-columns: repeat(2, 1fr);
@@ -358,39 +400,33 @@ hr {
 }
 
 $_card-accents: $magenta, $teal, $orange, $lavender;
+$_card-shadows: $teal, $magenta, $lavender, $orange;
 
 .card {
-  background: $cream;
-  border: 2px solid rgba($ink, 0.1);
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  padding: 1.8rem;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
-  // off-register ink shadow — the characteristic risograph double-layer feel
-  box-shadow: 5px 5px 0 rgba($ink, 0.07);
-
-  &:hover {
-    transform: translate(-2px, -2px);
-    box-shadow: 7px 7px 0 rgba($ink, 0.1);
-  }
-
-  padding: 1.4rem 1.4rem 1.6rem;
 
   h3 {
-    margin: 0 0 0.6rem;
-    font-family: $font-primary;
-    font-size: 1.35rem;
-    font-weight: 800;
-    letter-spacing: 0.01em;
-    line-height: 1.2;
-    color: $ink;
+    font-family: $font-display;
+    font-style: italic;
+    font-weight: 900;
+    font-variation-settings: 'opsz' 144;
+    font-size: 2rem;
+    line-height: 1.05;
+    margin: 0 0 0.8rem;
+    // reset global h3 left-bar styles
+    border-left: none;
+    padding-left: 0;
+    margin-top: 0;
   }
 
   p {
     flex: 1;
-    margin: 0 0 1rem;
-    font-size: 0.93rem;
-    color: rgba($ink, 0.72);
+    margin: 0 0 1.2rem;
+    font-size: 0.95rem;
+    color: rgba($ink, 0.8);
     line-height: 1.65;
   }
 
@@ -403,23 +439,38 @@ $_card-accents: $magenta, $teal, $orange, $lavender;
     text-transform: uppercase;
     text-decoration: none;
     display: block;
-    margin-top: 0.3rem;
-    color: $magenta;
+    margin-top: 0.2rem;
 
     &:hover { text-decoration: underline; }
   }
 
-  // bottom accent bar — each card in a different risograph ink colour
+  // each card gets a solid colour background + contrasting shadow
   @for $i from 1 through 4 {
-    $color: nth($_card-accents, $i);
+    $bg: nth($_card-accents, $i);
+    $shadow: nth($_card-shadows, $i);
     &:nth-child(#{$i}) {
-      border-bottom: 5px solid $color;
+      background: $bg;
+      box-shadow: 6px 6px 0 $shadow;
+      color: $cream;
 
-      h3 { color: $color; }
+      &:hover {
+        transform: translate(-3px, -3px);
+        box-shadow: 9px 9px 0 $shadow;
+      }
+
+      h3 { color: $cream; }
+
+      p { color: rgba($cream, 0.85); }
 
       a {
-        color: $color;
-        &:hover { color: darken($color, 10%); }
+        color: $cream;
+        border-bottom: 2px solid rgba($cream, 0.4);
+        padding-bottom: 1px;
+        &:hover {
+          color: $cream;
+          border-bottom-color: $cream;
+          text-decoration: none;
+        }
       }
     }
   }
@@ -636,14 +687,32 @@ $_card-accents: $magenta, $teal, $orange, $lavender;
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 blockquote {
-  border-left: 5px solid $magenta;
-  margin: 2rem 0;
-  padding: 1rem 0 1rem 1.6rem;
-  background: rgba($magenta, 0.04);
-  font-style: italic;
-  color: rgba($ink, 0.8);
+  background: $yellow;
+  color: $ink;
+  margin: 2.5rem -8px;
+  padding: 1.8rem 1.8rem 1.8rem 4.2rem;
+  border: none;
+  font-style: normal;
+  font-size: 1.05rem;
+  position: relative;
+  transform: rotate(-0.4deg);
+  box-shadow: 5px 5px 0 $ink;
 
-  p { margin: 0 0 0.5rem; }
+  // quotation mark — sized so it doesn't trample the text
+  &::before {
+    content: '\201C';
+    font-family: $font-display;
+    font-style: italic;
+    font-size: 4rem;
+    line-height: 1;
+    color: $magenta;
+    position: absolute;
+    top: 1rem;
+    left: 0.9rem;
+    pointer-events: none;
+  }
+
+  p { margin: 0 0 0.6rem; }
   p:last-child { margin: 0; }
 }
 
@@ -653,6 +722,43 @@ blockquote {
   letter-spacing: 0.1em;
   text-transform: uppercase;
   font-size: 0.82rem;
-  color: $magenta;
+  color: $ink;
   font-style: normal;
+  display: block;
+  margin-top: 0.8rem;
+  padding-top: 0.6rem;
+  border-top: 2px solid rgba($ink, 0.2);
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// CALLOUT BLOCKS — chunky stamped statements
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.callout {
+  font-family: $font-primary;
+  font-weight: 800;
+  font-size: 1.25rem;
+  line-height: 1.35;
+  padding: 1.4rem 1.6rem;
+  margin: 2.5rem -8px;
+  background: $lavender;
+  color: $cream;
+  transform: rotate(0.5deg);
+  box-shadow: 6px 6px 0 rgba($ink, 0.25);
+
+  p { margin: 0; }
+
+  &--teal {
+    background: $teal;
+    color: $cream;
+    box-shadow: 6px 6px 0 $ink;
+    transform: rotate(-0.4deg);
+  }
+
+  &--yellow {
+    background: $yellow;
+    color: $ink;
+    box-shadow: 6px 6px 0 $magenta;
+    transform: rotate(0.3deg);
+  }
 }
