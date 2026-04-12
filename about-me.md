@@ -9,10 +9,7 @@ show_cta: true
 
 > Racoons are animals that don't belong anywhere, but thrive anyway!
 
-<div class="image-pair">
-  <img src="/assets/images/brand-images/raccoon-beret-baguette.jpeg" alt="a raccoon in a red beret and striped top, holding a baguette">
-  <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden">
-</div>
+<img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
 ### My story
 

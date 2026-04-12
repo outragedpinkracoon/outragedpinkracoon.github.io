@@ -75,13 +75,3 @@ Get in touch via [email](mailto:coaching@outragedpinkracoon.com?subject=Coaching
 >
 > <span class='quote-author'>— Stephen Hill, Former Director @ Neogen Recruitment and all round great guy</span>
 
----
-
-<div class="image-gallery">
-  <img src="/assets/images/brand-images/fluffy-monster-dragonfly-dark-bg.jpeg" alt="a gentle fluffy monster watching a dragonfly">
-  <img src="/assets/images/brand-images/teal-goat-creature-purple-bg.jpeg" alt="a teal goat-like creature with yellow flowers on a purple background">
-  <img src="/assets/images/brand-images/rabbit-ears-cracked-flower-pot.jpeg" alt="a tiny anxious bunny hiding in a cracked terracotta pot">
-  <img src="/assets/images/brand-images/bear-bowtie-bakery.jpeg" alt="a dapper bear in a bowler hat standing outside a bakery">
-  <img src="/assets/images/brand-images/raccoon-red-balloon.jpeg" alt="a raccoon holding a red balloon">
-  <img src="/assets/images/brand-images/rose-pink-outline-dark-bg.jpeg" alt="a white rose with a pink outline on a dark background">
-</div>
