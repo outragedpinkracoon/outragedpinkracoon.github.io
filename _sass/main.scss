@@ -406,6 +406,7 @@ $_card-shadows: $teal, $magenta, $lavender, $orange;
   display: flex;
   flex-direction: column;
   padding: 1.8rem;
+  position: relative;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 
   h3 {
@@ -440,6 +441,13 @@ $_card-shadows: $teal, $magenta, $lavender, $orange;
     text-decoration: none;
     display: block;
     margin-top: 0.2rem;
+
+    // stretched link — makes the whole card clickable
+    &::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+    }
 
     &:hover { text-decoration: underline; }
   }
