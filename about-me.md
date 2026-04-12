@@ -65,7 +65,7 @@ I unlock that through a blend of coaching (guided questioning, genuine challenge
 
 ### The human bit
 
-I draw [weird little creatures](https://cara.app/outragedracoonpaws/all) with my human meat brain and my human meat hands and the occasional haunting vampire portrait. I love to do art to play and express myself by dreaming up little feral drawings, and give myself precious space to think and breathe. I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy. 
+I draw [weird little creatures](https://www.instagram.com/outragedracoonpaws) with my human meat brain and my human meat hands and the occasional haunting vampire portrait. I love to do art to play and express myself by dreaming up little feral drawings, and give myself precious space to think and breathe. I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy. 
 
 The racoon is not a metaphor. It is just me.
 
