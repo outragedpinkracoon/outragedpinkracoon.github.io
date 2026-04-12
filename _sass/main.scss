@@ -61,6 +61,15 @@ h1 {
   padding-top: 0;
 
   @include respond-to('medium') { font-size: 3.8rem; }
+
+  .title-sub {
+    display: block;
+    font-size: 0.55em;
+    color: rgba($magenta, 0.6);
+    text-shadow: 2px 2px 0 rgba($teal, 0.2);
+    letter-spacing: 0.02em;
+    margin-top: 0.15em;
+  }
 }
 
 // h2 — full-bleed banner with diagonal hatch pattern and diamond marker
