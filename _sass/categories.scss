@@ -1,6 +1,6 @@
 #categories {
   h1, h2 {
-    color: $off-white;
+    color: $ink;
   }
 
   ul {
@@ -24,23 +24,25 @@
       display: inline-block;
       padding: 0;
       font-family: $font-primary;
+      font-weight: 600;
       letter-spacing: 0.1em;
 
       a {
         display: inline-block;
         padding: 0.25rem 0.9rem;
-        border: 1px solid rgba($electric-purple, 0.4);
-        color: rgba($off-white, 0.65);
-        font-size: 0.88rem;
+        border: 1px solid rgba($ink, 0.2);
+        color: rgba($ink, 0.6);
+        font-size: 0.82rem;
         text-transform: uppercase;
+        text-decoration: none;
         transition: all 0.15s ease;
 
         &:hover {
-          border-color: $hot-pink;
-          color: $hot-pink;
-          background: rgba($hot-pink, 0.07);
+          border-color: $magenta;
+          color: $magenta;
+          background: rgba($magenta, 0.05);
+          box-shadow: 2px 2px 0 rgba($magenta, 0.15);
           text-decoration: none;
-          box-shadow: 0 0 12px rgba($hot-pink, 0.2);
         }
       }
     }
@@ -48,35 +50,40 @@
 
   .category-name {
     font-family: $font-primary;
-    font-size: 1.8rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: $hot-pink;
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    color: $magenta;
     margin: 2rem 0 0.5rem;
     padding-bottom: 0.3rem;
-    border-bottom: 1px solid rgba($hot-pink, 0.3);
+    border-bottom: 2px solid rgba($magenta, 0.2);
   }
 
   #category-posts {
     .date {
       display: inline-block;
       font-family: $font-primary;
-      font-size: 0.82rem;
+      font-size: 0.8rem;
+      font-weight: 600;
       letter-spacing: 0.08em;
       text-transform: uppercase;
-      color: rgba($off-white, 0.35);
+      color: rgba($ink, 0.38);
       margin: 0 0.5rem 0 0;
     }
 
     li {
       padding: 0.5rem 0 0.5rem 1rem;
-      border-left: 2px solid rgba($electric-purple, 0.3);
+      border-left: 2px solid rgba($lavender, 0.3);
       margin-bottom: 0.3rem;
       transition: border-color 0.15s ease;
 
-      &:hover {
-        border-left-color: $hot-pink;
+      a {
+        color: $ink;
+        text-decoration: none;
+        &:hover { color: $magenta; }
       }
+
+      &:hover { border-left-color: $magenta; }
     }
   }
 }

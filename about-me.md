@@ -9,10 +9,10 @@ show_cta: true
 
 > Racoons are animals that don't belong anywhere, but thrive anyway!
 
-<!-- <div class="image-pair">
-  <img src="/assets/images/shared/racoon.jpeg" alt="a racoon wearing a beret and holding a baguette" style="width:100%;">
-  <img src="/assets/images/shared/mypic.png" alt="me smiling and holding a cup of coffee" style="width:100%;">
-</div> -->
+<div class="image-pair">
+  <img src="/assets/images/brand-images/raccoon-beret-baguette.jpeg" alt="a raccoon in a red beret and striped top, holding a baguette">
+  <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden">
+</div>
 
 ### My story
 
@@ -73,10 +73,10 @@ I draw [weird little creatures](https://cara.app/outragedracoonpaws/all) with my
 The racoon is not a metaphor. It is just me.
 
 <div class="image-gallery">
-  <img src="/assets/images/who-am-i/1.jpeg" alt="a tiny demon bat sitting on an orange" style="width:100%;">
-  <img src="/assets/images/who-am-i/2.jpeg" alt="a haunting black and white chalky image of a vampire" style="width:100%;">
-  <img src="/assets/images/who-am-i/3.jpeg" alt="a tiny anxious bunny hiding in a cracked terracotta pot" style="width:100%;">
-  <img src="/assets/images/who-am-i/4.jpeg" alt="a dapper skeleton in a top hat holding a bouquet of roses" style="width:100%;">
-  <img src="/assets/images/who-am-i/5.jpeg" alt="a very chill frog in jeans smoking a pipe" style="width:100%;">
-  <img src="/assets/images/who-am-i/6.jpeg" alt="a chalky black and white image of a lighthouse attracting moths at night" style="width:100%;">
+  <img src="/assets/images/brand-images/bat-eating-grapefruit-pink-bg.jpeg" alt="a demon bat eating a grapefruit on a hot pink background">
+  <img src="/assets/images/brand-images/vampire-woman-wild-hair.jpeg" alt="a haunting vampire woman with wild hair, chalk linework">
+  <img src="/assets/images/brand-images/rabbit-ears-cracked-flower-pot.jpeg" alt="a tiny anxious bunny hiding in a cracked terracotta pot">
+  <img src="/assets/images/brand-images/skeleton-tuxedo-bouquet.jpeg" alt="a dapper skeleton in a top hat holding a bouquet of roses">
+  <img src="/assets/images/brand-images/toad-jeans-smoking-pipe.jpeg" alt="a very chill orange toad in jeans smoking a pipe">
+  <img src="/assets/images/brand-images/lighthouse-butterflies-night.jpeg" alt="a lighthouse at night with butterflies drawn into the beam of light">
 </div>
