@@ -19,67 +19,90 @@ html {
 }
 
 body {
-  background-color: $void;
-  // crosshatch textile pattern + corner colour blooms
-  background-image:
-    repeating-linear-gradient(
-      -55deg,
-      transparent 0px,
-      transparent 18px,
-      rgba(201, 0, 255, 0.028) 18px,
-      rgba(201, 0, 255, 0.028) 19px
-    ),
-    repeating-linear-gradient(
-      35deg,
-      transparent 0px,
-      transparent 18px,
-      rgba(255, 31, 109, 0.022) 18px,
-      rgba(255, 31, 109, 0.022) 19px
-    ),
-    radial-gradient(ellipse at 8%  12%, rgba(255, 31, 109,   0.22) 0%, transparent 42%),
-    radial-gradient(ellipse at 94% 8%,  rgba(201, 0,   255,  0.20) 0%, transparent 42%),
-    radial-gradient(ellipse at 60% 94%, rgba(0,   245, 212,  0.14) 0%, transparent 40%),
-    radial-gradient(ellipse at 4%  88%, rgba(181, 255, 0,    0.10) 0%, transparent 36%);
-  background-attachment: fixed;
-  color: $text-color;
+  background-color: $cream;
+  color: $ink;
   font-family: $font-secondary;
-  font-size: 20px;
-  line-height: 1.7;
+  font-size: 19px;
+  line-height: 1.8;
   min-height: 100vh;
+}
+
+// Paper grain — fixed SVG noise overlay, gives everything the uncoated print feel
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 150px 150px;
+  opacity: 0.042;
+  mix-blend-mode: multiply;
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // TYPOGRAPHY
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $font-primary;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  line-height: 1.1;
-  color: $hot-pink;
+// Page titles in Fraunces — inky editorial serif with off-register shadow
+h1 {
+  font-family: $font-display;
+  font-style: italic;
+  font-weight: 900;
+  font-variation-settings: 'opsz' 144;
+  font-size: 3rem;
+  line-height: 1.05;
+  color: $magenta;
+  text-shadow: 4px 4px 0 rgba($teal, 0.3);
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  padding-top: 0;
+
+  @include respond-to('medium') { font-size: 3.8rem; }
 }
 
-h1 { font-size: 3rem;   margin-top: 0; padding-top: 0; }
-h2 { font-size: 2.4rem; }
-h3 { font-size: 1.8rem; }
-h4 { font-size: 1.4rem; }
+// Section headings in Bricolage Grotesque — each a different risograph ink
+h2, h3, h4, h5, h6 {
+  font-family: $font-primary;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+
+h2 { font-size: 1.9rem; margin-top: 2.5rem; color: $magenta; }
+h3 { font-size: 1.4rem; margin-top: 2rem;   color: $teal; }
+h4 { font-size: 1.1rem; margin-top: 1.5rem; color: $orange; }
+h5, h6 { color: $ink; }
 
 code, pre {
-  font-size: 0.95rem;
+  font-size: 0.88rem;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 pre {
   overflow-x: auto;
+  background: rgba($ink, 0.05);
+  padding: 1.1rem 1.3rem;
+  border-left: 4px solid $teal;
+  margin: 1.5rem 0;
 }
 
 strong {
-  color: $acid-teal;
-  font-weight: 600;
+  font-weight: 700;
+  color: $ink;
 }
 
 em {
-  color: rgba($off-white, 0.85);
+  color: rgba($ink, 0.8);
+}
+
+ul, ol {
+  padding-left: 1.5rem;
+
+  li {
+    margin-bottom: 0.4rem;
+  }
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -87,16 +110,17 @@ em {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 a {
-  color: $hot-pink;
-  text-decoration: none;
-  transition: color 0.15s ease, text-shadow 0.15s ease;
+  color: $magenta;
+  text-decoration: underline;
+  text-decoration-color: rgba($magenta, 0.35);
+  text-underline-offset: 3px;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
 }
 
-a:hover, .active-link {
-  color: $acid-teal;
-  text-shadow: 0 0 8px rgba($acid-teal, 0.5);
-  text-decoration: underline;
-  text-decoration-color: rgba($hot-pink, 0.5);
+a:hover {
+  color: darken($magenta, 10%);
+  text-decoration-color: $magenta;
+  text-shadow: none;
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -106,7 +130,7 @@ a:hover, .active-link {
 main {
   max-width: map-get($breakpoints, 'large');
   margin: 0 auto;
-  padding: 20px 24px 60px;
+  padding: 20px 24px 80px;
 }
 
 img {
@@ -123,97 +147,102 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.3rem 0.5rem;
-  padding: 1.2rem 1rem 0;
+  gap: 0;
+  padding: 1.4rem 1rem 0;
   font-family: $font-primary;
-  font-size: 0.95rem;
-  letter-spacing: 0.14em;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
 
   a {
-    color: rgba($off-white, 0.7);
+    color: rgba($ink, 0.5);
     padding: 0.3rem 1rem;
-    border: 1px solid rgba($off-white, 0.12);
-    border-radius: 2px;
-    transition: all 0.15s ease;
     text-decoration: none;
     position: relative;
+    transition: color 0.15s ease;
 
     &::after {
       content: '';
       position: absolute;
-      bottom: -1px;
-      left: 10%;
-      right: 10%;
-      height: 1px;
-      background: $hot-pink;
+      bottom: 0;
+      left: 1rem;
+      right: 1rem;
+      height: 2px;
+      background: $magenta;
       transform: scaleX(0);
       transition: transform 0.2s ease;
+      transform-origin: left;
     }
 
     &:hover, &.active-link {
-      color: $off-white;
-      border-color: rgba($hot-pink, 0.5);
-      background: rgba($hot-pink, 0.06);
+      color: $ink;
       text-decoration: none;
-      text-shadow: 0 0 12px rgba($hot-pink, 0.6);
-      box-shadow: 0 0 16px rgba($hot-pink, 0.15), inset 0 0 16px rgba($hot-pink, 0.05);
-
       &::after { transform: scaleX(1); }
     }
+  }
+
+  // dot separators
+  a + a::before {
+    content: '·';
+    position: absolute;
+    left: -0.05rem;
+    color: rgba($ink, 0.2);
+    pointer-events: none;
   }
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// SITE HEADER — the crown jewel
+// SITE HEADER — the masthead
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 header {
   font-family: $font-display;
+  font-style: italic;
+  font-weight: 900;
   text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  line-height: 1.1;
-  margin: 0.8rem 0 0;
-  padding: 1rem 1rem 0.8rem;
+  line-height: 1.0;
+  margin: 1.2rem 0 0;
+  padding: 1rem 1rem;
   position: relative;
-  font-size: 1.6rem;
+  font-size: 2rem;
 
-  @include respond-to('medium') { font-size: 3rem; }
-  @include respond-to('large')  { font-size: 4.5rem; }
+  @include respond-to('medium') { font-size: 3.8rem; }
+  @include respond-to('large')  { font-size: 5.5rem; }
 
-  // gradient rule above
+  // bold magenta rule above
   &::before {
     content: '';
     display: block;
-    height: 2px;
-    margin: 0 auto 0.8rem;
-    width: 70%;
-    background: $gradient-rule;
+    height: 4px;
+    background: $magenta;
+    margin: 0 0 1rem;
+    width: 100%;
   }
 
-  // gradient rule below
+  // teal rule below — slightly offset for off-register feel
   &::after {
     content: '';
     display: block;
-    height: 2px;
-    margin: 0.8rem auto 0;
-    width: 70%;
-    background: $gradient-rule;
+    height: 4px;
+    background: $teal;
+    margin: 1rem 0 0;
+    width: calc(100% - 6px);
+    margin-left: 3px;
   }
 
   a {
-    background: $gradient-title;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: $magenta;
     text-decoration: none;
     display: inline-block;
-    filter: drop-shadow(0 0 20px rgba(255, 31, 109, 0.4));
-    transition: filter 0.25s ease;
+    // off-register risograph shadow — teal layer shifted down-right
+    text-shadow: 5px 5px 0 rgba($teal, 0.38);
+    transition: text-shadow 0.2s ease;
 
     &:hover {
-      filter: drop-shadow(0 0 36px rgba(201, 0, 255, 0.7));
+      text-shadow: 7px 7px 0 rgba($teal, 0.5), -3px -2px 0 rgba($lavender, 0.2);
+      text-decoration: none;
+      color: $magenta;
     }
   }
 }
@@ -225,9 +254,20 @@ header {
 hr {
   border: none;
   height: 2px;
-  background: $gradient-rule;
-  margin: 2.5rem 0;
-  opacity: 0.8;
+  background: rgba($ink, 0.12);
+  margin: 2.8rem 0;
+  position: relative;
+
+  // small magenta crop mark — like print registration marks
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -4px;
+    width: 28px;
+    height: 10px;
+    background: $magenta;
+  }
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -243,31 +283,13 @@ hr {
 
 .page-subtitle {
   font-family: $font-primary;
-  font-size: 1rem;
-  letter-spacing: 0.18em;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   text-align: center;
-  margin-top: -0.2rem;
-  margin-bottom: 1.8rem;
-  color: rgba($off-white, 0.55);
-
-  // inject decorative dividers around the subtitle text
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
-
-  &::before, &::after {
-    content: '';
-    flex: 1;
-    max-width: 80px;
-    height: 1px;
-    background: linear-gradient(90deg, transparent, rgba($electric-purple, 0.6));
-  }
-
-  &::after {
-    background: linear-gradient(90deg, rgba($electric-purple, 0.6), transparent);
-  }
+  margin: 0 0 1.6rem;
+  color: rgba($ink, 0.4);
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -277,32 +299,46 @@ hr {
 %btn-base {
   display: inline-block;
   font-family: $font-primary;
-  letter-spacing: 0.14em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   text-decoration: none;
   border: none;
   cursor: pointer;
-  transition: box-shadow 0.2s ease, transform 0.15s ease, color 0.15s ease;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 
   &:hover {
     text-decoration: none;
-    transform: translateY(-3px);
+    transform: translate(-2px, -2px);
   }
 }
 
 .header-cta {
   @extend %btn-base;
-  padding: 0.75rem 2.2rem;
-  border-radius: 2px;
-  font-size: 1rem;
-  background: $gradient-cta;
-  color: $off-white;
-  box-shadow: 0 0 22px rgba($hot-pink, 0.55);
-  clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 10px 100%, 0 calc(100% - 10px));
+  padding: 0.7rem 2.2rem;
+  font-size: 0.88rem;
+  background: $magenta;
+  color: $cream;
+  // off-register ink shadow
+  box-shadow: 4px 4px 0 $teal;
 
   &:hover {
-    color: $off-white;
-    box-shadow: 0 0 40px rgba($electric-purple, 0.75);
+    color: $cream;
+    box-shadow: 6px 6px 0 $teal;
+  }
+}
+
+.button {
+  @extend %btn-base;
+  padding: 0.6rem 1.6rem;
+  font-size: 0.88rem;
+  background: $magenta;
+  color: $cream;
+  box-shadow: 4px 4px 0 $teal;
+
+  &:hover {
+    color: $cream;
+    box-shadow: 6px 6px 0 $teal;
   }
 }
 
@@ -313,7 +349,7 @@ hr {
 .card-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1.25rem;
+  gap: 1.5rem;
   margin: 1.5rem 0;
 
   @include respond-to('medium') {
@@ -321,103 +357,70 @@ hr {
   }
 }
 
-$_card-colors: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
+$_card-accents: $magenta, $teal, $orange, $lavender;
 
 .card {
-  border: 1px solid rgba($off-white, 0.07);
-  border-top: 3px solid $hot-pink;
-  border-radius: 0;
-  padding: 1.6rem;
+  background: $cream;
+  border: 2px solid rgba($ink, 0.1);
   display: flex;
   flex-direction: column;
-  background: rgba($off-white, 0.025);
-  position: relative;
+  overflow: hidden;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
-
-  // angled notch bottom-right
-  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 14px), calc(100% - 14px) 100%, 0 100%);
-
-  // accent corner marker bottom-right
-  &::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 14px;
-    height: 14px;
-    background: $hot-pink;
-    clip-path: polygon(100% 0, 100% 100%, 0 100%);
-  }
+  // off-register ink shadow — the characteristic risograph double-layer feel
+  box-shadow: 5px 5px 0 rgba($ink, 0.07);
 
   &:hover {
-    transform: translateY(-5px);
+    transform: translate(-2px, -2px);
+    box-shadow: 7px 7px 0 rgba($ink, 0.1);
   }
 
-  @for $i from 1 through 4 {
-    $color: nth($_card-colors, $i);
-    &:nth-child(#{$i}) {
-      border-top-color: $color;
-      box-shadow: 0 4px 28px rgba($color, 0.12);
-
-      &:hover { box-shadow: 0 10px 40px rgba($color, 0.32); }
-
-      &::after { background: $color; }
-
-      h3 {
-        color: $color;
-        &::before {
-          background: $color;
-        }
-      }
-
-      a {
-        color: $color;
-        &:hover { color: lighten($color, 12%); }
-      }
-    }
-  }
+  padding: 1.4rem 1.4rem 1.6rem;
 
   h3 {
-    margin-top: 0;
-    margin-bottom: 0.8rem;
+    margin: 0 0 0.6rem;
     font-family: $font-primary;
-    font-size: 1.6rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: $hot-pink;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-
-    &::before {
-      content: '';
-      display: inline-block;
-      width: 3px;
-      height: 1.1em;
-      background: $hot-pink;
-      flex-shrink: 0;
-    }
+    font-size: 1.35rem;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    line-height: 1.2;
+    color: $ink;
   }
 
   p {
     flex: 1;
-    margin-bottom: 1rem;
-    font-size: 0.95rem;
-    color: rgba($off-white, 0.8);
+    margin: 0 0 1rem;
+    font-size: 0.93rem;
+    color: rgba($ink, 0.72);
+    line-height: 1.65;
   }
 
   a {
     align-self: flex-start;
     font-family: $font-primary;
-    font-size: 0.9rem;
+    font-size: 0.82rem;
+    font-weight: 700;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    display: block;
-    margin-top: 0.4rem;
     text-decoration: none;
+    display: block;
+    margin-top: 0.3rem;
+    color: $magenta;
 
-    &:hover {
-      text-decoration: underline;
+    &:hover { text-decoration: underline; }
+  }
+
+  // bottom accent bar — each card in a different risograph ink colour
+  @for $i from 1 through 4 {
+    $color: nth($_card-accents, $i);
+    &:nth-child(#{$i}) {
+      border-bottom: 5px solid $color;
+
+      h3 { color: $color; }
+
+      a {
+        color: $color;
+        &:hover { color: darken($color, 10%); }
+      }
     }
   }
 }
@@ -432,8 +435,8 @@ $_card-colors: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
   margin: 0 0 1.2rem;
 
   li {
-    padding: 0.6rem 0 0.6rem 1rem;
-    border-left: 3px solid rgba($electric-purple, 0.5);
+    padding: 0.6rem 0 0.6rem 1.1rem;
+    border-left: 3px solid rgba($magenta, 0.25);
     margin-bottom: 0.4rem;
     transition: border-color 0.15s ease, padding-left 0.15s ease;
     display: flex;
@@ -442,21 +445,25 @@ $_card-colors: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
     gap: 0 0.5rem;
 
     &:hover {
-      border-left-color: $hot-pink;
-      padding-left: 1.4rem;
+      border-left-color: $magenta;
+      padding-left: 1.5rem;
     }
   }
 
   a {
     font-weight: 500;
+    text-decoration: none;
+    color: $ink;
+    &:hover { color: $magenta; }
   }
 
   .date {
     font-family: $font-primary;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
+    font-weight: 600;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: rgba($off-white, 0.38);
+    color: rgba($ink, 0.38);
   }
 }
 
@@ -467,7 +474,7 @@ $_card-colors: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
 .pricing-table {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1.2rem;
+  gap: 1.4rem;
   margin: 1.5rem 0;
 
   @include respond-to('medium') {
@@ -477,68 +484,77 @@ $_card-colors: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
 
 .pricing-card {
   position: relative;
-  border: 1px solid rgba($off-white, 0.1);
-  border-top: 2px solid rgba($electric-purple, 0.6);
-  padding: 1.5rem;
+  background: $cream;
+  border: 2px solid rgba($ink, 0.1);
+  border-bottom: 5px solid rgba($ink, 0.12);
+  padding: 1.8rem;
   display: flex;
   flex-direction: column;
-  background: rgba($off-white, 0.025);
+  box-shadow: 5px 5px 0 rgba($ink, 0.07);
 
   &--featured {
-    border-top-color: $hot-pink;
-    box-shadow: 0 0 30px rgba($hot-pink, 0.2);
+    border-color: $magenta;
+    border-bottom-color: $magenta;
+    box-shadow: 5px 5px 0 $teal;
   }
 
-  p { margin: 0.25rem 0; }
-
-  .pricing-cta { margin-top: auto; align-self: flex-start; }
+  p { margin: 0.3rem 0; }
+  .pricing-cta { margin-top: auto; padding-top: 1.5rem; }
 }
 
 .pricing-amount {
-  font-family: $font-primary;
-  font-size: 3rem;
-  letter-spacing: 0.04em;
-  color: $off-white;
+  font-family: $font-display;
+  font-style: italic;
+  font-weight: 900;
+  font-variation-settings: 'opsz' 144;
+  font-size: 3.8rem;
+  line-height: 1;
+  color: $magenta;
+  text-shadow: 3px 3px 0 rgba($teal, 0.3);
+  margin-bottom: 0.4rem;
+  display: block;
 }
 
 .pricing-title {
   font-family: $font-primary;
-  font-size: 1.2rem;
-  letter-spacing: 0.1em;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: $off-white;
+  color: $ink;
 }
 
 .pricing-detail {
-  color: rgba($off-white, 0.4);
+  color: rgba($ink, 0.5);
   font-size: 0.88rem;
 }
 
 .pricing-cta {
   @extend %btn-base;
-  padding: 0.5rem 1.4rem;
-  font-size: 0.88rem;
-  background: $gradient-cta;
-  color: $off-white;
-  box-shadow: 0 0 16px rgba($hot-pink, 0.4);
+  padding: 0.55rem 1.4rem;
+  font-size: 0.85rem;
+  background: $magenta;
+  color: $cream;
+  box-shadow: 4px 4px 0 $teal;
 
   &:hover {
-    color: $off-white;
-    box-shadow: 0 0 30px rgba($electric-purple, 0.65);
+    color: $cream;
+    box-shadow: 6px 6px 0 $teal;
   }
 }
 
 .pricing-badge {
   display: inline-block;
-  background: rgba($electric-purple, 0.15);
-  color: $acid-teal;
-  border: 1px solid rgba($acid-teal, 0.3);
-  padding: 0.15rem 0.75rem;
+  background: $teal;
+  color: $cream;
+  padding: 0.15rem 0.8rem;
   font-family: $font-primary;
-  font-size: 0.78rem;
-  letter-spacing: 0.1em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.8rem;
+  transform: rotate(-1.5deg);
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -548,10 +564,17 @@ $_card-colors: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
 .image-pair {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1rem;
+  gap: 1.2rem;
+  margin: 2rem 0;
 
   @include respond-to('medium') {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  img {
+    width: 100%;
+    display: block;
+    box-shadow: 5px 5px 0 rgba($ink, 0.1);
   }
 }
 
@@ -559,31 +582,62 @@ $_card-colors: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
+  margin: 1.5rem 0;
 
   @include respond-to('medium') {
     grid-template-columns: repeat(3, 1fr);
   }
+
+  img {
+    width: 100%;
+    display: block;
+    aspect-ratio: 1;
+    object-fit: cover;
+    box-shadow: 4px 4px 0 rgba($ink, 0.08);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+    &:hover {
+      transform: translate(-2px, -2px);
+      box-shadow: 6px 6px 0 rgba($magenta, 0.25);
+    }
+  }
+}
+
+// Profile image — floated, used on coaching intro
+.profile-image {
+  float: right;
+  width: 185px;
+  margin: 0 0 1.5rem 2rem;
+  display: block;
+  box-shadow: 5px 5px 0 rgba($teal, 0.35);
+
+  @include respond-to('medium') {
+    width: 220px;
+  }
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// BLOCKQUOTE
+// BLOCKQUOTE / TESTIMONIALS
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 blockquote {
-  border-left: 4px solid $electric-purple;
-  margin: 1.5rem 0;
-  padding: 0.8rem 0 0.8rem 1.4rem;
-  background: rgba($electric-purple, 0.05);
+  border-left: 5px solid $magenta;
+  margin: 2rem 0;
+  padding: 1rem 0 1rem 1.6rem;
+  background: rgba($magenta, 0.04);
   font-style: italic;
-  color: rgba($off-white, 0.85);
+  color: rgba($ink, 0.8);
 
-  p { margin: 0; }
+  p { margin: 0 0 0.5rem; }
+  p:last-child { margin: 0; }
 }
 
 .quote-author {
   font-family: $font-primary;
-  letter-spacing: 0.08em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  font-size: 0.9rem;
-  color: $hot-pink;
+  font-size: 0.82rem;
+  color: $magenta;
+  font-style: normal;
 }
