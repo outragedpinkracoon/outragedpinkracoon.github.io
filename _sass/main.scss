@@ -408,15 +408,16 @@ hr {
   }
 }
 
-$_card-accents: $magenta, $teal, $orange, $lavender;
-$_card-shadows: $teal, $magenta, $lavender, $orange;
+$_card-accents:    $magenta,  $teal,    $orange,   $lavender;
+$_card-shadows:    $teal,     $magenta, $lavender, $orange;
+$_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
 .card {
   display: flex;
   flex-direction: column;
   padding: 1.8rem;
   position: relative;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 
   h3 {
     font-family: $font-display;
@@ -461,17 +462,19 @@ $_card-shadows: $teal, $magenta, $lavender, $orange;
     &:hover { text-decoration: underline; }
   }
 
-  // each card gets a solid colour background + contrasting shadow
+  // each card gets a solid colour background + contrasting shadow + its own tilt
   @for $i from 1 through 4 {
-    $bg: nth($_card-accents, $i);
+    $bg:  nth($_card-accents, $i);
     $shadow: nth($_card-shadows, $i);
+    $rot: nth($_card-rotations, $i);
     &:nth-child(#{$i}) {
       background: $bg;
       box-shadow: 8px 8px 0 $shadow;
       color: $cream;
+      transform: rotate($rot);
 
       &:hover {
-        transform: translate(-3px, -3px);
+        transform: rotate(0deg) translate(-3px, -3px);
         box-shadow: 12px 12px 0 $shadow;
       }
 
