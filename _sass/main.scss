@@ -468,25 +468,28 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     line-height: 1.6;
   }
 
-  a {
+  .card-cta {
     align-self: flex-start;
     font-family: $font-primary;
     font-size: 0.82rem;
     font-weight: 700;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    text-decoration: none;
     display: block;
     margin-top: 0.2rem;
+  }
 
-    // stretched link — makes the whole card clickable
-    &::after {
-      content: '';
-      position: absolute;
-      inset: 0;
-    }
+  h3 a {
+    text-decoration: none;
+    color: inherit;
 
     &:hover { text-decoration: underline; }
+
+    &:focus-visible {
+      outline: 3px solid $cream;
+      outline-offset: 3px;
+      border-radius: 2px;
+    }
   }
 
   // each card gets a solid colour background + contrasting shadow + its own tilt
@@ -509,15 +512,10 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
       p { color: rgba($cream, 0.85); }
 
-      a {
+      .card-cta {
         color: $cream;
         border-bottom: 2px solid rgba($cream, 0.4);
         padding-bottom: 1px;
-        &:hover {
-          color: $cream;
-          border-bottom-color: $cream;
-          text-decoration: none;
-        }
       }
     }
   }
