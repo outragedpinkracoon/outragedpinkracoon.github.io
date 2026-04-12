@@ -1,4 +1,54 @@
 #post {
+  // first paragraph lands with more weight
+  article > p:first-of-type {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: $ink;
+    line-height: 1.7;
+  }
+
+  // strong pops in magenta
+  strong {
+    color: $magenta;
+    font-weight: 800;
+  }
+
+  // em gets teal
+  em {
+    color: $teal;
+    font-style: italic;
+  }
+
+  // override the boring .grt blockquote — use the main yellow tilted style
+  .grt blockquote {
+    background: $yellow;
+    color: $ink;
+    padding: 1.8rem 1.8rem 1.8rem 4.2rem;
+    border: none;
+    border-left: none;
+    font-style: normal;
+    position: relative;
+    transform: rotate(-2deg);
+    box-shadow: 5px 5px 0 $ink;
+    margin: 3.5rem -8px;
+
+    &:nth-child(even) { transform: rotate(1.5deg); }
+
+    &::before {
+      content: '\201C';
+      font-family: $font-display;
+      font-style: italic;
+      font-size: 2.8rem;
+      line-height: 1;
+      color: $magenta;
+      position: absolute;
+      top: 0.6rem;
+      left: 0.7rem;
+      pointer-events: none;
+    }
+  }
+
+
   .metadata {
     margin: 0 0 1.5rem 0;
     padding: 0.6rem 0 0.6rem 1rem;

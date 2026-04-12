@@ -53,6 +53,7 @@
     margin-right: 0;
     box-shadow: none;
     text-shadow: none;
+    position: static;
     &::before { display: none; }
 
     a {
@@ -63,6 +64,7 @@
         content: '';
         position: absolute;
         inset: 0;
+        z-index: 1;
       }
 
       &:hover { color: $cream; text-decoration: underline; }
@@ -92,7 +94,7 @@
       box-shadow: 2px 2px 0 rgba($ink, 0.3);
       transition: transform 0.15s ease, box-shadow 0.15s ease;
       position: relative;
-      z-index: 1;
+      z-index: 2;
 
       &:hover {
         background: $cream;
@@ -105,9 +107,12 @@
   }
 
   p {
-    font-size: 1rem;
-    margin: 0.3rem 0 0.6rem;
-    color: rgba($cream, 0.9);
+    font-family: $font-primary;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.45;
+    margin: 0.4rem 0 0.8rem;
+    color: $cream;
   }
 
   .read-more {
