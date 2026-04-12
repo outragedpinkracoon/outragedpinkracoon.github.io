@@ -603,16 +603,16 @@ $_card-accents: $magenta, $teal, $orange, $lavender;
   }
 }
 
-// Profile image — floated, used on coaching intro
+// Profile image — stacks full width on mobile, floats right on larger screens
 .profile-image {
-  float: right;
-  width: 185px;
-  margin: 0 0 1.5rem 2rem;
   display: block;
+  width: 260px;
+  margin: 0 auto 1.5rem;
   box-shadow: 5px 5px 0 rgba($teal, 0.35);
 
   @include respond-to('medium') {
-    width: 220px;
+    float: right;
+    margin: 0 0 1.5rem 2rem;
   }
 }
 
