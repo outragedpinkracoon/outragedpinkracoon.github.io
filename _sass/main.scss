@@ -435,8 +435,8 @@ hr {
   }
 }
 
-$_card-accents:    $magenta,  $teal,    $orange,   $lavender;
-$_card-shadows:    $teal,     $magenta, $lavender, $orange;
+$_card-accents:    $magenta,  $teal,    $orange,   $yellow;
+$_card-shadows:    $teal,     $magenta, $lavender, $magenta;
 $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
 .card {
@@ -517,7 +517,20 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
         border-bottom: 2px solid rgba($cream, 0.4);
         padding-bottom: 1px;
       }
+
     }
+  }
+
+  // yellow card: ink text for sufficient contrast
+  &:nth-child(4) {
+    color: $ink;
+    h3 { color: $ink; }
+    p { color: rgba($ink, 0.8); }
+    .card-cta {
+      color: $ink;
+      border-bottom-color: rgba($ink, 0.4);
+    }
+    h3 a:focus-visible { outline-color: $ink; }
   }
 }
 
@@ -815,10 +828,10 @@ blockquote {
   line-height: 1.35;
   padding: 1.4rem 1.6rem;
   margin: 2.5rem -8px;
-  background: $lavender;
-  color: $cream;
+  background: $yellow;
+  color: $ink;
   transform: rotate(1.8deg);
-  box-shadow: 6px 6px 0 rgba($ink, 0.25);
+  box-shadow: 6px 6px 0 $magenta;
 
   p { margin: 0; }
 
