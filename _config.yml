@@ -15,4 +15,10 @@ defaults:
   - scope:
       path: ""
     values:
-      image:  /assets/images/site/racoon.jpg
+      image: /assets/images/site/racoon.jpg
+  - scope:
+      path: ""
+      type: posts
+    values:
+      subtitle: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled | A Little Feral
+      show_cta: true

@@ -51,21 +51,21 @@ h1 {
   font-style: italic;
   font-weight: 900;
   font-variation-settings: 'opsz' 144;
-  font-size: 4rem;
+  font-size: 3rem;
   line-height: 1.05;
-  color: $magenta;
-  text-shadow: 4px 4px 0 rgba($teal, 0.3);
+  color: $teal;
+  text-shadow: none;
   margin-top: 0;
   margin-bottom: 1.2rem;
   padding-top: 0;
 
-  @include respond-to('medium') { font-size: 5rem; }
+  @include respond-to('medium') { font-size: 3.8rem; }
 
   .title-sub {
     display: block;
     font-size: 0.55em;
-    color: rgba($magenta, 0.6);
-    text-shadow: 2px 2px 0 rgba($teal, 0.2);
+    color: rgba($teal, 0.6);
+    text-shadow: none;
     letter-spacing: 0.02em;
     margin-top: 0.15em;
   }
@@ -316,13 +316,13 @@ hr {
 
 .page-subtitle {
   font-family: $font-primary;
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.22em;
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
   text-align: center;
   margin: 0 0 1.6rem;
-  color: rgba($ink, 0.4);
+  color: $ink;
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
