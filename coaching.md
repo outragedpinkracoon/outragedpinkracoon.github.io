@@ -63,6 +63,8 @@ Get in touch via [email](mailto:outragedracooncoaching@gmail.com?subject=Coachin
   </div>
 </div>
 
+<p class="pricing-terms">All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+
 ## What people say
 
 > Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time. She's passionate about creating safe environments for people to thrive and achieve.
