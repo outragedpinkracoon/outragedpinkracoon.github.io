@@ -31,6 +31,14 @@ I work primarily with women, non-binary, queer, disabled and neurodivergent peop
 
 This list is not exhaustive!
 
+## What you get
+
+Working with me won't fix the system. But it will change how you move through it.
+
+You'll leave sessions with clarity on what you actually want, not what you think you're supposed to want. You'll feel challenged — genuinely, not performatively. You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
+
+Just someone finally in your corner who gets it.
+
 ## How it works
 
 Sessions are remote and one-to-one. I blend coaching — guided questioning, genuine challenge, new insight — with mentoring from 18 years as a technologist and exec leader. I'm autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner.
