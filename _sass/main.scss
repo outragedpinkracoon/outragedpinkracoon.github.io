@@ -435,9 +435,9 @@ $_card-shadows: $teal, $magenta, $lavender, $orange;
   p {
     flex: 1;
     margin: 0 0 1.2rem;
-    font-size: 0.95rem;
-    color: rgba($ink, 0.8);
-    line-height: 1.65;
+    font-size: 1.05rem;
+    color: rgba($cream, 0.95);
+    line-height: 1.6;
   }
 
   a {
@@ -467,12 +467,12 @@ $_card-shadows: $teal, $magenta, $lavender, $orange;
     $shadow: nth($_card-shadows, $i);
     &:nth-child(#{$i}) {
       background: $bg;
-      box-shadow: 6px 6px 0 $shadow;
+      box-shadow: 8px 8px 0 $shadow;
       color: $cream;
 
       &:hover {
         transform: translate(-3px, -3px);
-        box-shadow: 9px 9px 0 $shadow;
+        box-shadow: 12px 12px 0 $shadow;
       }
 
       h3 { color: $cream; }
