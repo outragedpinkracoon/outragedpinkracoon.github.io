@@ -596,22 +596,24 @@ $_card-accents: $magenta, $teal, $orange, $lavender;
     display: block;
     aspect-ratio: 1;
     object-fit: cover;
-    box-shadow: 4px 8px 20px rgba($ink, 0.18);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border: 2px solid $ink;
+    // slight contrast/saturation boost — feels more printed than photographed
+    filter: contrast(1.06) saturate(1.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
 
-    // each image gets a slightly different rotation and nudge — scattered on a table feel
-    &:nth-child(1) { transform: rotate(-3deg)   translate(2px, 1px); }
-    &:nth-child(2) { transform: rotate(2.5deg)  translate(-1px, 3px); }
-    &:nth-child(3) { transform: rotate(-1.5deg) translate(3px, -2px); }
-    &:nth-child(4) { transform: rotate(3deg)    translate(-2px, 2px); }
-    &:nth-child(5) { transform: rotate(-2.5deg) translate(1px, -1px); }
-    &:nth-child(6) { transform: rotate(1.5deg)  translate(-3px, 3px); }
+    // rotation + nudge — scattered on a table
+    &:nth-child(1) { transform: rotate(-3deg)   translate(2px, 1px);  box-shadow:  6px  6px 0 $magenta; }
+    &:nth-child(2) { transform: rotate(2.5deg)  translate(-1px, 3px); box-shadow:  6px  6px 0 $teal; }
+    &:nth-child(3) { transform: rotate(-1.5deg) translate(3px, -2px); box-shadow:  6px  6px 0 $orange; }
+    &:nth-child(4) { transform: rotate(3deg)    translate(-2px, 2px); box-shadow: -6px  6px 0 $lavender; }
+    &:nth-child(5) { transform: rotate(-2.5deg) translate(1px, -1px); box-shadow: -6px  6px 0 $magenta; }
+    &:nth-child(6) { transform: rotate(1.5deg)  translate(-3px, 3px); box-shadow:  6px -6px 0 $teal; }
 
     &:hover {
-      transform: rotate(0deg) translate(0, -4px) scale(1.04);
-      box-shadow: 6px 16px 32px rgba($ink, 0.22);
-      z-index: 1;
+      transform: rotate(0deg) translate(0, -4px) scale(1.05);
+      filter: contrast(1.1) saturate(1.15);
       position: relative;
+      z-index: 1;
     }
   }
 }
