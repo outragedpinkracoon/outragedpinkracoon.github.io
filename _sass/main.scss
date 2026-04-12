@@ -81,13 +81,6 @@ h2 {
   font-size: 1.9rem;
   color: $cream;
   background-color: $magenta;
-  background-image: repeating-linear-gradient(
-    -45deg,
-    transparent,
-    transparent 9px,
-    rgba($cream, 0.08) 9px,
-    rgba($cream, 0.08) 10px
-  );
   padding: 0.5rem 1.5rem;
   margin-top: 2.8rem;
   margin-left: -24px;
@@ -713,14 +706,18 @@ $_card-shadows: $teal, $magenta, $lavender, $orange;
 blockquote {
   background: $yellow;
   color: $ink;
-  margin: 2.5rem -8px;
+  margin: 3.5rem -8px;
   padding: 1.8rem 1.8rem 1.8rem 4.2rem;
   border: none;
   font-style: normal;
   font-size: 1.05rem;
   position: relative;
-  transform: rotate(-0.4deg);
+  transform: rotate(-2deg);
   box-shadow: 5px 5px 0 $ink;
+
+  &:nth-child(even) {
+    transform: rotate(1.5deg);
+  }
 
   // quotation mark — sized so it doesn't trample the text
   &::before {
@@ -767,7 +764,7 @@ blockquote {
   margin: 2.5rem -8px;
   background: $lavender;
   color: $cream;
-  transform: rotate(0.5deg);
+  transform: rotate(1.8deg);
   box-shadow: 6px 6px 0 rgba($ink, 0.25);
 
   p { margin: 0; }
@@ -776,7 +773,7 @@ blockquote {
     background: $teal;
     color: $cream;
     box-shadow: 6px 6px 0 $ink;
-    transform: rotate(-0.4deg);
+    transform: rotate(-1.8deg);
   }
 
   &--yellow {

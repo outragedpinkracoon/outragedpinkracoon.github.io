@@ -61,9 +61,9 @@ All changes must be tested at mobile (320px+), tablet (768px), desktop (1280px),
 
 | # | Change | File | Lines |
 |---|--------|------|-------|
-| 1 | Noise overlay opacity `0.042` → `0.08` | `_sass/main.scss` | ~38 |
+| 1 | ~~Noise overlay~~ — skipped; blend mode limitations on light backgrounds make this not worth pursuing | — | — |
 | 2 | Blockquote rotation `-0.4deg` → `-2deg`; callout `0.5deg` → `1.8deg` | `_sass/main.scss` | ~719, ~761 |
-| 3 | h2 diagonal hatch opacity `0.08` → `0.20` | `_sass/main.scss` | ~88 |
+| 3 | ~~h2 diagonal hatch~~ — removed entirely, too busy | — | — |
 | 4 | Card box-shadows `6px` → `8px`; hover `9px` → `12px` | `_sass/main.scss` | ~476 |
 | 5 | h1 font-size `3rem` → `4rem` mobile, `5rem` at medium breakpoint | `_sass/main.scss` | ~56 |
 | 6 | Nav links: full `$ink` opacity, bolder active/hover state | `_sass/main.scss` | ~216 |
