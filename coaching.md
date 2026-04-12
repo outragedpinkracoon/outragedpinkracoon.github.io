@@ -43,7 +43,7 @@ Just someone finally in your corner who gets it.
 
 Sessions are remote and one-to-one. I blend coaching — guided questioning, genuine challenge, new insight — with mentoring from 18 years as a technologist and exec leader. I'm autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner.
 
-Get in touch via [email](mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.) or [LinkedIn](https://www.linkedin.com/in/outragedpinkracoon/) and we'll have a wee chat to figure out if we're a good fit before you commit to anything.
+Get in touch via [email](mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.) or [LinkedIn](https://www.linkedin.com/in/outragedpinkracoon/) and we'll have a wee chat to figure out if we're a good fit before you commit to anything.
 
 ## Pricing
 
@@ -52,14 +52,14 @@ Get in touch via [email](mailto:coaching@outragedpinkracoon.com?subject=Coaching
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
     <p class="pricing-detail">One hour, remote, one-to-one.</p>
-    <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
   </div>
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Best value</span>
     <p class="pricing-amount">£450</p>
     <p class="pricing-title">Bundle of 3 sessions</p>
     <p class="pricing-detail">£150 saving. Same great chaos, more of it.</p>
-    <a class="pricing-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
   </div>
 </div>
 
