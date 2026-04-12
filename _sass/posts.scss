@@ -78,6 +78,30 @@
     text-transform: uppercase;
     color: rgba($cream, 0.7);
     margin-bottom: 0.4rem;
+
+    $_tag-colors: $cream, $yellow, $cream, $yellow, $cream, $yellow;
+    $_tag-text:   $ink,   $ink,    $ink,   $ink,    $ink,   $ink;
+
+    a {
+      display: inline-block;
+      padding: 0.15rem 0.6rem;
+      background: rgba($cream, 0.2);
+      color: $cream;
+      font-weight: 800;
+      text-decoration: none;
+      box-shadow: 2px 2px 0 rgba($ink, 0.3);
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      position: relative;
+      z-index: 1;
+
+      &:hover {
+        background: $cream;
+        color: $ink;
+        box-shadow: 3px 3px 0 rgba($ink, 0.4);
+        transform: translate(-1px, -1px);
+        text-decoration: none;
+      }
+    }
   }
 
   p {
