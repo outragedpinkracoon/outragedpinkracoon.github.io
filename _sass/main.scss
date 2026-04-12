@@ -73,6 +73,7 @@ h1 {
 
 // h2 — full-bleed banner with diagonal hatch overlay
 h2 {
+  clear: both;
   font-family: $font-primary;
   font-weight: 800;
   letter-spacing: -0.01em;
@@ -699,11 +700,12 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   display: block;
   width: 260px;
   margin: 0 auto 1.5rem;
-  box-shadow: 5px 5px 0 rgba($teal, 0.35);
+  transform: rotate(2deg);
+  box-shadow: 8px 8px 0 $magenta;
 
   @include respond-to('medium') {
     float: right;
-    margin: 0 0 1.5rem 2rem;
+    margin: 0 0 3rem 2rem;
   }
 }
 
