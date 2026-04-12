@@ -13,22 +13,26 @@
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,144,900&family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700;12..96,800&family=Space+Grotesk:wght@300;400;500;600&display=swap" rel="stylesheet">
   </head>
   <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <main>
-    <nav>
-      <a href='/'>Home</a>
-      <a href='/about-me'>Meet Val</a>
-      <a href='/coaching'>Coaching</a>
-      <a href='/blog'>Blog</a>
-      <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank'>LinkedIn</a>
+    <nav aria-label="Main navigation">
+      <a href='/' {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
+      <a href='/about-me' {% if page.url == '/about-me/' or page.url == '/about-me' %}aria-current="page"{% endif %}>Meet Val</a>
+      <a href='/coaching' {% if page.url == '/coaching/' or page.url == '/coaching' %}aria-current="page"{% endif %}>Coaching</a>
+      <a href='/blog' {% if page.url == '/blog/' or page.url == '/blog' %}aria-current="page"{% endif %}>Blog</a>
+      <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank' rel="noopener noreferrer">LinkedIn</a>
     </nav>
     <header><a href='/'>OUTRAGED RACOON COACHING</a></header>
       {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
     {% if page.show_cta %}<p class="text-center"><a class="header-cta" href="mailto:coaching@outragedpinkracoon.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a></p>{% endif %}
-    <div>
+    <div id="main-content">
       {{ content }}
     </div>
   </main>
+  <footer>
+    <p class="sr-only">End of page</p>
+  </footer>
   <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-  <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript> 
+  <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
   </body>
 </html>
