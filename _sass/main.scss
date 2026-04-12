@@ -5,6 +5,39 @@
 @import "posts";
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// ACCESSIBILITY UTILITIES
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  z-index: 9999;
+  padding: 0.5rem 1rem;
+  background: $ink;
+  color: $cream;
+  font-family: $font-primary;
+  font-weight: 700;
+  text-decoration: none;
+
+  &:focus {
+    top: 1rem;
+  }
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // BASE
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -25,6 +58,12 @@ body {
   line-height: 1.8;
   min-height: 100vh;
   overflow-x: hidden;
+}
+
+:focus-visible {
+  outline: 3px solid $ink;
+  outline-offset: 2px;
+  border-radius: 2px;
 }
 
 // Paper grain — fixed SVG noise overlay, gives everything the uncoated print feel
@@ -221,6 +260,12 @@ nav {
     padding: 0.25rem 0.8rem;
     text-decoration: none;
     transition: background 0.15s ease, color 0.15s ease;
+
+    &:focus-visible {
+      outline: 3px solid $ink;
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
   }
 }
 
