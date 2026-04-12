@@ -1,10 +1,33 @@
 #post {
-  // first paragraph lands with more weight
-  article > p:first-of-type {
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: $ink;
-    line-height: 1.7;
+  // images — scattered, stamped, feels printed not screenshotted
+  .post-body img {
+    display: block;
+    max-width: 55%;
+    height: auto;
+    margin: 2rem auto;
+    filter: contrast(1.05) saturate(1.08);
+
+    &:nth-of-type(odd) {
+      transform: rotate(-1.5deg);
+      box-shadow: 8px 8px 0 $magenta;
+    }
+
+    &:nth-of-type(even) {
+      transform: rotate(1.2deg);
+      box-shadow: 8px 8px 0 $teal;
+    }
+  }
+
+  // drop cap — medieval energy
+  .post-body > p:first-of-type::first-letter {
+    font-family: $font-display;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 7rem;
+    line-height: 0.75;
+    float: left;
+    margin: 0.05rem 0.5rem 0 0;
+    color: $magenta;
   }
 
   // strong pops in magenta

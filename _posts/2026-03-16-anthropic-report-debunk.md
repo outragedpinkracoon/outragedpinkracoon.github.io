@@ -7,8 +7,7 @@ categories: [programming, leadership]
 
 We need to debunk a misunderstood stat from the latest Anthropic report.
 
-It does NOT say 75% of programmers will lose their jobs to AI.  
-❌ It's just what's doing the rounds on the internet right now. Classic.
+It does NOT say 75% of programmers will lose their jobs to AI. It's just what's doing the rounds on the internet right now. Classic.
 
 That 75% figure is called Observed Exposure. And it is not — I repeat, NOT — a redundancy prediction.  
 💡 It's a measure of how many of a programmer's tasks AI is actively being used for in professional settings.
