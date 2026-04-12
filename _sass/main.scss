@@ -73,7 +73,6 @@ h1 {
 
 // h2 — full-bleed banner with diagonal hatch overlay
 h2 {
-  clear: both;
   font-family: $font-primary;
   font-weight: 800;
   letter-spacing: -0.01em;
@@ -716,6 +715,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 blockquote {
   background: $yellow;
   color: $ink;
+  clear: both;
   margin: 3.5rem -8px;
   padding: 1.8rem 1.8rem 1.8rem 4.2rem;
   border: none;
