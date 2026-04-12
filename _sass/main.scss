@@ -487,20 +487,22 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   padding: 0;
   margin: 0 0 1.2rem;
 
-  $_post-colors: $teal, $orange, $magenta;
+  $_post-colors:    $teal,   $orange, $magenta;
+  $_post-rotations: -0.8deg, 1deg,   -0.7deg;
 
   @for $i from 1 through 3 {
-    $c: nth($_post-colors, $i);
+    $c:   nth($_post-colors, $i);
+    $rot: nth($_post-rotations, $i);
     li:nth-child(#{$i}) {
       background: $c;
       box-shadow: 5px 5px 0 $ink;
-      transform: rotate(#{(($i - 2) * 0.8)}deg);
+      transform: rotate($rot);
     }
   }
 
   li {
     padding: 0.9rem 1.2rem;
-    margin-bottom: 1.2rem;
+    margin-bottom: 2rem;
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
