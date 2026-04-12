@@ -5,7 +5,7 @@ layout: post
 categories: [diversity, leadership]
 ---
 
-Have you heard of 'AI-washing'? Much like my laundry, there's a ton of it and I'm already over it.
+Much like my laundry, there's a ton of it and I'm already over it.
 
 For example, a large global bank is reportedly considering tens of thousands of job cuts due to 'AI efficiencies'.
 
