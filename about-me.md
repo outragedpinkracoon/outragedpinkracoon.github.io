@@ -42,14 +42,14 @@ I unlock that through a blend of coaching (guided questioning, genuine challenge
 ## Credentials
 
 * ILM Level 5 Executive Coach
-* Creator of [*Holy Sh\*t I'm A Manager*](https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home)
+* Creator of [*Holy Sh\*t I'm A Manager*™](https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home)
 * Dare to Lead trained
 * Leaders Who Coach trained
 * 14 years hands-on engineering
 * 8 years as an exec leader
 * BSc Computer Science (First Class)
 * BA Accountancy & Finance
-* Author of [Stakeholders](https://stakeholdersbook.substack.com/about)
+* Author of [Stakeholders™](https://stakeholdersbook.substack.com/about)
 
 ## The human bit
 
