@@ -52,7 +52,7 @@ h1 {
   font-style: italic;
   font-weight: 900;
   font-variation-settings: 'opsz' 144;
-  font-size: 3rem;
+  font-size: 4rem;
   line-height: 1.05;
   color: $magenta;
   text-shadow: 4px 4px 0 rgba($teal, 0.3);
@@ -60,7 +60,7 @@ h1 {
   margin-bottom: 1.2rem;
   padding-top: 0;
 
-  @include respond-to('medium') { font-size: 3.8rem; }
+  @include respond-to('medium') { font-size: 5rem; }
 
   .title-sub {
     display: block;
