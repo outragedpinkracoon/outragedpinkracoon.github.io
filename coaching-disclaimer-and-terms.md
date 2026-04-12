@@ -5,7 +5,7 @@ title: Coaching disclaimer/terms and conditions
 description: Terms and conditions for my coaching services
 sitemap: false
 ---
-The coaching disclaimer and terms and conditions outlined below define the relationship between Coach and Client and underpin any services delivered by Valerie Dryden trading as Outraged Racoon Coaching. Please make sure you read the following carefully and if you have any questions or queries then please send them by email to [coaching@outragedpinkracoon.com](coaching@outragedpinkracoon.com).
+The coaching disclaimer and terms and conditions outlined below define the relationship between Coach and Client and underpin any services delivered by Valerie Dryden trading as Outraged Racoon Coaching®. Please make sure you read the following carefully and if you have any questions or queries then please send them by email to [coaching@outragedpinkracoon.com](coaching@outragedpinkracoon.com).
 
 ## Disclaimer
 

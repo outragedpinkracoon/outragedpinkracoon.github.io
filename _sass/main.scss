@@ -836,3 +836,38 @@ blockquote {
     transform: rotate(0.3deg);
   }
 }
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// FOOTER
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+footer {
+  margin-top: 4rem;
+  padding: 2rem 1rem;
+  border-top: 4px solid $magenta;
+  text-align: center;
+  font-family: $font-primary;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  .footer-copy {
+    margin: 0 0 0.8rem;
+    color: rgba($ink, 0.6);
+  }
+
+  .footer-social {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.2rem;
+
+    a {
+      text-decoration: none;
+      color: $ink;
+
+      &:hover { text-decoration: underline; }
+    }
+  }
+}
