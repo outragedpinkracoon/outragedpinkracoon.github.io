@@ -1,11 +1,26 @@
-$dark-grey: rgb(27, 44, 60);
-$light-blue: #66c0ec;
-$off-white: rgb(230, 237, 240);
-$light-pink: rgb(216, 130, 227);
+// ─── Palette ──────────────────────────────────────────────────────────────────
+$void:           #07070f;    // near-black, slight purple pull
+$hot-pink:       #ff1f6d;
+$electric-purple:#c900ff;
+$acid-teal:      #00f5d4;
+$acid-lime:      #b5ff00;
+$amber:          #ffaa00;
+$off-white:      #f5f0ff;    // barely-lavender white
 
-$bg-color: $dark-grey;
-$primary-color: $light-pink;
-$text-color: $off-white;
+// ─── Semantic ─────────────────────────────────────────────────────────────────
+$bg-color:       $void;
+$primary-color:  $hot-pink;
+$text-color:     $off-white;
 
-$font-primary: 'Oswald';
-$font-secondary: 'Alegreya Sans';
+// ─── Card accent rotation ─────────────────────────────────────────────────────
+$card-accents: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
+
+// ─── Gradients ────────────────────────────────────────────────────────────────
+$gradient-title: linear-gradient(135deg, #ff1f6d 0%, #c900ff 40%, #00f5d4 75%, #b5ff00 100%);
+$gradient-rule:  linear-gradient(90deg, transparent 0%, $hot-pink 20%, $electric-purple 50%, $acid-teal 80%, transparent 100%);
+$gradient-cta:   linear-gradient(135deg, $hot-pink 0%, $electric-purple 100%);
+
+// ─── Typography ───────────────────────────────────────────────────────────────
+$font-display:   'Cinzel Decorative', serif;   // site title — gothic roman
+$font-primary:   'Bebas Neue', sans-serif;      // all headings — condensed, loud
+$font-secondary: 'Space Grotesk', sans-serif;   // body — modern geometric
