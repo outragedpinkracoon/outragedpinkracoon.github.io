@@ -9,81 +9,152 @@
     list-style-type: none;
   }
 
+  // ── Category pill nav ──────────────────────────────────────────────────────
+
+  $_cat-colors:   $magenta, $teal,    $orange,  $lavender, $ink,     $magenta;
+  $_cat-shadows:  $teal,    $magenta, $ink,     $ink,      $magenta, $orange;
+  $_cat-rotations: -0.8deg, 0.7deg,  -0.6deg,  1deg,     -0.5deg,   0.8deg;
+
   #category-name-list {
-    font-size: 1rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-bottom: 2rem;
+    gap: 1rem;
+    margin-bottom: 2.5rem;
 
-    @include respond-to('small') {
-      margin: 0 auto 2rem;
+    @for $i from 1 through 6 {
+      $c:   nth($_cat-colors, $i);
+      $s:   nth($_cat-shadows, $i);
+      $rot: nth($_cat-rotations, $i);
+      li:nth-child(#{$i}) a {
+        background: $c;
+        box-shadow: 4px 4px 0 $s;
+        transform: rotate($rot);
+        &:hover, &.active-link {
+          box-shadow: 6px 6px 0 $s;
+          transform: rotate(0deg) translate(-2px, -2px);
+          background: $c;
+        }
+      }
     }
+
+    // cycle beyond 6
+    li:nth-child(6n+1) a { background: $magenta;  box-shadow: 4px 4px 0 $teal;    transform: rotate(-1.5deg); &:hover, &.active-link { box-shadow: 6px 6px 0 $teal;    transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+2) a { background: $teal;     box-shadow: 4px 4px 0 $magenta; transform: rotate(1.2deg);  &:hover, &.active-link { box-shadow: 6px 6px 0 $magenta; transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+3) a { background: $orange;   box-shadow: 4px 4px 0 $ink;     transform: rotate(-1deg);   &:hover, &.active-link { box-shadow: 6px 6px 0 $ink;     transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+4) a { background: $lavender; box-shadow: 4px 4px 0 $ink;     transform: rotate(1.8deg);  &:hover, &.active-link { box-shadow: 6px 6px 0 $ink;     transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+5) a { background: $ink;      box-shadow: 4px 4px 0 $magenta; transform: rotate(-0.8deg); &:hover, &.active-link { box-shadow: 6px 6px 0 $magenta; transform: rotate(0deg) translate(-2px, -2px); } }
+    li:nth-child(6n+6) a { background: $magenta;  box-shadow: 4px 4px 0 $orange;  transform: rotate(1.4deg);  &:hover, &.active-link { box-shadow: 6px 6px 0 $orange;  transform: rotate(0deg) translate(-2px, -2px); } }
 
     li {
       display: inline-block;
       padding: 0;
       font-family: $font-primary;
-      font-weight: 600;
+      font-weight: 800;
       letter-spacing: 0.1em;
+    }
 
-      a {
-        display: inline-block;
-        padding: 0.25rem 0.9rem;
-        border: 1px solid rgba($ink, 0.2);
-        color: rgba($ink, 0.6);
-        font-size: 0.82rem;
-        text-transform: uppercase;
-        text-decoration: none;
-        transition: all 0.15s ease;
+    a {
+      display: inline-block;
+      padding: 0.35rem 1rem;
+      color: $cream;
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      text-decoration: none;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
 
-        &:hover {
-          border-color: $magenta;
-          color: $magenta;
-          background: rgba($magenta, 0.05);
-          box-shadow: 2px 2px 0 rgba($magenta, 0.15);
-          text-decoration: none;
-        }
+      &.active-link {
+        outline: 3px solid $ink;
+        outline-offset: 2px;
       }
     }
   }
+
+  // ── Category heading ───────────────────────────────────────────────────────
 
   .category-name {
-    font-family: $font-primary;
-    font-size: 1.6rem;
-    font-weight: 800;
-    letter-spacing: 0.02em;
-    color: $magenta;
-    margin: 2rem 0 0.5rem;
-    padding-bottom: 0.3rem;
-    border-bottom: 2px solid rgba($magenta, 0.2);
+    font-family: $font-display;
+    font-style: italic;
+    font-weight: 900;
+    font-variation-settings: 'opsz' 144;
+    font-size: 2.5rem;
+    color: $cream;
+    background: $magenta;
+    padding: 0.4rem 1.5rem;
+    margin-left: -24px;
+    margin-right: -24px;
+    margin-bottom: 1.2rem;
+    box-shadow: none;
+    display: inline-block;
+    transform: rotate(-1deg);
   }
 
+  // ── Posts under a category ─────────────────────────────────────────────────
+
+  $_post-colors:    $teal,    $orange,  $magenta, $teal,    $lavender, $orange;
+  $_post-shadows:   $magenta, $ink,     $teal,    $ink,     $ink,      $magenta;
+  $_post-rotations: -1.5deg,  1.2deg,  -1deg,    1.8deg,  -0.8deg,    1.4deg;
+
   #category-posts {
-    .date {
-      display: inline-block;
-      font-family: $font-primary;
-      font-size: 0.8rem;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: rgba($ink, 0.38);
-      margin: 0 0.5rem 0 0;
+    padding: 0;
+
+    @for $i from 1 through 6 {
+      $c:   nth($_post-colors, $i);
+      $s:   nth($_post-shadows, $i);
+      $rot: nth($_post-rotations, $i);
+      li:nth-child(#{$i}) {
+        background: $c;
+        box-shadow: 5px 5px 0 $s;
+        transform: rotate($rot);
+      }
     }
 
-    li {
-      padding: 0.5rem 0 0.5rem 1rem;
-      border-left: 2px solid rgba($lavender, 0.3);
-      margin-bottom: 0.3rem;
-      transition: border-color 0.15s ease;
+    li:nth-child(6n+1) { background: $teal;     box-shadow: 5px 5px 0 $magenta; transform: rotate(-1.5deg); }
+    li:nth-child(6n+2) { background: $orange;   box-shadow: 5px 5px 0 $ink;     transform: rotate(1.2deg); }
+    li:nth-child(6n+3) { background: $magenta;  box-shadow: 5px 5px 0 $teal;    transform: rotate(-1deg); }
+    li:nth-child(6n+4) { background: $teal;     box-shadow: 5px 5px 0 $ink;     transform: rotate(1.8deg); }
+    li:nth-child(6n+5) { background: $lavender; box-shadow: 5px 5px 0 $ink;     transform: rotate(-0.8deg); }
+    li:nth-child(6n+6) { background: $orange;   box-shadow: 5px 5px 0 $magenta; transform: rotate(1.4deg); }
 
-      a {
-        color: $ink;
-        text-decoration: none;
-        &:hover { color: $magenta; }
+    li {
+      position: relative;
+      padding: 0.9rem 1.2rem;
+      margin-bottom: 1.8rem;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+      &:hover {
+        transform: rotate(0deg) translate(-2px, -2px) !important;
+        box-shadow: 8px 8px 0 $ink !important;
       }
 
-      &:hover { border-left-color: $magenta; }
+    }
+
+    .date {
+      font-family: $font-primary;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: rgba($cream, 0.7);
+      margin: 0 0 0.2rem;
+    }
+
+    a {
+      font-family: $font-display;
+      font-style: italic;
+      font-weight: 900;
+      font-size: 1.15rem;
+      color: $cream;
+      text-decoration: none;
+      display: block;
+
+      &::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+      }
+
+      &:hover { color: $cream; text-decoration: underline; }
     }
   }
 }
