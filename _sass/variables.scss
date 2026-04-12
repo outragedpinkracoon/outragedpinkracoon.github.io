@@ -1,26 +1,36 @@
-// ─── Palette ──────────────────────────────────────────────────────────────────
-$void:           #07070f;    // near-black, slight purple pull
-$hot-pink:       #ff1f6d;
-$electric-purple:#c900ff;
-$acid-teal:      #00f5d4;
-$acid-lime:      #b5ff00;
-$amber:          #ffaa00;
-$off-white:      #f5f0ff;    // barely-lavender white
+// ─── Risograph Palette ────────────────────────────────────────────────────────
+$cream:          #f7f2e8;    // uncoated risograph paper
+$ink:            #1c1714;    // warm near-black
+$magenta:        #d91a5e;    // fluorescent pink — the brand colour, non-negotiable
+$teal:           #008c84;    // risograph teal
+$yellow:         #f0c000;    // risograph yellow
+$orange:         #ef6820;    // risograph orange
+$lavender:       #a888c4;    // soft purple/lavender
+
+// ─── Compatibility aliases ─────────────────────────────────────────────────────
+// Old variable names kept so post/posts/categories scss still compile
+$void:            $ink;
+$hot-pink:        $magenta;
+$electric-purple: $lavender;
+$acid-teal:       $teal;
+$acid-lime:       $yellow;
+$amber:           $orange;
+$off-white:       $cream;
 
 // ─── Semantic ─────────────────────────────────────────────────────────────────
-$bg-color:       $void;
-$primary-color:  $hot-pink;
-$text-color:     $off-white;
+$bg-color:       $cream;
+$primary-color:  $magenta;
+$text-color:     $ink;
 
 // ─── Card accent rotation ─────────────────────────────────────────────────────
-$card-accents: $hot-pink, $electric-purple, $acid-teal, $acid-lime;
+$card-accents: $magenta, $teal, $orange, $lavender;
 
 // ─── Gradients ────────────────────────────────────────────────────────────────
-$gradient-title: linear-gradient(135deg, #ff1f6d 0%, #c900ff 40%, #00f5d4 75%, #b5ff00 100%);
-$gradient-rule:  linear-gradient(90deg, transparent 0%, $hot-pink 20%, $electric-purple 50%, $acid-teal 80%, transparent 100%);
-$gradient-cta:   linear-gradient(135deg, $hot-pink 0%, $electric-purple 100%);
+$gradient-rule:  linear-gradient(90deg, transparent, $magenta 30%, $teal 70%, transparent);
+$gradient-cta:   $magenta;
+$gradient-title: $magenta;
 
 // ─── Typography ───────────────────────────────────────────────────────────────
-$font-display:   'Cinzel Decorative', serif;   // site title — gothic roman
-$font-primary:   'Bebas Neue', sans-serif;      // all headings — condensed, loud
-$font-secondary: 'Space Grotesk', sans-serif;   // body — modern geometric
+$font-display:   'Fraunces', serif;          // site title + h1 — editorial inky serif
+$font-primary:   'Bricolage Grotesque', sans-serif; // h2–h6, nav, labels — hand-set irregular grotesque
+$font-secondary: 'Space Grotesk', sans-serif; // body — warm readable

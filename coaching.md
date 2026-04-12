@@ -7,6 +7,8 @@ subtitle: Remote 1:1 Coaching For the Under-Represented By Someone Who's Lived I
 show_cta: true
 ---
 
+<img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
+
 I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride 💅🏻
 
 I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
@@ -72,3 +74,14 @@ Get in touch via [email](mailto:coaching@outragedpinkracoon.com?subject=Coaching
 > You will find it hard to find a more passionate people manager anywhere. She is a breath of fresh air and would do everything in her power to look after her people.
 >
 > <span class='quote-author'>— Stephen Hill, Former Director @ Neogen Recruitment and all round great guy</span>
+
+---
+
+<div class="image-gallery">
+  <img src="/assets/images/brand-images/fluffy-monster-dragonfly-dark-bg.jpeg" alt="a gentle fluffy monster watching a dragonfly">
+  <img src="/assets/images/brand-images/teal-goat-creature-purple-bg.jpeg" alt="a teal goat-like creature with yellow flowers on a purple background">
+  <img src="/assets/images/brand-images/rabbit-ears-cracked-flower-pot.jpeg" alt="a tiny anxious bunny hiding in a cracked terracotta pot">
+  <img src="/assets/images/brand-images/bear-bowtie-bakery.jpeg" alt="a dapper bear in a bowler hat standing outside a bakery">
+  <img src="/assets/images/brand-images/raccoon-red-balloon.jpeg" alt="a raccoon holding a red balloon">
+  <img src="/assets/images/brand-images/rose-pink-outline-dark-bg.jpeg" alt="a white rose with a pink outline on a dark background">
+</div>
