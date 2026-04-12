@@ -31,6 +31,7 @@
     margin-left: 0;
     margin-right: 0;
     box-shadow: none;
+    &::before { display: none; }
 
     // stretched link — covers the whole li
     a {
