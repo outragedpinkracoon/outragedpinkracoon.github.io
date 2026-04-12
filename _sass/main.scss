@@ -581,11 +581,14 @@ $_card-accents: $magenta, $teal, $orange, $lavender;
 .image-gallery {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
-  margin: 1.5rem 0;
+  gap: 1.4rem;
+  margin: 2rem 0;
+  padding: 1rem;
 
   @include respond-to('medium') {
     grid-template-columns: repeat(3, 1fr);
+    gap: 1.8rem;
+    padding: 1.5rem;
   }
 
   img {
@@ -593,12 +596,22 @@ $_card-accents: $magenta, $teal, $orange, $lavender;
     display: block;
     aspect-ratio: 1;
     object-fit: cover;
-    box-shadow: 4px 4px 0 rgba($ink, 0.08);
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    box-shadow: 4px 8px 20px rgba($ink, 0.18);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    // each image gets a slightly different rotation and nudge — scattered on a table feel
+    &:nth-child(1) { transform: rotate(-3deg)   translate(2px, 1px); }
+    &:nth-child(2) { transform: rotate(2.5deg)  translate(-1px, 3px); }
+    &:nth-child(3) { transform: rotate(-1.5deg) translate(3px, -2px); }
+    &:nth-child(4) { transform: rotate(3deg)    translate(-2px, 2px); }
+    &:nth-child(5) { transform: rotate(-2.5deg) translate(1px, -1px); }
+    &:nth-child(6) { transform: rotate(1.5deg)  translate(-3px, 3px); }
 
     &:hover {
-      transform: translate(-2px, -2px);
-      box-shadow: 6px 6px 0 rgba($magenta, 0.25);
+      transform: rotate(0deg) translate(0, -4px) scale(1.04);
+      box-shadow: 6px 16px 32px rgba($ink, 0.22);
+      z-index: 1;
+      position: relative;
     }
   }
 }
