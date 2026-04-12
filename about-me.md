@@ -7,8 +7,6 @@ subtitle: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled |
 show_cta: true
 ---
 
-> Racoons are animals that don't belong anywhere, but thrive anyway!
-
 ## My story
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
