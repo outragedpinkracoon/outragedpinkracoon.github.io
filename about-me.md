@@ -9,9 +9,9 @@ show_cta: true
 
 > Racoons are animals that don't belong anywhere, but thrive anyway!
 
-<img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
-
 ## My story
+
+<img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
 I've been in tech for almost two decades and I've never had a manager that looked like me. Barely worked with anyone that looked like me — never mind the queer, neurodivergent, disabled version of me. I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. Told I lack the pedigree to be on the C-Suite. Multiple times.
 
