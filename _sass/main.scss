@@ -312,12 +312,18 @@ header {
     color: $magenta;
     text-decoration: none;
     display: inline-block;
-    // off-register risograph shadow — teal layer shifted down-right
-    text-shadow: 5px 5px 0 rgba($teal, 0.38);
     transition: text-shadow 0.2s ease;
 
+    @include respond-to('medium') {
+      // off-register risograph shadow — teal layer shifted down-right
+      text-shadow: 5px 5px 0 rgba($teal, 0.38);
+
+      &:hover {
+        text-shadow: 7px 7px 0 rgba($teal, 0.5), -3px -2px 0 rgba($lavender, 0.2);
+      }
+    }
+
     &:hover {
-      text-shadow: 7px 7px 0 rgba($teal, 0.5), -3px -2px 0 rgba($lavender, 0.2);
       text-decoration: none;
       color: $magenta;
     }
