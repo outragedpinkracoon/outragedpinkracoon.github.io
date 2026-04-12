@@ -197,48 +197,31 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0;
+  gap: 0.4rem;
   padding: 1.4rem 1rem 0;
   font-family: $font-primary;
   font-size: 0.82rem;
-  font-weight: 600;
+  font-weight: 800;
   letter-spacing: 0.16em;
   text-transform: uppercase;
 
-  a {
-    color: rgba($ink, 0.5);
-    padding: 0.3rem 1rem;
-    text-decoration: none;
-    position: relative;
-    transition: color 0.15s ease;
+  $_nav-colors: $magenta, $teal, $orange, $lavender, $ink;
 
-    &::after {
-      content: '';
-      position: absolute;
-      bottom: 0;
-      left: 1rem;
-      right: 1rem;
-      height: 2px;
-      background: $magenta;
-      transform: scaleX(0);
-      transition: transform 0.2s ease;
-      transform-origin: left;
-    }
-
-    &:hover, &.active-link {
-      color: $ink;
-      text-decoration: none;
-      &::after { transform: scaleX(1); }
+  @for $i from 1 through 5 {
+    $c: nth($_nav-colors, $i);
+    a:nth-child(#{$i}) {
+      color: $c;
+      &:hover, &.active-link {
+        background: $c;
+        color: $cream;
+      }
     }
   }
 
-  // dot separators
-  a + a::before {
-    content: '·';
-    position: absolute;
-    left: -0.05rem;
-    color: rgba($ink, 0.2);
-    pointer-events: none;
+  a {
+    padding: 0.25rem 0.8rem;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
   }
 }
 
