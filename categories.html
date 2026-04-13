@@ -3,6 +3,7 @@ layout: default
 permalink: /categories/
 title: Categories
 ---
+<h1 class="sr-only">Categories</h1>
 <div id='categories'>
   <ul id='category-name-list'>
     {% for category in site.categories %}
@@ -35,11 +36,15 @@ title: Categories
 <script>
   const urlParams = new URLSearchParams(window.location.search);
   const param = urlParams.get('q');
-  const postsElement = document.getElementById("posts-"+param)
+  const postsElement = document.getElementById("posts-"+param);
 
-  postsElement.classList.remove("hidden");
-  postsElement.classList.add('active-posts')
+  if (postsElement) {
+    postsElement.classList.remove("hidden");
+    postsElement.classList.add('active-posts');
+  }
 
-  const nameElement = document.getElementById("name-"+param)
-  nameElement.classList.add('active-link')
+  const nameElement = document.getElementById("name-"+param);
+  if (nameElement) {
+    nameElement.classList.add('active-link');
+  }
 </script>
