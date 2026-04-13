@@ -25,6 +25,7 @@
       <div class="display-settings">
         <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel" aria-label="Display settings">Aa</button>
         <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-label="Display settings">
+          <div class="panel-close"><button aria-label="Close display settings">✕</button></div>
           <h2>Make it work for you</h2>
           <label class="setting-row">
             <input type="checkbox" id="toggle-reading-mode"> Reading mode
@@ -110,6 +111,16 @@
         var open = panel.classList.toggle('is-open');
         toggleBtn.setAttribute('aria-expanded', String(open));
       });
+
+      // Close button (mobile)
+      var closeBtn = panel.querySelector('.panel-close button');
+      if (closeBtn) {
+        closeBtn.addEventListener('click', function() {
+          panel.classList.remove('is-open');
+          toggleBtn.setAttribute('aria-expanded', 'false');
+          toggleBtn.focus();
+        });
+      }
 
       // Close on outside click
       document.addEventListener('click', function(e) {

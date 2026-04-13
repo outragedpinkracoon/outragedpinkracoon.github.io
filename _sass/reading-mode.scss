@@ -127,7 +127,14 @@ body.cb-red-green {
 
   // Header wordmark + rules
   header {
-    a { color: $cb-blue; text-shadow: 5px 5px 0 rgba($cb-sky, 0.38); }
+    a {
+      color: $cb-blue;
+      text-shadow: 5px 5px 0 rgba($cb-sky, 0.38);
+      &:hover {
+        color: $cb-blue;
+        text-shadow: 7px 7px 0 rgba($cb-sky, 0.5), -3px -2px 0 rgba($cb-amber, 0.2);
+      }
+    }
     &::before { background: $cb-blue; }
     &::after  { background: $cb-amber; }
   }
@@ -295,7 +302,10 @@ body.cb-blue-yellow {
   }
 
   // Header wordmark — magenta safe, but teal shadow unsafe
-  header a { text-shadow: 5px 5px 0 rgba($tri-green, 0.38); }
+  header a {
+    text-shadow: 5px 5px 0 rgba($tri-green, 0.38);
+    &:hover { text-shadow: 7px 7px 0 rgba($tri-green, 0.5), -3px -2px 0 rgba($tri-red, 0.2); }
+  }
   header::after { background: $tri-green; }
 
   // CTAs — magenta bg safe, swap teal shadow
@@ -671,11 +681,44 @@ body.cb-greyscale {
 
   &.is-open { display: block; }
 
-  // On small screens, anchor to left instead of right
-  @media (max-width: 480px) {
-    right: auto;
+  // On mobile — drop from top, full viewport width
+  @media (max-width: 600px) {
+    position: fixed;
+    top: 0;
     left: 0;
-    min-width: 200px;
+    right: 0;
+    min-width: 0;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    box-shadow: 0 5px 0 #1c1714;
+    padding: 1rem 1.2rem 1.4rem;
+  }
+
+  .panel-close {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0.8rem;
+
+    button {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: #1c1714;
+      padding: 0.2rem 0.4rem;
+      line-height: 1;
+      min-height: 44px;
+      min-width: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      &:focus-visible {
+        outline: 3px solid #1c1714;
+        outline-offset: 2px;
+      }
+    }
   }
 
   h2 {
