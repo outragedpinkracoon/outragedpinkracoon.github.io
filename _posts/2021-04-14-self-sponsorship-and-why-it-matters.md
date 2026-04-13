@@ -12,7 +12,7 @@ This article explains three simple steps you can take straight away to start sel
 
 I want to share an excellent image from [Better Allies](https://twitter.com/betterallies) beautifully encapsulating what sponsorship means.
 
-![sponsorship poster](/assets/images/self-sponsorship/1.jpeg)
+![Better Allies poster illustrating the difference between a mentor who offers advice, an advocate who speaks up in the room, and a sponsor who uses their capital to open doors](/assets/images/self-sponsorship/1.jpeg)
 
 In an ideal world, our superiors and peers will be doing this. However, they may be overburdened and stretched too thin, new to their role or any number of other reasons that lead to it not happening.
 

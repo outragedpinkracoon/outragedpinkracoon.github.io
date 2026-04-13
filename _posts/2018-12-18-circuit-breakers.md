@@ -19,7 +19,7 @@ This article assumes the reader has:
 ## Scenario
 In this example we have an app, CatTastic, that collects cat gifs from lots of sources then serves them up to users. It also serves up its own api for other apps to consume, one of which is the CatTastic Mobile App.
 
-![architecture overview diagram](/assets/images/circuit-breakers/1.svg)
+![Architecture diagram of CatTastic app with healthy connections to third party gif sources, the web app, mobile app and third party consumers](/assets/images/circuit-breakers/1.svg)
 
 If everything is healthy, the third party gif site will return quickly, say less than a second, and CatTastic will continue doing its job of sending back gifs to users in the web app and results back from it's api to the mobile app and third party apps.
 
@@ -56,7 +56,7 @@ In programming, we can use this same concept to stop our app from keeling over w
 ## A World with Circuit Breakers
 Let's return to our CatTastic example at the point where Gifatron goes down, but this time CatTastic Web is protected by a circuit breaker.
 
-![architecture overview diagram one service down](/assets/images/circuit-breakers/4.svg)
+![Architecture diagram showing CatTastic with a circuit breaker protecting it from the downed Gifatron service, preventing cascading failure](/assets/images/circuit-breakers/4.svg)
 
 Gifatron is down and initially nothing is different. We get timeouts that we need to wait a minute for, and we can't respond to our callers. However, after a certain threshold of calls and errors received from Gifatron we 'open' the circuit so that no more requests are being made to that service.
 

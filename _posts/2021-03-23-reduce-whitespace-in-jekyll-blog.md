@@ -14,7 +14,7 @@ It got weirder still, because when I opened the inspect window I saw this extra 
 
 Turns out, when you use the squiggle bracket to evaluate content (see below), it will render a new line _even if it evaluates false_.
 
-![example jekyll template](/assets/images/jekyll-space/6.png)
+![Jekyll Liquid template using standard squiggle bracket syntax, which renders a new line even when the condition evaluates false](/assets/images/jekyll-space/6.png)
 
 To fix this, we need to insert a '-' character beside the closing and opening brackets.
 

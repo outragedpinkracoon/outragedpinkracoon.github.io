@@ -85,7 +85,7 @@ When we put the two dimensions of care personally and challenge directly togethe
 
 We can think of Radical Candor as part of a matrix, where we can start to label what type of feedback we give when one of the core components is absent.
 
-![matrix of radical candor dimensions](/assets/images/radical-candor/1.png)
+![Radical Candor matrix with axes Care Personally and Challenge Directly, showing four quadrants: Radical Candor, Ruinous Empathy, Obnoxious Aggression, and Manipulative Insincerity](/assets/images/radical-candor/1.png)
 
 It’s important to remember that these describe the type of feedback given, not the person giving the feedback. Labelling a person like this implies that a core personality trait needs to be altered rather than a behaviour. Behaviours are generally easier to address and change than personalities.
 
