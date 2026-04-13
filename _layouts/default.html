@@ -25,11 +25,21 @@
         <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel" aria-label="Display settings">Display</button>
         <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-label="Display settings">
           <h2>Make it work for you</h2>
-          <label>
+          <label class="setting-row">
             <input type="checkbox" id="toggle-reading-mode"> Reading mode
           </label>
-          <label>
-            <input type="checkbox" id="toggle-cb-red-green"> Red and green look similar to me
+          <p class="setting-group-label">Colour vision</p>
+          <label class="setting-row">
+            <input type="radio" name="colour-mode" id="toggle-cb-none" value="none" checked> Full colour
+          </label>
+          <label class="setting-row">
+            <input type="radio" name="colour-mode" id="toggle-cb-red-green" value="red-green"> Red and green look similar to me
+          </label>
+          <label class="setting-row">
+            <input type="radio" name="colour-mode" id="toggle-cb-blue-yellow" value="blue-yellow"> Blue and yellow look similar to me
+          </label>
+          <label class="setting-row">
+            <input type="radio" name="colour-mode" id="toggle-cb-greyscale" value="greyscale"> I see mostly in greyscale
           </label>
         </div>
       </div>
@@ -56,18 +66,31 @@
       var toggleBtn = document.querySelector('.display-settings-toggle');
       var panel = document.getElementById('display-settings-panel');
       var readingCheck = document.getElementById('toggle-reading-mode');
-      var cbCheck = document.getElementById('toggle-cb-red-green');
+      var colourModes = ['red-green', 'blue-yellow', 'greyscale'];
+      var colourClasses = { 'red-green': 'cb-red-green', 'blue-yellow': 'cb-blue-yellow', 'greyscale': 'cb-greyscale' };
+
 
       // Restore saved preferences
       var readingOn = localStorage.getItem('reading-mode') === 'true';
-      var cbOn = localStorage.getItem('cb-red-green') === 'true';
+      var savedColour = localStorage.getItem('colour-mode') || 'none';
 
       function applyModes() {
+        // Reading mode
         body.classList.toggle('reading-mode', readingOn);
-        body.classList.toggle('cb-red-green', cbOn);
         readingCheck.checked = readingOn;
-        cbCheck.checked = cbOn;
-        toggleBtn.dataset.active = String(readingOn || cbOn);
+
+        // Colour mode — remove all, apply saved
+        colourModes.forEach(function(m) { body.classList.remove(colourClasses[m]); });
+        if (savedColour !== 'none' && colourClasses[savedColour]) {
+          body.classList.add(colourClasses[savedColour]);
+        }
+
+        // Sync radio buttons
+        var radio = document.querySelector('input[name="colour-mode"][value="' + savedColour + '"]');
+        if (radio) radio.checked = true;
+
+        // Display button active state
+        toggleBtn.dataset.active = String(readingOn || savedColour !== 'none');
       }
 
       applyModes();
@@ -95,17 +118,20 @@
         }
       });
 
-      // Checkbox listeners
+      // Reading mode checkbox
       readingCheck.addEventListener('change', function() {
         readingOn = this.checked;
         localStorage.setItem('reading-mode', readingOn);
         applyModes();
       });
 
-      cbCheck.addEventListener('change', function() {
-        cbOn = this.checked;
-        localStorage.setItem('cb-red-green', cbOn);
-        applyModes();
+      // Colour mode radio group
+      document.querySelectorAll('input[name="colour-mode"]').forEach(function(radio) {
+        radio.addEventListener('change', function() {
+          savedColour = this.value;
+          localStorage.setItem('colour-mode', savedColour);
+          applyModes();
+        });
       });
     })();
   </script>
