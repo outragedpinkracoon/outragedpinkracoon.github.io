@@ -21,7 +21,18 @@
       <a href='/coaching' {% if page.url == '/coaching/' or page.url == '/coaching' %}aria-current="page"{% endif %}>Coaching</a>
       <a href='/blog' {% if page.url == '/blog/' or page.url == '/blog' %}aria-current="page"{% endif %}>Blog</a>
       <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank' rel="noopener noreferrer">LinkedIn</a>
-      <button class="reading-mode-toggle" aria-pressed="false" aria-label="Toggle reading mode">Reading mode</button>
+      <div class="display-settings">
+        <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel" aria-label="Display settings">Display</button>
+        <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-label="Display settings">
+          <h2>Make it work for you</h2>
+          <label>
+            <input type="checkbox" id="toggle-reading-mode"> Reading mode
+          </label>
+          <label>
+            <input type="checkbox" id="toggle-cb-red-green"> Red and green look similar to me
+          </label>
+        </div>
+      </div>
     </nav>
     <header><a href='/'>OUTRAGED RACOON COACHING</a></header>
       {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
@@ -41,21 +52,60 @@
   </footer>
   <script>
     (function() {
-      var btn = document.querySelector('.reading-mode-toggle');
       var body = document.body;
-      var active = localStorage.getItem('reading-mode') === 'true';
+      var toggleBtn = document.querySelector('.display-settings-toggle');
+      var panel = document.getElementById('display-settings-panel');
+      var readingCheck = document.getElementById('toggle-reading-mode');
+      var cbCheck = document.getElementById('toggle-cb-red-green');
 
-      function apply(on) {
-        body.classList.toggle('reading-mode', on);
-        btn.setAttribute('aria-pressed', String(on));
+      // Restore saved preferences
+      var readingOn = localStorage.getItem('reading-mode') === 'true';
+      var cbOn = localStorage.getItem('cb-red-green') === 'true';
+
+      function applyModes() {
+        body.classList.toggle('reading-mode', readingOn);
+        body.classList.toggle('cb-red-green', cbOn);
+        readingCheck.checked = readingOn;
+        cbCheck.checked = cbOn;
+        toggleBtn.dataset.active = String(readingOn || cbOn);
       }
 
-      apply(active);
+      applyModes();
 
-      btn.addEventListener('click', function() {
-        active = !active;
-        apply(active);
-        localStorage.setItem('reading-mode', active);
+      // Panel open/close
+      toggleBtn.addEventListener('click', function() {
+        var open = panel.classList.toggle('is-open');
+        toggleBtn.setAttribute('aria-expanded', String(open));
+      });
+
+      // Close on outside click
+      document.addEventListener('click', function(e) {
+        if (!toggleBtn.contains(e.target) && !panel.contains(e.target)) {
+          panel.classList.remove('is-open');
+          toggleBtn.setAttribute('aria-expanded', 'false');
+        }
+      });
+
+      // Close on Escape
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && panel.classList.contains('is-open')) {
+          panel.classList.remove('is-open');
+          toggleBtn.setAttribute('aria-expanded', 'false');
+          toggleBtn.focus();
+        }
+      });
+
+      // Checkbox listeners
+      readingCheck.addEventListener('change', function() {
+        readingOn = this.checked;
+        localStorage.setItem('reading-mode', readingOn);
+        applyModes();
+      });
+
+      cbCheck.addEventListener('change', function() {
+        cbOn = this.checked;
+        localStorage.setItem('cb-red-green', cbOn);
+        applyModes();
       });
     })();
   </script>

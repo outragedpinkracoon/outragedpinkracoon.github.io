@@ -1,6 +1,6 @@
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // READING MODE
-// Applied via body.reading-mode, toggled by the reading mode button.
+// Applied via body.reading-mode
 // Swaps to Atkinson Hyperlegible, softens saturated yellows, nudges spacing.
 // Layout, colours, personality and tilts are all preserved.
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -8,10 +8,9 @@
 $reading-font: 'Atkinson Hyperlegible', sans-serif;
 
 // Softened palette — same hues, lower saturation
-$reading-yellow:  #e8d98a;   // warm amber, less vibration than #f0c000
-$reading-magenta: #c4547e;   // dusty rose
-$reading-teal:    #3a8a84;   // slightly muted
-$reading-orange:  #d4672a;   // slightly muted
+$reading-yellow:  #e8d98a;
+$reading-magenta: #c4547e;
+$reading-teal:    #3a8a84;
 
 body.reading-mode {
   font-family: $reading-font;
@@ -19,7 +18,6 @@ body.reading-mode {
   letter-spacing: 0.01em;
   word-spacing: 0.05em;
 
-  // Body text — slightly wider spacing
   p, li, td, blockquote {
     letter-spacing: 0.01em;
     word-spacing: 0.05em;
@@ -33,13 +31,10 @@ body.reading-mode {
   // Drop text shadow from wordmark — reduces visual noise
   header a {
     text-shadow: none;
-
-    &:hover {
-      text-shadow: none;
-    }
+    &:hover { text-shadow: none; }
   }
 
-  // Card titles, post links, and blog list titles use Fraunces — swap those too
+  // Card titles, post links, blog list titles
   .card h3,
   .pricing-amount,
   #recent-posts li a,
@@ -51,10 +46,7 @@ body.reading-mode {
   // Soften blockquotes
   blockquote {
     background: $reading-yellow;
-
-    &::before {
-      color: $reading-magenta;
-    }
+    &::before { color: $reading-magenta; }
   }
 
   // Soften callouts
@@ -75,15 +67,114 @@ body.reading-mode {
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// TOGGLE BUTTON
+// RED-GREEN COLOUR BLIND MODE (deuteranopia + protanopia)
+// Applied via body.cb-red-green
+// Replaces magenta/teal/orange/lavender with Okabe-Ito safe equivalents.
+// Can be used alongside reading-mode.
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-.reading-mode-toggle {
-  display: flex;
+// Safe palette — Okabe-Ito based
+$cb-blue:       #0072B2;   // replaces magenta
+$cb-amber:      #E69F00;   // replaces teal
+$cb-yellow:     #F0E442;   // replaces yellow (already fairly safe, brightened)
+$cb-vermillion: #D55E00;   // replaces orange
+$cb-sky:        #56B4E9;   // replaces lavender
+
+body.cb-red-green {
+  // Nav link colours — override the nth-child colour loop
+  nav {
+    // magenta → blue, teal → amber, orange → vermillion, lavender → sky, ink stays
+    $_cb-nav: $cb-blue, $cb-amber, $cb-vermillion, $cb-sky, #1c1714;
+
+    @for $i from 1 through 5 {
+      $c: nth($_cb-nav, $i);
+      a:nth-child(#{$i}) {
+        color: $c;
+        &:hover, &.active-link {
+          background: $c;
+          color: #f7f2e8;
+        }
+      }
+    }
+  }
+
+  // Card accent borders — override the nth-child colour loop
+  .card-grid .card {
+    $_cb-cards: $cb-blue, $cb-amber, $cb-vermillion, $cb-sky;
+    @for $i from 1 through 4 {
+      $c: nth($_cb-cards, $i);
+      &:nth-child(#{$i}) {
+        border-top-color: $c;
+        box-shadow: 4px 4px 0 $c;
+        &:hover { box-shadow: 6px 6px 0 $c; }
+      }
+    }
+  }
+
+  // Blockquotes
+  blockquote {
+    background: $cb-yellow;
+    &::before { color: $cb-blue; }
+  }
+
+  // Callouts
+  .callout {
+    background: $cb-yellow;
+    box-shadow: 6px 6px 0 $cb-blue;
+
+    &--teal {
+      background: $cb-amber;
+      color: #1c1714;
+      box-shadow: 6px 6px 0 #1c1714;
+    }
+
+    &--yellow {
+      background: $cb-yellow;
+      box-shadow: 6px 6px 0 $cb-blue;
+    }
+  }
+
+  // Recent posts list bg colours
+  #recent-posts {
+    $_cb-posts: $cb-amber, $cb-vermillion, $cb-blue;
+    @for $i from 1 through 3 {
+      li:nth-child(#{$i}) { background: nth($_cb-posts, $i); }
+    }
+  }
+
+  // H2 banners — magenta gradient → blue
+  h2 {
+    background: $cb-blue;
+    color: #f7f2e8;
+  }
+
+  // Header wordmark link
+  header a { color: $cb-blue; }
+
+  // CTAs
+  .header-cta {
+    background: $cb-blue;
+    &:hover { background: darken($cb-blue, 10%); }
+  }
+
+  // Footer border
+  footer { border-top-color: $cb-blue; }
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// SETTINGS PANEL
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.display-settings {
+  position: relative;
+  display: inline-flex;
   align-items: center;
-  justify-content: center;
-  gap: 0.4rem;
-  margin: 0.6rem auto 0;
+}
+
+.display-settings-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
   padding: 0.3rem 0.9rem;
   background: transparent;
   border: 2px solid #1c1714;
@@ -96,6 +187,9 @@ body.reading-mode {
   color: #1c1714;
   cursor: pointer;
   transition: background 0.15s ease, color 0.15s ease;
+  min-height: 44px;
+  min-width: 44px;
+  white-space: nowrap;
 
   &:hover {
     background: #1c1714;
@@ -107,13 +201,72 @@ body.reading-mode {
     outline-offset: 2px;
   }
 
-  // Active state when reading mode is on
-  &[aria-pressed="true"] {
+  // Filled when any mode is active
+  &[data-active="true"] {
     background: #1c1714;
     color: #f7f2e8;
   }
+}
 
-  // Readable on mobile — ensure min tap target
-  min-height: 44px;
-  min-width: 44px;
+.display-settings-panel {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  right: 0;
+  z-index: 1000;
+  background: #f7f2e8;
+  border: 3px solid #1c1714;
+  box-shadow: 5px 5px 0 #1c1714;
+  padding: 1.2rem 1.4rem;
+  min-width: 240px;
+  font-family: 'Bricolage Grotesque', sans-serif;
+
+  &.is-open { display: block; }
+
+  // On small screens, anchor to left instead of right
+  @media (max-width: 480px) {
+    right: auto;
+    left: 0;
+    min-width: 200px;
+  }
+
+  h2 {
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #1c1714;
+    margin: 0 0 1rem;
+    padding: 0;
+    background: none;
+    color: #1c1714;
+    // Override the h2 banner styles
+    display: block;
+    border: none;
+    text-shadow: none;
+  }
+
+  label {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.6rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1.4;
+    cursor: pointer;
+    padding: 0.4rem 0;
+
+    & + label {
+      border-top: 1px solid rgba(#1c1714, 0.15);
+    }
+
+    input[type="checkbox"] {
+      margin-top: 0.15em;
+      flex-shrink: 0;
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+      accent-color: #1c1714;
+    }
+  }
 }
