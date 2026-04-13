@@ -69,7 +69,7 @@ If you want to get fancy there are split keyboards like [http://keyboard.io/](ht
 
 There’s also [http://www.wasdkeyboards.com/index.php](http://www.wasdkeyboards.com/index.php) for a more standard but highly customisable keyboard or when you feel ultra confident the [happy hacking keyboard](https://www.amazon.co.uk/PFU-Hacking-Keyboard-Professional2-PD-KB400B/dp/B000EXZ0VC). My current keyboard is the Majestouch 2 by [Filco](http://www.filcokeyboards.co.uk/), it's really well built and was a reasonable price. And it's yellow so I love it.
 
-![my keyboard](/assets/images/touch-typing/1.jpg)
+![Yellow Filco Majestouch 2 mechanical keyboard — a well-built mid-range option recommended for touch typing practice](/assets/images/touch-typing/1.jpg)
 
 Treating yourself to a new keyboard once you hit a certain proficiency might be a good way to encourage you to stick to your touch typing practice…
 

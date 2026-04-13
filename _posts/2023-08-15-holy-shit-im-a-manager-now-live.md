@@ -21,4 +21,4 @@ Become the engineering manager everyone wishes they had by mastering the craft a
 
 Sign up [for the course](https://www.holyshitimamanager.com/course/engineering-manager-first-aid?previouspage=home&isenrolled=no#/home) now!
 
-![commuter racoon](/assets/images/holy-shit/commuter-racoon.jpeg)
+![A raccoon in a suit commuting to work, looking determined — celebrating the launch of Holy Sh*t I'm A Manager course](/assets/images/holy-shit/commuter-racoon.jpeg)
