@@ -30,8 +30,8 @@ body.reading-mode {
 
   // Drop text shadow from wordmark — reduces visual noise
   header a {
-    text-shadow: none;
-    &:hover { text-shadow: none; }
+    text-shadow: none !important;
+    &:hover { text-shadow: none !important; }
   }
 
   // Card titles, post links, blog list titles
@@ -76,43 +76,82 @@ body.reading-mode {
 // Safe palette — Okabe-Ito based
 $cb-blue:       #0072B2;   // replaces magenta
 $cb-amber:      #E69F00;   // replaces teal
-$cb-yellow:     #F0E442;   // replaces yellow (already fairly safe, brightened)
+$cb-yellow:     #F0E442;   // replaces yellow
 $cb-vermillion: #D55E00;   // replaces orange
 $cb-sky:        #56B4E9;   // replaces lavender
 
 body.cb-red-green {
-  // Nav link colours — override the nth-child colour loop
-  nav {
-    // magenta → blue, teal → amber, orange → vermillion, lavender → sky, ink stays
-    $_cb-nav: $cb-blue, $cb-amber, $cb-vermillion, $cb-sky, #1c1714;
+  // Body links
+  a { color: $cb-blue; text-decoration-color: rgba($cb-blue, 0.35); }
+  a:hover { color: darken($cb-blue, 10%); text-decoration-color: $cb-blue; }
 
+  // Headings
+  h2 { background: $cb-blue; color: #f7f2e8; }
+  h3 { color: $cb-amber; border-left-color: $cb-amber; }
+  h4 { color: $cb-vermillion; }
+
+  // H1 title colour
+  h1 { color: $cb-blue; }
+
+  // Pre / code blocks
+  pre { border-left-color: $cb-amber; }
+
+  // Nav
+  nav {
+    $_cb-nav: $cb-blue, $cb-amber, $cb-vermillion, $cb-sky, #1c1714;
     @for $i from 1 through 5 {
       $c: nth($_cb-nav, $i);
       a:nth-child(#{$i}) {
         color: $c;
-        &:hover, &.active-link {
-          background: $c;
-          color: #f7f2e8;
-        }
+        &:hover, &.active-link { background: $c; color: #f7f2e8; }
       }
     }
   }
 
-  // Card accent borders — override the nth-child colour loop
+  // Header wordmark + rules
+  header {
+    a { color: $cb-blue; text-shadow: 5px 5px 0 rgba($cb-sky, 0.38); }
+    &::before { background: $cb-blue; }
+    &::after  { background: $cb-amber; }
+  }
+
+  // CTAs
+  .header-cta, .button {
+    background: $cb-blue;
+    color: #f7f2e8;
+    box-shadow: 4px 4px 0 $cb-amber;
+    &:hover { color: #f7f2e8; box-shadow: 6px 6px 0 $cb-amber; }
+  }
+  .pricing-cta {
+    background: $cb-blue;
+    color: #f7f2e8;
+    box-shadow: 4px 4px 0 $cb-amber;
+    &:hover { color: #f7f2e8; box-shadow: 6px 6px 0 $cb-amber; }
+  }
+
+  // Cards
   .card-grid .card {
-    $_cb-cards: $cb-blue, $cb-amber, $cb-vermillion, $cb-sky;
+    $_cb-accents: $cb-blue, $cb-amber, $cb-vermillion, $cb-yellow;
+    $_cb-shadows: $cb-amber, $cb-blue, $cb-sky, $cb-blue;
     @for $i from 1 through 4 {
-      $c: nth($_cb-cards, $i);
+      $bg: nth($_cb-accents, $i);
+      $sh: nth($_cb-shadows, $i);
       &:nth-child(#{$i}) {
-        border-top-color: $c;
-        box-shadow: 4px 4px 0 $c;
-        &:hover { box-shadow: 6px 6px 0 $c; }
+        background: $bg;
+        box-shadow: 8px 8px 0 $sh;
+        &:hover { box-shadow: 12px 12px 0 $sh; }
       }
     }
+    // yellow card needs ink text
+    &:nth-child(4) { color: #1c1714; h3 { color: #1c1714; } }
   }
 
   // Blockquotes
   blockquote {
+    background: $cb-yellow;
+    &::before { color: $cb-blue; }
+  }
+  #post .grt blockquote {
     background: $cb-yellow;
     &::before { color: $cb-blue; }
   }
@@ -121,44 +160,432 @@ body.cb-red-green {
   .callout {
     background: $cb-yellow;
     box-shadow: 6px 6px 0 $cb-blue;
-
-    &--teal {
-      background: $cb-amber;
-      color: #1c1714;
-      box-shadow: 6px 6px 0 #1c1714;
-    }
-
-    &--yellow {
-      background: $cb-yellow;
-      box-shadow: 6px 6px 0 $cb-blue;
-    }
+    &--teal { background: $cb-amber; color: #1c1714; box-shadow: 6px 6px 0 #1c1714; }
+    &--yellow { background: $cb-yellow; box-shadow: 6px 6px 0 $cb-blue; }
   }
 
-  // Recent posts list bg colours
+  // HR
+  hr::after { background: rgba($cb-blue, 0.35); }
+
+  // Recent posts (homepage)
   #recent-posts {
-    $_cb-posts: $cb-amber, $cb-vermillion, $cb-blue;
-    @for $i from 1 through 3 {
-      li:nth-child(#{$i}) { background: nth($_cb-posts, $i); }
+    li:nth-child(1) { background: $cb-amber;      box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(2) { background: $cb-vermillion; box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(3) { background: $cb-blue;       box-shadow: 5px 5px 0 #1c1714; }
+    li a { color: #f7f2e8; }
+  }
+
+  // Blog post list (#posts)
+  #posts {
+    li:nth-child(6n+1) { background: $cb-amber;      box-shadow: 6px 6px 0 $cb-blue; }
+    li:nth-child(6n+2) { background: $cb-vermillion; box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+3) { background: $cb-blue;       box-shadow: 6px 6px 0 $cb-amber; }
+    li:nth-child(6n+4) { background: $cb-amber;      box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+5) { background: $cb-sky;        box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+6) { background: $cb-vermillion; box-shadow: 6px 6px 0 $cb-blue; }
+  }
+
+  // Categories — pill nav
+  #categories #category-name-list {
+    li:nth-child(6n+1) a { background: $cb-blue;       box-shadow: 4px 4px 0 $cb-amber; }
+    li:nth-child(6n+2) a { background: $cb-amber;      box-shadow: 4px 4px 0 $cb-blue; }
+    li:nth-child(6n+3) a { background: $cb-vermillion; box-shadow: 4px 4px 0 #1c1714; }
+    li:nth-child(6n+4) a { background: $cb-sky;        box-shadow: 4px 4px 0 #1c1714; }
+    li:nth-child(6n+5) a { background: #1c1714;        box-shadow: 4px 4px 0 $cb-blue; }
+    li:nth-child(6n+6) a { background: $cb-blue;       box-shadow: 4px 4px 0 $cb-vermillion; }
+  }
+
+  // Categories — category heading banner
+  #categories .category-name { background: $cb-blue; }
+
+  // Categories — post list
+  #category-posts {
+    li:nth-child(6n+1) { background: $cb-amber;      box-shadow: 5px 5px 0 $cb-blue; }
+    li:nth-child(6n+2) { background: $cb-vermillion; box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+3) { background: $cb-blue;       box-shadow: 5px 5px 0 $cb-amber; }
+    li:nth-child(6n+4) { background: $cb-amber;      box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+5) { background: $cb-sky;        box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+6) { background: $cb-vermillion; box-shadow: 5px 5px 0 $cb-blue; }
+  }
+
+  // Post body
+  #post {
+    .post-body img:nth-of-type(odd)  { box-shadow: 8px 8px 0 $cb-blue; }
+    .post-body img:nth-of-type(even) { box-shadow: 8px 8px 0 $cb-amber; }
+    .post-body > p:first-of-type::first-letter { color: $cb-blue; }
+    strong { color: $cb-blue; }
+    em { color: $cb-amber; }
+    .metadata { border-left-color: rgba($cb-sky, 0.5); }
+    .categories a {
+      border-color: rgba($cb-amber, 0.4);
+      color: $cb-amber;
+      &:hover { background: rgba($cb-amber, 0.08); box-shadow: 2px 2px 0 rgba($cb-amber, 0.3); }
+    }
+    .grt blockquote::before { color: $cb-blue; }
+  }
+
+  // Image gallery shadows
+  .image-gallery {
+    img:nth-child(1) { box-shadow:  6px  6px 0 $cb-blue; }
+    img:nth-child(2) { box-shadow:  6px  6px 0 $cb-amber; }
+    img:nth-child(3) { box-shadow:  6px  6px 0 $cb-vermillion; }
+    img:nth-child(4) { box-shadow: -6px  6px 0 $cb-sky; }
+    img:nth-child(5) { box-shadow: -6px  6px 0 $cb-blue; }
+    img:nth-child(6) { box-shadow:  6px -6px 0 $cb-amber; }
+  }
+
+  // Pricing
+  .pricing-card--featured { border-color: $cb-blue; border-bottom-color: $cb-blue; box-shadow: 5px 5px 0 $cb-amber; }
+  .pricing-amount { color: $cb-blue; text-shadow: 3px 3px 0 rgba($cb-amber, 0.3); }
+  .pricing-badge { background: $cb-amber; }
+
+  // Footer
+  footer { border-top-color: $cb-blue; }
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// BLUE-YELLOW COLOUR BLIND MODE (tritanopia)
+// Applied via body.cb-blue-yellow
+// Yellow and blue unsafe — replaced with red/green safe alternatives.
+// Magenta and orange are safe and kept.
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$tri-green:   #2E8B3A;   // replaces teal (teal is blue-ish, unsafe)
+$tri-coral:   #E8604C;   // replaces yellow (yellow unsafe for tritanopia)
+$tri-red:     #C0392B;   // replaces lavender (purple is blue-ish, unsafe)
+
+body.cb-blue-yellow {
+  // Body links — magenta is safe, keep it
+  // Headings
+  h3 { color: $tri-green; border-left-color: $tri-green; }
+  // h2 stays magenta — safe
+  // h4 stays orange — safe
+
+  // Pre / code
+  pre { border-left-color: $tri-green; }
+
+  // Nav — teal→green, lavender→red, yellow stays, magenta stays, orange stays
+  nav {
+    $_tri-nav: #d91a5e, $tri-green, #ef6820, $tri-red, #1c1714;
+    @for $i from 1 through 5 {
+      $c: nth($_tri-nav, $i);
+      a:nth-child(#{$i}) {
+        color: $c;
+        &:hover, &.active-link { background: $c; color: #f7f2e8; }
+      }
     }
   }
 
-  // H2 banners — magenta gradient → blue
-  h2 {
-    background: $cb-blue;
+  // Header wordmark — magenta safe, but teal shadow unsafe
+  header a { text-shadow: 5px 5px 0 rgba($tri-green, 0.38); }
+  header::after { background: $tri-green; }
+
+  // CTAs — magenta bg safe, swap teal shadow
+  .header-cta, .button {
+    background: #d91a5e;
     color: #f7f2e8;
+    box-shadow: 4px 4px 0 $tri-green;
+    &:hover { color: #f7f2e8; box-shadow: 6px 6px 0 $tri-green; }
+  }
+  .pricing-cta {
+    background: #d91a5e;
+    color: #f7f2e8;
+    box-shadow: 4px 4px 0 $tri-green;
+    &:hover { color: #f7f2e8; box-shadow: 6px 6px 0 $tri-green; }
   }
 
-  // Header wordmark link
-  header a { color: $cb-blue; }
+  // Cards — replace teal and lavender, keep magenta and orange
+  .card-grid .card {
+    $_tri-accents: #d91a5e, $tri-green, #ef6820, $tri-coral;
+    $_tri-shadows: $tri-green, #d91a5e, $tri-red, #d91a5e;
+    @for $i from 1 through 4 {
+      $bg: nth($_tri-accents, $i);
+      $sh: nth($_tri-shadows, $i);
+      &:nth-child(#{$i}) {
+        background: $bg;
+        box-shadow: 8px 8px 0 $sh;
+        &:hover { box-shadow: 12px 12px 0 $sh; }
+      }
+    }
+    // coral card needs ink text
+    &:nth-child(4) { color: #1c1714; h3 { color: #1c1714; } }
+  }
+
+  // Blockquotes — replace yellow bg with coral
+  blockquote {
+    background: $tri-coral;
+    &::before { color: #d91a5e; }
+  }
+  #post .grt blockquote {
+    background: $tri-coral;
+    &::before { color: #d91a5e; }
+  }
+
+  // Callouts
+  .callout {
+    background: $tri-coral;
+    box-shadow: 6px 6px 0 #d91a5e;
+    &--teal { background: $tri-green; color: #f7f2e8; box-shadow: 6px 6px 0 #1c1714; }
+    &--yellow { background: $tri-coral; box-shadow: 6px 6px 0 #d91a5e; }
+  }
+
+  // HR
+  hr::after { background: rgba(#d91a5e, 0.35); }
+
+  // Recent posts (homepage)
+  #recent-posts {
+    li:nth-child(1) { background: $tri-green; box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(2) { background: #ef6820;    box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(3) { background: #d91a5e;    box-shadow: 5px 5px 0 #1c1714; }
+  }
+
+  // Blog post list
+  #posts {
+    li:nth-child(6n+1) { background: $tri-green; box-shadow: 6px 6px 0 #d91a5e; }
+    li:nth-child(6n+2) { background: #ef6820;    box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+3) { background: #d91a5e;    box-shadow: 6px 6px 0 $tri-green; }
+    li:nth-child(6n+4) { background: $tri-green; box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+5) { background: $tri-red;   box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+6) { background: #ef6820;    box-shadow: 6px 6px 0 #d91a5e; }
+  }
+
+  // Categories — pill nav
+  #categories #category-name-list {
+    li:nth-child(6n+1) a { background: #d91a5e;    box-shadow: 4px 4px 0 $tri-green; }
+    li:nth-child(6n+2) a { background: $tri-green; box-shadow: 4px 4px 0 #d91a5e; }
+    li:nth-child(6n+3) a { background: #ef6820;    box-shadow: 4px 4px 0 #1c1714; }
+    li:nth-child(6n+4) a { background: $tri-red;   box-shadow: 4px 4px 0 #1c1714; }
+    li:nth-child(6n+5) a { background: #1c1714;    box-shadow: 4px 4px 0 #d91a5e; }
+    li:nth-child(6n+6) a { background: #d91a5e;    box-shadow: 4px 4px 0 #ef6820; }
+  }
+
+  // Categories — heading banner
+  #categories .category-name { background: #d91a5e; }
+
+  // Categories — post list
+  #category-posts {
+    li:nth-child(6n+1) { background: $tri-green; box-shadow: 5px 5px 0 #d91a5e; }
+    li:nth-child(6n+2) { background: #ef6820;    box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+3) { background: #d91a5e;    box-shadow: 5px 5px 0 $tri-green; }
+    li:nth-child(6n+4) { background: $tri-green; box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+5) { background: $tri-red;   box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+6) { background: #ef6820;    box-shadow: 5px 5px 0 #d91a5e; }
+  }
+
+  // Post body
+  #post {
+    .post-body img:nth-of-type(odd)  { box-shadow: 8px 8px 0 #d91a5e; }
+    .post-body img:nth-of-type(even) { box-shadow: 8px 8px 0 $tri-green; }
+    em { color: $tri-green; }
+    .metadata { border-left-color: rgba($tri-red, 0.5); }
+    .categories a {
+      border-color: rgba($tri-green, 0.4);
+      color: $tri-green;
+      &:hover { background: rgba($tri-green, 0.08); box-shadow: 2px 2px 0 rgba($tri-green, 0.3); }
+    }
+    .grt blockquote::before { color: #d91a5e; }
+  }
+
+  // Image gallery
+  .image-gallery {
+    img:nth-child(1) { box-shadow:  6px  6px 0 #d91a5e; }
+    img:nth-child(2) { box-shadow:  6px  6px 0 $tri-green; }
+    img:nth-child(3) { box-shadow:  6px  6px 0 #ef6820; }
+    img:nth-child(4) { box-shadow: -6px  6px 0 $tri-red; }
+    img:nth-child(5) { box-shadow: -6px  6px 0 #d91a5e; }
+    img:nth-child(6) { box-shadow:  6px -6px 0 $tri-green; }
+  }
+
+  // Pricing
+  .pricing-card--featured { border-color: #d91a5e; border-bottom-color: #d91a5e; box-shadow: 5px 5px 0 $tri-green; }
+  .pricing-amount { text-shadow: 3px 3px 0 rgba($tri-green, 0.3); }
+  .pricing-badge { background: $tri-green; }
+
+  // Footer
+  footer { border-top-color: #d91a5e; }
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// GREYSCALE MODE (achromatopsia)
+// Applied via body.cb-greyscale
+// All colour replaced with luminance-varied greys.
+// Cards/categories use border styles (solid/dashed/dotted) to distinguish
+// elements that previously relied on colour alone.
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$gs-dark:      #1a1a1a;
+$gs-mid-dark:  #3d3d3d;
+$gs-mid:       #717171;
+$gs-mid-light: #a0a0a0;
+$gs-light:     #d4d4d4;
+
+body.cb-greyscale {
+  // Body links
+  a { color: $gs-dark; text-decoration-color: rgba($gs-dark, 0.4); }
+  a:hover { color: $gs-mid-dark; text-decoration-color: $gs-dark; }
+
+  // Headings
+  h1 { color: $gs-dark; }
+  h2 { background: $gs-dark; color: #f7f2e8; }
+  h3 { color: $gs-mid-dark; border-left-color: $gs-mid-dark; }
+  h4 { color: $gs-mid; }
+
+  // Pre / code
+  pre { border-left-color: $gs-mid; }
+
+  // Nav
+  nav {
+    $_gs-nav: $gs-dark, $gs-mid-dark, $gs-mid, $gs-mid-light, $gs-dark;
+    @for $i from 1 through 5 {
+      $c: nth($_gs-nav, $i);
+      a:nth-child(#{$i}) {
+        color: $c;
+        &:hover, &.active-link { background: $c; color: #f7f2e8; }
+      }
+    }
+  }
+
+  // Header
+  header {
+    a { color: $gs-dark; text-shadow: none; }
+    &::before { background: $gs-dark; }
+    &::after  { background: $gs-mid; }
+  }
 
   // CTAs
-  .header-cta {
-    background: $cb-blue;
-    &:hover { background: darken($cb-blue, 10%); }
+  .header-cta, .button {
+    background: $gs-dark;
+    color: #f7f2e8;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &:hover { color: #f7f2e8; box-shadow: 6px 6px 0 $gs-mid; }
+  }
+  .pricing-cta {
+    background: $gs-dark;
+    color: #f7f2e8;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &:hover { color: #f7f2e8; box-shadow: 6px 6px 0 $gs-mid; }
   }
 
-  // Footer border
-  footer { border-top-color: $cb-blue; }
+  // Cards — use border styles + grey luminance to distinguish without colour
+  .card-grid .card {
+    $_gs-bg:      $gs-dark,  $gs-mid-dark, $gs-mid,  $gs-light;
+    $_gs-shadow:  $gs-mid,   $gs-mid-light, $gs-dark, $gs-mid-dark;
+    $_gs-borders: solid,     dashed,        dotted,   solid;
+    @for $i from 1 through 4 {
+      $bg: nth($_gs-bg, $i);
+      $sh: nth($_gs-shadow, $i);
+      $b:  nth($_gs-borders, $i);
+      &:nth-child(#{$i}) {
+        background: $bg;
+        box-shadow: 8px 8px 0 $sh;
+        border-top: 4px $b #f7f2e8;
+        &:hover { box-shadow: 12px 12px 0 $sh; }
+      }
+    }
+    // light card needs dark text
+    &:nth-child(4) {
+      color: $gs-dark;
+      h3 { color: $gs-dark; }
+      p { color: rgba($gs-dark, 0.8); }
+      .card-cta { color: $gs-dark; border-bottom-color: rgba($gs-dark, 0.4); }
+    }
+  }
+
+  // Blockquotes
+  blockquote {
+    background: $gs-light;
+    &::before { color: $gs-dark; }
+  }
+  #post .grt blockquote {
+    background: $gs-light;
+    &::before { color: $gs-dark; }
+  }
+
+  // Callouts — border styles distinguish variants
+  .callout {
+    background: $gs-light;
+    box-shadow: 6px 6px 0 $gs-dark;
+    &--teal { background: $gs-mid; color: #f7f2e8; box-shadow: 6px 6px 0 $gs-dark; }
+    &--yellow { background: $gs-light; border: 3px dashed $gs-dark; box-shadow: 6px 6px 0 $gs-dark; }
+  }
+
+  // HR
+  hr::after { background: rgba($gs-mid, 0.35); }
+
+  // Recent posts (homepage)
+  #recent-posts {
+    li:nth-child(1) { background: $gs-mid;      box-shadow: 5px 5px 0 $gs-dark;     a { color: #f7f2e8; } }
+    li:nth-child(2) { background: $gs-mid-dark; box-shadow: 5px 5px 0 $gs-mid;      a { color: #f7f2e8; } }
+    li:nth-child(3) { background: $gs-dark;     box-shadow: 5px 5px 0 $gs-mid-dark; a { color: #f7f2e8; } }
+    li a { color: #f7f2e8; }
+  }
+
+  // Blog post list — border styles distinguish items
+  #posts {
+    li:nth-child(6n+1) { background: $gs-mid;       box-shadow: 6px 6px 0 $gs-dark;      border-left: 4px solid #f7f2e8; }
+    li:nth-child(6n+2) { background: $gs-mid-dark;  box-shadow: 6px 6px 0 $gs-mid;       border-left: 4px dashed #f7f2e8; }
+    li:nth-child(6n+3) { background: $gs-dark;      box-shadow: 6px 6px 0 $gs-mid-dark;  border-left: 4px dotted #f7f2e8; }
+    li:nth-child(6n+4) { background: $gs-mid;       box-shadow: 6px 6px 0 $gs-dark;      border-left: 4px solid #f7f2e8; }
+    li:nth-child(6n+5) { background: $gs-mid-light; box-shadow: 6px 6px 0 $gs-mid;       border-left: 4px dashed $gs-dark; color: $gs-dark; h2 a { color: $gs-dark; } .date { color: rgba($gs-dark, 0.7); } p { color: $gs-dark; } }
+    li:nth-child(6n+6) { background: $gs-mid-dark;  box-shadow: 6px 6px 0 $gs-mid-light; border-left: 4px dotted #f7f2e8; }
+  }
+
+  // Categories — pill nav, border styles distinguish
+  #categories #category-name-list {
+    li:nth-child(6n+1) a { background: $gs-dark;      box-shadow: 4px 4px 0 $gs-mid;       border: 2px solid #f7f2e8; }
+    li:nth-child(6n+2) a { background: $gs-mid-dark;  box-shadow: 4px 4px 0 $gs-dark;      border: 2px dashed #f7f2e8; }
+    li:nth-child(6n+3) a { background: $gs-mid;       box-shadow: 4px 4px 0 $gs-dark;      border: 2px dotted #f7f2e8; }
+    li:nth-child(6n+4) a { background: $gs-mid-light; box-shadow: 4px 4px 0 $gs-mid;       border: 2px solid $gs-dark;  color: $gs-dark; }
+    li:nth-child(6n+5) a { background: $gs-dark;      box-shadow: 4px 4px 0 $gs-mid-dark;  border: 2px dashed #f7f2e8; }
+    li:nth-child(6n+6) a { background: $gs-mid-dark;  box-shadow: 4px 4px 0 $gs-mid-light; border: 2px dotted #f7f2e8; }
+  }
+
+  // Categories — heading banner
+  #categories .category-name { background: $gs-dark; color: #f7f2e8; }
+
+  // Categories — post list
+  #category-posts {
+    li:nth-child(6n+1) { background: $gs-mid;       box-shadow: 5px 5px 0 $gs-dark;      border-left: 4px solid #f7f2e8; }
+    li:nth-child(6n+2) { background: $gs-mid-dark;  box-shadow: 5px 5px 0 $gs-mid;       border-left: 4px dashed #f7f2e8; }
+    li:nth-child(6n+3) { background: $gs-dark;      box-shadow: 5px 5px 0 $gs-mid-dark;  border-left: 4px dotted #f7f2e8; }
+    li:nth-child(6n+4) { background: $gs-mid;       box-shadow: 5px 5px 0 $gs-dark;      border-left: 4px solid #f7f2e8; }
+    li:nth-child(6n+5) { background: $gs-mid-light; box-shadow: 5px 5px 0 $gs-mid;       border-left: 4px dashed $gs-dark; a { color: $gs-dark; } .date { color: rgba($gs-dark, 0.7); } }
+    li:nth-child(6n+6) { background: $gs-mid-dark;  box-shadow: 5px 5px 0 $gs-mid-light; border-left: 4px dotted #f7f2e8; }
+  }
+
+  // Post body
+  #post {
+    .post-body img:nth-of-type(odd)  { box-shadow: 8px 8px 0 $gs-dark; }
+    .post-body img:nth-of-type(even) { box-shadow: 8px 8px 0 $gs-mid; }
+    .post-body > p:first-of-type::first-letter { color: $gs-dark; }
+    strong { color: $gs-dark; }
+    em { color: $gs-mid; }
+    .metadata { border-left-color: rgba($gs-mid, 0.5); }
+    .categories a {
+      border-color: rgba($gs-mid, 0.4);
+      color: $gs-mid-dark;
+      &:hover { background: rgba($gs-mid, 0.08); box-shadow: 2px 2px 0 rgba($gs-mid, 0.3); }
+    }
+    .grt blockquote::before { color: $gs-dark; }
+  }
+
+  // Image gallery
+  .image-gallery {
+    img:nth-child(1) { box-shadow:  6px  6px 0 $gs-dark; }
+    img:nth-child(2) { box-shadow:  6px  6px 0 $gs-mid-dark; }
+    img:nth-child(3) { box-shadow:  6px  6px 0 $gs-mid; }
+    img:nth-child(4) { box-shadow: -6px  6px 0 $gs-mid-light; }
+    img:nth-child(5) { box-shadow: -6px  6px 0 $gs-dark; }
+    img:nth-child(6) { box-shadow:  6px -6px 0 $gs-mid-dark; }
+  }
+
+  // Pricing
+  .pricing-card--featured { border-color: $gs-dark; border-bottom-color: $gs-dark; box-shadow: 5px 5px 0 $gs-mid; }
+  .pricing-amount { color: $gs-dark; text-shadow: 3px 3px 0 rgba($gs-mid, 0.3); }
+  .pricing-badge { background: $gs-mid; }
+
+  // Footer
+  footer { border-top-color: $gs-dark; }
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -246,7 +673,7 @@ body.cb-red-green {
     text-shadow: none;
   }
 
-  label {
+  .setting-row {
     display: flex;
     align-items: flex-start;
     gap: 0.6rem;
@@ -255,12 +682,12 @@ body.cb-red-green {
     line-height: 1.4;
     cursor: pointer;
     padding: 0.4rem 0;
+    border-top: 1px solid rgba(#1c1714, 0.15);
 
-    & + label {
-      border-top: 1px solid rgba(#1c1714, 0.15);
-    }
+    &:first-of-type { border-top: none; }
 
-    input[type="checkbox"] {
+    input[type="checkbox"],
+    input[type="radio"] {
       margin-top: 0.15em;
       flex-shrink: 0;
       width: 18px;
@@ -268,5 +695,15 @@ body.cb-red-green {
       cursor: pointer;
       accent-color: #1c1714;
     }
+  }
+
+  .setting-group-label {
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(#1c1714, 0.5);
+    margin: 0.8rem 0 0.2rem;
+    padding: 0;
   }
 }
