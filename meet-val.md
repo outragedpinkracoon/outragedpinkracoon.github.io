@@ -1,6 +1,6 @@
 ---
 layout: info_page
-permalink: /about-me/
+permalink: /meet-val/
 title: Meet Val
 description: ILM Certified Coach | Engineering Executive |Neurodivergent | Queer | Non-Binary | Disabled
 subtitle: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled | A Little Feral
