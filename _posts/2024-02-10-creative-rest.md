@@ -13,6 +13,6 @@ So I invite you to pause even for a brief 10 seconds while looking at this image
 
 In the fast-paced tech world, remembering to take these moments for ourselves is vital. It’s a reminder that amidst our pursuit of goals and dreams, finding time for creative rest is essential for our mental wellbeing and clarity.
 
-![racoon star-gazing image](/assets/images/creative-rest/1.jpeg)
+![A raccoon lying in a field star-gazing, representing the restorative power of creative rest and letting the mind wander](/assets/images/creative-rest/1.jpeg)
 
 [Original post on LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_aiart-selfcare-leadership-activity-7162034519179530240-_62s) if you'd like to share.

@@ -51,7 +51,7 @@ You’ve probably done these activities before and can do them without thinking.
 
 Eventually, you will have done the groundwork to set up your teams for success and can now let them fly and have room to breathe. If everything is quiet, you have done your job well. In terms of the [Eisenhower Matrix](https://www.eisenhower.me/eisenhower-matrix/), you should have few, if any, urgent/important tasks.
 
-![eisenhower matrix](/assets/images/go-time/2.jpeg)
+![Eisenhower Matrix showing four quadrants organised by urgency and importance, illustrating that good management reduces urgent tasks over time](/assets/images/go-time/2.jpeg)
 
 It is _absolutely vital_ to resist any temptation to immediately move the tasks from the other quadrants into urgent/important to protect our self-worth and fill our calendars. This is how we become the harbingers of chaos.
 

@@ -32,4 +32,4 @@ If you find yourself stuck in 10th gear, a new and slightly challenging activity
 
 Come talk to me about it on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7120672466305171456/)
 
-![racoon in a ferarri](/assets/images/struggle-to-slow/1.jpeg)
+![A raccoon speeding in a Ferrari, illustrating the compulsion to keep moving fast even when slowing down would serve us better](/assets/images/struggle-to-slow/1.jpeg)
