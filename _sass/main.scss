@@ -641,7 +641,6 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   }
 
   p { margin: 0.3rem 0; }
-  .pricing-cta { margin-top: auto; padding-top: 1.5rem; }
 }
 
 .pricing-amount {
@@ -678,6 +677,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   background: $magenta;
   color: $cream;
   box-shadow: 4px 4px 0 $teal;
+  margin-top: auto;
 
   &:hover {
     color: $cream;
