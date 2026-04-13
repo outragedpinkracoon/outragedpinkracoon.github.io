@@ -31,4 +31,4 @@ While I appreciate having the option to visit the office when I choose, it's ess
 
 [Original post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7107633709410869248/) if you'd like to share.
 
-![racoon safer work poster](/assets/images/remote-work-is-safer-work/1.jpeg)
+![Illustrated poster of a raccoon working safely from home, making the case that remote work removes commuting danger and hostile office environments](/assets/images/remote-work-is-safer-work/1.jpeg)

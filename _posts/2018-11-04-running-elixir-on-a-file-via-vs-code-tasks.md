@@ -10,7 +10,7 @@ Note this only works in a workspace, not with an individual file.
 ## CREATE A TASKS.JSON FILE IN VS CODE
 If this is not present at the root of your project inside a .vscode folder choose Tasks: Configure Task from the command palette.
 
-![vs code menu screenshot](/assets/images/elixir-vs-code-tasks/1.png)
+![VS Code command palette showing the Tasks: Configure Task option](/assets/images/elixir-vs-code-tasks/1.png)
 
 Choose the newly created tasks.json file and replace the contents with:
 ```js
@@ -37,11 +37,11 @@ The `problemMatcher` is there to stop it prompting us how we want to scan for er
 ## RUN THE TASK
 Now we can choose ‘Run task’ from the command palette and we should see our label appear in the options:
 
-![vs code menu screenshot](/assets/images/elixir-vs-code-tasks/2.png)
+![VS Code command palette showing the Run Task option with the custom run elixir label visible](/assets/images/elixir-vs-code-tasks/2.png)
 
 Upon choosing this when we are currently inside a .ex or .exs file in the editor, we should see a new terminal open with the result of our code which has been compiled in memory and then executed:
 
-![vs code menu screenshot](/assets/images/elixir-vs-code-tasks/3.png)
+![VS Code terminal showing the output of the Elixir file compiled and executed successfully via the task runner](/assets/images/elixir-vs-code-tasks/3.png)
 
 ## ADD A SHORTCUT KEY
 It gets a bit tiresome always having to go to the command palette to run our task, but we can add a keybinding to use a shortcut instead.
