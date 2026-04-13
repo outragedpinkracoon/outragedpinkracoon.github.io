@@ -1,0 +1,119 @@
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// READING MODE
+// Applied via body.reading-mode, toggled by the reading mode button.
+// Swaps to Atkinson Hyperlegible, softens saturated yellows, nudges spacing.
+// Layout, colours, personality and tilts are all preserved.
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$reading-font: 'Atkinson Hyperlegible', sans-serif;
+
+// Softened palette — same hues, lower saturation
+$reading-yellow:  #e8d98a;   // warm amber, less vibration than #f0c000
+$reading-magenta: #c4547e;   // dusty rose
+$reading-teal:    #3a8a84;   // slightly muted
+$reading-orange:  #d4672a;   // slightly muted
+
+body.reading-mode {
+  font-family: $reading-font;
+  line-height: 2.0;
+  letter-spacing: 0.01em;
+  word-spacing: 0.05em;
+
+  // Body text — slightly wider spacing
+  p, li, td, blockquote {
+    letter-spacing: 0.01em;
+    word-spacing: 0.05em;
+  }
+
+  // Headings swap font — but NOT the header wordmark (that's branding)
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $reading-font;
+  }
+
+  // Drop text shadow from wordmark — reduces visual noise
+  header a {
+    text-shadow: none;
+
+    &:hover {
+      text-shadow: none;
+    }
+  }
+
+  // Card titles, post links, and blog list titles use Fraunces — swap those too
+  .card h3,
+  .pricing-amount,
+  #recent-posts li a,
+  #posts h2 {
+    font-family: $reading-font;
+    font-style: normal;
+  }
+
+  // Soften blockquotes
+  blockquote {
+    background: $reading-yellow;
+
+    &::before {
+      color: $reading-magenta;
+    }
+  }
+
+  // Soften callouts
+  .callout {
+    background: $reading-yellow;
+    box-shadow: 6px 6px 0 $reading-magenta;
+
+    &--teal {
+      background: $reading-teal;
+      box-shadow: 6px 6px 0 #1c1714;
+    }
+
+    &--yellow {
+      background: $reading-yellow;
+      box-shadow: 6px 6px 0 $reading-magenta;
+    }
+  }
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// TOGGLE BUTTON
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.reading-mode-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  margin: 0.6rem auto 0;
+  padding: 0.3rem 0.9rem;
+  background: transparent;
+  border: 2px solid #1c1714;
+  border-radius: 2rem;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #1c1714;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    background: #1c1714;
+    color: #f7f2e8;
+  }
+
+  &:focus-visible {
+    outline: 3px solid #1c1714;
+    outline-offset: 2px;
+  }
+
+  // Active state when reading mode is on
+  &[aria-pressed="true"] {
+    background: #1c1714;
+    color: #f7f2e8;
+  }
+
+  // Readable on mobile — ensure min tap target
+  min-height: 44px;
+  min-width: 44px;
+}
