@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <link href='/favicon.ico' rel='icon' />
     <title>{{ page.title }} - {{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="stylesheet" href='/assets/css/normalize.css'>
     <link rel="stylesheet" href='/assets/css/code-syntax.css'>
     <link rel="shortcut icon" type="image/png" href="/assets/images/site/favicon.ico">
@@ -20,7 +21,7 @@
       <a href='/about-me' {% if page.url == '/about-me/' or page.url == '/about-me' %}aria-current="page"{% endif %}>Meet Val</a>
       <a href='/coaching' {% if page.url == '/coaching/' or page.url == '/coaching' %}aria-current="page"{% endif %}>Coaching</a>
       <a href='/blog' {% if page.url == '/blog/' or page.url == '/blog' %}aria-current="page"{% endif %}>Blog</a>
-      <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank' rel="noopener noreferrer">LinkedIn</a>
+      <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank' rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in new tab)</span></a>
       <div class="display-settings">
         <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel" aria-label="Display settings">Aa</button>
         <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-label="Display settings">
@@ -57,10 +58,10 @@
   <footer>
     <p class="footer-copy">&copy; 2026 Outraged Racoon Coaching&reg;</p>
     <nav class="footer-social" aria-label="Social media links">
-      <a href="https://www.linkedin.com/in/outragedpinkracoon/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-      <a href="https://www.instagram.com/outragedracoonpaws/" target="_blank" rel="noopener noreferrer">Instagram</a>
-      <a href="https://cara.app/outragedracoonpaws" target="_blank" rel="noopener noreferrer">Cara</a>
-      <a href="https://stakeholdersbook.substack.com" target="_blank" rel="noopener noreferrer">Substack</a>
+      <a href="https://www.linkedin.com/in/outragedpinkracoon/" target="_blank" rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in new tab)</span></a>
+      <a href="https://www.instagram.com/outragedracoonpaws/" target="_blank" rel="noopener noreferrer">Instagram<span class="sr-only"> (opens in new tab)</span></a>
+      <a href="https://cara.app/outragedracoonpaws" target="_blank" rel="noopener noreferrer">Cara<span class="sr-only"> (opens in new tab)</span></a>
+      <a href="https://stakeholdersbook.substack.com" target="_blank" rel="noopener noreferrer">Substack<span class="sr-only"> (opens in new tab)</span></a>
     </nav>
   </footer>
   <script>
