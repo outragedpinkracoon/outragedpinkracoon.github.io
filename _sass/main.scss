@@ -241,9 +241,9 @@ nav {
   gap: 0.4rem;
   padding: 1.4rem 1rem 0;
   font-family: $font-primary;
-  font-size: 0.82rem;
+  font-size: 0.92rem;
   font-weight: 800;
-  letter-spacing: 0.16em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 
   $_nav-colors: $magenta, $teal, $orange, $lavender, $ink;
@@ -265,9 +265,10 @@ nav {
     transition: background 0.15s ease, color 0.15s ease;
 
     &:focus-visible {
-      outline: 3px solid $ink;
-      outline-offset: 2px;
+      outline: 3px solid $cream;
+      outline-offset: 0;
       border-radius: 2px;
+      box-shadow: 0 0 0 5px $ink;
     }
   }
 }
@@ -759,11 +760,13 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     &:nth-child(5) { transform: rotate(-2.5deg) translate(1px, -1px); box-shadow: -6px  6px 0 $magenta; }
     &:nth-child(6) { transform: rotate(1.5deg)  translate(-3px, 3px); box-shadow:  6px -6px 0 $teal; }
 
-    &:hover {
-      transform: rotate(0deg) translate(0, -4px) scale(1.05);
-      filter: contrast(1.1) saturate(1.15);
-      position: relative;
-      z-index: 1;
+    @media (hover: hover) {
+      &:hover {
+        transform: rotate(0deg) translate(0, -4px) scale(1.05);
+        filter: contrast(1.1) saturate(1.15);
+        position: relative;
+        z-index: 1;
+      }
     }
   }
 }
