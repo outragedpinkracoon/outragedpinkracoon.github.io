@@ -481,7 +481,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   .card-cta {
     align-self: flex-start;
     font-family: $font-primary;
-    font-size: 0.82rem;
+    font-size: 0.9rem;
     font-weight: 700;
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -491,6 +491,10 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     position: relative;
     z-index: 1;
     transition: transform 0.15s ease, border-bottom-color 0.15s ease;
+
+    [aria-hidden="true"] {
+      font-size: 1.1em;
+    }
   }
 
   h3 a {
@@ -528,7 +532,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
       .card-cta {
         color: $cream;
-        border-bottom: 2px solid rgba($cream, 0.4);
+        border-bottom: 2px solid rgba($cream, 0.7);
         padding-bottom: 1px;
 
         &:hover {
@@ -547,7 +551,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     p { color: rgba($ink, 0.8); }
     .card-cta {
       color: $ink;
-      border-bottom-color: rgba($ink, 0.4);
+      border-bottom-color: rgba($ink, 0.7);
 
       &:hover {
         border-bottom-color: $ink;
