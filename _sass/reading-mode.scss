@@ -108,6 +108,7 @@ body.cb-red-green {
 
   // H1 title colour
   h1 { color: $cb-blue; }
+  .title-sub { color: rgba($cb-sky, 0.8); }
 
   // Pre / code blocks
   pre { border-left-color: $cb-amber; }
@@ -279,6 +280,7 @@ body.cb-blue-yellow {
 
   // Pre / code
   pre { border-left-color: $tri-green; }
+  .title-sub { color: rgba($tri-green, 0.8); }
 
   // Nav — teal→green, lavender→red, yellow stays, magenta stays, orange stays
   nav {
@@ -436,6 +438,8 @@ $gs-mid-light: #a0a0a0;
 $gs-light:     #d4d4d4;
 
 body.cb-greyscale {
+  background-color: #f0f0f0;
+
   // Body links
   a { color: $gs-dark; text-decoration-color: rgba($gs-dark, 0.4); }
   a:hover { color: $gs-mid-dark; text-decoration-color: $gs-dark; }
@@ -448,6 +452,7 @@ body.cb-greyscale {
 
   // Pre / code
   pre { border-left-color: $gs-mid; }
+  .title-sub { color: rgba($gs-mid, 0.9); }
 
   // Nav
   nav {

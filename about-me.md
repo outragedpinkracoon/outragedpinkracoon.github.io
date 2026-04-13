@@ -13,7 +13,7 @@ show_cta: true
 
 I've been in tech for almost two decades and I've never had a manager that looked like me. Barely worked with anyone that looked like me — never mind the queer, neurodivergent, disabled version of me. 
 
-I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. Told I lack the pedigree to be on the C-Suite. Multiple times. At every level, from junior dev all the way up to VP Engineering.
+I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. Told I lack the pedigree to be on the C-Suite. Multiple times. At every level, from junior dev all the way up to VP Engineering.oh 
 
 And yet. Here I am.
 
