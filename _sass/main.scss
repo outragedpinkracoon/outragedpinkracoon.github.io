@@ -234,6 +234,8 @@ img {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 nav {
+  max-width: map-get($breakpoints, 'large');
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -278,12 +280,13 @@ nav {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 header {
+  max-width: map-get($breakpoints, 'large');
+  margin: 1.2rem auto 0;
   font-family: $font-display;
   font-style: italic;
   font-weight: 900;
   text-align: center;
   line-height: 1.0;
-  margin: 1.2rem 0 0;
   padding: 1rem 1rem;
   position: relative;
   font-size: 2rem;
