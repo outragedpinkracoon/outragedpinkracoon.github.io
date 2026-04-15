@@ -4,8 +4,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <link href='/favicon.ico' rel='icon' />
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <meta name="description" content="{{ page.description | default: site.description }}">
+    {% seo %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "{{ site.url }}/#website",
+          "url": "{{ site.url }}/",
+          "name": "{{ site.title }}",
+          "description": "{{ site.description }}",
+          "inLanguage": "en-GB",
+          "publisher": { "@id": "{{ site.url }}/#person" }
+        },
+        {
+          "@type": "Person",
+          "@id": "{{ site.url }}/#person",
+          "name": "Valerie Dryden",
+          "alternateName": "Outraged Racoon",
+          "url": "{{ site.url }}/",
+          "image": "{{ site.url }}/assets/images/brand-images/Me.png",
+          "jobTitle": "ILM Certified Coach",
+          "description": "{{ site.description }}",
+          "sameAs": [
+            "https://www.linkedin.com/in/outragedpinkracoon/",
+            "https://www.instagram.com/outragedracoonpaws/",
+            "https://cara.app/outragedracoonpaws",
+            "https://stakeholdersbook.substack.com"
+          ]
+        }
+      ]
+    }
+    </script>
     <link rel="stylesheet" href='/assets/css/normalize.css'>
     <link rel="stylesheet" href='/assets/css/code-syntax.css'>
     <link rel="shortcut icon" type="image/png" href="/assets/images/site/favicon.ico">

@@ -4,7 +4,7 @@ description: A quick reference checklist to help ensure your hiring process sets
 layout: post
 categories: [hiring, management]
 ---
-This is a quick reference guide based on my blog about [how other companies tech hiring processes are costing YOU talent](https://outragedpinkracoon.com/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html). See how many items your current hiring process meets and use them as a guide if you are reworking it or starting from scratch.
+This is a quick reference guide based on my blog about [how other companies tech hiring processes are costing YOU talent](/2021/04/27/other-companies-hiring-processes-are-costing-you-talent.html). See how many items your current hiring process meets and use them as a guide if you are reworking it or starting from scratch.
 
 ## On The Job Ad
 - The requirements asked for are limited to 5 with no 'nice to have' items.
