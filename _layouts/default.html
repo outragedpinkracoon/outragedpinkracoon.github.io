@@ -33,7 +33,92 @@
             "https://cara.app/outragedracoonpaws",
             "https://stakeholdersbook.substack.com"
           ]
-        }
+        }{% if page.url == '/coaching/' or page.url == '/coaching' %},
+        {
+          "@type": "Service",
+          "@id": "{{ site.url }}/coaching/#service",
+          "name": "1:1 Coaching for Neurodivergent, Queer & Under-Represented Tech Leaders",
+          "serviceType": "Executive and leadership coaching",
+          "provider": { "@id": "{{ site.url }}/#person" },
+          "areaServed": "Worldwide",
+          "availableChannel": {
+            "@type": "ServiceChannel",
+            "serviceUrl": "{{ site.url }}/coaching/",
+            "availableLanguage": "en-GB"
+          },
+          "audience": {
+            "@type": "Audience",
+            "audienceType": "Neurodivergent, queer, non-binary, disabled, and under-represented technologists, managers, and senior leaders"
+          },
+          "description": "Remote, private 1:1 coaching for under-represented folks in tech. Blends executive coaching with 18 years of lived experience as a technologist and leader.",
+          "url": "{{ site.url }}/coaching/",
+          "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Coaching sessions",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "name": "Single session",
+                "description": "One hour, remote, one-to-one.",
+                "price": "200",
+                "priceCurrency": "GBP"
+              },
+              {
+                "@type": "Offer",
+                "name": "Bundle of 3 sessions",
+                "description": "Three one-hour remote sessions. £150 saving vs. single sessions.",
+                "price": "450",
+                "priceCurrency": "GBP"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "{{ site.url }}/coaching/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Who do you coach?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "I primarily work with women, non-binary, queer, disabled and neurodivergent people in tech — individual contributors ready to stop shrinking, new managers thrown in the deep end, senior leaders hitting a glass ceiling, and anyone feeling lost, confused or stuck in their career."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How does coaching work?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sessions are remote and one-to-one. I blend coaching — guided questioning, genuine challenge, new insight — with mentoring drawn from 18 years as a technologist and executive leader. I'm autistic, so you get directness and honesty, no performative niceness."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How much does coaching cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A single one-hour session is £200. A bundle of three sessions is £450, saving £150 compared with single sessions."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are sessions in person or remote?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All sessions are remote and private, one-to-one. Clients work with me from anywhere in the world."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I book a session?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Get in touch via email at outragedracooncoaching@gmail.com or on LinkedIn. We'll have a short chat first to figure out if we're a good fit before you commit to anything."
+              }
+            }
+          ]
+        }{% endif %}
       ]
     }
     </script>
