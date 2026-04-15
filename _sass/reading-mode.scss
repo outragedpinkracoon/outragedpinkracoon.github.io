@@ -555,12 +555,12 @@ body.cb-greyscale {
 
   // Blog post list — border styles distinguish items
   #posts {
-    li:nth-child(6n+1) { background: $gs-mid;       box-shadow: 6px 6px 0 $gs-dark;      border-left: 4px solid #f7f2e8; }
-    li:nth-child(6n+2) { background: $gs-mid-dark;  box-shadow: 6px 6px 0 $gs-mid;       border-left: 4px dashed #f7f2e8; }
-    li:nth-child(6n+3) { background: $gs-dark;      box-shadow: 6px 6px 0 $gs-mid-dark;  border-left: 4px dotted #f7f2e8; }
-    li:nth-child(6n+4) { background: $gs-mid;       box-shadow: 6px 6px 0 $gs-dark;      border-left: 4px solid #f7f2e8; }
-    li:nth-child(6n+5) { background: $gs-mid-light; box-shadow: 6px 6px 0 $gs-mid;       border-left: 4px dashed $gs-dark; color: $gs-dark; h2 a { color: $gs-dark; } .date { color: rgba($gs-dark, 0.7); } p { color: $gs-dark; } }
-    li:nth-child(6n+6) { background: $gs-mid-dark;  box-shadow: 6px 6px 0 $gs-mid-light; border-left: 4px dotted #f7f2e8; }
+    li:nth-child(6n+1) { background: $gs-mid;       box-shadow: 6px 6px 0 $gs-dark;      border-left: 4px solid #f7f2e8; &:hover { box-shadow: 10px 10px 0 $gs-dark !important; } }
+    li:nth-child(6n+2) { background: $gs-mid-dark;  box-shadow: 6px 6px 0 $gs-mid;       border-left: 4px dashed #f7f2e8; &:hover { box-shadow: 10px 10px 0 $gs-mid !important; } }
+    li:nth-child(6n+3) { background: $gs-dark;      box-shadow: 6px 6px 0 $gs-mid-dark;  border-left: 4px dotted #f7f2e8; &:hover { box-shadow: 10px 10px 0 $gs-mid-dark !important; } }
+    li:nth-child(6n+4) { background: $gs-mid;       box-shadow: 6px 6px 0 $gs-dark;      border-left: 4px solid #f7f2e8; &:hover { box-shadow: 10px 10px 0 $gs-dark !important; } }
+    li:nth-child(6n+5) { background: $gs-mid-light; box-shadow: 6px 6px 0 $gs-mid;       border-left: 4px dashed $gs-dark; color: $gs-dark; h2 a { color: $gs-dark; } .date { color: rgba($gs-dark, 0.7); } p { color: $gs-dark; } &:hover { box-shadow: 10px 10px 0 $gs-mid !important; } }
+    li:nth-child(6n+6) { background: $gs-mid-dark;  box-shadow: 6px 6px 0 $gs-mid-light; border-left: 4px dotted #f7f2e8; &:hover { box-shadow: 10px 10px 0 $gs-mid-light !important; } }
   }
 
   // Categories — pill nav, border styles distinguish
