@@ -43,4 +43,4 @@ The more you do this, the more magic you’ll unlock:
 Welcome to not being sh*t at one-to-ones my friend.  
 You won't go back, trust me.
 
-<img src="/assets/images/one-to-ones-suck/1.png" alt="ssh raccoon" style="max-height:400px;">
+<img src="/assets/images/one-to-ones-suck/1.png" alt="A cartoon raccoon holding a finger to its lips, shushing the viewer" style="max-height:400px;">
