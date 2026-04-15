@@ -15,16 +15,17 @@
       background: $c;
       box-shadow: 6px 6px 0 $s;
       transform: rotate($rot);
+      &:hover { box-shadow: 10px 10px 0 $s !important; }
     }
   }
 
   // cycle colours + rotations for any posts beyond 6
-  li:nth-child(6n+1) { background: $teal;     box-shadow: 6px 6px 0 $magenta; transform: rotate(-1.5deg); }
-  li:nth-child(6n+2) { background: $orange;   box-shadow: 6px 6px 0 $ink;     transform: rotate(1.2deg); }
-  li:nth-child(6n+3) { background: $magenta;  box-shadow: 6px 6px 0 $teal;    transform: rotate(-1deg); }
-  li:nth-child(6n+4) { background: $teal;     box-shadow: 6px 6px 0 $ink;     transform: rotate(1.8deg); }
-  li:nth-child(6n+5) { background: $lavender; box-shadow: 6px 6px 0 $ink;     transform: rotate(-0.8deg); }
-  li:nth-child(6n+6) { background: $orange;   box-shadow: 6px 6px 0 $magenta; transform: rotate(1.4deg); }
+  li:nth-child(6n+1) { background: $teal;     box-shadow: 6px 6px 0 $magenta; transform: rotate(-1.5deg); &:hover { box-shadow: 10px 10px 0 $magenta !important; } }
+  li:nth-child(6n+2) { background: $orange;   box-shadow: 6px 6px 0 $ink;     transform: rotate(1.2deg);  &:hover { box-shadow: 10px 10px 0 $ink !important; } }
+  li:nth-child(6n+3) { background: $magenta;  box-shadow: 6px 6px 0 $teal;    transform: rotate(-1deg);   &:hover { box-shadow: 10px 10px 0 $teal !important; } }
+  li:nth-child(6n+4) { background: $teal;     box-shadow: 6px 6px 0 $ink;     transform: rotate(1.8deg);  &:hover { box-shadow: 10px 10px 0 $ink !important; } }
+  li:nth-child(6n+5) { background: $lavender; box-shadow: 6px 6px 0 $ink;     transform: rotate(-0.8deg); &:hover { box-shadow: 10px 10px 0 $ink !important; } }
+  li:nth-child(6n+6) { background: $orange;   box-shadow: 6px 6px 0 $magenta; transform: rotate(1.4deg);  &:hover { box-shadow: 10px 10px 0 $magenta !important; } }
 
   li {
     position: relative;
@@ -34,7 +35,6 @@
 
     &:hover {
       transform: rotate(0deg) translate(-2px, -2px) !important;
-      box-shadow: 10px 10px 0 $ink !important;
     }
   }
 
