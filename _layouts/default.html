@@ -46,46 +46,44 @@
   </head>
   <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
-  <main>
-    <nav aria-label="Main navigation">
-      <a href='/' {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
-      <a href='/meet-val' {% if page.url == '/meet-val/' or page.url == '/meet-val' %}aria-current="page"{% endif %}>Meet Val</a>
-      <a href='/coaching' {% if page.url == '/coaching/' or page.url == '/coaching' %}aria-current="page"{% endif %}>Coaching</a>
-      <a href='/blog' {% if page.url == '/blog/' or page.url == '/blog' %}aria-current="page"{% endif %}>Blog</a>
-      <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank' rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in new tab)</span></a>
-      <div class="display-settings">
-        <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel" aria-label="Display settings">Aa</button>
-        <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-label="Display settings">
-          <div class="panel-close"><button aria-label="Close display settings">✕</button></div>
-          <h2>Make it work for you</h2>
-          <label class="setting-row">
-            <input type="checkbox" id="toggle-reading-mode"> Reading mode
-          </label>
-          <label class="setting-row">
-            <input type="checkbox" id="toggle-reduce-motion"> Reduce animations
-          </label>
-          <p class="setting-group-label">Colour vision</p>
-          <label class="setting-row">
-            <input type="radio" name="colour-mode" id="toggle-cb-none" value="none" checked> Full colour
-          </label>
-          <label class="setting-row">
-            <input type="radio" name="colour-mode" id="toggle-cb-red-green" value="red-green"> Red and green look similar to me
-          </label>
-          <label class="setting-row">
-            <input type="radio" name="colour-mode" id="toggle-cb-blue-yellow" value="blue-yellow"> Blue and yellow look similar to me
-          </label>
-          <label class="setting-row">
-            <input type="radio" name="colour-mode" id="toggle-cb-greyscale" value="greyscale"> I see mostly in greyscale
-          </label>
-        </div>
+  <nav aria-label="Main navigation">
+    <a href='/' {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
+    <a href='/meet-val' {% if page.url == '/meet-val/' or page.url == '/meet-val' %}aria-current="page"{% endif %}>Meet Val</a>
+    <a href='/coaching' {% if page.url == '/coaching/' or page.url == '/coaching' %}aria-current="page"{% endif %}>Coaching</a>
+    <a href='/blog' {% if page.url == '/blog/' or page.url == '/blog' %}aria-current="page"{% endif %}>Blog</a>
+    <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank' rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in new tab)</span></a>
+    <div class="display-settings">
+      <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel" aria-label="Display settings">Aa</button>
+      <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-modal="true" aria-label="Display settings">
+        <div class="panel-close"><button aria-label="Close display settings">✕</button></div>
+        <h2>Make it work for you</h2>
+        <label class="setting-row">
+          <input type="checkbox" id="toggle-reading-mode"> Reading mode
+        </label>
+        <label class="setting-row">
+          <input type="checkbox" id="toggle-reduce-motion"> Reduce animations
+        </label>
+        <p class="setting-group-label">Colour vision</p>
+        <label class="setting-row">
+          <input type="radio" name="colour-mode" id="toggle-cb-none" value="none" checked> Full colour
+        </label>
+        <label class="setting-row">
+          <input type="radio" name="colour-mode" id="toggle-cb-red-green" value="red-green"> Red and green look similar to me
+        </label>
+        <label class="setting-row">
+          <input type="radio" name="colour-mode" id="toggle-cb-blue-yellow" value="blue-yellow"> Blue and yellow look similar to me
+        </label>
+        <label class="setting-row">
+          <input type="radio" name="colour-mode" id="toggle-cb-greyscale" value="greyscale"> I see mostly in greyscale
+        </label>
       </div>
-    </nav>
-    <header><a href='/'>OUTRAGED RACOON COACHING</a></header>
-      {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
-    {% if page.show_cta %}<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a></p>{% endif %}
-    <div id="main-content">
-      {{ content }}
     </div>
+  </nav>
+  <header><a href='/'>OUTRAGED RACOON COACHING</a></header>
+  <main id="main-content">
+    {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
+    {% if page.show_cta %}<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a></p>{% endif %}
+    {{ content }}
   </main>
   <footer>
     <p class="footer-copy">&copy; 2026 Outraged Racoon Coaching&reg;</p>
@@ -137,10 +135,35 @@
 
       applyModes();
 
+      // Focus trap helpers
+      function getFocusable() {
+        return panel.querySelectorAll('button, [href], input, [tabindex]:not([tabindex="-1"])');
+      }
+
       // Panel open/close
       toggleBtn.addEventListener('click', function() {
         var open = panel.classList.toggle('is-open');
         toggleBtn.setAttribute('aria-expanded', String(open));
+        if (open) {
+          var focusable = getFocusable();
+          if (focusable.length) focusable[0].focus();
+        }
+      });
+
+      // Trap Tab within panel while open
+      panel.addEventListener('keydown', function(e) {
+        if (e.key !== 'Tab' || !panel.classList.contains('is-open')) return;
+        var focusable = getFocusable();
+        if (!focusable.length) return;
+        var first = focusable[0];
+        var last = focusable[focusable.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault();
+          last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault();
+          first.focus();
+        }
       });
 
       // Close button (mobile)
