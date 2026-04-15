@@ -126,6 +126,8 @@ h2 {
   margin-right: -24px;
   position: relative;
   box-shadow: none;
+  overflow-wrap: break-word;
+  hyphens: auto;
 
   // links inside the magenta banner must stay readable
   a {

@@ -86,6 +86,9 @@
     box-shadow: none;
     display: inline-block;
     transform: rotate(-1deg);
+    overflow-wrap: break-word;
+    hyphens: auto;
+    max-width: calc(100% + 48px);
   }
 
   // ── Posts under a category ─────────────────────────────────────────────────
