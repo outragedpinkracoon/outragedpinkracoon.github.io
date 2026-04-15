@@ -1,7 +1,8 @@
 ---
 layout: info_page
 permalink: /meet-val/
-title: Meet Val
+title: Meet Val Dryden — ILM Certified Coach for Neurodivergent Tech Leaders
+display_title: Meet Val
 description: Meet Val Dryden — ILM certified coach, two decades in tech, neurodivergent, queer, non-binary, disabled. The full story behind Outraged Racoon Coaching®.
 subtitle: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled | A Little Feral
 show_cta: true
