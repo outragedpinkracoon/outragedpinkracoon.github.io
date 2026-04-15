@@ -24,4 +24,4 @@ If someone asks for top dollar, so what? Assess them and see if they match that 
 
 And if that person is from an underrepresented group, **give them a medal for being that brave and hire them right now**.
 
-Read more: [Part 2 - Deflation](https://outragedpinkracoon.com/2023/05/10/publish-your-salary-ranges-part-2-deflation.html)
+Read more: [Part 2 - Deflation](/2023/05/10/publish-your-salary-ranges-part-2-deflation.html)
