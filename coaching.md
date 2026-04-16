@@ -82,14 +82,22 @@ Get in touch via [email](mailto:outragedracooncoaching@gmail.com?subject=Coachin
 
 ## What people say
 
-> Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time. She's passionate about creating safe environments for people to thrive and achieve.
+> I asked Valerie to be my career coach when I joined Speechmatics as a senior team lead in January 2024. We had regular sessions during the year, and by September I'd been promoted to Director of Engineering -- much faster than I'd expected to achieve! Val's coaching was a huge part of my ability to hit this goal. 
 >
-> <span class='quote-author'>— Kishor Patel, VP Engineering @ Vortexa</span>
+>She's helped me identify the ways to be most impactful, she's helped me organise my thinking when facing complex problems, and she's helped me navigate challenging interpersonal struggles. Above all, she's helped me see clearly all of my strongest personal traits, which I may not have seen in myself otherwise. 
+>
+>Her coaching has given me a huge boost in both confidence and competence, and has let me appreciate my strengths and seize every opportunity in front of me to excel in my career. 
+>
+> <span class='quote-author'>— Teri Drummon, VP Engineering @ Speechmatics</span>
 
-> She had cultivated such a supportive, compassionate, and collaborative environment — she ensured that everyone's voices and opinions were heard, and that they felt safe enough to share. If you ever have a chance to work with her, you're in for a treat.
+> I am thrilled to recommend Val as an exceptional leader and mentor. She was my first manager when I began the EM role and she was truly transformational, guiding me in ways that have shaped my career path. I have sought her support as a professional coach on a number of occasions since, her influence continues to have a positive impact on my journey. 
 >
-> <span class='quote-author'>— Puyan San, Founding Engineer @ Nuuri</span>
+>What sets Val apart is her unique ability to blend insight and coaching. She skillfully draws out my own insights while complementing them with her extensive experience, creating a powerful learning environment. Her empathy is not just inherent; it is enhanced by her ongoing training in leadership and coaching, providing her with a deep reservoir of knowledge.
+>
+> <span class='quote-author'>— Hugh Lyon, Engineering Manager @ Perk</span>
 
-> You will find it hard to find a more passionate people manager anywhere. She is a breath of fresh air and would do everything in her power to look after her people.
+> When applying for my first EM role, the recruiter told me "oh, you'll talk to Val first. She is something special". He could not have been more right. Ever since that first moment of joining the meeting on Zoom, Val's energy, expertise and passion have been a guiding light in my career. 
 >
-> <span class='quote-author'>— Stephen Hill, Former Director @ Neogen Recruitment and all round great guy</span>
+>She is an incredibly inspirational leader, all too rare. She is absolutely authentic, incredibly tough, compassionate, but she won't give you an easy time. I have learnt more from working with Val than I ever thought possible. Don't even give it a second thought - if your business gets a chance to add a bit of Val, it's an all too rare opportunity.
+>
+> <span class='quote-author'>— Olwen Milne, Senior Engineering Manager @ Oak National Academy</span>
