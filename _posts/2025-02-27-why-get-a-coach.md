@@ -57,24 +57,5 @@ Many coaches do sessions online but many also offer in person sessions. You may 
 
 Most coaches offer an initial conversation to discuss your goals and see if there’s a fit if you're looking to book a block with them.
 
-## How to Find the Right Coach
-
-Look for accredited coaches (e.g., ILM or ICF-certified) with relevant experience that come recommended. 
-
-Try asking your peers or boss at work as well - you often don't need to look far in your network to find someone that has used a coach!
-
-Coaches I highly recommend are:
-* [Antoinette Ross](https://www.withinsight.org/) amazing all round coach that can deal with all number of issues
-* [Joel Chippendale](https://monkeysthumb.co.uk) great for technology sector specific leadership coaching
-* [Regina Byrne](https://www.linkedin.com/in/regina-byrne-) fantastic for empowering women to be confident in their jobs
-
-I've not used these directly but there are various websites you can use as well such as:
-* [Noomi](https://www.noomii.com/)
-* [Better Up](https://www.betterup.com/)
-* [Coach Hub](https://www.coachhub.com/)
-
-Have fun and I hope you find a coach that can bring you clarity and courage on your adventures. You won't regret it!
-
-
 
 
