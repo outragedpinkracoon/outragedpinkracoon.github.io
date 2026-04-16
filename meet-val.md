@@ -27,39 +27,74 @@ I survived despite the odds, and I don't want anyone else to go through what I w
 
 <div class="callout">I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.</div>
 
-## Who I work with
+## Why this matters
 
-I primarily work with women, disabled, non-binary, queer, and neurodivergent people in tech who are struggling, growing, or trying to figure out how to navigate a world that wasn't built for them. That includes individual contributors who are ready to stop shrinking, new managers who've been thrown in the deep end, and senior leaders smashing their heads on a very real, very present glass ceiling.
+<div class="story-stamp">
+  <p>I know what it is to be capable and still treated as questionable.</p>
+  <p>I know what it is to be praised for resilience when what you needed was support.</p>
+  <p>I know what it is to reach senior leadership and discover the room still was not built for you.</p>
+</div>
 
-If you work in tech and you're done with navigating a broken system alone, let's talk.
+That history shapes how I coach. I do not treat confidence, burnout, masking, management or career decisions as individual failings floating in a vacuum. People exist inside systems. Some of those systems are ridiculous.
 
-I also train new managers of all kinds through <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a>, because nobody should be handed a team and left to figure out people's careers, confidence and working lives by accident.
+I also know what it is to become a manager without enough useful help, and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. Nobody should have to figure that out by accident.
 
-## How I work
+## The kind of coach I am
 
-Here's the thing: most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to be fully, unapologetically themselves and feel like they belong.
+I am direct, warm, curious and allergic to corporate theatre.
 
-I unlock that through a blend of coaching (guided questioning, genuine challenge, new insight) and mentoring (18 years of lived experience as a technologist and executive leader, at your disposal). I'm autistic, which means I can't do performative niceness. What you get is directness, honesty, and someone actually in your corner.
+I will not sit there nodding mysteriously while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.
+
+And when mentoring is useful, I can bring nearly two decades of engineering and executive leadership experience into the room. The point is not for you to become more like me. The point is to help you become more fully, usefully, unapologetically yourself.
 
 ## What I stand for
 
-* I am direct — not because it's a brand choice, but because I'm autistic and I genuinely cannot do performative niceness.
-* I am in your corner. Unconditionally, without judgement, whoever you are.
-* I am a queer, non-binary, neurodivergent and disabled coach — I'm not an ally looking in from the outside, I'm in the same boat as you.
-* I am an LGBTQIA+ ally and actively ND affirming in everything I do.
-* I am committed to fairness, generous assumptions, curiosity and kindness in every session.
+Weird is welcome. You do not need to become smoother, smaller or more palatable to be worth listening to. Weird, tired, furious, ambitious, confused and brilliant can all come in.
+
+<div class="values-grid">
+  <div class="value-card">
+    <h3>Directness without cruelty</h3>
+    <p>I am direct because I'm autistic and I genuinely cannot do performative niceness. That does not mean careless. It means honest, specific and kind enough to be useful.</p>
+  </div>
+  <div class="value-card">
+    <h3>Lived experience, not theory</h3>
+    <p>I am queer, non-binary, neurodivergent and disabled. I am not an ally looking in from the outside. I know something of the weather because I have been standing in it too.</p>
+  </div>
+  <div class="value-card">
+    <h3>Kindness with a spine</h3>
+    <p>I am in your corner without turning the session into a cosy echo chamber. Support and challenge belong together when they are done properly.</p>
+  </div>
+  <div class="value-card">
+    <h3>Systems-aware coaching</h3>
+    <p>I will not pretend every hard thing at work is a mindset issue. Sometimes you need confidence. Sometimes you need boundaries. Sometimes the room really is on fire.</p>
+  </div>
+</div>
 
 ## Credentials
 
-* ILM Level 5 Executive Coach
-* Creator of [*Holy Sh\*t I'm A Manager*™](https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home)
-* Dare to Lead trained
-* Leaders Who Coach trained
-* 14 years hands-on engineering
-* 8 years as an exec leader
-* BSc Computer Science (First Class)
-* BA Accountancy & Finance
-* Author of [Stakeholders™](https://stakeholdersbook.substack.com/about)
+<div class="credentials-grid">
+  <div class="credential-card">
+    <h3>Coaching & leadership</h3>
+    <ul>
+      <li>ILM Level 5 Executive Coach</li>
+      <li>Dare to Lead trained</li>
+      <li>Leaders Who Coach trained</li>
+      <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+  </div>
+  <div class="credential-card">
+    <h3>Tech & creative work</h3>
+    <ul>
+      <li>14 years hands-on engineering</li>
+      <li>8 years as an exec leader</li>
+      <li>BSc Computer Science (First Class)</li>
+      <li>BA Accountancy & Finance</li>
+      <li>Author of <a href="https://stakeholdersbook.substack.com/about" target="_blank" rel="noopener noreferrer">Stakeholders&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+  </div>
+</div>
+
+If that sounds like the kind of person you want in your corner, come read about [working with me](/coaching/).
 
 ## The human bit
 
