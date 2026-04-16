@@ -74,8 +74,8 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
 
 ## Credentials
 
-<div class="credentials-grid">
-  <div class="credential-card">
+<div class="credentials-grid card-grid">
+  <div class="card card--static credential-card">
     <h3>Coaching & leadership</h3>
     <ul>
       <li>ILM Level 5 Executive Coach</li>
@@ -86,7 +86,7 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
       <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
     </ul>
   </div>
-  <div class="credential-card">
+  <div class="card card--static credential-card">
     <h3>Tech & education</h3>
     <ul>
       <li>14 years hands-on engineering</li>
@@ -101,9 +101,27 @@ If that sounds like the kind of person you want in your corner, come read about 
 
 ## The human bit
 
-I draw [weird little creatures](https://www.instagram.com/outragedracoonpaws) and the occasional haunting vampire portrait, with my human meat brain and my human meat hands. Making things gives me room to play, process, and breathe.
+I am not only a coach-shaped person. I make things because making things is how I play, process, breathe, and refuse to become smooth and corporate and dead behind the eyes.
 
-I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy.
+<div class="creative-showcase card-grid" aria-label="Creative work by Val">
+  <div class="card creative-feature">
+    <p class="offer-label">Art on Cara</p>
+    <h3><a href="https://cara.app/outragedracoonpaws" target="_blank" rel="noopener noreferrer">Outraged Racoon Paws<span class="sr-only"> (opens in new tab)</span></a></h3>
+    <p>I draw strange little beings, haunting portraits, and whatever my brain needs to put somewhere outside my body. It is messy, playful, tender, dramatic, and extremely mine.</p>
+    <a class="card-cta" href="https://cara.app/outragedracoonpaws" target="_blank" rel="noopener noreferrer">See the art <span aria-hidden="true">→</span><span class="sr-only"> (opens in new tab)</span></a>
+  </div>
+
+  <div class="card creative-feature">
+    <p class="offer-label">Corporate vampire fiction</p>
+    <h3><a href="https://stakeholdersbook.substack.com/about" target="_blank" rel="noopener noreferrer">Stakeholders&trade;<span class="sr-only"> (opens in new tab)</span></a></h3>
+    <p>Stakeholders is corporate vampire fiction about power, politics, influence, and the absolute absurdity of tech. It is ridiculous on purpose. It is also, inconveniently, quite serious.</p>
+    <a class="card-cta" href="https://stakeholdersbook.substack.com/about" target="_blank" rel="noopener noreferrer">Read Stakeholders <span aria-hidden="true">→</span><span class="sr-only"> (opens in new tab)</span></a>
+  </div>
+</div>
+
+None of this is separate from the coaching, really. It is all part of the same refusal to become smaller, smoother or easier to digest.
+
+I also sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy.
 
 The racoon is not a metaphor. It is just me.
 

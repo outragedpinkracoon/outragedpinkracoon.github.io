@@ -124,7 +124,7 @@ body.reading-mode {
       border-top-color: rgba($reading-magenta, 0.2);
     }
   }
-  .credential-card {
+  .credential-card:not(.card) {
     background: #d46f42;
     color: #f7f2e8;
     box-shadow: 7px 7px 0 #80679a;
@@ -403,7 +403,7 @@ body.cb-red-green {
       border-top-color: rgba($cb-blue, 0.22);
     }
   }
-  .credential-card {
+  .credential-card:not(.card) {
     background: $cb-vermillion;
     color: #f7f2e8;
     box-shadow: 7px 7px 0 $cb-sky;
@@ -645,7 +645,7 @@ body.cb-blue-yellow {
       border-top-color: rgba(#d91a5e, 0.22);
     }
   }
-  .credential-card {
+  .credential-card:not(.card) {
     background: #ef6820;
     color: #f7f2e8;
     box-shadow: 7px 7px 0 $tri-red;
@@ -926,7 +926,7 @@ body.cb-greyscale {
       border-top-color: rgba($gs-dark, 0.28);
     }
   }
-  .credential-card {
+  .credential-card:not(.card) {
     background: $gs-dark;
     box-shadow: 7px 7px 0 $gs-mid;
     color: #f7f2e8;
