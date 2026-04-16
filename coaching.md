@@ -50,9 +50,13 @@ My 1:1 work can support new managers directly, and my self-paced course <a href=
 
 ## What you get
 
-Working with me won't fix the system. But it will change how you move through it.
+Working with me won't fix the system. But it will change how you move through it, lead within it, and decide what you are no longer willing to carry.
 
-You'll leave sessions with clarity on what you actually want, not what you think you're supposed to want. You'll feel challenged — genuinely, not performatively. You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
+You'll leave sessions with clarity on what you actually want, not what you think you're supposed to want. If you're a new manager, that might mean working out how to run useful one-to-ones, give feedback without being a dick, set expectations, handle conflict, manage up, protect your team's energy, or stop trying to become a copy of the managers who made you miserable.
+
+If you're navigating tech from the margins, it might mean rebuilding confidence after a rough workplace, asking for what you need, understanding where your power actually is, making sense of burnout, or choosing your next move without treating yourself like the problem.
+
+You'll feel challenged — genuinely, not performatively. You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
 
 Just someone finally in your corner who gets it.
 
