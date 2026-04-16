@@ -36,11 +36,21 @@ body.reading-mode {
 
   // Card titles, post links, blog list titles
   .card h3,
+  .audience-panel h3,
+  .process-steps h3,
   .pricing-amount,
+  .process-step__number,
   #recent-posts li a,
   #posts h2 {
     font-family: $reading-font;
     font-style: normal;
+  }
+
+  .audience-label,
+  .outcome-title,
+  .coaching-explainer__lede,
+  .coaching-explainer a {
+    font-family: $reading-font;
   }
 
   // Soften blockquotes
@@ -63,6 +73,33 @@ body.reading-mode {
       background: $reading-yellow;
       box-shadow: 6px 6px 0 $reading-magenta;
     }
+  }
+
+  .audience-panel {
+    line-height: 1.8;
+    &--coaching {
+      border-color: rgba($reading-magenta, 0.45);
+      box-shadow: 7px 7px 0 rgba($reading-magenta, 0.22);
+      h3 { color: $reading-magenta; }
+    }
+    &--manager {
+      border-color: rgba($reading-teal, 0.45);
+      box-shadow: 7px 7px 0 rgba($reading-teal, 0.22);
+      h3 { color: $reading-teal; }
+    }
+  }
+
+  .outcome-item {
+    background: $reading-magenta;
+    box-shadow: 5px 5px 0 $reading-teal;
+    &:nth-child(2) { background: $reading-teal; box-shadow: 5px 5px 0 $reading-magenta; }
+    &:nth-child(3) { background: #d46f42; box-shadow: 5px 5px 0 rgba($reading-magenta, 0.45); }
+    &:nth-child(4) { background: $reading-yellow; color: #1c1714; box-shadow: 5px 5px 0 $reading-magenta; }
+  }
+
+  .coaching-explainer {
+    background: $reading-teal;
+    box-shadow: 7px 7px 0 #1c1714;
   }
 }
 
@@ -264,6 +301,42 @@ body.cb-red-green {
   .pricing-amount { color: $cb-blue; text-shadow: 3px 3px 0 rgba($cb-amber, 0.3); }
   .pricing-badge { background: $cb-amber; }
 
+  // Coaching page sections
+  .audience-label { background: #1c1714; color: #f7f2e8; }
+  .audience-panel {
+    &--coaching {
+      border-color: rgba($cb-blue, 0.45);
+      box-shadow: 7px 7px 0 rgba($cb-blue, 0.24);
+      h3 { color: $cb-blue; }
+    }
+    &--manager {
+      border-color: rgba($cb-amber, 0.55);
+      box-shadow: 7px 7px 0 rgba($cb-amber, 0.36);
+      h3 { color: darken($cb-amber, 8%); }
+    }
+  }
+  .outcome-item {
+    background: $cb-blue;
+    color: #f7f2e8;
+    box-shadow: 5px 5px 0 $cb-amber;
+    &:nth-child(2) { background: $cb-amber; color: #1c1714; box-shadow: 5px 5px 0 $cb-blue; }
+    &:nth-child(3) { background: $cb-vermillion; color: #f7f2e8; box-shadow: 5px 5px 0 $cb-sky; }
+    &:nth-child(4) { background: $cb-yellow; color: #1c1714; box-shadow: 5px 5px 0 $cb-blue; }
+  }
+  .coaching-explainer {
+    background: $cb-amber;
+    color: #1c1714;
+    box-shadow: 7px 7px 0 #1c1714;
+    p, a { color: #1c1714; }
+    a { text-decoration-color: rgba(#1c1714, 0.55); }
+  }
+  .process-steps {
+    li { border-left-color: $cb-blue; }
+    li:nth-child(even) { border-left-color: $cb-amber; }
+    li:nth-child(3) { border-left-color: $cb-vermillion; }
+  }
+  .process-step__number { color: rgba($cb-blue, 0.72); }
+
   // Footer
   footer { border-top-color: $cb-blue; }
 }
@@ -429,6 +502,39 @@ body.cb-blue-yellow {
   .pricing-card--featured { border-color: #d91a5e; border-bottom-color: #d91a5e; box-shadow: 5px 5px 0 $tri-green; }
   .pricing-amount { text-shadow: 3px 3px 0 rgba($tri-green, 0.3); }
   .pricing-badge { background: $tri-green; }
+
+  // Coaching page sections
+  .audience-label { background: #1c1714; color: #f7f2e8; }
+  .audience-panel {
+    &--coaching {
+      border-color: rgba(#d91a5e, 0.45);
+      box-shadow: 7px 7px 0 rgba(#d91a5e, 0.24);
+      h3 { color: #d91a5e; }
+    }
+    &--manager {
+      border-color: rgba($tri-green, 0.48);
+      box-shadow: 7px 7px 0 rgba($tri-green, 0.28);
+      h3 { color: $tri-green; }
+    }
+  }
+  .outcome-item {
+    background: #d91a5e;
+    color: #f7f2e8;
+    box-shadow: 5px 5px 0 $tri-green;
+    &:nth-child(2) { background: $tri-green; color: #f7f2e8; box-shadow: 5px 5px 0 #d91a5e; }
+    &:nth-child(3) { background: #ef6820; color: #f7f2e8; box-shadow: 5px 5px 0 $tri-red; }
+    &:nth-child(4) { background: $tri-coral; color: #1c1714; box-shadow: 5px 5px 0 #d91a5e; }
+  }
+  .coaching-explainer {
+    background: $tri-green;
+    box-shadow: 7px 7px 0 #1c1714;
+  }
+  .process-steps {
+    li { border-left-color: #d91a5e; }
+    li:nth-child(even) { border-left-color: $tri-green; }
+    li:nth-child(3) { border-left-color: #ef6820; }
+  }
+  .process-step__number { color: rgba(#d91a5e, 0.72); }
 
   // Footer
   footer { border-top-color: #d91a5e; }
@@ -616,6 +722,45 @@ body.cb-greyscale {
   .pricing-card--featured { border-color: $gs-dark; border-bottom-color: $gs-dark; box-shadow: 5px 5px 0 $gs-mid; }
   .pricing-amount { color: $gs-dark; text-shadow: 3px 3px 0 rgba($gs-mid, 0.3); }
   .pricing-badge { background: $gs-mid; }
+
+  // Coaching page sections
+  .audience-label { background: $gs-dark; color: #f7f2e8; }
+  .audience-panel {
+    &--coaching {
+      border-color: $gs-dark;
+      border-style: solid;
+      box-shadow: 7px 7px 0 $gs-mid;
+      h3 { color: $gs-dark; }
+    }
+    &--manager {
+      border-color: $gs-mid-dark;
+      border-style: dashed;
+      box-shadow: 7px 7px 0 $gs-mid-light;
+      h3 { color: $gs-mid-dark; }
+    }
+  }
+  .outcome-item {
+    background: $gs-dark;
+    color: #f7f2e8;
+    box-shadow: 5px 5px 0 $gs-mid;
+    border-top: 4px solid #f7f2e8;
+    &:nth-child(2) { background: $gs-mid-dark; color: #f7f2e8; box-shadow: 5px 5px 0 $gs-dark; border-top-style: dashed; }
+    &:nth-child(3) { background: $gs-mid; color: #f7f2e8; box-shadow: 5px 5px 0 $gs-dark; border-top-style: dotted; }
+    &:nth-child(4) { background: $gs-light; color: $gs-dark; box-shadow: 5px 5px 0 $gs-mid-dark; border-top: 4px double $gs-dark; }
+  }
+  .coaching-explainer {
+    background: $gs-mid-dark;
+    color: #f7f2e8;
+    box-shadow: 7px 7px 0 $gs-dark;
+    p, a { color: #f7f2e8; }
+    a { text-decoration-color: rgba(#f7f2e8, 0.65); }
+  }
+  .process-steps {
+    li { border-left-color: $gs-dark; }
+    li:nth-child(even) { border-left-color: $gs-mid-dark; border-left-style: dashed; }
+    li:nth-child(3) { border-left-color: $gs-mid; border-left-style: dotted; }
+  }
+  .process-step__number { color: rgba($gs-dark, 0.72); }
 
   // Footer
   footer { border-top-color: $gs-dark; }
