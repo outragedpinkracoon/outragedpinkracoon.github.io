@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /coaching/
-title: 1:1 Coaching for Neurodivergent, Queer & Under-Represented Tech Leaders
+title: 1:1 Coaching for New Managers and Under-Represented Tech Leaders
 display_title: Coaching
-description: Remote, private 1:1 coaching for under-represented folks in tech from someone who's lived it.
-subtitle: Remote 1:1 Coaching for the Under-Represented in Tech By Someone Who's Lived It
+description: Remote, private 1:1 coaching for new managers and under-represented people in tech from someone who's lived it.
+subtitle: Remote 1:1 Coaching for New Managers and Under-Represented Tech People
 show_cta: true
 ---
 
@@ -12,13 +12,15 @@ show_cta: true
 
 I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride. 💅🏻
 
-I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
+I'm also a former tech exec who has been the new manager, coached the new manager, and watched far too many capable people get handed a team with nowhere near enough support.
 
-I want you to feel weird and wonderful and fully, unapologetically you — able to live your life true to that. Not in the way the system wants you to be.
+I coach people who are trying to lead, grow, survive, or make sense of work in tech without becoming a hollowed-out corporate husk. Sometimes that means helping a new manager find their feet. Sometimes it means helping an under-represented person navigate a system that was never designed for them to have a seat at the table in the first place. Often, it means both.
 
-<div class="callout--teal callout">The system wasn't designed for you, and we'll find a way for you to be your full-fat, no f*cks given self anyway.</div>
+I want you to feel capable, clear, weird and wonderful and fully, unapologetically you — able to lead and live in a way that is actually true to you. Not in the way the system wants you to be.
 
-Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way, or they've been brainwashed into thinking they have less power than they do over their situation.
+<div class="callout--teal callout">You don't need to become a corporate husk to be a good manager, and you don't need to shrink yourself to survive tech.</div>
+
+Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way, nobody taught them the parts of management that actually matter, or they've been brainwashed into thinking they have less power than they do over their situation.
 
 We might work on asking for accommodations, handling a difficult stakeholder, rebuilding confidence after a bad manager, preparing for promotion, deciding whether to stay or leave, or learning how to manage people without copying the leadership patterns that harmed you.
 
