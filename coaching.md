@@ -36,7 +36,10 @@ That might be you if you're:
 * Smashing your head on a very real, very present glass ceiling.
 * Ready to stop shrinking as an individual contributor.
 * Feeling lost, confused, burned out or stuck in your career or work situation.
+* Wondering whether you might be neurodivergent and trying to make sense of your patterns, needs and working life.
 * Trying to work out what you actually want, not just what you've been told success should look like.
+
+I can't diagnose you, because coaching is not a medical assessment. But I can help you explore what you're noticing, untangle what might be masking, burnout or unmet needs, and think through what support, accommodations or next steps might help.
 
 ### Training for new managers
 
@@ -48,7 +51,7 @@ That might be you if you're:
 * Trying to run better one-to-ones, give clearer feedback, set expectations, or handle conflict.
 * Managing up, sideways and down while wondering why nobody warned you how weird management is.
 * Trying to protect your team's energy without setting yourself on fire.
-* Determined to become a good manager without becoming a corporate husk.
+* Determined to become a good manager but you don't know what being good even means.
 
 My 1:1 work can support new managers directly, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.
 
