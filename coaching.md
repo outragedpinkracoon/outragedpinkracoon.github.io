@@ -65,13 +65,21 @@ You'll leave sessions with clarity on what you actually want, not what you think
 
 If you're navigating tech from the margins, it might mean rebuilding confidence after a rough workplace, asking for what you need, understanding where your power actually is, making sense of burnout, or choosing your next move without treating yourself like the problem.
 
-You'll feel challenged genuinely and kindly. I’m autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner. You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
+You'll be challenged, genuinely and kindly. I’m autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner. 
+
+You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
 
 ## How it works
 
-Sessions are remote and one-to-one. I blend coaching, guided questioning, genuine challenge, new insight, with mentoring from nearly two decades as a technologist and exec leader.
+Sessions are remote, private and one-to-one. You can book a single session if you have one knotty thing to untangle, or a bundle of three if you want a bit more space to work through something properly.
 
-Get in touch via [email](mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.) or [LinkedIn](https://www.linkedin.com/in/outragedpinkracoon/) and we'll have a wee chat to figure out if we're a good fit before you commit to anything.
+First, get in touch via [email](mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.) or [LinkedIn](https://www.linkedin.com/in/outragedpinkracoon/). We'll have a wee chat to figure out what you're looking for, whether I'm the right person to help, and what kind of support would actually be useful before you commit to anything.
+
+In sessions, I blend coaching with mentoring. That means you'll get guided questioning, reflection and genuine challenge, but I can also bring in nearly two decades of experience as a technologist and exec leader when that would be useful.
+
+You do not need to arrive with a polished agenda. You can bring the messy version: the Slack message you don't know how to answer, the promotion you don't know whether you want, the team situation making your stomach hurt, the "am I the problem or is this place ridiculous?" spiral. We'll find the thread together.
+
+You'll leave with clearer thinking, possible next steps, and a better sense of what belongs to you versus what belongs to the system, the role, or someone else's nonsense.
 
 ## Pricing
 
