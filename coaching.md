@@ -133,7 +133,7 @@ In sessions, I blend coaching with mentoring. That means guided questioning, ref
 
 <div class="callout callout--teal">You'll leave with a better sense of what belongs to you versus what belongs to the system, the role, or someone else's nonsense.</div>
 
-<p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Start the conversation</a></p>
+<p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a></p>
 
 ## Pricing
 
@@ -142,14 +142,14 @@ In sessions, I blend coaching with mentoring. That means guided questioning, ref
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
     <p class="pricing-detail">One hour, remote, one-to-one.</p>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a>
   </div>
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Best value</span>
     <p class="pricing-amount">£450</p>
     <p class="pricing-title">Bundle of 3 sessions</p>
     <p class="pricing-detail">£150 saving. Same great chaos, more of it.</p>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a session</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a>
   </div>
 </div>
 
