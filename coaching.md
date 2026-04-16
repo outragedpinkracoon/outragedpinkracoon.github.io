@@ -14,7 +14,7 @@ I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust
 
 I'm also a former tech exec who has been the new manager, coached the new manager, and watched far too many capable people get handed a team with nowhere near enough support.
 
-I coach people who are trying to lead, grow, survive, or make sense of work in tech without becoming a hollowed-out corporate husk. Sometimes that means helping a new manager find their feet. Sometimes it means helping an under-represented person navigate a system that was never designed for them to have a seat at the table in the first place. Often, it means both.
+I coach people who are trying to lead, grow, survive, or make sense of work in tech without becoming a hollowed-out corporate husk. Sometimes that means helping a new manager find their feet. Sometimes it means helping an under-represented person deal with a system that was never designed for them to have a seat at the table in the first place. Often, it means both.
 
 I want you to feel capable, clear, weird and wonderful and fully, unapologetically you — able to lead and live in a way that is actually true to you. Not in the way the system wants you to be.
 
@@ -30,7 +30,7 @@ We might work on asking for accommodations, handling a difficult stakeholder, re
   <section class="audience-panel audience-panel--coaching">
     <p class="audience-label">1:1 coaching</p>
     <h3>For under-represented people in tech</h3>
-    <p>For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented people who are tired of shrinking, masking, over-performing, or navigating broken systems alone.</p>
+    <p>For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented people who are tired of shrinking, masking, over-performing, or trying to make sense of broken systems alone.</p>
     <p>That might be you if you're:</p>
     <ul>
       <li>Done with being the highest performer and the most overlooked.</li>
@@ -46,7 +46,7 @@ We might work on asking for accommodations, handling a difficult stakeholder, re
   <section class="audience-panel audience-panel--manager">
     <p class="audience-label">Manager support</p>
     <h3>For new managers</h3>
-    <p>For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical, humane tools for leading people without turning into the worst manager they ever had.</p>
+    <p>For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical tools for leading people without turning into the worst manager they ever had.</p>
     <p>That might be you if you're:</p>
     <ul>
       <li>Newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"</li>
