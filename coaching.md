@@ -106,24 +106,32 @@ Sessions are remote, private and one-to-one. You can book a single session if yo
   <li>
     <span class="process-step__number">01</span>
     <h3>Get in touch</h3>
-    <p>Get in touch via <a href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">email</a> or <a href="https://www.linkedin.com/in/outragedpinkracoon/">LinkedIn</a>. We'll have a wee chat to figure out what you're looking for, whether I'm the right person to help, and what kind of support would actually be useful before you commit to anything.</p>
+    <p>Email me or message me on LinkedIn. We'll have a wee chat before you commit to anything.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
     <h3>Bring the messy version</h3>
-    <p>You do not need to arrive with a polished agenda. You can bring the messy version: the Slack message you don't know how to answer, the promotion you don't know whether you want, the team situation making your stomach hurt, or the "am I the problem or is this place ridiculous?" spiral. We'll find the thread together.</p>
+    <p>No polished agenda required. Bring the situation as it actually is.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
     <h3>Untangle it together</h3>
-    <p>In sessions, I blend coaching with mentoring. That means you'll get guided questioning, reflection and genuine challenge, but I can also bring in nearly two decades of experience as a technologist and exec leader when that would be useful.</p>
+    <p>You'll get coaching, reflection, challenge, and mentoring where useful.</p>
   </li>
   <li>
     <span class="process-step__number">04</span>
     <h3>Leave clearer</h3>
-    <p>You'll leave with clearer thinking, possible next steps, and a better sense of what belongs to you versus what belongs to the system, the role, or someone else's nonsense.</p>
+    <p>You'll leave with clearer thinking, possible next steps, and less noise.</p>
   </li>
 </ol>
+
+That wee chat is there to figure out what you're looking for, whether I'm the right person to help, and what kind of support would actually be useful.
+
+The messy version might be the Slack message you don't know how to answer, the promotion you don't know whether you want, the team situation making your stomach hurt, or the "am I the problem or is this place ridiculous?" spiral. We'll find the thread together.
+
+In sessions, I blend coaching with mentoring. That means guided questioning, reflection and genuine challenge, with nearly two decades of tech leadership experience brought in when it would be useful.
+
+<div class="callout callout--teal">You'll leave with a better sense of what belongs to you versus what belongs to the system, the role, or someone else's nonsense.</div>
 
 <p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Start the conversation</a></p>
 
