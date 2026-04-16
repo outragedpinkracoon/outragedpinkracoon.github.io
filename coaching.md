@@ -10,7 +10,7 @@ show_cta: true
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride.
+I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride. 💅🏻
 
 I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
 
