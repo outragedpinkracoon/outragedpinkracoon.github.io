@@ -24,7 +24,7 @@ Most of the people I work with are already capable. They're not broken. They're 
 
 We might work on asking for accommodations, handling a difficult stakeholder, rebuilding confidence after a bad manager, preparing for promotion, deciding whether to stay or leave, or learning how to manage people without copying the leadership patterns that harmed you.
 
-## Who I Work With
+## Who I work with
 
 <div class="audience-grid">
   <section class="audience-panel audience-panel--coaching">
