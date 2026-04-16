@@ -185,7 +185,7 @@ body.cb-red-green {
 
   // Headings
   h2 { background: $cb-blue; color: #f7f2e8; }
-  .display-settings-panel h2 { background: none; color: #1c1714; }
+  .display-settings-title { background: none; color: #1c1714; }
   h3 { color: $cb-amber; border-left-color: $cb-amber; }
   h4 { color: $cb-vermillion; }
 
@@ -695,7 +695,7 @@ body.cb-greyscale {
   // Headings
   h1 { color: $gs-dark; }
   h2 { background: $gs-dark; color: #f7f2e8; }
-  .display-settings-panel h2 { background: none; color: #1c1714; }
+  .display-settings-title { background: none; color: #1c1714; }
   h3 { color: $gs-mid-dark; border-left-color: $gs-mid-dark; }
   h4 { color: $gs-mid; }
 
@@ -1049,7 +1049,7 @@ body.cb-greyscale {
     }
   }
 
-  h2 {
+  .display-settings-title {
     font-size: 0.75rem;
     font-weight: 800;
     letter-spacing: 0.12em;
