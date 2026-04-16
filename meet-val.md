@@ -14,16 +14,18 @@ show_cta: true
 
 I've been in tech for almost two decades and I've never had a manager that looked like me. Barely worked with anyone that looked like me — never mind the queer, neurodivergent, disabled version of me. 
 
-I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. At every level, from junior dev all the way up to VP Engineering.
+I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. 
 
-I spent decades navigating these difficult situations as a woman. 
+At every level, from junior dev all the way up to VP Engineering. I spent decades navigating these difficult situations as a woman. 
 Then I discovered I was never quite that either.
 
 Which means I know exactly what it feels like to work your arse off inside a system that wasn't built for you, perform a version of yourself that's slightly wrong, and wonder why you're exhausted all the time.
 
 And yet. Here I am.
 
-I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. It's harder still when you finally claw your way to the top and hit that ceiling.
+I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. 
+
+It's harder still when you finally claw your way to the top and hit the glass ceiling, where your competence is not really in question anymore, but your right to have a seat at the table somehow is.
 
 <div class="callout">I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.</div>
 
@@ -77,19 +79,20 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
     <h3>Coaching & leadership</h3>
     <ul>
       <li>ILM Level 5 Executive Coach</li>
-      <li>Dare to Lead trained</li>
-      <li>Leaders Who Coach trained</li>
+      <li>6 years coaching over 300 people</li>
+      <li>Coached over 150 founders</li>
+      <li><a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank" rel="noopener noreferrer">Dare to Lead&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
+      <li><a href="https://coachlead.co/leaders-who-coach/" target="_blank" rel="noopener noreferrer">Leaders Who Coach&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
       <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
     </ul>
   </div>
   <div class="credential-card">
-    <h3>Tech & creative work</h3>
+    <h3>Tech & education</h3>
     <ul>
       <li>14 years hands-on engineering</li>
-      <li>8 years as an exec leader</li>
+      <li>8 years as an exec leader (VP Eng/Interim CTO)</li>
       <li>BSc Computer Science (First Class)</li>
       <li>BA Accountancy & Finance</li>
-      <li>Author of <a href="https://stakeholdersbook.substack.com/about" target="_blank" rel="noopener noreferrer">Stakeholders&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
     </ul>
   </div>
 </div>
@@ -98,7 +101,9 @@ If that sounds like the kind of person you want in your corner, come read about 
 
 ## The human bit
 
-I draw [weird little creatures](https://www.instagram.com/outragedracoonpaws) with my human meat brain and my human meat hands and the occasional haunting vampire portrait. I love to do art to play and express myself by dreaming up little feral drawings, and give myself precious space to think and breathe. I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy. 
+I draw [weird little creatures](https://www.instagram.com/outragedracoonpaws) and the occasional haunting vampire portrait, with my human meat brain and my human meat hands. Making things gives me room to play, process, and breathe.
+
+I write corporate vampire fiction that lets us laugh at the absurdity of tech. I sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy.
 
 The racoon is not a metaphor. It is just me.
 
