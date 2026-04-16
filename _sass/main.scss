@@ -733,6 +733,208 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// COACHING PAGE SECTIONS
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.audience-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 2rem 0 2.5rem;
+
+  @include respond-to('medium') {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: start;
+  }
+}
+
+.audience-panel {
+  padding: 1.6rem;
+  background: $cream;
+  border: 3px solid rgba($ink, 0.14);
+  box-shadow: 7px 7px 0 rgba($ink, 0.12);
+
+  @include respond-to('medium') {
+    &:nth-child(1) { transform: rotate(-0.8deg); }
+    &:nth-child(2) { transform: rotate(0.9deg); margin-top: 1.5rem; }
+  }
+
+  h3 {
+    border-left: none;
+    padding-left: 0;
+    margin-top: 0.2rem;
+    font-family: $font-display;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 2rem;
+    line-height: 1.05;
+  }
+
+  p:last-child { margin-bottom: 0; }
+
+  ul {
+    margin: 1rem 0 1.2rem;
+    padding-left: 1.1rem;
+  }
+
+  li { margin-bottom: 0.55rem; }
+
+  &--coaching {
+    border-color: rgba($magenta, 0.35);
+    box-shadow: 7px 7px 0 rgba($magenta, 0.24);
+
+    h3 { color: $magenta; }
+  }
+
+  &--manager {
+    border-color: rgba($teal, 0.35);
+    box-shadow: 7px 7px 0 rgba($teal, 0.24);
+
+    h3 { color: $teal; }
+  }
+}
+
+.audience-label {
+  display: inline-block;
+  margin: 0 0 0.5rem;
+  padding: 0.2rem 0.7rem;
+  background: $ink;
+  color: $cream;
+  font-family: $font-primary;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.13em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  transform: rotate(-1.4deg);
+}
+
+.outcome-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.7rem 0;
+
+  @include respond-to('medium') {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.outcome-item {
+  padding: 1.2rem;
+  background: $magenta;
+  color: $cream;
+  border-top: none;
+  box-shadow: 5px 5px 0 $teal;
+
+  &:nth-child(2) {
+    background: $teal;
+    box-shadow: 5px 5px 0 $magenta;
+  }
+
+  &:nth-child(3) {
+    background: $orange;
+    box-shadow: 5px 5px 0 $lavender;
+  }
+
+  &:nth-child(4) {
+    background: $yellow;
+    color: $ink;
+    box-shadow: 5px 5px 0 $magenta;
+  }
+
+  p { margin: 0; }
+
+  p + p { margin-top: 0.6rem; }
+}
+
+.outcome-title {
+  font-family: $font-primary;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: inherit;
+}
+
+.coaching-explainer {
+  margin: 1.6rem -8px 2.3rem;
+  padding: 1.5rem;
+  background: $teal;
+  color: $cream;
+  box-shadow: 7px 7px 0 $ink;
+  transform: rotate(-0.8deg);
+
+  p {
+    margin: 0 0 0.85rem;
+    color: rgba($cream, 0.94);
+  }
+
+  p:last-child { margin-bottom: 0; }
+
+  a {
+    color: $cream;
+    font-family: $font-primary;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    text-decoration-color: rgba($cream, 0.65);
+
+    &:hover { text-decoration-color: $cream; }
+  }
+}
+
+.coaching-explainer__lede {
+  font-family: $font-primary;
+  font-size: 1.25rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.process-steps {
+  counter-reset: process;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  list-style: none;
+  margin: 1.7rem 0 2rem;
+  padding: 0;
+
+  @include respond-to('medium') {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  li {
+    position: relative;
+    padding: 1.35rem;
+    background: $cream;
+    border-left: 6px solid $magenta;
+    box-shadow: 5px 5px 0 rgba($ink, 0.09);
+
+    &:nth-child(even) { border-left-color: $teal; }
+    &:nth-child(3) { border-left-color: $orange; }
+  }
+
+  h3 {
+    margin: 0.35rem 0 0.55rem;
+    padding: 0;
+    border: none;
+    color: $ink;
+  }
+
+  p { margin: 0; }
+}
+
+.process-step__number {
+  display: inline-block;
+  font-family: $font-display;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 2.2rem;
+  line-height: 1;
+  color: rgba($magenta, 0.72);
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // IMAGE LAYOUTS
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

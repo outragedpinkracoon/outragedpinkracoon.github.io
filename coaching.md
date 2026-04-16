@@ -26,34 +26,38 @@ We might work on asking for accommodations, handling a difficult stakeholder, re
 
 ## Who I Work With
 
-### Coaching for under-represented people in tech
+<div class="audience-grid">
+  <section class="audience-panel audience-panel--coaching">
+    <p class="audience-label">1:1 coaching</p>
+    <h3>For under-represented people in tech</h3>
+    <p>For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented people who are tired of shrinking, masking, over-performing, or navigating broken systems alone.</p>
+    <p>That might be you if you're:</p>
+    <ul>
+      <li>Done with being the highest performer and the most overlooked.</li>
+      <li>Smashing your head on a very real, very present glass ceiling.</li>
+      <li>Ready to stop shrinking as an individual contributor.</li>
+      <li>Feeling lost, confused, burned out or stuck in your career or work situation.</li>
+      <li>Wondering whether you might be neurodivergent and trying to make sense of your patterns, needs and working life.</li>
+      <li>Trying to work out what you actually want, not just what you've been told success should look like.</li>
+    </ul>
+    <p>I can't diagnose you, because coaching is not a medical assessment. But I can help you explore what you're noticing, untangle what might be masking, burnout or unmet needs, and think through what support, accommodations or next steps might help.</p>
+  </section>
 
-For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented people who are tired of shrinking, masking, over-performing, or navigating broken systems alone.
-
-That might be you if you're:
-
-* Done with being the highest performer and the most overlooked.
-* Smashing your head on a very real, very present glass ceiling.
-* Ready to stop shrinking as an individual contributor.
-* Feeling lost, confused, burned out or stuck in your career or work situation.
-* Wondering whether you might be neurodivergent and trying to make sense of your patterns, needs and working life.
-* Trying to work out what you actually want, not just what you've been told success should look like.
-
-I can't diagnose you, because coaching is not a medical assessment. But I can help you explore what you're noticing, untangle what might be masking, burnout or unmet needs, and think through what support, accommodations or next steps might help.
-
-### Training for new managers
-
-For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical, humane tools for leading people without turning into the worst manager they ever had.
-
-That might be you if you're:
-
-* Newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"
-* Trying to run better one-to-ones, give clearer feedback, set expectations, or handle conflict.
-* Managing up, sideways and down while wondering why nobody warned you how weird management is.
-* Trying to protect your team's energy without setting yourself on fire.
-* Determined to become a good manager but you don't know what being good even means.
-
-My 1:1 work can support new managers directly, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.
+  <section class="audience-panel audience-panel--manager">
+    <p class="audience-label">Manager support</p>
+    <h3>For new managers</h3>
+    <p>For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical, humane tools for leading people without turning into the worst manager they ever had.</p>
+    <p>That might be you if you're:</p>
+    <ul>
+      <li>Newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"</li>
+      <li>Trying to run better one-to-ones, give clearer feedback, set expectations, or handle conflict.</li>
+      <li>Managing up, sideways and down while wondering why nobody warned you how weird management is.</li>
+      <li>Trying to protect your team's energy without setting yourself on fire.</li>
+      <li>Determined to become a good manager but you don't know what being good even means.</li>
+    </ul>
+    <p>My 1:1 work can support new managers directly, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.</p>
+  </section>
+</div>
 
 These groups overlap all the time. If you're both under-represented in tech and newly responsible for people, you are very much in the right place.
 
@@ -61,31 +65,67 @@ These groups overlap all the time. If you're both under-represented in tech and 
 
 Working with me won't fix the system. But it will change how you move through it, lead within it, and decide what you are no longer willing to carry.
 
-You'll leave sessions with clarity on what you actually want, not what you think you're supposed to want. If you're a new manager, that might mean working out how to run useful one-to-ones, give feedback without being a dick, set expectations, handle conflict, manage up, protect your team's energy, or stop trying to become a copy of the managers who made you miserable.
-
-If you're navigating tech from the margins, it might mean rebuilding confidence after a rough workplace, asking for what you need, understanding where your power actually is, making sense of burnout, or choosing your next move without treating yourself like the problem.
-
-You'll be challenged, genuinely and kindly. I’m autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner. 
+<div class="outcome-grid">
+  <div class="outcome-item">
+    <p class="outcome-title">Clearer thinking</p>
+    <p>You'll leave sessions with clarity on what you actually want, not what you think you're supposed to want.</p>
+  </div>
+  <div class="outcome-item">
+    <p class="outcome-title">New manager tools</p>
+    <p>Build a way to manage that actually feels like you, with practical support for the moments nobody prepared you for.</p>
+  </div>
+  <div class="outcome-item">
+    <p class="outcome-title">Power from the margins</p>
+    <p>Make sense of confidence, burnout, visibility and power without treating yourself like the problem.</p>
+  </div>
+  <div class="outcome-item">
+    <p class="outcome-title">Someone in your corner</p>
+    <p>You'll be challenged, genuinely and kindly. I’m autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner.</p>
+  </div>
+</div>
 
 You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
 
 ## What is coaching?
 
-Coaching is a structured conversation that helps you think more clearly, understand what is actually going on, and decide what you want to do next. You bring the messy work/life/career knot; I bring questions, reflection, challenge, and nearly two decades of tech leadership experience when that is useful.
+<div class="coaching-explainer">
+  <p class="coaching-explainer__lede">Coaching is a structured conversation that helps you think more clearly, understand what is actually going on, and decide what you want to do next.</p>
+</div>
 
-It is not therapy, diagnosis, or someone simply telling you what to do. It is a place to untangle the thing you are too close to see clearly. If you're wondering what coaching even is, I wrote a fuller explainer here: [What's A Coach Anyway?](/2025/02/27/why-get-a-coach.html)
+You bring the messy work/life/career knot; I bring questions, reflection, challenge, and nearly two decades of tech leadership experience when that is useful.
+
+It is not therapy, diagnosis, or someone simply telling you what to do. It is a place to untangle the thing you are too close to see clearly.
+
+Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier explainer here: [What's A Coach Anyway?](/2025/02/27/why-get-a-coach.html)
 
 ## How it works
 
 Sessions are remote, private and one-to-one. You can book a single session if you have one knotty thing to untangle, or a bundle of three if you want a bit more space to work through something properly.
 
-First, get in touch via [email](mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.) or [LinkedIn](https://www.linkedin.com/in/outragedpinkracoon/). We'll have a wee chat to figure out what you're looking for, whether I'm the right person to help, and what kind of support would actually be useful before you commit to anything.
+<ol class="process-steps">
+  <li>
+    <span class="process-step__number">01</span>
+    <h3>Get in touch</h3>
+    <p>Get in touch via <a href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">email</a> or <a href="https://www.linkedin.com/in/outragedpinkracoon/">LinkedIn</a>. We'll have a wee chat to figure out what you're looking for, whether I'm the right person to help, and what kind of support would actually be useful before you commit to anything.</p>
+  </li>
+  <li>
+    <span class="process-step__number">02</span>
+    <h3>Bring the messy version</h3>
+    <p>You do not need to arrive with a polished agenda. You can bring the messy version: the Slack message you don't know how to answer, the promotion you don't know whether you want, the team situation making your stomach hurt, or the "am I the problem or is this place ridiculous?" spiral. We'll find the thread together.</p>
+  </li>
+  <li>
+    <span class="process-step__number">03</span>
+    <h3>Untangle it together</h3>
+    <p>In sessions, I blend coaching with mentoring. That means you'll get guided questioning, reflection and genuine challenge, but I can also bring in nearly two decades of experience as a technologist and exec leader when that would be useful.</p>
+  </li>
+  <li>
+    <span class="process-step__number">04</span>
+    <h3>Leave clearer</h3>
+    <p>You'll leave with clearer thinking, possible next steps, and a better sense of what belongs to you versus what belongs to the system, the role, or someone else's nonsense.</p>
+  </li>
+</ol>
 
-In sessions, I blend coaching with mentoring. That means you'll get guided questioning, reflection and genuine challenge, but I can also bring in nearly two decades of experience as a technologist and exec leader when that would be useful.
-
-You do not need to arrive with a polished agenda. You can bring the messy version: the Slack message you don't know how to answer, the promotion you don't know whether you want, the team situation making your stomach hurt, the "am I the problem or is this place ridiculous?" spiral. We'll find the thread together.
-
-You'll leave with clearer thinking, possible next steps, and a better sense of what belongs to you versus what belongs to the system, the role, or someone else's nonsense.
+<p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Start the conversation</a></p>
 
 ## Pricing
 
