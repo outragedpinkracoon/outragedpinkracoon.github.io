@@ -14,7 +14,7 @@ show_cta: true
 
 I've been in tech for almost two decades and I've never had a manager that looked like me. Barely worked with anyone that looked like me — never mind the queer, neurodivergent, disabled version of me. 
 
-I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. Told I lack the pedigree to be on the C-Suite. Multiple times. At every level, from junior dev all the way up to VP Engineering.oh 
+I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. Told I lack the pedigree to be on the C-Suite. Multiple times. At every level, from junior dev all the way up to VP Engineering.
 
 And yet. Here I am.
 
@@ -28,9 +28,11 @@ I primarily work with women, disabled, non-binary, queer, and neurodivergent peo
 
 If you work in tech and you're done with navigating a broken system alone, let's talk.
 
+I also train new managers of all kinds through <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a>, because nobody should be handed a team and left to figure out people's careers, confidence and working lives by accident.
+
 ## How I work
 
-Here's the thing: most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to be fully, unapologetically themselves and actually belong.
+Here's the thing: most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way — to be fully, unapologetically themselves and feel like they belong.
 
 I unlock that through a blend of coaching (guided questioning, genuine challenge, new insight) and mentoring (18 years of lived experience as a technologist and executive leader, at your disposal). I'm autistic, which means I can't do performative niceness. What you get is directness, honesty, and someone actually in your corner.
 
