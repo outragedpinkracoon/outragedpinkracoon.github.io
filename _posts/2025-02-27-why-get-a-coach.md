@@ -13,7 +13,9 @@ Fair question. It is one of those words that gets used for everything from "pers
 
 At its best, coaching is a structured conversation that helps you think more clearly, understand yourself better, and decide what you want to do next.
 
-Not because the coach has a magic answer hidden in a little velvet pouch. Because good coaching gives you space, challenge, reflection and support while you untangle the thing you are too close to see clearly.
+Not because the coach has a magic answer hidden in a little velvet pouch.
+
+<div class="callout">Great coaching gives you space, challenge, reflection and support while you untangle the thing you are too close to see clearly.</div>
 
 ## What Coaching Is
 
@@ -49,7 +51,7 @@ Coaching can support you with things like:
 * Understanding your needs, boundaries and working patterns
 * Deciding whether to stay, leave, push, pause or burn it all down metaphorically
 
-A good coach helps you slow the situation down enough to see it properly. Then they help you choose what to do with your eyes open.
+<div class="callout callout--teal">A great coach helps you untangle a messy situation and find insight, direction and energy from it.</div>
 
 ## What coaching is not
 
@@ -65,13 +67,25 @@ Coaching is also not motivational wallpaper. You should leave with more than "be
 
 Coaching and mentoring overlap, but they are not the same thing.
 
-| **Coaching** | **Mentoring** |
-|-------------|-------------|
-| Helps you think, reflect and find your own answers | Shares experience, advice and lessons learned |
-| Uses questions, challenge and reflection | Uses guidance, examples and direct suggestions |
-| Focuses on your context, goals and decisions | Draws more heavily on the mentor's own path |
-| Can work even when the coach is not from your exact field | Usually relies on relevant lived or professional experience |
-| Is often structured, paid and time-bound | Can be formal or informal, paid or unpaid |
+### Coaching sounds more like:
+
+"What do you want here, really?"
+
+"What are you assuming?"
+
+"What would change if you trusted your own read of the situation?"
+
+"What is yours to carry, and what belongs to the system, the role, or someone else's nonsense?"
+
+### Mentoring sounds more like:
+
+"Here is what I have seen work in this situation."
+
+"When I was in a similar role, this is the trap I fell into."
+
+"This is how I would think about that stakeholder/team/promotion conversation."
+
+"Here are a few options, and here is what each one might cost you."
 
 Some people, including me, blend both.
 
@@ -89,7 +103,7 @@ You might benefit from coaching if:
 * You are facing a decision and cannot hear yourself think over everyone else's expectations.
 * You want support from someone outside your company who does not have a stake in the politics.
 
-You do not need to arrive with a neat goal. "I don't know exactly what is wrong, but something is not working" is a perfectly valid place to start.
+<div class="callout">You do not need to arrive with a neat goal. "I don't know exactly what is wrong, but something is not working" is a perfectly valid place to start.</div>
 
 ## What happens in a session?
 
@@ -141,3 +155,5 @@ Because you are allowed support before everything is on fire.
 Because being capable does not mean doing everything alone.
 
 And, frankly, because sometimes the most useful thing in the world is having someone in your corner who can say, with care and precision: "You are not broken. Now let's look at what is actually going on."
+
+If that sounds like the kind of support you need, you can read more about [working with me as your coach](/coaching/).
