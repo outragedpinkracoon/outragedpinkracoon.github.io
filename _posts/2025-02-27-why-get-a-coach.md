@@ -9,7 +9,7 @@ People ask me this a lot:
 
 What even is a coach?
 
-Fair question. It is one of those words that gets used for everything from "person who asks excellent questions" to "guy on LinkedIn yelling about 5am ice baths and passive income". No wonder people are confused.
+Fair question. It is one of those words that gets used for everything from "person who asks excellent questions" to "some bro on LinkedIn yelling about 5am ice baths and passive income". No wonder people are confused.
 
 At its best, coaching is a structured conversation that helps you think more clearly, understand yourself better, and decide what you want to do next.
 
@@ -19,7 +19,7 @@ Not because the coach has a magic answer hidden in a little velvet pouch.
 
 ## What Coaching Is
 
-A coach is a trained professional who helps you explore what is going on, what you want, what is getting in the way, and what you might do next.
+A coach is a trained professional who helps you explore what is going on, what you want, what is getting in the way, and what you might do next to sort your shit out.
 
 Coaching is usually:
 
@@ -148,7 +148,7 @@ And yes, vibe matters. You are allowed to pick someone who gets you. If you are 
 
 ## So, why get a coach?
 
-Because sometimes you need a place where your work, power, fear, ambition, confidence, identity and absolute "what the fuck is happening?" can all be in the room at the same time.
+Because sometimes you need a place where your work, power, fear, ambition, confidence, identity and absolute "wtf is happening?" can all be in the room at the same time.
 
 Because you are allowed support before everything is on fire.
 
