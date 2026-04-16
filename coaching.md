@@ -155,7 +155,7 @@ In sessions, I blend coaching with mentoring. That means guided questioning, ref
 
 <p class="pricing-terms">All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
-## What people say
+## Real people saying real things!
 
 <div class="testimonial-grid">
   <blockquote class="testimonial-card">
