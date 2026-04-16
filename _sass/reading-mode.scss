@@ -102,6 +102,13 @@ body.reading-mode {
     box-shadow: 7px 7px 0 #1c1714;
   }
 
+  .testimonial-card {
+    border-top-color: $reading-magenta;
+    &:nth-child(even) { border-top-color: $reading-teal; }
+    &:nth-child(3) { border-top-color: #d46f42; }
+    &:nth-child(4) { border-top-color: $reading-yellow; }
+  }
+
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -337,6 +344,12 @@ body.cb-red-green {
     li:nth-child(3) { border-left-color: $cb-vermillion; }
   }
   .process-step__number { color: rgba($cb-blue, 0.72); }
+  .testimonial-card {
+    border-top-color: $cb-blue;
+    &:nth-child(even) { border-top-color: $cb-amber; }
+    &:nth-child(3) { border-top-color: $cb-vermillion; }
+    &:nth-child(4) { border-top-color: $cb-yellow; }
+  }
 
   // Footer
   footer { border-top-color: $cb-blue; }
@@ -536,6 +549,12 @@ body.cb-blue-yellow {
     li:nth-child(3) { border-left-color: #ef6820; }
   }
   .process-step__number { color: rgba(#d91a5e, 0.72); }
+  .testimonial-card {
+    border-top-color: #d91a5e;
+    &:nth-child(even) { border-top-color: $tri-green; }
+    &:nth-child(3) { border-top-color: #ef6820; }
+    &:nth-child(4) { border-top-color: $tri-coral; }
+  }
 
   // Footer
   footer { border-top-color: #d91a5e; }
@@ -766,6 +785,16 @@ body.cb-greyscale {
     li:nth-child(3) { border-left-color: $gs-mid; border-left-style: dotted; }
   }
   .process-step__number { color: rgba($gs-dark, 0.72); }
+  .testimonial-card {
+    background: $gs-light;
+    border-color: rgba($gs-dark, 0.2);
+    border-top-color: $gs-dark;
+    box-shadow: 5px 5px 0 $gs-mid;
+    color: $gs-dark;
+    &:nth-child(even) { border-top-color: $gs-mid-dark; border-top-style: dashed; }
+    &:nth-child(3) { border-top-color: $gs-mid; border-top-style: dotted; }
+    &:nth-child(4) { border-top-color: $gs-dark; border-top-style: double; }
+  }
 
   // Footer
   footer { border-top-color: $gs-dark; }
