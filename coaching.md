@@ -24,29 +24,35 @@ Most of the people I work with are already capable. They're not broken. They're 
 
 We might work on asking for accommodations, handling a difficult stakeholder, rebuilding confidence after a bad manager, preparing for promotion, deciding whether to stay or leave, or learning how to manage people without copying the leadership patterns that harmed you.
 
-## Who I work with
-
-I work primarily with women, non-binary, queer, disabled and neurodivergent people in tech, including:
-
-* Those done with being the highest performer and the most overlooked.
-* New managers thrown in the deep end.
-* Senior leaders smashing their heads on a very real, very present glass ceiling.
-* Individual contributors ready to stop shrinking.
-* Folks feeling lost, confused and stuck in their career or work situation.
-
-This list is not exhaustive!
-
-## Two ways I can help
+## Who I Work With
 
 ### Coaching for under-represented people in tech
 
-For women, queer, non-binary, disabled, neurodivergent and otherwise under-represented people who are tired of shrinking, masking, over-performing, or navigating broken systems alone.
+For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented people who are tired of shrinking, masking, over-performing, or navigating broken systems alone.
+
+That might be you if you're:
+
+* Done with being the highest performer and the most overlooked.
+* Smashing your head on a very real, very present glass ceiling.
+* Ready to stop shrinking as an individual contributor.
+* Feeling lost, confused, burned out or stuck in your career or work situation.
+* Trying to work out what you actually want, not just what you've been told success should look like.
 
 ### Training for new managers
 
 For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical, humane tools for leading people without turning into the worst manager they ever had.
 
+That might be you if you're:
+
+* Newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"
+* Trying to run better one-to-ones, give clearer feedback, set expectations, or handle conflict.
+* Managing up, sideways and down while wondering why nobody warned you how weird management is.
+* Trying to protect your team's energy without setting yourself on fire.
+* Determined to become a good manager without becoming a corporate husk.
+
 My 1:1 work can support new managers directly, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.
+
+These groups overlap all the time. If you're both under-represented in tech and newly responsible for people, you are very much in the right place.
 
 ## What you get
 
@@ -56,13 +62,11 @@ You'll leave sessions with clarity on what you actually want, not what you think
 
 If you're navigating tech from the margins, it might mean rebuilding confidence after a rough workplace, asking for what you need, understanding where your power actually is, making sense of burnout, or choosing your next move without treating yourself like the problem.
 
-You'll feel challenged — genuinely, not performatively. You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
-
-Just someone finally in your corner who gets it.
+You'll feel challenged genuinely and kindly. I’m autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner. You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
 
 ## How it works
 
-Sessions are remote and one-to-one. I blend coaching — guided questioning, genuine challenge, new insight — with mentoring from 18 years as a technologist and exec leader. I'm autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner.
+Sessions are remote and one-to-one. I blend coaching, guided questioning, genuine challenge, new insight, with mentoring from nearly two decades as a technologist and exec leader.
 
 Get in touch via [email](mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.) or [LinkedIn](https://www.linkedin.com/in/outragedpinkracoon/) and we'll have a wee chat to figure out if we're a good fit before you commit to anything.
 
