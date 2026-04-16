@@ -109,6 +109,43 @@ body.reading-mode {
     &:nth-child(4) { border-top-color: $reading-yellow; }
   }
 
+  .value-card {
+    border-left-color: $reading-magenta;
+    &:nth-child(even) { border-left-color: $reading-teal; }
+    &:nth-child(3) { border-left-color: #d46f42; }
+  }
+  .story-stamp {
+    background: rgba($reading-yellow, 0.32);
+    color: #1c1714;
+    border-left-color: $reading-magenta;
+    box-shadow: 7px 7px 0 rgba($reading-teal, 0.58);
+
+    p + p {
+      border-top-color: rgba($reading-magenta, 0.2);
+    }
+  }
+  .credential-card {
+    background: #d46f42;
+    color: #f7f2e8;
+    box-shadow: 7px 7px 0 #80679a;
+
+    h3,
+    a {
+      color: #f7f2e8;
+    }
+
+    &:nth-child(2) {
+      background: $reading-yellow;
+      color: #1c1714;
+      box-shadow: 7px 7px 0 $reading-teal;
+
+      h3,
+      a {
+        color: #1c1714;
+      }
+    }
+  }
+
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -350,6 +387,43 @@ body.cb-red-green {
     &:nth-child(3) { border-top-color: $cb-vermillion; }
     &:nth-child(4) { border-top-color: $cb-yellow; }
   }
+  .value-card {
+    border-left-color: $cb-blue;
+    &:nth-child(even) { border-left-color: $cb-amber; }
+    &:nth-child(3) { border-left-color: $cb-vermillion; }
+    &:nth-child(4) { border-left-color: $cb-sky; }
+  }
+  .story-stamp {
+    background: #f7f2e8;
+    color: #1c1714;
+    border-left-color: $cb-blue;
+    box-shadow: 7px 7px 0 rgba($cb-amber, 0.68);
+
+    p + p {
+      border-top-color: rgba($cb-blue, 0.22);
+    }
+  }
+  .credential-card {
+    background: $cb-vermillion;
+    color: #f7f2e8;
+    box-shadow: 7px 7px 0 $cb-sky;
+
+    h3,
+    a {
+      color: #f7f2e8;
+    }
+
+    &:nth-child(2) {
+      background: $cb-yellow;
+      color: #1c1714;
+      box-shadow: 7px 7px 0 $cb-amber;
+
+      h3,
+      a {
+        color: #1c1714;
+      }
+    }
+  }
 
   // Footer
   footer { border-top-color: $cb-blue; }
@@ -554,6 +628,43 @@ body.cb-blue-yellow {
     &:nth-child(even) { border-top-color: $tri-green; }
     &:nth-child(3) { border-top-color: #ef6820; }
     &:nth-child(4) { border-top-color: $tri-coral; }
+  }
+  .value-card {
+    border-left-color: #d91a5e;
+    &:nth-child(even) { border-left-color: $tri-green; }
+    &:nth-child(3) { border-left-color: #ef6820; }
+    &:nth-child(4) { border-left-color: $tri-red; }
+  }
+  .story-stamp {
+    background: #f7f2e8;
+    color: #1c1714;
+    border-left-color: #d91a5e;
+    box-shadow: 7px 7px 0 rgba($tri-green, 0.65);
+
+    p + p {
+      border-top-color: rgba(#d91a5e, 0.22);
+    }
+  }
+  .credential-card {
+    background: #ef6820;
+    color: #f7f2e8;
+    box-shadow: 7px 7px 0 $tri-red;
+
+    h3,
+    a {
+      color: #f7f2e8;
+    }
+
+    &:nth-child(2) {
+      background: $tri-coral;
+      color: #1c1714;
+      box-shadow: 7px 7px 0 $tri-green;
+
+      h3,
+      a {
+        color: #1c1714;
+      }
+    }
   }
 
   // Footer
@@ -794,6 +905,42 @@ body.cb-greyscale {
     &:nth-child(even) { border-top-color: $gs-mid-dark; border-top-style: dashed; }
     &:nth-child(3) { border-top-color: $gs-mid; border-top-style: dotted; }
     &:nth-child(4) { border-top-color: $gs-dark; border-top-style: double; }
+  }
+  .value-card {
+    background: lighten($gs-light, 6%);
+    border-color: rgba($gs-dark, 0.2);
+    border-left-color: $gs-dark;
+    color: $gs-dark;
+    &:nth-child(even) { border-left-color: $gs-mid-dark; border-left-style: dashed; }
+    &:nth-child(3) { border-left-color: $gs-mid; border-left-style: dotted; }
+    &:nth-child(4) { border-left-color: $gs-mid-light; border-left-style: double; }
+  }
+  .story-stamp {
+    background: lighten($gs-light, 7%);
+    color: $gs-dark;
+    border-left-color: $gs-dark;
+    box-shadow: 7px 7px 0 $gs-mid;
+
+    p + p {
+      border-top-style: dashed;
+      border-top-color: rgba($gs-dark, 0.28);
+    }
+  }
+  .credential-card {
+    background: $gs-dark;
+    box-shadow: 7px 7px 0 $gs-mid;
+    color: #f7f2e8;
+
+    h3,
+    a {
+      color: #f7f2e8;
+    }
+
+    &:nth-child(2) {
+      background: $gs-mid-dark;
+      border-top: 4px dashed #f7f2e8;
+      box-shadow: 7px 7px 0 $gs-mid-light;
+    }
   }
 
   // Footer
