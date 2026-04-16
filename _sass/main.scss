@@ -555,37 +555,43 @@ hr {
   }
 }
 
-.creative-links {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.2rem;
-  margin: 1.5rem 0 0;
-  clear: both;
+.creative-showcase {
+  margin: 1.8rem 0 2.2rem;
 
   @include respond-to('medium') {
-    grid-template-columns: repeat(2, 1fr);
+    align-items: stretch;
   }
 }
 
-.creative-link {
-  padding: 1.3rem;
-  border-left: 6px solid $lavender;
-  background: rgba($lavender, 0.08);
+.creative-showcase.card-grid {
+  gap: 1.8rem;
+}
 
-  h3 {
-    margin: 0 0 0.7rem;
-    padding-left: 0;
-    border-left: none;
-    color: $lavender;
-  }
+.creative-showcase .card {
+  height: 100%;
+}
 
-  p {
-    margin-top: 0;
-  }
+.creative-showcase .card:nth-child(1) {
+  transform: rotate(-2.6deg);
 
-  .offer-label {
-    color: $ink;
+  &:hover {
+    transform: rotate(0deg) translate(-3px, -3px);
   }
+}
+
+.creative-showcase .card:nth-child(2) {
+  transform: rotate(2.6deg);
+
+  &:hover {
+    transform: rotate(0deg) translate(-3px, -3px);
+  }
+}
+
+.creative-showcase .offer-label {
+  flex: 0;
+  color: inherit;
+  margin-bottom: 0.7rem;
+  opacity: 0.9;
 }
 
 .text-cta {
@@ -711,6 +717,20 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
         }
       }
 
+    }
+  }
+
+  @for $i from 1 through 4 {
+    $shadow: nth($_card-shadows, $i);
+    $rot: nth($_card-rotations, $i);
+
+    &:nth-child(#{$i}).card--static {
+      transition: none;
+
+      &:hover {
+        transform: rotate($rot);
+        box-shadow: 8px 8px 0 $shadow;
+      }
     }
   }
 
@@ -1229,51 +1249,39 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 }
 
 .credentials-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.3rem;
   margin: 1.8rem 0 2rem;
+}
 
-  @include respond-to('medium') {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+.credentials-grid .card:nth-child(1) {
+  background: $orange;
+  color: $cream;
+  box-shadow: 8px 8px 0 $lavender;
+
+  &:hover {
+    box-shadow: 8px 8px 0 $lavender;
+  }
+}
+
+.credentials-grid .card:nth-child(2) {
+  background: $yellow;
+  color: $ink;
+  box-shadow: 8px 8px 0 $teal;
+
+  h3,
+  a {
+    color: $ink;
+  }
+
+  p {
+    color: rgba($ink, 0.8);
+  }
+
+  &:hover {
+    box-shadow: 8px 8px 0 $teal;
   }
 }
 
 .credential-card {
-  padding: 1.35rem;
-  background: $orange;
-  color: $cream;
-  box-shadow: 7px 7px 0 $lavender;
-  transform: rotate(-1.1deg);
-
-  &:nth-child(2) {
-    background: $yellow;
-    color: $ink;
-    box-shadow: 7px 7px 0 $teal;
-    transform: rotate(1.1deg);
-
-    h3,
-    a {
-      color: $ink;
-    }
-
-    a {
-      text-decoration-color: rgba($ink, 0.55);
-
-      &:hover {
-        color: $ink;
-        text-decoration-color: $ink;
-      }
-    }
-  }
-
-  h3 {
-    margin: 0 0 0.8rem;
-    padding: 0;
-    border: none;
-    color: $cream;
-  }
-
   ul {
     margin: 0;
     padding-left: 1.1rem;
@@ -1285,16 +1293,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   }
 
   a {
-    color: $cream;
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 0.16em;
-    text-decoration-color: rgba($cream, 0.65);
-
-    &:hover {
-      color: $cream;
-      text-decoration-color: $cream;
-    }
+    color: inherit;
+    text-decoration-color: currentColor;
   }
 }
 
