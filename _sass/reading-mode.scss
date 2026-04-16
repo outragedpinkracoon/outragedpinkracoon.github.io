@@ -727,15 +727,19 @@ body.cb-greyscale {
   .audience-label { background: $gs-dark; color: #f7f2e8; }
   .audience-panel {
     &--coaching {
+      background: $gs-light;
       border-color: $gs-dark;
       border-style: solid;
       box-shadow: 7px 7px 0 $gs-mid;
+      color: $gs-dark;
       h3 { color: $gs-dark; }
     }
     &--manager {
+      background: lighten($gs-light, 8%);
       border-color: $gs-mid-dark;
       border-style: dashed;
       box-shadow: 7px 7px 0 $gs-mid-light;
+      color: $gs-dark;
       h3 { color: $gs-mid-dark; }
     }
   }
