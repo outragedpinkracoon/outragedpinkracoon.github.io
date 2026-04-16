@@ -69,6 +69,12 @@ You'll be challenged, genuinely and kindly. I’m autistic, which means no perfo
 
 You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
 
+## What is coaching?
+
+Coaching is a structured conversation that helps you think more clearly, understand what is actually going on, and decide what you want to do next. You bring the messy work/life/career knot; I bring questions, reflection, challenge, and nearly two decades of tech leadership experience when that is useful.
+
+It is not therapy, diagnosis, or someone simply telling you what to do. It is a place to untangle the thing you are too close to see clearly. If you're wondering what coaching even is, I wrote a fuller explainer here: [What's A Coach Anyway?](/2025/02/27/why-get-a-coach.html)
+
 ## How it works
 
 Sessions are remote, private and one-to-one. You can book a single session if you have one knotty thing to untangle, or a bundle of three if you want a bit more space to work through something properly.

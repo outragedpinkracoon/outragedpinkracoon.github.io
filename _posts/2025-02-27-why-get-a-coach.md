@@ -1,61 +1,143 @@
 ---
 title: What's A Coach Anyway?
-description: A coach can supercharge your growth and take you to the next level.
+description: What coaching actually is, what it is not, and why you might want a coach when work has become a bit too much to untangle alone.
 layout: post
 categories: [coaching]
 ---
 
-In the fast-paced world of leadership and tech, many professionals turn to external support to navigate challenges and achieve their goals. 
+People ask me this a lot:
 
-A coach is a trained professional who helps individuals unlock their potential, develop skills, and achieve specific goals. 
+What even is a coach?
 
-Coaching is a structured, client-led process that focuses on asking powerful questions, fostering self-awareness, and driving action. It's very relationship driven and coaches act as a key thought partner in navigating obstacles together with you.
+Fair question. It is one of those words that gets used for everything from "person who asks excellent questions" to "guy on LinkedIn yelling about 5am ice baths and passive income". No wonder people are confused.
 
-Coaching does not provide direct solutions but instead empowers the individual to find their own answers through gentle and structured questioning.
+At its best, coaching is a structured conversation that helps you think more clearly, understand yourself better, and decide what you want to do next.
+
+Not because the coach has a magic answer hidden in a little velvet pouch. Because good coaching gives you space, challenge, reflection and support while you untangle the thing you are too close to see clearly.
+
+## What Coaching Is
+
+A coach is a trained professional who helps you explore what is going on, what you want, what is getting in the way, and what you might do next.
+
+Coaching is usually:
+
+* Led by your agenda.
+* Focused on your thinking, choices and next steps.
+* Built around questions, reflection and challenge.
+* Practical enough to turn insight into action.
+* Supportive without simply agreeing with everything you say.
+
+You bring the messy work/life/career knot. The coach helps you stop yanking at it randomly and start seeing the threads.
+
+That might mean working through a difficult stakeholder relationship, a new management role, wondering if you might be neurodivergent and what that means, a confidence wobble, burnout, promotion, conflict, communication, career direction, or the horrible creeping feeling of "is it me, or is this place absolutely ridiculous?"
 
 ## How Can a Coach Help?
 
-Coaching can support you in several key areas, including:
+Coaching can help when you are capable, but stuck.
+
+That distinction matters. Coaching is not about someone swooping in because you are broken. You are not a malfunctioning toaster. You may simply be dealing with a complicated situation, a broken system, a new level of responsibility, or a pattern you have not had enough space to understand yet.
+
+Coaching can support you with things like:
 
 * Leadership development
-* Navigating career transitions or role change
-* Improving communication and interpersonal skills
-* Enhancing decision-making and problem-solving
-* Managing stress, resilience, and work-life balance
+* Becoming a new manager
+* Navigating career transitions or role changes
+* Handling difficult conversations
+* Managing up, sideways and down
 * Building confidence and self-awareness
+* Recovering after a rough workplace or bad manager
+* Understanding your needs, boundaries and working patterns
+* Deciding whether to stay, leave, push, pause or burn it all down metaphorically
 
-A coach works with you to identify obstacles, challenge limiting beliefs, and create a roadmap for progress. The process is action-oriented, with measurable outcomes and accountability.
+A good coach helps you slow the situation down enough to see it properly. Then they help you choose what to do with your eyes open.
 
-## Coaching vs. Mentoring: What’s the Difference?
+## What coaching is not
 
-While coaching and mentoring are often used interchangeably, they serve different purposes and are not the same thing. If you're considering working with a coach or mentor, it's essential to understand their distinct roles and how to find the right fit for your needs.
+Coaching is not therapy. It can be emotionally useful, but it is not mental health treatment.
 
-Some people (like me) can act as both a mentor AND a coach and may swap between styles. Bare this in mind when you are choosing who might be a good fit for you.
+Coaching is not diagnosis. A coach cannot tell you whether you are autistic, ADHD, traumatised, depressed, anxious or anything else that belongs with an appropriate medical or clinical professional. They can help you explore what you are noticing, what support might help, and what questions you may want to take elsewhere.
+
+Coaching is not someone simply telling you what to do. If you want direct advice from someone with experience in your field, you may be looking for mentoring, consulting, training or a blend.
+
+Coaching is also not motivational wallpaper. You should leave with more than "believe in yourself" and a Canva quote. You should leave thinking more clearly and feeling empowered rather than lost.
+
+## Coaching vs. Mentoring: What's the Difference?
+
+Coaching and mentoring overlap, but they are not the same thing.
 
 | **Coaching** | **Mentoring** |
 |-------------|-------------|
-| Focuses on developing skills, mindset, and self-awareness | Focuses on sharing industry experience and advice |
-| Ask questions to help you find answers | Provide guidance based on their own journey |
-| Helps you unlock potential and set goals | Provides career insights and networking opportunities |
-| Requires a trained professional with coaching skills | Can be informal, based on a personal relationship |
-| Time-limited and goal-oriented | Often a longer-term relationship |
-| Paid for | Can be paid or unpaid |
+| Helps you think, reflect and find your own answers | Shares experience, advice and lessons learned |
+| Uses questions, challenge and reflection | Uses guidance, examples and direct suggestions |
+| Focuses on your context, goals and decisions | Draws more heavily on the mentor's own path |
+| Can work even when the coach is not from your exact field | Usually relies on relevant lived or professional experience |
+| Is often structured, paid and time-bound | Can be formal or informal, paid or unpaid |
 
-Coaches facilitate growth by enabling you to think critically and take ownership of your development, while mentors offer guidance based on their experiences in a particular field.
+Some people, including me, blend both.
 
-Whether you need a coach or a mentor depends on your goals. If you’re looking for guided, thought-provoking conversations to drive personal or professional growth and unlock new insights a coach may be the right choice for you.
+In a session, I might coach you through the question underneath the question. Then, if it is appropriate and with your permission, I might also say, "Here is something from my experience that might help". The important thing is that you know which mode we are in, and that the session is still about your life and insights, not my backstory.
+
+## When coaching might be useful
+
+You might benefit from coaching if:
+
+* You are newly responsible for people and do not want to wing it with other people's careers.
+* You are technically capable but struggling with the people, politics or power bits of work.
+* You keep being told you are doing well, but you feel exhausted, invisible or weirdly unsafe.
+* You are wondering whether you might be neurodivergent and want help making sense of your patterns.
+* You are done being the highest performer and the most overlooked.
+* You are facing a decision and cannot hear yourself think over everyone else's expectations.
+* You want support from someone outside your company who does not have a stake in the politics.
+
+You do not need to arrive with a neat goal. "I don't know exactly what is wrong, but something is not working" is a perfectly valid place to start.
+
+## What happens in a session?
+
+Every coach works differently, but a good session usually gives you a mix of space, structure and challenge.
+
+You might bring:
+
+* A specific situation you need to untangle.
+* A decision you are avoiding.
+* A relationship at work that has become difficult.
+* A role change, promotion or confidence wobble.
+* A pattern you keep repeating and do not understand yet.
+
+The coach will ask questions, reflect things back, challenge assumptions, notice patterns and help you turn vague fog into something more workable.
+
+You may leave with an action. You may leave with a question to sit with. You may leave realising that the thing you thought was the problem is actually just the loudest symptom.
+
+All of these can be useful.
 
 ## What are the logistics?
 
-Unlike mentoring, coaching is a paid service often to reflect the professional qualifications and/or experience of the coach.
+Coaching is usually a paid service, often reflecting the coach's qualifications, experience, preparation and the responsibility of holding that kind of space well.
 
-Sessions normally last an hour and are often booked in blocks (3 is a good number I find!) to tackle a given issue together. 
+Sessions are often around an hour. Some people book one session for a specific knotty problem. Others book a small bundle, because three sessions can give you enough time to get into the mess, try something in real life, and come back with what happened.
 
-Your coach will take notes and remember specific information about you as your grow your relationship with them, allowing them to offer very personal guidance.
+Many coaches work online. Some work in person. Some meet weekly, fortnightly or monthly depending on the situation.
 
-Many coaches do sessions online but many also offer in person sessions. You may find you want to meet weekly or every two weeks depending on the gap you need to put into practice what you've learned in your sessions together.
+Most coaches offer an initial conversation before you commit, because fit matters. You should feel safe enough to be honest, but not so comfortable that nobody ever challenges you.
 
-Most coaches offer an initial conversation to discuss your goals and see if there’s a fit if you're looking to book a block with them.
+## How to choose a coach
 
+Look for someone who:
 
+* Has relevant training, experience or both.
+* Can explain how they work without hiding behind jargon.
+* Understands the kind of context you are navigating.
+* Has boundaries around what coaching can and cannot do.
+* Makes you feel respected, not sold to.
+* Has a style you can actually work with.
 
+And yes, vibe matters. You are allowed to pick someone who gets you. If you are queer, neurodivergent, disabled, a woman in tech, a new manager, burned out, furious, confused, ambitious, tired or all of the above, it is reasonable to want someone who does not need a 40-minute preamble before they understand the shape of the room.
+
+## So, why get a coach?
+
+Because sometimes you need a place where your work, power, fear, ambition, confidence, identity and absolute "what the fuck is happening?" can all be in the room at the same time.
+
+Because you are allowed support before everything is on fire.
+
+Because being capable does not mean doing everything alone.
+
+And, frankly, because sometimes the most useful thing in the world is having someone in your corner who can say, with care and precision: "You are not broken. Now let's look at what is actually going on."
