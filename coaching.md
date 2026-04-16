@@ -4,13 +4,13 @@ permalink: /coaching/
 title: 1:1 Coaching for Neurodivergent, Queer & Under-Represented Tech Leaders
 display_title: Coaching
 description: Remote, private 1:1 coaching for under-represented folks in tech from someone who's lived it.
-subtitle: Remote 1:1 Coaching For the Under-Represented By Someone Who's Lived It
+subtitle: Remote 1:1 Coaching for the Under-Represented in Tech By Someone Who's Lived It
 show_cta: true
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride 💅🏻
+I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride.
 
 I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place. I've lived it. I'm still living it. And I'm not going to pretend otherwise.
 
@@ -19,6 +19,8 @@ I want you to feel weird and wonderful and fully, unapologetically you — able 
 <div class="callout--teal callout">The system wasn't designed for you, and we'll find a way for you to be your full-fat, no f*cks given self anyway.</div>
 
 Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way, or they've been brainwashed into thinking they have less power than they do over their situation.
+
+We might work on asking for accommodations, handling a difficult stakeholder, rebuilding confidence after a bad manager, preparing for promotion, deciding whether to stay or leave, or learning how to manage people without copying the leadership patterns that harmed you.
 
 ## Who I work with
 
@@ -31,6 +33,18 @@ I work primarily with women, non-binary, queer, disabled and neurodivergent peop
 * Folks feeling lost, confused and stuck in their career or work situation.
 
 This list is not exhaustive!
+
+## Two ways I can help
+
+### Coaching for under-represented people in tech
+
+For women, queer, non-binary, disabled, neurodivergent and otherwise under-represented people who are tired of shrinking, masking, over-performing, or navigating broken systems alone.
+
+### Training for new managers
+
+For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical, humane tools for leading people without turning into the worst manager they ever had.
+
+My 1:1 work can support new managers directly, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.
 
 ## What you get
 
@@ -79,4 +93,3 @@ Get in touch via [email](mailto:outragedracooncoaching@gmail.com?subject=Coachin
 > You will find it hard to find a more passionate people manager anywhere. She is a breath of fresh air and would do everything in her power to look after her people.
 >
 > <span class='quote-author'>— Stephen Hill, Former Director @ Neogen Recruitment and all round great guy</span>
-
