@@ -826,21 +826,25 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   color: $cream;
   border-top: none;
   box-shadow: 5px 5px 0 $teal;
+  transform: rotate(-0.8deg);
 
   &:nth-child(2) {
     background: $teal;
     box-shadow: 5px 5px 0 $magenta;
+    transform: rotate(0.7deg);
   }
 
   &:nth-child(3) {
     background: $orange;
     box-shadow: 5px 5px 0 $lavender;
+    transform: rotate(0.6deg);
   }
 
   &:nth-child(4) {
     background: $yellow;
     color: $ink;
     box-shadow: 5px 5px 0 $magenta;
+    transform: rotate(-0.5deg);
   }
 
   p { margin: 0; }
@@ -910,8 +914,13 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     border-left: 6px solid $magenta;
     box-shadow: 5px 5px 0 rgba($ink, 0.09);
 
-    &:nth-child(even) { border-left-color: $teal; }
-    &:nth-child(3) { border-left-color: $orange; }
+    &:nth-child(even) {
+      border-left-color: $teal;
+    }
+
+    &:nth-child(3) {
+      border-left-color: $orange;
+    }
   }
 
   h3 {
