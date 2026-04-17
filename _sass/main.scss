@@ -250,7 +250,7 @@ nav {
   letter-spacing: 0.1em;
   text-transform: uppercase;
 
-  $_nav-colors: $magenta, $teal, $orange, $lavender, $ink;
+  $_nav-colors: $magenta, $teal, $orange, $lavender, $teal;
 
   @for $i from 1 through 5 {
     $c: nth($_nav-colors, $i);
