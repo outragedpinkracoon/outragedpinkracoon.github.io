@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /coaching/
-title: 1:1 Coaching for New Managers and Under-Represented Tech Leaders
+title: 1:1 Coaching for Under-Represented Folk and New Managers in Tech
 display_title: Coaching
-description: Remote, private 1:1 coaching for new managers and under-represented people in tech from someone who's lived it.
-subtitle: Remote 1:1 Coaching for New Managers and Under-Represented Tech People
+description: Remote, private 1:1 coaching for under-represented folk and new managers in tech from someone who's lived it.
+subtitle: Remote 1:1 Coaching for Under-Represented Folk and New Managers in Tech
 show_cta: true
 ---
 
@@ -14,7 +14,7 @@ I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust
 
 I'm also a former tech exec who has been the new manager, coached the new manager, and watched far too many capable people get handed a team with nowhere near enough support.
 
-I coach people who are trying to lead, grow, survive, or make sense of work in tech without becoming a hollowed-out corporate husk. Sometimes that means helping a new manager find their feet. Sometimes it means helping an under-represented person deal with a system that was never designed for them to have a seat at the table in the first place. Often, it means both.
+I coach people who are trying to lead, grow, survive, or make sense of work in tech without becoming a hollowed-out corporate husk. Sometimes that means helping an under-represented person deal with a system that was never designed for them to have a seat at the table in the first place. Sometimes it means helping a new manager find their feet. Often, it means both.
 
 I want you to feel capable, clear, weird and wonderful and fully, unapologetically you — able to lead and live in a way that is actually true to you. Not in the way the system wants you to be.
 
@@ -29,8 +29,8 @@ We might work on asking for accommodations, handling a difficult stakeholder, re
 <div class="audience-grid">
   <section class="audience-panel audience-panel--coaching">
     <p class="audience-label">1:1 coaching</p>
-    <h3>For under-represented people in tech</h3>
-    <p>For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented people who are tired of shrinking, masking, over-performing, or trying to make sense of broken systems alone.</p>
+    <h3>For under-represented folk in tech</h3>
+    <p>For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented folk who are tired of shrinking, masking, over-performing, or trying to make sense of broken systems alone.</p>
     <p>That might be you if you're:</p>
     <ul>
       <li>Done with being the highest performer and the most overlooked.</li>
