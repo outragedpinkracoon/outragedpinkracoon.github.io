@@ -138,7 +138,10 @@
     <a href='/blog' {% if page.url == '/blog/' or page.url == '/blog' %}aria-current="page"{% endif %}>Blog</a>
     <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank' rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in new tab)</span></a>
     <div class="display-settings">
-      <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel">Aa<span class="sr-only"> — display settings</span></button>
+      <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel" aria-label="Open display settings">
+        <span class="settings-icon" aria-hidden="true">⚙</span>
+        <span>Display</span>
+      </button>
       <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-modal="true" aria-labelledby="display-settings-title">
         <div class="panel-close"><button aria-label="Close display settings">✕</button></div>
         <p class="display-settings-title" id="display-settings-title">Make it work for you</p>
@@ -148,18 +151,18 @@
         <label class="setting-row">
           <input type="checkbox" id="toggle-reduce-motion"> Reduce animations
         </label>
-        <p class="setting-group-label">Colour vision</p>
+        <p class="setting-group-label">Colour-safe palette</p>
         <label class="setting-row">
-          <input type="radio" name="colour-mode" id="toggle-cb-none" value="none" checked> Full colour
+          <input type="radio" name="colour-mode" id="toggle-cb-none" value="none" checked> Standard colours
         </label>
         <label class="setting-row">
-          <input type="radio" name="colour-mode" id="toggle-cb-red-green" value="red-green"> Red and green look similar to me
+          <input type="radio" name="colour-mode" id="toggle-cb-red-green" value="red-green"> Red/green safe
         </label>
         <label class="setting-row">
-          <input type="radio" name="colour-mode" id="toggle-cb-blue-yellow" value="blue-yellow"> Blue and yellow look similar to me
+          <input type="radio" name="colour-mode" id="toggle-cb-blue-yellow" value="blue-yellow"> Blue/yellow safe
         </label>
         <label class="setting-row">
-          <input type="radio" name="colour-mode" id="toggle-cb-greyscale" value="greyscale"> I see mostly in greyscale
+          <input type="radio" name="colour-mode" id="toggle-cb-greyscale" value="greyscale"> Greyscale
         </label>
       </div>
     </div>
