@@ -24,7 +24,7 @@ Often, it means both.
 
 ## Who I work with
 
-If you're both under-represented in tech and/or newly responsible for people, you are very much in the right place. These groups often overlap and need specialist support. 
+<p>If you're both under-represented in tech and/or newly responsible for people, you are very much in the right place. These groups often overlap and need specialist support. </p>
 
 <div class="audience-grid">
   <section class="audience-panel audience-panel--coaching">
@@ -33,12 +33,13 @@ If you're both under-represented in tech and/or newly responsible for people, yo
     <p>For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented folk who are tired of shrinking, masking, over-performing, or trying to make sense of broken systems alone.</p>
     <p>That might be you if you're:</p>
     <ul>
-      <li>Done with being the highest performer and the most overlooked.</li>
-      <li>Smashing your head on a very real, very present glass ceiling.</li>
-      <li>Ready to stop shrinking as an individual contributor.</li>
-      <li>Feeling lost, confused, burned out or stuck in your career or work situation.</li>
-      <li>Wondering whether you might be neurodivergent and trying to make sense of your patterns, needs and working life.</li>
-      <li>Trying to work out what you actually want, not just what you've been told success should look like.</li>
+      <li>I'm the highest performer and somehow still the most overlooked.</li>
+      <li>I'm smashing my head on a very real, very present glass ceiling.</li>
+      <li>I can't tell if it's me or the system.</li>
+      <li>I need to ask for accommodations and I'm bracing for nonsense.</li>
+      <li>I think I might be neurodivergent and I'm trying to make sense of my patterns, needs and working life.</li>
+      <li>I think I'm burning out.</li>
+      <li>I don't know what I actually want, only what I was told success should look like. Or not even that.</li>
     </ul>
     <p>I can't diagnose you, because coaching is not a medical assessment. But I can help you explore what you're noticing, untangle what might be masking, burnout or unmet needs, and think through what support, accommodations or next steps might help.</p>
   </section>
@@ -49,15 +50,22 @@ If you're both under-represented in tech and/or newly responsible for people, yo
     <p>For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical tools for leading people without turning into the worst manager they ever had.</p>
     <p>That might be you if you're:</p>
     <ul>
-      <li>Newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"</li>
-      <li>Trying to run better one-to-ones, give clearer feedback, set expectations, or handle conflict.</li>
-      <li>Managing up, sideways and down while wondering why nobody warned you how weird management is.</li>
-      <li>Trying to protect your team's energy without setting yourself on fire.</li>
-      <li>Determined to become a good manager but you don't know what being good even means.</li>
+      <li>I've been promoted and I feel wildly underbriefed by the universe.</li>
+      <li>I'm newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"</li>
+      <li>My team is a mess and I don't know what to do first.</li>
+      <li>I need to run better one-to-ones, set expectations, or handle conflict.</li>
+      <li>I need to give feedback and I'm avoiding it.</li>
+      <li>I'm managing up, sideways and down and nobody warned me how weird this would be.</li>
+      <li>I'm trying to protect my team's energy without setting myself on fire.</li>
+      <li>I need to decide whether to stay, go, push back, or ask for more.</li>
     </ul>
     <p>My 1:1 work can support new managers directly, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.</p>
   </section>
 </div>
+
+<p>
+If this is you, don’t sit on it for another month. One session is often enough to untangle what’s actually going on and decide what to do next.
+</p>
 
 ## What you get
 
@@ -84,27 +92,6 @@ But it will change how you move through it, lead within it, and decide who you a
   </div>
 </div>
 
-<section class="problem-list" aria-labelledby="problem-list-title">
-  <h2 id="problem-list-title">Bring me things like:</h2>
-  <ul>
-    <li>I need to give feedback and I'm avoiding it.</li>
-    <li>My team is a mess and I don't know what to do first.</li>
-    <li>I've been promoted and I feel wildly underbriefed by the universe.</li>
-    <li>I'm newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"</li>
-    <li>I need to run better one-to-ones, set expectations, or handle conflict.</li>
-    <li>I'm managing up, sideways and down and nobody warned me how weird this would be.</li>
-    <li>I can't tell if it's me or the system.</li>
-    <li>I need to ask for accommodations and I'm bracing for nonsense.</li>
-    <li>I'm the highest performer and somehow still the most overlooked.</li>
-    <li>I'm smashing my head on a very real, very present glass ceiling.</li>
-    <li>I think I might be neurodivergent and I'm trying to make sense of my patterns, needs and working life.</li>
-    <li>I think I'm burning out.</li>
-    <li>I'm trying to protect my team's energy without setting myself on fire.</li>
-    <li>I don't know what I actually want, only what I was told success should look like. Or not even that.</li>
-    <li>I need to decide whether to stay, go, push back, or ask for more.</li>
-  </ul>
-</section>
-
 ## How it works
 
 Sessions are remote, private and one-to-one.
@@ -116,8 +103,8 @@ Quick version: you bring the messy work/life/career knot; I bring questions, ref
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
-    <h3>Free fit-check</h3>
-    <p>Email me or message me on LinkedIn. We'll work out what you need and whether I'm the right person.</p>
+  <h3>Quick fit-check (free)</h3>
+  <p>Get in touch and tell me what’s going on. We’ll work out what you need, and whether this is the right kind of help.</p> 
   </li>
   <li>
     <span class="process-step__number">02</span>
