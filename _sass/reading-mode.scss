@@ -102,6 +102,38 @@ body.reading-mode {
     box-shadow: 7px 7px 0 #1c1714;
   }
 
+  .pricing-intro {
+    background: rgba($reading-teal, 0.12);
+    border-color: rgba($reading-teal, 0.36);
+    border-left-color: $reading-teal;
+    box-shadow: 8px 8px 0 rgba($reading-yellow, 0.78);
+  }
+  .pricing-kicker { color: darken($reading-teal, 8%); }
+  .pricing-lede { color: darken($reading-teal, 8%); }
+  .pricing-proof span {
+    background: rgba($reading-yellow, 0.22);
+    border-color: rgba($reading-teal, 0.32);
+    color: darken($reading-teal, 12%);
+  }
+  .pricing-card--featured {
+    border-color: $reading-teal;
+    border-bottom-color: $reading-teal;
+    box-shadow: 8px 8px 0 rgba($reading-yellow, 0.82);
+  }
+  .pricing-amount {
+    color: darken($reading-teal, 8%);
+    text-shadow: 3px 3px 0 rgba($reading-yellow, 0.42);
+  }
+  .pricing-cta {
+    background: darken($reading-teal, 4%);
+    box-shadow: 4px 4px 0 rgba($reading-yellow, 0.9);
+    &:hover { box-shadow: 6px 6px 0 rgba($reading-yellow, 0.9); }
+  }
+  .pricing-badge {
+    background: $reading-yellow;
+    color: #1c1714;
+  }
+
   .testimonial-card {
     border-top-color: $reading-magenta;
     &:nth-child(even) { border-top-color: $reading-teal; }
@@ -342,8 +374,26 @@ body.cb-red-green {
   }
 
   // Pricing
+  .pricing-intro {
+    background: rgba($cb-blue, 0.08);
+    border-color: rgba($cb-blue, 0.34);
+    border-left-color: $cb-blue;
+    box-shadow: 8px 8px 0 $cb-amber;
+  }
+  .pricing-kicker,
+  .pricing-lede { color: $cb-blue; }
+  .pricing-proof span {
+    background: rgba($cb-sky, 0.16);
+    border-color: rgba($cb-blue, 0.36);
+    color: $cb-blue;
+  }
   .pricing-card--featured { border-color: $cb-blue; border-bottom-color: $cb-blue; box-shadow: 5px 5px 0 $cb-amber; }
   .pricing-amount { color: $cb-blue; text-shadow: 3px 3px 0 rgba($cb-amber, 0.3); }
+  .pricing-cta {
+    background: $cb-blue;
+    box-shadow: 4px 4px 0 $cb-amber;
+    &:hover { box-shadow: 6px 6px 0 $cb-amber; }
+  }
   .pricing-badge { background: $cb-amber; }
 
   // Coaching page sections
@@ -587,9 +637,30 @@ body.cb-blue-yellow {
   }
 
   // Pricing
-  .pricing-card--featured { border-color: #d91a5e; border-bottom-color: #d91a5e; box-shadow: 5px 5px 0 $tri-green; }
-  .pricing-amount { text-shadow: 3px 3px 0 rgba($tri-green, 0.3); }
-  .pricing-badge { background: $tri-green; }
+  .pricing-intro {
+    background: rgba($tri-green, 0.08);
+    border-color: rgba($tri-green, 0.34);
+    border-left-color: $tri-green;
+    box-shadow: 8px 8px 0 $tri-coral;
+  }
+  .pricing-kicker,
+  .pricing-lede { color: $tri-green; }
+  .pricing-proof span {
+    background: rgba($tri-coral, 0.16);
+    border-color: rgba($tri-green, 0.36);
+    color: $tri-green;
+  }
+  .pricing-card--featured { border-color: $tri-green; border-bottom-color: $tri-green; box-shadow: 5px 5px 0 $tri-coral; }
+  .pricing-amount { color: $tri-green; text-shadow: 3px 3px 0 rgba($tri-coral, 0.3); }
+  .pricing-cta {
+    background: $tri-green;
+    box-shadow: 4px 4px 0 $tri-coral;
+    &:hover { box-shadow: 6px 6px 0 $tri-coral; }
+  }
+  .pricing-badge {
+    background: $tri-green;
+    color: #f7f2e8;
+  }
 
   // Coaching page sections
   .audience-label { background: #1c1714; color: #f7f2e8; }
@@ -850,8 +921,27 @@ body.cb-greyscale {
   }
 
   // Pricing
+  .pricing-intro {
+    background: $gs-light;
+    border-color: $gs-mid-dark;
+    border-left-color: $gs-dark;
+    box-shadow: 8px 8px 0 $gs-mid;
+  }
+  .pricing-kicker,
+  .pricing-lede { color: $gs-dark; }
+  .pricing-proof span {
+    background: lighten($gs-light, 7%);
+    border-color: $gs-mid-dark;
+    border-style: dashed;
+    color: $gs-dark;
+  }
   .pricing-card--featured { border-color: $gs-dark; border-bottom-color: $gs-dark; box-shadow: 5px 5px 0 $gs-mid; }
   .pricing-amount { color: $gs-dark; text-shadow: 3px 3px 0 rgba($gs-mid, 0.3); }
+  .pricing-cta {
+    background: $gs-dark;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &:hover { box-shadow: 6px 6px 0 $gs-mid; }
+  }
   .pricing-badge { background: $gs-mid; }
 
   // Coaching page sections
