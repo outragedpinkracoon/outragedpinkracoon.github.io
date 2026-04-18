@@ -22,9 +22,9 @@ Sometimes that means helping an under-represented person deal with a system that
 
 Often, it means both.
 
-Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way, nobody taught them the parts of management that actually matter, or they've been brainwashed into thinking they have less power than they do over their situation.
-
 ## Who I work with
+
+If you're both under-represented in tech and/or newly responsible for people, you are very much in the right place. These groups often overlap and need specialist support. 
 
 <div class="audience-grid">
   <section class="audience-panel audience-panel--coaching">
@@ -58,8 +58,6 @@ Most of the people I work with are already capable. They're not broken. They're 
     <p>My 1:1 work can support new managers directly, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.</p>
   </section>
 </div>
-
-These groups overlap all the time. If you're both under-represented in tech and newly responsible for people, you are very much in the right place.
 
 ## What you get
 
@@ -109,20 +107,22 @@ But it will change how you move through it, lead within it, and decide who you a
 
 ## How it works
 
-Sessions are remote, private and one-to-one. You can book a single session if you have one knotty thing to untangle, or a bundle of three if you want a bit more space to work through something properly.
+Sessions are remote, private and one-to-one.
 
-Quick version: you bring the messy work/life/career knot; I bring questions, reflection, challenge, and nearly two decades of tech leadership experience when that is useful. Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier explainer here: [What's A Coach Anyway?](/2025/02/27/why-get-a-coach.html)
+In sessions, I blend coaching with mentoring. That means guided questioning, reflection and genuine challenge, with nearly two decades of tech leadership experience brought in when it would be useful.
+
+Quick version: you bring the messy work/life/career knot; I bring questions, reflection, challenge, and nearly two decades of tech leadership experience when that is useful.
 
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
-    <h3>Get in touch</h3>
-    <p>Email me or message me on LinkedIn. We'll have a free wee fit-check before you commit to anything.</p>
+    <h3>Free fit-check</h3>
+    <p>Email me or message me on LinkedIn. We'll work out what you need and whether I'm the right person.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
-    <h3>Bring the messy version</h3>
-    <p>No polished agenda required. Bring the situation as it actually is.</p>
+    <h3>Bring the messy thing</h3>
+    <p>Choose a single session for one knotty thing, or a bundle of three for work that needs more space.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
@@ -132,43 +132,27 @@ Quick version: you bring the messy work/life/career knot; I bring questions, ref
   <li>
     <span class="process-step__number">04</span>
     <h3>Leave clearer</h3>
-    <p>You'll leave with clearer thinking, possible next steps, and less noise.</p>
+    <p>You'll leave with clearer thinking and practical, actionable next steps I'll hold you accountable for.</p>
   </li>
 </ol>
 
-That free wee fit-check is there to figure out what you're looking for, whether I'm the right person to help, and what kind of support would actually be useful.
-
-The messy version might be the Slack message you don't know how to answer, the promotion you don't know whether you want, the team situation making your stomach hurt, or the "am I the problem or is this place ridiculous?" spiral. We'll find the thread together.
-
-In sessions, I blend coaching with mentoring. That means guided questioning, reflection and genuine challenge, with nearly two decades of tech leadership experience brought in when it would be useful.
-
-<div class="callout callout--teal">You'll leave with a better sense of what belongs to you versus what belongs to the system, the role, or someone else's nonsense.</div>
-
-<p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20bring%20you%20a%20messy%20work%20situation.">Bring me your mess</a></p>
+Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier explainer here: [What's A Coach Anyway?](/2025/02/27/why-get-a-coach.html)
 
 
-## Investment
+## Invest In Yourself
 
 <div class="pricing-intro">
   <p class="pricing-kicker">Premium 1:1 coaching</p>
   <p class="pricing-lede">This is specialist, senior-level support for the moments where clarity, confidence and power matter.</p>
-  <p class="pricing-difference">Not generic life coaching. Not corporate fluff. Practical, honest support from someone who's actually done the job.</p>
-  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience, and six years coaching hundreds of people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You are paying for a sharp, private hour with someone who can help you think differently about the thing that is costing you energy, confidence, money, momentum or sleep.</p>
-</div>
-
-<div class="pricing-proof" aria-label="What the coaching fee reflects">
-  <span>ILM Level 5 Executive Coach</span>
-  <span>Former VP Engineering / Interim CTO</span>
-  <span>300+ people coached</span>
+  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience, and six years coaching 300+ people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You are paying for a sharp, private hour with someone who can help you think differently about the thing that is costing you energy, confidence, money, momentum or sleep.</p>
 </div>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card">
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">For one knotty problem</p>
+    <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with clearer next steps.</p>
     <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, leadership situation, promotion question, accommodation conversation, or work spiral you need to untangle properly.</p>
-    <p class="pricing-outcome">One sharp hour to untangle the thing draining your energy and leave with clearer next steps.</p>
     <ul class="pricing-includes">
       <li>Focused pre-session question so we arrive quickly.</li>
       <li>Coaching, reflection and mentoring where useful.</li>
