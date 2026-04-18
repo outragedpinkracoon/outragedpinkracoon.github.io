@@ -135,25 +135,47 @@ In sessions, I blend coaching with mentoring. That means guided questioning, ref
 
 <p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a></p>
 
-## Pricing
+## Investment
 
-<div class="pricing-table">
+<div class="pricing-intro">
+  <p class="pricing-kicker">Premium 1:1 coaching</p>
+  <p class="pricing-lede">This is specialist, senior-level support for the moments where clarity, confidence and power matter.</p>
+  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience, and six years coaching hundreds of people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You are paying for a sharp, private hour with someone who can help you think differently about the thing that is costing you energy, confidence, money, momentum or sleep.</p>
+</div>
+
+<div class="pricing-proof" aria-label="What the coaching fee reflects">
+  <span>ILM Level 5 Executive Coach</span>
+  <span>Former VP Engineering / Interim CTO</span>
+  <span>300+ people coached</span>
+</div>
+
+<div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card">
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
-    <p class="pricing-detail">One hour, remote, one-to-one.</p>
+    <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, leadership situation, promotion question, accommodation conversation, or work spiral you need to untangle properly.</p>
+    <ul class="pricing-includes">
+      <li>Focused pre-session question so we arrive quickly.</li>
+      <li>Coaching, reflection and mentoring where useful.</li>
+      <li>Clear next steps before we finish.</li>
+    </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a>
   </div>
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Best value</span>
     <p class="pricing-amount">£450</p>
     <p class="pricing-title">Bundle of 3 sessions</p>
-    <p class="pricing-detail">£150 saving. Same great chaos, more of it.</p>
+    <p class="pricing-detail">For bigger work that deserves space: rebuilding confidence, preparing for promotion, finding your shape as a manager, deciding whether to stay or leave, or changing a pattern that keeps costing you.</p>
+    <ul class="pricing-includes">
+      <li>Three private, remote one-hour sessions.</li>
+      <li>Room to test decisions and come back to what happened.</li>
+      <li>£150 saving compared with booking separately.</li>
+    </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a>
   </div>
 </div>
 
-<p class="pricing-terms">All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+<p class="pricing-terms">Payment is agreed after our initial chat. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 ## Real people saying real things!
 
