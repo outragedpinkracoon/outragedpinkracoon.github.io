@@ -482,6 +482,14 @@ hr {
     color: rgba($cream, 0.93);
   }
 
+  .offer-moment {
+    font-family: $font-primary;
+    font-size: 1.02rem;
+    font-weight: 800;
+    line-height: 1.45;
+    color: $cream;
+  }
+
   .button {
     margin-top: 0.3rem;
     background: $cream;
@@ -821,14 +829,56 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 // PRICING
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+.problem-list {
+  margin: 3rem -0.5rem 3.4rem;
+  padding: 1.6rem;
+  background: $ink;
+  color: $cream;
+  box-shadow: 8px 8px 0 $orange;
+
+  @include respond-to('medium') {
+    margin-top: 3.8rem;
+    padding: 2rem;
+  }
+
+  h2 {
+    margin-top: 0;
+    color: $cream;
+    border-left-color: $orange;
+  }
+
+  ul {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.7rem 1rem;
+    margin: 1.2rem 0 0;
+    padding-left: 1.2rem;
+
+    @include respond-to('medium') {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  li {
+    color: rgba($cream, 0.94);
+    font-weight: 700;
+    line-height: 1.45;
+  }
+}
+
 .pricing-intro {
-  margin: 1.7rem 0 1.2rem;
-  padding: 1.6rem 1.8rem;
+  margin: 2.4rem 0 1.6rem;
+  padding: 1.8rem;
   background: rgba($teal, 0.08);
   color: $ink;
   border: 3px solid rgba($teal, 0.32);
   border-left: 8px solid $teal;
   box-shadow: 8px 8px 0 $lavender;
+
+  @include respond-to('medium') {
+    margin-top: 3rem;
+    padding: 2rem 2.2rem;
+  }
 
   p {
     margin: 0.7rem 0 0;
@@ -863,11 +913,19 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   }
 }
 
+.pricing-difference {
+  font-family: $font-primary;
+  font-size: 0.98rem;
+  font-weight: 800;
+  line-height: 1.45;
+  color: $ink;
+}
+
 .pricing-proof {
   display: grid;
   grid-template-columns: 1fr;
   gap: 0.65rem;
-  margin: 1.6rem 0 1.3rem;
+  margin: 1.9rem 0 1.7rem;
 
   @include respond-to('medium') {
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -877,9 +935,10 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     display: flex;
     align-items: center;
     min-height: 4rem;
-    padding: 0.8rem 1rem;
+    padding: 0.9rem 1rem;
     background: rgba($lavender, 0.1);
-    border: 2px solid rgba($lavender, 0.28);
+    border: 3px solid rgba($lavender, 0.34);
+    border-bottom-width: 6px;
     font-family: $font-primary;
     font-size: 0.78rem;
     font-weight: 800;
@@ -893,8 +952,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 .pricing-table {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1.4rem;
-  margin: 1.5rem 0;
+  gap: 1.6rem;
+  margin: 1.8rem 0;
 
   @include respond-to('medium') {
     grid-template-columns: repeat(2, 1fr);
@@ -906,15 +965,20 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   background: $cream;
   border: 3px solid rgba($ink, 0.16);
   border-bottom: 7px solid rgba($ink, 0.16);
-  padding: 1.8rem;
+  padding: 1.7rem;
   display: flex;
   flex-direction: column;
   box-shadow: 7px 7px 0 rgba($ink, 0.09);
+
+  @include respond-to('medium') {
+    padding: 2rem;
+  }
 
   &--featured {
     border-color: $magenta;
     border-bottom-color: $magenta;
     box-shadow: 8px 8px 0 $teal;
+    transform: translateY(-0.35rem);
   }
 
   p { margin: 0.3rem 0; }
@@ -942,6 +1006,15 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   color: $ink;
 }
 
+.pricing-subtitle {
+  font-family: $font-primary;
+  font-size: 1rem;
+  font-weight: 800;
+  line-height: 1.35;
+  color: $teal;
+  margin-top: 0.5rem !important;
+}
+
 .pricing-detail {
   color: rgba($ink, 0.72);
   font-size: 0.94rem;
@@ -949,11 +1022,23 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   margin-top: 0.65rem !important;
 }
 
+.pricing-outcome {
+  padding: 0.75rem 0.9rem;
+  background: rgba($yellow, 0.42);
+  border-left: 5px solid $orange;
+  color: $ink;
+  font-family: $font-primary;
+  font-size: 0.92rem;
+  font-weight: 800;
+  line-height: 1.4;
+  margin-top: 0.9rem !important;
+}
+
 .pricing-includes {
-  padding-left: 1.1rem;
+  padding-left: 1.2rem;
   margin: 1rem 0 1.4rem;
   color: rgba($ink, 0.78);
-  font-size: 0.86rem;
+  font-size: 0.9rem;
   line-height: 1.55;
 
   li {
@@ -991,7 +1076,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   display: inline-block;
   background: $teal;
   color: $cream;
-  padding: 0.15rem 0.8rem;
+  padding: 0.22rem 0.9rem;
   font-family: $font-primary;
   font-size: 0.72rem;
   font-weight: 700;
@@ -999,11 +1084,51 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   text-transform: uppercase;
   margin-bottom: 0.8rem;
   transform: rotate(-1.5deg);
+  width: max-content;
+  box-shadow: 3px 3px 0 rgba($ink, 0.2);
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // COACHING PAGE SECTIONS
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.hero-moment {
+  margin: 1.4rem 0 1.6rem;
+  padding: 1rem 1.2rem;
+  background: rgba($yellow, 0.45);
+  border-left: 7px solid $orange;
+  color: $ink;
+  font-family: $font-primary;
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.45;
+}
+
+.manager-jump {
+  margin: 1.7rem 0 2.2rem;
+
+  a {
+    display: inline-block;
+    padding: 0.65rem 1rem;
+    background: $teal;
+    color: $cream;
+    font-family: $font-primary;
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    line-height: 1.35;
+    text-transform: uppercase;
+    text-decoration: none;
+    box-shadow: 4px 4px 0 $magenta;
+
+    &:hover {
+      color: $cream;
+      text-decoration: none;
+      transform: translate(-2px, -2px);
+      box-shadow: 6px 6px 0 $magenta;
+    }
+  }
+}
 
 .audience-grid {
   display: grid;
@@ -1225,6 +1350,15 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     align-items: start;
   }
+}
+
+.testimonial-bridge {
+  margin: 1.1rem 0 0;
+  font-family: $font-primary;
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.45;
+  color: $magenta;
 }
 
 .testimonial-card {
