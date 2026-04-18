@@ -24,14 +24,16 @@ Often, it means both.
 
 ## Who I work with
 
-<p>If you're both under-represented in tech and/or newly responsible for people, you are very much in the right place. These groups often overlap and need specialist support. </p>
+<p>
+If this is you, don’t sit on it for another month. One session is often enough to untangle what’s actually going on and decide what to do next.
+</p>
 
 <div class="audience-grid">
   <section class="audience-panel audience-panel--coaching">
     <p class="audience-label">1:1 coaching</p>
     <h3>For under-represented folk in tech</h3>
     <p>For women, non-binary, queer, disabled, neurodivergent and otherwise under-represented folk who are tired of shrinking, masking, over-performing, or trying to make sense of broken systems alone.</p>
-    <p>That might be you if you're:</p>
+    <p>If any of these sound like you:</p>
     <ul>
       <li>I'm the highest performer and somehow still the most overlooked.</li>
       <li>I'm smashing my head on a very real, very present glass ceiling.</li>
@@ -48,7 +50,7 @@ Often, it means both.
     <p class="audience-label">Manager support</p>
     <h3>For new managers</h3>
     <p>For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical tools for leading people without turning into the worst manager they ever had.</p>
-    <p>That might be you if you're:</p>
+    <p>If any of these sound like you:</p>
     <ul>
       <li>I've been promoted and I feel wildly underbriefed by the universe.</li>
       <li>I'm newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"</li>
@@ -59,36 +61,32 @@ Often, it means both.
       <li>I'm trying to protect my team's energy without setting myself on fire.</li>
       <li>I need to decide whether to stay, go, push back, or ask for more.</li>
     </ul>
-    <p>My 1:1 work can support new managers directly, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.</p>
+    <p>Coaching can help you work through real, immediate situations that need dealt with, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm a Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.</p>
   </section>
 </div>
 
-<p>
-If this is you, don’t sit on it for another month. One session is often enough to untangle what’s actually going on and decide what to do next.
-</p>
-
 ## What you get
 
-Working with me won't fix the system, including the lack of support you often receive as a new manager or under-represented person in tech. 
+Working with me won't magically fix the system, your manager, your company, or the fact that too many people get promoted into leadership with the training equivalent of a shrug.
 
-But it will change how you move through it, lead within it, and decide who you are, what you are about and what you are no longer willing to carry.
+But it will change how you move through it, help you stop spinning, see the shape of the problem, and decide what to do next without treating yourself like the entire problem.
 
 <div class="outcome-grid">
   <div class="outcome-item">
-    <p class="outcome-title">Clearer thinking</p>
-    <p>You'll leave sessions with clarity on what you actually want, not what you think you're supposed to want.</p>
+    <p class="outcome-title">A proper untangling</p>
+    <p>We get the mess out of your head and onto the table, then work out what is actually happening, what matters, and what can wait.</p>
   </div>
   <div class="outcome-item">
-    <p class="outcome-title">New manager tools</p>
-    <p>Build a way to manage that actually feels like you, with practical support for the moments nobody prepared you for.</p>
+    <p class="outcome-title">Better next moves</p>
+    <p>You leave with practical options: what to say, what to ask for, what boundary to hold, what conversation to have, or what decision needs making.</p>
   </div>
   <div class="outcome-item">
-    <p class="outcome-title">Power from the margins</p>
-    <p>Make sense of confidence, burnout, visibility and power without treating yourself like the problem.</p>
+    <p class="outcome-title">Context, not self-blame</p>
+    <p>We separate your patterns from the system around you, so you can tell the difference between growth, burnout, masking, bad management and goodC old bullshit.</p>
   </div>
   <div class="outcome-item">
-    <p class="outcome-title">Someone in your corner</p>
-    <p>You'll be challenged, genuinely and kindly. I’m autistic, which means no performative niceness. What you get is directness, honesty, and someone actually in your corner.</p>
+    <p class="outcome-title">Direct support</p>
+    <p>You get warmth without simpering, challenge without cruelty, and honest reflection from someone who has actually led teams, held power, messed things up, learned, and come back useful.</p>
   </div>
 </div>
 
@@ -131,7 +129,7 @@ Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier e
 <div class="pricing-intro">
   <p class="pricing-kicker">Premium 1:1 coaching</p>
   <p class="pricing-lede">This is specialist, senior-level support for the moments where clarity, confidence and power matter.</p>
-  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience, and six years coaching 300+ people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You are paying for a sharp, private hour with someone who can help you think differently about the thing that is costing you energy, confidence, money, momentum or sleep.</p>
+  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience running teams of over 120 people in $300M ARR companies, and six years coaching 300+ people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You are paying for a sharp, private hour with someone who can help you think differently about the thing that is costing you energy, confidence, money, momentum or sleep.</p>
 </div>
 
 <div class="pricing-table" aria-label="Coaching prices">

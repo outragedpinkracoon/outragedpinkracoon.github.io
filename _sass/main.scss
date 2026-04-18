@@ -1257,10 +1257,14 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 }
 
 .outcome-title {
-  font-family: $font-primary;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-family: $font-display;
+  font-style: italic;
+  font-weight: 900;
+  font-variation-settings: 'opsz' 144;
+  font-size: 1.45rem;
+  line-height: 1.05;
+  letter-spacing: 0;
+  text-transform: none;
   color: inherit;
 }
 
