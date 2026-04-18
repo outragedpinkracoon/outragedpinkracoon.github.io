@@ -129,7 +129,7 @@ Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier e
 <div class="pricing-intro">
   <p class="pricing-kicker">Premium 1:1 coaching</p>
   <p class="pricing-lede">This is specialist, senior-level support for the moments where clarity, confidence and power matter.</p>
-  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience running teams of over 120 people in $300M ARR companies, and six years coaching 300+ people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You are paying for a sharp, private hour with someone who can help you think differently about the thing that is costing you energy, confidence, money, momentum or sleep.</p>
+  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience running teams of over 120 people in $300M ARR companies, and six years coaching 300+ people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You’re not paying for a nice chat. You’re paying for a sharp, focused hour with someone who's lived it and can help you deal with the thing that’s costing you energy, confidence, momentum or sleep.</p>
 </div>
 
 <div class="pricing-table" aria-label="Coaching prices">
