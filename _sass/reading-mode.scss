@@ -51,6 +51,8 @@ body.reading-mode {
   .coaching-explainer__lede,
   .coaching-explainer a {
     font-family: $reading-font;
+    font-style: normal;
+    font-variation-settings: normal;
   }
 
   // Soften blockquotes
@@ -706,7 +708,7 @@ body.cb-blue-yellow {
     box-shadow: 5px 5px 0 $tri-green;
     &:nth-child(2) { background: $tri-green; color: #f7f2e8; box-shadow: 5px 5px 0 #d91a5e; }
     &:nth-child(3) { background: #ef6820; color: #f7f2e8; box-shadow: 5px 5px 0 $tri-red; }
-    &:nth-child(4) { background: $tri-coral; color: #1c1714; box-shadow: 5px 5px 0 #d91a5e; }
+    &:nth-child(4) { background: darken($tri-coral, 14%); color: #f7f2e8; box-shadow: 5px 5px 0 #d91a5e; }
   }
   .coaching-explainer {
     background: $tri-green;
@@ -999,7 +1001,10 @@ body.cb-greyscale {
     box-shadow: 4px 4px 0 $gs-mid;
     &:hover { box-shadow: 6px 6px 0 $gs-mid; }
   }
-  .pricing-badge { background: $gs-mid; }
+  .pricing-badge {
+    background: $gs-dark;
+    color: $gs-near-white;
+  }
 
   // Coaching page sections
   .audience-label { background: $gs-dark; color: $gs-near-white; }
@@ -1059,6 +1064,7 @@ body.cb-greyscale {
     &:nth-child(3) { border-top-color: $gs-mid; border-top-style: dotted; }
     &:nth-child(4) { border-top-color: $gs-dark; border-top-style: double; }
   }
+  .testimonial-bridge { color: $gs-dark; }
   .value-card {
     background: lighten($gs-light, 6%);
     border-color: rgba($gs-dark, 0.2);
