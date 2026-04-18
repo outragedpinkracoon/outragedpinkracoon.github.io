@@ -124,7 +124,7 @@ Quick version: you bring the messy work/life/career knot; I bring questions, ref
 Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier explainer here: [What's A Coach Anyway?](/2025/02/27/why-get-a-coach.html)
 
 
-## Invest In Yourself
+## Pricing
 
 <div class="pricing-intro">
   <p class="pricing-kicker">Premium 1:1 coaching</p>
