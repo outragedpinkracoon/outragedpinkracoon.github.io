@@ -116,7 +116,7 @@ Quick version: you bring the messy work/life/career knot; I bring questions, ref
   </li>
   <li>
     <span class="process-step__number">04</span>
-    <h3>Leave clearer</h3>
+    <h3>Leave with a plan</h3>
     <p>You'll leave with clearer thinking and practical, actionable next steps I'll hold you accountable for.</p>
   </li>
 </ol>
