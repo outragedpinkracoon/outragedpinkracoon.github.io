@@ -830,39 +830,46 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 .problem-list {
-  margin: 3rem -0.5rem 3.4rem;
-  padding: 1.6rem;
-  background: $ink;
-  color: $cream;
-  box-shadow: 8px 8px 0 $orange;
+  margin: 3.2rem 0 3.5rem;
 
   @include respond-to('medium') {
     margin-top: 3.8rem;
-    padding: 2rem;
   }
 
   h2 {
     margin-top: 0;
-    color: $cream;
-    border-left-color: $orange;
   }
 
   ul {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 0.7rem 1rem;
-    margin: 1.2rem 0 0;
-    padding-left: 1.2rem;
+    column-gap: 1.6rem;
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 0;
+    border-top: 2px solid rgba($ink, 0.12);
 
     @include respond-to('medium') {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      columns: 2;
     }
   }
 
   li {
-    color: rgba($cream, 0.94);
-    font-weight: 700;
+    break-inside: avoid;
+    padding: 0.68rem 0 0.68rem 1rem;
+    border-bottom: 2px solid rgba($ink, 0.12);
+    border-left: 5px solid rgba($teal, 0.7);
+    color: rgba($ink, 0.82);
+    font-family: $font-primary;
+    font-size: 0.98rem;
+    font-weight: 750;
     line-height: 1.45;
+
+    &:nth-child(3n + 2) {
+      border-left-color: rgba($orange, 0.8);
+    }
+
+    &:nth-child(3n) {
+      border-left-color: rgba($magenta, 0.72);
+    }
   }
 }
 

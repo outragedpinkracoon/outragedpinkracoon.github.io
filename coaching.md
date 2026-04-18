@@ -12,19 +12,17 @@ show_cta: true
 
 If you're here, it probably means you're capable, exhausted, and starting to wonder whether work has finally broken your brain. 
 
-Or you got promoted and nobody taught you how to do this.
+Or you got promoted and you're having that 'holy shit I'm a manager' moment that no one prepared you for.
 
-I coach people who are trying to lead, grow, survive, or make sense of work in tech without becoming a hollowed-out corporate husk. Sometimes that means helping an under-represented person deal with a system that was never designed for them to have a seat at the table in the first place. Sometimes it means helping a new manager find their feet. Often, it means both.
-
-I want you to feel capable, clear, weird and wonderful and fully, unapologetically you — able to lead and live in a way that is actually true to you. Not in the way the system wants you to be.
+As an ILM certified coach, former tech exec, and creator of <em>Holy Shit I'm a Manager</em>, I coach people who are trying to lead, grow, survive, or make sense of work in tech without ruining themselves.
 
 <div class="callout--teal callout">You don't need to become a corporate husk to be a good manager, and you don't need to shrink yourself to survive tech.</div>
 
+Sometimes that means helping an under-represented person deal with a system that was never designed for them to have a seat at the table in the first place. Sometimes it means helping a new manager find their feet. 
+
+Often, it means both.
+
 Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way, nobody taught them the parts of management that actually matter, or they've been brainwashed into thinking they have less power than they do over their situation.
-
-We might work on asking for accommodations, handling a difficult stakeholder, rebuilding confidence after a bad manager, preparing for promotion, deciding whether to stay or leave, or learning how to manage people without copying the leadership patterns that harmed you.
-
-<p class="manager-jump"><a href="#new-manager-support">Promoted into management and quietly panicking? Start here.</a></p>
 
 ## Who I work with
 
@@ -65,7 +63,9 @@ These groups overlap all the time. If you're both under-represented in tech and 
 
 ## What you get
 
-Working with me won't fix the system. But it will change how you move through it, lead within it, and decide what you are no longer willing to carry.
+Working with me won't fix the system, including the lack of support you often receive as a new manager or under-represented person in tech. 
+
+But it will change how you move through it, lead within it, and decide who you are, what you are about and what you are no longer willing to carry.
 
 <div class="outcome-grid">
   <div class="outcome-item">
@@ -86,29 +86,38 @@ Working with me won't fix the system. But it will change how you move through it
   </div>
 </div>
 
-You'll have a direction, a fire in your belly, and the bone-deep knowledge that you are not broken and you are not alone.
-
-## What is coaching?
-
-<div class="coaching-explainer">
-  <p class="coaching-explainer__lede">Coaching is a structured conversation that helps you think more clearly, understand what is actually going on, and decide what you want to do next.</p>
-</div>
-
-You bring the messy work/life/career knot; I bring questions, reflection, challenge, and nearly two decades of tech leadership experience when that is useful.
-
-It is not therapy, diagnosis, or someone simply telling you what to do. It is a place to untangle the thing you are too close to see clearly.
-
-Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier explainer here: [What's A Coach Anyway?](/2025/02/27/why-get-a-coach.html)
+<section class="problem-list" aria-labelledby="problem-list-title">
+  <h2 id="problem-list-title">Bring me things like:</h2>
+  <ul>
+    <li>I need to give feedback and I'm avoiding it.</li>
+    <li>My team is a mess and I don't know what to do first.</li>
+    <li>I've been promoted and I feel wildly underbriefed by the universe.</li>
+    <li>I'm newly responsible for people and thinking, "Holy Shit, I'm a manager... how do I even do this?"</li>
+    <li>I need to run better one-to-ones, set expectations, or handle conflict.</li>
+    <li>I'm managing up, sideways and down and nobody warned me how weird this would be.</li>
+    <li>I can't tell if it's me or the system.</li>
+    <li>I need to ask for accommodations and I'm bracing for nonsense.</li>
+    <li>I'm the highest performer and somehow still the most overlooked.</li>
+    <li>I'm smashing my head on a very real, very present glass ceiling.</li>
+    <li>I think I might be neurodivergent and I'm trying to make sense of my patterns, needs and working life.</li>
+    <li>I think I'm burning out.</li>
+    <li>I'm trying to protect my team's energy without setting myself on fire.</li>
+    <li>I don't know what I actually want, only what I was told success should look like. Or not even that.</li>
+    <li>I need to decide whether to stay, go, push back, or ask for more.</li>
+  </ul>
+</section>
 
 ## How it works
 
 Sessions are remote, private and one-to-one. You can book a single session if you have one knotty thing to untangle, or a bundle of three if you want a bit more space to work through something properly.
 
+Quick version: you bring the messy work/life/career knot; I bring questions, reflection, challenge, and nearly two decades of tech leadership experience when that is useful. Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier explainer here: [What's A Coach Anyway?](/2025/02/27/why-get-a-coach.html)
+
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
     <h3>Get in touch</h3>
-    <p>Email me or message me on LinkedIn. We'll have a wee chat before you commit to anything.</p>
+    <p>Email me or message me on LinkedIn. We'll have a free wee fit-check before you commit to anything.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
@@ -127,7 +136,7 @@ Sessions are remote, private and one-to-one. You can book a single session if yo
   </li>
 </ol>
 
-That wee chat is there to figure out what you're looking for, whether I'm the right person to help, and what kind of support would actually be useful.
+That free wee fit-check is there to figure out what you're looking for, whether I'm the right person to help, and what kind of support would actually be useful.
 
 The messy version might be the Slack message you don't know how to answer, the promotion you don't know whether you want, the team situation making your stomach hurt, or the "am I the problem or is this place ridiculous?" spiral. We'll find the thread together.
 
@@ -137,18 +146,6 @@ In sessions, I blend coaching with mentoring. That means guided questioning, ref
 
 <p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20bring%20you%20a%20messy%20work%20situation.">Bring me your mess</a></p>
 
-<section class="problem-list" aria-labelledby="problem-list-title">
-  <h2 id="problem-list-title">Bring me things like:</h2>
-  <ul>
-    <li>I need to give feedback and I'm avoiding it.</li>
-    <li>My team is a mess and I don't know what to do first.</li>
-    <li>I've been promoted and I feel wildly underbriefed by the universe.</li>
-    <li>I can't tell if it's me or the system.</li>
-    <li>I need to ask for accommodations and I'm bracing for nonsense.</li>
-    <li>I think I'm burning out.</li>
-    <li>I need to decide whether to stay, go, push back, or ask for more.</li>
-  </ul>
-</section>
 
 ## Investment
 
@@ -194,7 +191,7 @@ In sessions, I blend coaching with mentoring. That means guided questioning, ref
   </div>
 </div>
 
-<p class="pricing-terms">Payment is agreed after our initial chat. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+<p class="pricing-terms">The initial fit-check is free. Payment is agreed before we book paid sessions. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 ## Real people saying real things!
 
