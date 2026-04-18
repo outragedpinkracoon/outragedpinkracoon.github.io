@@ -10,9 +10,9 @@ show_cta: true
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride. 💅🏻
+If you're here, it probably means you're capable, exhausted, and starting to wonder whether work has finally broken your brain. 
 
-I'm also a former tech exec who has been the new manager, coached the new manager, and watched far too many capable people get handed a team with nowhere near enough support.
+Or you got promoted and nobody taught you how to do this.
 
 I coach people who are trying to lead, grow, survive, or make sense of work in tech without becoming a hollowed-out corporate husk. Sometimes that means helping an under-represented person deal with a system that was never designed for them to have a seat at the table in the first place. Sometimes it means helping a new manager find their feet. Often, it means both.
 
@@ -23,6 +23,8 @@ I want you to feel capable, clear, weird and wonderful and fully, unapologetical
 Most of the people I work with are already capable. They're not broken. They're stuck because nobody's ever given them permission to do it their way, nobody taught them the parts of management that actually matter, or they've been brainwashed into thinking they have less power than they do over their situation.
 
 We might work on asking for accommodations, handling a difficult stakeholder, rebuilding confidence after a bad manager, preparing for promotion, deciding whether to stay or leave, or learning how to manage people without copying the leadership patterns that harmed you.
+
+<p class="manager-jump"><a href="#new-manager-support">Promoted into management and quietly panicking? Start here.</a></p>
 
 ## Who I work with
 
@@ -43,7 +45,7 @@ We might work on asking for accommodations, handling a difficult stakeholder, re
     <p>I can't diagnose you, because coaching is not a medical assessment. But I can help you explore what you're noticing, untangle what might be masking, burnout or unmet needs, and think through what support, accommodations or next steps might help.</p>
   </section>
 
-  <section class="audience-panel audience-panel--manager">
+  <section class="audience-panel audience-panel--manager" id="new-manager-support">
     <p class="audience-label">Manager support</p>
     <h3>For new managers</h3>
     <p>For people who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical tools for leading people without turning into the worst manager they ever had.</p>
@@ -133,13 +135,27 @@ In sessions, I blend coaching with mentoring. That means guided questioning, ref
 
 <div class="callout callout--teal">You'll leave with a better sense of what belongs to you versus what belongs to the system, the role, or someone else's nonsense.</div>
 
-<p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a></p>
+<p class="text-center"><a class="button" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20bring%20you%20a%20messy%20work%20situation.">Bring me your mess</a></p>
+
+<section class="problem-list" aria-labelledby="problem-list-title">
+  <h2 id="problem-list-title">Bring me things like:</h2>
+  <ul>
+    <li>I need to give feedback and I'm avoiding it.</li>
+    <li>My team is a mess and I don't know what to do first.</li>
+    <li>I've been promoted and I feel wildly underbriefed by the universe.</li>
+    <li>I can't tell if it's me or the system.</li>
+    <li>I need to ask for accommodations and I'm bracing for nonsense.</li>
+    <li>I think I'm burning out.</li>
+    <li>I need to decide whether to stay, go, push back, or ask for more.</li>
+  </ul>
+</section>
 
 ## Investment
 
 <div class="pricing-intro">
   <p class="pricing-kicker">Premium 1:1 coaching</p>
   <p class="pricing-lede">This is specialist, senior-level support for the moments where clarity, confidence and power matter.</p>
+  <p class="pricing-difference">Not generic life coaching. Not corporate fluff. Practical, honest support from someone who's actually done the job.</p>
   <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience, and six years coaching hundreds of people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You are paying for a sharp, private hour with someone who can help you think differently about the thing that is costing you energy, confidence, money, momentum or sleep.</p>
 </div>
 
@@ -153,31 +169,36 @@ In sessions, I blend coaching with mentoring. That means guided questioning, ref
   <div class="pricing-card">
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
+    <p class="pricing-subtitle">For one knotty problem</p>
     <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, leadership situation, promotion question, accommodation conversation, or work spiral you need to untangle properly.</p>
+    <p class="pricing-outcome">One sharp hour to untangle the thing draining your energy and leave with clearer next steps.</p>
     <ul class="pricing-includes">
       <li>Focused pre-session question so we arrive quickly.</li>
       <li>Coaching, reflection and mentoring where useful.</li>
       <li>Clear next steps before we finish.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20coaching%20session.">Book a coaching session</a>
   </div>
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Best value</span>
     <p class="pricing-amount">£450</p>
     <p class="pricing-title">Bundle of 3 sessions</p>
-    <p class="pricing-detail">For bigger work that deserves space: rebuilding confidence, preparing for promotion, finding your shape as a manager, deciding whether to stay or leave, or changing a pattern that keeps costing you.</p>
+    <p class="pricing-subtitle">For the stuff that won't be fixed in one conversation</p>
+    <p class="pricing-detail">For patterns that keep costing you, bigger shifts that need space, and situations where you need to try something, come back, and work out what happened.</p>
     <ul class="pricing-includes">
       <li>Three private, remote one-hour sessions.</li>
       <li>Room to test decisions and come back to what happened.</li>
       <li>£150 saving compared with booking separately.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20love%20to%20have%20a%20chat%20about%20coaching.">Book a chat</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20coaching%20bundle.">Book a coaching session</a>
   </div>
 </div>
 
 <p class="pricing-terms">Payment is agreed after our initial chat. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 ## Real people saying real things!
+
+<p class="testimonial-bridge">Real people. Real promotions. Real messy situations untangled.</p>
 
 <div class="testimonial-grid">
   <blockquote class="testimonial-card">
