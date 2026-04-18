@@ -12,7 +12,11 @@ show_cta: true
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
+I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride. 💅🏻
+
 I've been in tech for almost two decades and I've never had a manager that looked like me. Barely worked with anyone that looked like me — never mind the queer, neurodivergent, disabled version of me. 
+
+I'm also a former tech exec who has been the new manager, coached the new manager, and watched far too many capable people get handed a team with nowhere near enough support.
 
 I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. 
 
