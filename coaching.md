@@ -168,6 +168,8 @@ Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier e
 
 <div class="testimonial-grid">
   <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Promotion</p>
+    <p class="testimonial-pullquote">“By September I'd been promoted to Director of Engineering -- much faster than I'd expected.”</p>
     <p>I asked Valerie to be my career coach when I joined Speechmatics as a senior team lead in January 2024. We had regular sessions during the year, and by September I'd been promoted to Director of Engineering -- much faster than I'd expected to achieve! Val's coaching was a huge part of my ability to hit this goal.</p>
     <p>She's helped me identify the ways to be most impactful, she's helped me organise my thinking when facing complex problems, and she's helped me navigate challenging interpersonal struggles. Above all, she's helped me see clearly all of my strongest personal traits, which I may not have seen in myself otherwise.</p>
     <p>Her coaching has given me a huge boost in both confidence and competence, and has let me appreciate my strengths and seize every opportunity in front of me to excel in my career.</p>
@@ -175,18 +177,24 @@ Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier e
   </blockquote>
 
   <blockquote class="testimonial-card">
+    <p class="testimonial-tag">First EM role</p>
+    <p class="testimonial-pullquote">“She was my first manager when I began the EM role and she was truly transformational.”</p>
     <p>I am thrilled to recommend Val as an exceptional leader and mentor. She was my first manager when I began the EM role and she was truly transformational, guiding me in ways that have shaped my career path. I have sought her support as a professional coach on a number of occasions since, her influence continues to have a positive impact on my journey.</p>
     <p>What sets Val apart is her unique ability to blend insight and coaching. She skillfully draws out my own insights while complementing them with her extensive experience, creating a powerful learning environment. Her empathy is not just inherent; it is enhanced by her ongoing training in leadership and coaching, providing her with a deep reservoir of knowledge.</p>
     <p><span class="quote-author">— Hugh Lyon, Engineering Manager @ Perk</span></p>
   </blockquote>
 
   <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Leadership growth</p>
+    <p class="testimonial-pullquote">“I have learnt more from working with Val than I ever thought possible.”</p>
     <p>When applying for my first EM role, the recruiter told me "oh, you'll talk to Val first. She is something special". He could not have been more right. Ever since that first moment of joining the meeting on Zoom, Val's energy, expertise and passion have been a guiding light in my career.</p>
     <p>She is an incredibly inspirational leader, all too rare. She is absolutely authentic, incredibly tough, compassionate, but she won't give you an easy time. I have learnt more from working with Val than I ever thought possible. Don't even give it a second thought - if your business gets a chance to add a bit of Val, it's an all too rare opportunity.</p>
     <p><span class="quote-author">— Olwen Milne, Senior Engineering Manager @ Oak National Academy</span></p>
   </blockquote>
 
   <blockquote class="testimonial-card">
+    <p class="testimonial-tag">New leadership role</p>
+    <p class="testimonial-pullquote">“She coached me through the practical issues and emotional regulation needed to excel.”</p>
     <p>I’ve always been a strong believer that when you move into a new situation the best thing you can do is reach out to people who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
     <p>She coached me through the practical issues and emotional regulation needed to excel in this role, and avoid traps common with people moving into more leadership oriented positions from technical backgrounds. All this meant I had the skills I needed to grow quickly in my new role and deal with some very tough situations.</p>
     <p>If you are moving into a leadership role from engineering, or are in such a role and struggling, I can strongly recommend Valerie as a coach and mentor to help you become a highly effective leader.</p>
@@ -194,4 +202,3 @@ Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier e
   </blockquote>
 </div>
 <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Bring me your mess</a></p>
-   
