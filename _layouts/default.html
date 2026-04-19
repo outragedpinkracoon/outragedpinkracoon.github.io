@@ -40,7 +40,10 @@
           "name": "1:1 Coaching for Neurodivergent, Queer & Under-Represented Folk in Tech",
           "serviceType": "Executive and leadership coaching",
           "provider": { "@id": "{{ site.url }}/#person" },
-          "areaServed": "Worldwide",
+          "areaServed": {
+            "@type": "Place",
+            "name": "Worldwide"
+          },
           "availableChannel": {
             "@type": "ServiceChannel",
             "serviceUrl": "{{ site.url }}/coaching/",
@@ -61,14 +64,16 @@
                 "name": "Single session",
                 "description": "One hour, remote, one-to-one.",
                 "price": "200",
-                "priceCurrency": "GBP"
+                "priceCurrency": "GBP",
+                "priceValidUntil": "2026-12-31"
               },
               {
                 "@type": "Offer",
                 "name": "Bundle of 3 sessions",
                 "description": "Three one-hour remote sessions. £150 saving vs. single sessions.",
                 "price": "450",
-                "priceCurrency": "GBP"
+                "priceCurrency": "GBP",
+                "priceValidUntil": "2026-12-31"
               }
             ]
           }
@@ -90,7 +95,7 @@
               "name": "How does coaching work?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Sessions are remote and one-to-one. I blend coaching — guided questioning, genuine challenge, new insight — with mentoring drawn from 18 years as a technologist and executive leader. I'm autistic, so you get directness and honesty, no performative niceness."
+                "text": "Sessions are remote and one-to-one. They blend coaching — guided questioning, genuine challenge and reflection — with mentoring drawn from 18 years as a technologist and executive leader, with direct, honest communication."
               }
             },
             {
