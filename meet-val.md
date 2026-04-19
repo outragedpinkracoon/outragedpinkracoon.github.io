@@ -25,13 +25,32 @@ Then I discovered I was never quite that either.
 
 Which means I know exactly what it feels like to work your arse off inside a system that wasn't built for you, perform a version of yourself that's slightly wrong, and wonder why you're exhausted all the time.
 
-And yet. Here I am.
+And yet. Here I am. Not untouched by it, but not undone by it either.
 
 I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. 
 
 It's harder still when you finally claw your way to the top and hit the glass ceiling, where your competence is not really in question anymore, but your right to have a seat at the table somehow is.
 
 <div class="callout">I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.</div>
+
+<div class="credibility-strip" aria-label="Val's coaching and leadership experience">
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">ILM</span>
+    <span>ILM Level 5 Executive Coach</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">14Y</span>
+    <span>14 years coding</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">VP</span>
+    <span>VP Engineering</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">300+</span>
+    <span>300+ people coached</span>
+  </div>
+</div>
 
 ## Why this matters
 
