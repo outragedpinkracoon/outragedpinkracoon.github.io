@@ -25,13 +25,13 @@ Then I discovered I was never quite that either.
 
 Which means I know exactly what it feels like to work your arse off inside a system that wasn't built for you, perform a version of yourself that's slightly wrong, and wonder why you're exhausted all the time.
 
+<div class="callout">I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.</div>
+
 And yet. Here I am. Not untouched by it, but not undone by it either.
 
 I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. 
 
 It's harder still when you finally claw your way to the top and hit the glass ceiling, where your competence is not really in question anymore, but your right to have a seat at the table somehow is.
-
-<div class="callout">I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.</div>
 
 <div class="credibility-strip" aria-label="Val's coaching and leadership experience">
   <div class="credibility-badge">
@@ -39,16 +39,16 @@ It's harder still when you finally claw your way to the top and hit the glass ce
     <span>ILM Level 5 Executive Coach</span>
   </div>
   <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">8+</span>
-    <span>300+ people coached </span>
+    <span class="credibility-badge__mark" aria-hidden="true">300+</span>
+    <span>300+ people coached</span>
   </div>
   <div class="credibility-badge">
     <span class="credibility-badge__mark" aria-hidden="true">VP</span>
-    <span>Interim CTO/VP Engineering</span>
+    <span>Interim CTO / VP Engineering</span>
   </div>
   <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">300+</span>
-    <span>14 years hands on coding</span>
+    <span class="credibility-badge__mark" aria-hidden="true">14Y</span>
+    <span>14 years hands-on coding</span>
   </div>
 </div>
 
@@ -70,7 +70,11 @@ I am direct, warm, curious and allergic to corporate theatre.
 
 I will not sit there nodding mysteriously while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.
 
-And when mentoring is useful, I can bring nearly two decades of engineering and executive leadership experience into the room. The point is not for you to become more like me. The point is to help you become more fully, usefully, unapologetically yourself.
+And when mentoring is useful, I can bring nearly two decades of engineering and executive leadership experience into the room.
+
+I've written the code, sat through the standups, stared into the production incident abyss, and I know what this work feels like from the inside.
+
+ The point is not for you to become more like me. The point is to help you become more fully, usefully, unapologetically yourself.
 
 ## What I stand for
 
@@ -118,7 +122,7 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
       <li>8+ years as an exec leader (VP Engineering/Interim CTO)</li>
       <li>Led engineering teams and organisations of 120+ people</li>
       <li>Led at exec level inside companies up to $300M ARR</li>
-      <li>Worked across MedTech, FinTech, InsureTech, AppSec, agency and many other domains.</li>
+      <li>Worked across MedTech, FinTech, InsurTech, AppSec, agency and other domains</li>
     </ul>
   </div>
 </div>
