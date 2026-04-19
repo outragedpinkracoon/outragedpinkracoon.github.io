@@ -1,6 +1,6 @@
 ---
 title: She Outworks Everyone. And She'll Never Ask For A Raise.
-description: An AI employee advert promised a woman who never gets sick, never complains and never asks for a raise. That is not innovation. It is dehumanisation dressed up as progress.
+description: An AI employee advert promised a woman who never gets sick, never complains and never asks for a raise. That is not innovation. That is not okay.
 layout: post
 categories: [diversity, leadership]
 ---
