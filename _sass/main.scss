@@ -1481,6 +1481,79 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 // MEET VAL PAGE SECTIONS
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+.credibility-strip {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
+  margin: 1.8rem 0 2.2rem;
+
+  @include respond-to('small') {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  @include respond-to('large') {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+.credibility-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  min-height: 4.4rem;
+  padding: 0.8rem 0.9rem;
+  background: $cream;
+  border: 2px solid rgba($ink, 0.12);
+  border-bottom: 5px solid $magenta;
+  box-shadow: 4px 4px 0 rgba($ink, 0.08);
+  color: $ink;
+  font-family: $font-primary;
+  font-size: 0.95rem;
+  font-weight: 800;
+  line-height: 1.25;
+
+  &:nth-child(even) {
+    border-bottom-color: $teal;
+  }
+
+  &:nth-child(3) {
+    border-bottom-color: $orange;
+  }
+
+  &:nth-child(4) {
+    border-bottom-color: $yellow;
+  }
+}
+
+.credibility-badge__mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 2.7rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  background: $magenta;
+  color: $cream;
+  border-radius: 50%;
+  font-size: 0.76rem;
+  font-weight: 900;
+  line-height: 1;
+  text-align: center;
+
+  .credibility-badge:nth-child(even) & {
+    background: $teal;
+  }
+
+  .credibility-badge:nth-child(3) & {
+    background: $orange;
+  }
+
+  .credibility-badge:nth-child(4) & {
+    background: $yellow;
+    color: $ink;
+  }
+}
+
 .story-stamp {
   margin: 2rem -8px;
   padding: 1.4rem 1.6rem;
