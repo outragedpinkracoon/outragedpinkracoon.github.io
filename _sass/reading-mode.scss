@@ -138,9 +138,39 @@ body.reading-mode {
 
   .testimonial-card {
     border-top-color: $reading-magenta;
+    .testimonial-tag {
+      background: rgba($reading-magenta, 0.1);
+      border-color: rgba($reading-magenta, 0.32);
+      color: darken($reading-magenta, 12%);
+    }
+    .testimonial-pullquote { color: $reading-magenta; }
     &:nth-child(even) { border-top-color: $reading-teal; }
     &:nth-child(3) { border-top-color: #d46f42; }
     &:nth-child(4) { border-top-color: $reading-yellow; }
+    &:nth-child(even) {
+      .testimonial-tag {
+        background: rgba($reading-teal, 0.12);
+        border-color: rgba($reading-teal, 0.38);
+        color: darken($reading-teal, 16%);
+      }
+      .testimonial-pullquote { color: darken($reading-teal, 10%); }
+    }
+    &:nth-child(3) {
+      .testimonial-tag {
+        background: rgba(#d46f42, 0.12);
+        border-color: rgba(#d46f42, 0.42);
+        color: darken(#d46f42, 16%);
+      }
+      .testimonial-pullquote { color: darken(#d46f42, 10%); }
+    }
+    &:nth-child(4) {
+      .testimonial-tag {
+        background: rgba($reading-yellow, 0.22);
+        border-color: rgba($reading-yellow, 0.72);
+        color: darken(#d46f42, 20%);
+      }
+      .testimonial-pullquote { color: darken(#d46f42, 14%); }
+    }
   }
 
   .value-card {
@@ -440,9 +470,39 @@ body.cb-red-green {
   .process-step__number { color: rgba($cb-blue, 0.72); }
   .testimonial-card {
     border-top-color: $cb-blue;
+    .testimonial-tag {
+      background: rgba($cb-blue, 0.1);
+      border-color: rgba($cb-blue, 0.32);
+      color: darken($cb-blue, 10%);
+    }
+    .testimonial-pullquote { color: $cb-blue; }
     &:nth-child(even) { border-top-color: $cb-amber; }
     &:nth-child(3) { border-top-color: $cb-vermillion; }
     &:nth-child(4) { border-top-color: $cb-sky; }
+    &:nth-child(even) {
+      .testimonial-tag {
+        background: rgba($cb-amber, 0.18);
+        border-color: rgba($cb-amber, 0.62);
+        color: darken($cb-amber, 28%);
+      }
+      .testimonial-pullquote { color: darken($cb-amber, 28%); }
+    }
+    &:nth-child(3) {
+      .testimonial-tag {
+        background: rgba($cb-vermillion, 0.12);
+        border-color: rgba($cb-vermillion, 0.42);
+        color: darken($cb-vermillion, 12%);
+      }
+      .testimonial-pullquote { color: darken($cb-vermillion, 8%); }
+    }
+    &:nth-child(4) {
+      .testimonial-tag {
+        background: rgba($cb-sky, 0.16);
+        border-color: rgba($cb-sky, 0.5);
+        color: darken($cb-sky, 22%);
+      }
+      .testimonial-pullquote { color: darken($cb-sky, 24%); }
+    }
   }
   .testimonial-bridge { color: $cb-blue; }
   .value-card {
@@ -724,9 +784,39 @@ body.cb-blue-yellow {
     background: lighten($tri-coral, 30%);
     color: #1c1714;
     border-top-color: #d91a5e;
+    .testimonial-tag {
+      background: rgba(#d91a5e, 0.1);
+      border-color: rgba(#d91a5e, 0.32);
+      color: darken(#d91a5e, 8%);
+    }
+    .testimonial-pullquote { color: #d91a5e; }
     &:nth-child(even) { border-top-color: $tri-green; }
     &:nth-child(3) { border-top-color: #ef6820; }
     &:nth-child(4) { border-top-color: $tri-red; }
+    &:nth-child(even) {
+      .testimonial-tag {
+        background: rgba($tri-green, 0.12);
+        border-color: rgba($tri-green, 0.42);
+        color: darken($tri-green, 10%);
+      }
+      .testimonial-pullquote { color: darken($tri-green, 8%); }
+    }
+    &:nth-child(3) {
+      .testimonial-tag {
+        background: rgba(#ef6820, 0.12);
+        border-color: rgba(#ef6820, 0.42);
+        color: darken(#ef6820, 12%);
+      }
+      .testimonial-pullquote { color: darken(#ef6820, 8%); }
+    }
+    &:nth-child(4) {
+      .testimonial-tag {
+        background: rgba($tri-red, 0.12);
+        border-color: rgba($tri-red, 0.42);
+        color: darken($tri-red, 10%);
+      }
+      .testimonial-pullquote { color: darken($tri-red, 8%); }
+    }
   }
   .testimonial-bridge { color: #d91a5e; }
   .value-card {
@@ -1060,6 +1150,15 @@ body.cb-greyscale {
     border-top-color: $gs-dark;
     box-shadow: 5px 5px 0 $gs-mid;
     color: $gs-dark;
+    .testimonial-tag {
+      background: lighten($gs-light, 4%);
+      border-color: $gs-mid;
+      color: $gs-dark;
+    }
+    .testimonial-pullquote {
+      border-bottom-color: rgba($gs-dark, 0.16);
+      color: $gs-dark;
+    }
     &:nth-child(even) { border-top-color: $gs-mid-dark; border-top-style: dashed; }
     &:nth-child(3) { border-top-color: $gs-mid; border-top-style: dotted; }
     &:nth-child(4) { border-top-color: $gs-dark; border-top-style: double; }
