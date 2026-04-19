@@ -976,6 +976,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   display: flex;
   flex-direction: column;
   box-shadow: 7px 7px 0 rgba($ink, 0.09);
+  font-size: 1rem;
 
   @include respond-to('medium') {
     padding: 2rem;
@@ -1006,7 +1007,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
 .pricing-title {
   font-family: $font-primary;
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 800;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -1015,7 +1016,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
 .pricing-subtitle {
   font-family: $font-primary;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 800;
   line-height: 1.35;
   color: $teal;
@@ -1024,8 +1025,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
 .pricing-detail {
   color: rgba($ink, 0.72);
-  font-size: 0.94rem;
-  line-height: 1.55;
+  font-size: 1rem;
+  line-height: 1.6;
   margin-top: 0.65rem !important;
 }
 
@@ -1045,8 +1046,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   padding-left: 1.2rem;
   margin: 1rem 0 1.4rem;
   color: rgba($ink, 0.78);
-  font-size: 0.9rem;
-  line-height: 1.55;
+  font-size: 1rem;
+  line-height: 1.6;
 
   li {
     margin-bottom: 0.45rem;
@@ -1058,7 +1059,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   justify-content: center;
   width: 100%;
   padding: 0.72rem 1.4rem;
-  font-size: 0.9rem;
+  font-size: 0.96rem;
   background: $magenta;
   color: $cream;
   box-shadow: 4px 4px 0 $teal;
@@ -1374,13 +1375,13 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
 .testimonial-card {
   margin: 0;
-  padding: 1.35rem 1.4rem;
+  padding: 1.45rem 1.5rem;
   background: $cream;
   border: 2px solid rgba($ink, 0.12);
   border-top: 6px solid $magenta;
   box-shadow: 5px 5px 0 rgba($ink, 0.09);
   color: $ink;
-  font-size: 0.94rem;
+  font-size: 1rem;
   line-height: 1.65;
   transform: rotate(-0.4deg);
 
@@ -1428,7 +1429,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     padding-bottom: 1rem;
     border-bottom: 2px solid rgba($ink, 0.1);
     font-family: $font-display;
-    font-size: 1.38rem;
+    font-size: 1.5rem;
     font-style: italic;
     font-weight: 900;
     line-height: 1.15;
