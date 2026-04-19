@@ -39,16 +39,16 @@ It's harder still when you finally claw your way to the top and hit the glass ce
     <span>ILM Level 5 Executive Coach</span>
   </div>
   <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">14Y</span>
-    <span>14 years coding</span>
+    <span class="credibility-badge__mark" aria-hidden="true">8+</span>
+    <span>300+ people coached </span>
   </div>
   <div class="credibility-badge">
     <span class="credibility-badge__mark" aria-hidden="true">VP</span>
-    <span>VP Engineering</span>
+    <span>Interim CTO/VP Engineering</span>
   </div>
   <div class="credibility-badge">
     <span class="credibility-badge__mark" aria-hidden="true">300+</span>
-    <span>300+ people coached</span>
+    <span>14 years hands on coding</span>
   </div>
 </div>
 
@@ -99,7 +99,7 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
 
 <div class="credentials-grid card-grid">
   <div class="card card--static credential-card">
-    <h3>Coaching & leadership</h3>
+    <h3>Coaching and training</h3>
     <ul>
       <li>ILM Level 5 Executive Coach</li>
       <li>6 years coaching over 300 people</li>
@@ -107,15 +107,18 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
       <li><a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank" rel="noopener noreferrer">Dare to Lead&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
       <li><a href="https://coachlead.co/leaders-who-coach/" target="_blank" rel="noopener noreferrer">Leaders Who Coach&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
       <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
+      <li>BSc Computer Science (First Class)</li>
+      <li>BA Accountancy & Finance</li>
     </ul>
   </div>
   <div class="card card--static credential-card">
-    <h3>Tech & education</h3>
+    <h3>Leadership and work</h3>
     <ul>
       <li>14 years hands-on engineering</li>
-      <li>8 years as an exec leader (VP Eng/Interim CTO)</li>
-      <li>BSc Computer Science (First Class)</li>
-      <li>BA Accountancy & Finance</li>
+      <li>8+ years as an exec leader (VP Engineering/Interim CTO)</li>
+      <li>Led engineering teams and organisations of 120+ people</li>
+      <li>Led at exec level inside companies up to $300M ARR</li>
+      <li>Worked across MedTech, FinTech, InsureTech, AppSec, agency and many other domains.</li>
     </ul>
   </div>
 </div>
