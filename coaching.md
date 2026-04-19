@@ -129,7 +129,7 @@ Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier e
 <div class="pricing-intro">
   <p class="pricing-kicker">Premium 1:1 coaching</p>
   <p class="pricing-lede">This is specialist, senior-level support for the moments where clarity, confidence and power matter.</p>
-  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience running teams of over 120 people in $300M ARR companies, and six years coaching 300+ people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You’re not paying for a nice chat. You’re paying for a sharp, focused hour with someone who's lived it and can help you deal with the thing that’s costing you energy, confidence, momentum or sleep.</p>
+  <p>I bring ILM Level 5 executive coaching, nearly two decades in tech, VP Engineering and Interim CTO experience running teams of over 120 people in $300M ARR companies, and six years coaching 300+ people through leadership, burnout, promotion, conflict and messy systems. You are not paying for a nice chat. You’re paying for a sharp, focused hour with someone who's lived it and can help you deal with the thing that’s costing you energy, confidence, momentum or sleep.</p>
 </div>
 
 <div class="pricing-table" aria-label="Coaching prices">
@@ -148,13 +148,13 @@ Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier e
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Best value</span>
     <p class="pricing-amount">£450</p>
-    <p class="pricing-title">Bundle of 3 sessions</p>
+    <p class="pricing-title">3 session bundle (save £150)</p>
     <p class="pricing-subtitle">For the stuff that won't be fixed in one conversation</p>
     <p class="pricing-detail">For patterns that keep costing you, bigger shifts that need space, and situations where you need to try something, come back, and work out what happened.</p>
     <ul class="pricing-includes">
       <li>Three private, remote one-hour sessions.</li>
-      <li>Room to test decisions and come back to what happened.</li>
-      <li>£150 saving compared with booking separately.</li>
+      <li>Room to explore a messy, unclear problem space.</li>
+      <li>Test decisions and come back to talk through what happened.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20coaching%20bundle.">Book a coaching session</a>
   </div>
@@ -193,3 +193,5 @@ Still thinking "yes, but what even *is* a coach?" I wrote the fuller, swearier e
     <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
   </blockquote>
 </div>
+<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Bring me your mess</a></p>
+   
