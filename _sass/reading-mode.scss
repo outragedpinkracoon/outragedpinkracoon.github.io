@@ -178,6 +178,18 @@ body.reading-mode {
     &:nth-child(even) { border-left-color: $reading-teal; }
     &:nth-child(3) { border-left-color: #d46f42; }
   }
+  .credibility-badge {
+    border-bottom-color: $reading-magenta;
+    &:nth-child(even) { border-bottom-color: $reading-teal; }
+    &:nth-child(3) { border-bottom-color: #d46f42; }
+    &:nth-child(4) { border-bottom-color: $reading-yellow; }
+  }
+  .credibility-badge__mark {
+    background: $reading-magenta;
+    .credibility-badge:nth-child(even) & { background: $reading-teal; }
+    .credibility-badge:nth-child(3) & { background: #d46f42; }
+    .credibility-badge:nth-child(4) & { background: $reading-yellow; color: #1c1714; }
+  }
   .story-stamp {
     background: rgba($reading-yellow, 0.32);
     color: #1c1714;
@@ -511,6 +523,18 @@ body.cb-red-green {
     &:nth-child(3) { border-left-color: $cb-vermillion; }
     &:nth-child(4) { border-left-color: $cb-sky; }
   }
+  .credibility-badge {
+    border-bottom-color: $cb-blue;
+    &:nth-child(even) { border-bottom-color: $cb-amber; }
+    &:nth-child(3) { border-bottom-color: $cb-vermillion; }
+    &:nth-child(4) { border-bottom-color: $cb-sky; }
+  }
+  .credibility-badge__mark {
+    background: $cb-blue;
+    .credibility-badge:nth-child(even) & { background: $cb-amber; color: #1c1714; }
+    .credibility-badge:nth-child(3) & { background: $cb-vermillion; }
+    .credibility-badge:nth-child(4) & { background: $cb-sky; color: #1c1714; }
+  }
   .story-stamp {
     background: #f7f2e8;
     color: #1c1714;
@@ -824,6 +848,18 @@ body.cb-blue-yellow {
     &:nth-child(even) { border-left-color: $tri-green; }
     &:nth-child(3) { border-left-color: #ef6820; }
     &:nth-child(4) { border-left-color: $tri-red; }
+  }
+  .credibility-badge {
+    border-bottom-color: #d91a5e;
+    &:nth-child(even) { border-bottom-color: $tri-green; }
+    &:nth-child(3) { border-bottom-color: #ef6820; }
+    &:nth-child(4) { border-bottom-color: $tri-red; }
+  }
+  .credibility-badge__mark {
+    background: #d91a5e;
+    .credibility-badge:nth-child(even) & { background: $tri-green; }
+    .credibility-badge:nth-child(3) & { background: #ef6820; }
+    .credibility-badge:nth-child(4) & { background: $tri-red; }
   }
   .story-stamp {
     background: #f7f2e8;
@@ -1172,6 +1208,23 @@ body.cb-greyscale {
     &:nth-child(even) { border-left-color: $gs-mid-dark; border-left-style: dashed; }
     &:nth-child(3) { border-left-color: $gs-mid; border-left-style: dotted; }
     &:nth-child(4) { border-left-color: $gs-mid-light; border-left-style: double; }
+  }
+  .credibility-badge {
+    background: lighten($gs-light, 6%);
+    border-color: rgba($gs-dark, 0.2);
+    border-bottom-color: $gs-dark;
+    color: $gs-dark;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &:nth-child(even) { border-bottom-color: $gs-mid-dark; border-bottom-style: dashed; }
+    &:nth-child(3) { border-bottom-color: $gs-mid; border-bottom-style: dotted; }
+    &:nth-child(4) { border-bottom-color: $gs-mid-light; border-bottom-style: double; }
+  }
+  .credibility-badge__mark {
+    background: $gs-dark;
+    color: $gs-near-white;
+    .credibility-badge:nth-child(even) & { background: $gs-mid-dark; }
+    .credibility-badge:nth-child(3) & { background: $gs-mid; }
+    .credibility-badge:nth-child(4) & { background: $gs-light; color: $gs-dark; border: 1px solid $gs-dark; }
   }
   .story-stamp {
     background: lighten($gs-light, 7%);
