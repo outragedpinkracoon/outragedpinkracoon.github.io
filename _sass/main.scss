@@ -409,7 +409,7 @@ hr {
   @extend %btn-base;
   padding: 0.7rem 2.2rem;
   font-size: 0.88rem;
-  background: $magenta;
+  background: darken($magenta, 6%);
   color: $cream;
   // off-register ink shadow
   box-shadow: 4px 4px 0 $teal;
@@ -424,7 +424,7 @@ hr {
   @extend %btn-base;
   padding: 0.6rem 1.6rem;
   font-size: 0.88rem;
-  background: $magenta;
+  background: darken($magenta, 6%);
   color: $cream;
   box-shadow: 4px 4px 0 $teal;
 
@@ -439,7 +439,7 @@ hr {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 .flagship-offer {
-  background: $magenta;
+  background: darken($magenta, 6%);
   color: $cream;
   padding: 2rem;
   margin: 1.8rem 0 2rem;
@@ -629,7 +629,7 @@ hr {
   }
 }
 
-$_card-accents:    $magenta,  $teal,    $orange,   $yellow;
+$_card-accents:    darken($magenta, 6%),  darken($teal, 7%),    darken($orange, 4%),   $yellow;
 $_card-shadows:    $teal,     $magenta, $lavender, $magenta;
 $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
@@ -769,7 +769,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   padding: 0;
   margin: 0 0 1.2rem;
 
-  $_post-colors:    $teal,   $orange, $magenta;
+  $_post-colors:    darken($teal, 7%),   darken($orange, 4%), darken($magenta, 6%);
   $_post-rotations: -0.8deg, 1deg,   -0.7deg;
 
   @for $i from 1 through 3 {
@@ -821,7 +821,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     font-weight: 700;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: rgba($cream, 0.7);
+    color: $cream;
   }
 }
 
@@ -1060,7 +1060,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   width: 100%;
   padding: 0.72rem 1.4rem;
   font-size: 0.96rem;
-  background: $magenta;
+  background: darken($magenta, 6%);
   color: $cream;
   box-shadow: 4px 4px 0 $teal;
   margin-top: auto;
@@ -1118,7 +1118,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   a {
     display: inline-block;
     padding: 0.65rem 1rem;
-    background: $teal;
+    background: darken($teal, 7%);
     color: $cream;
     font-family: $font-primary;
     font-size: 0.82rem;
@@ -1224,20 +1224,20 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
 .outcome-item {
   padding: 1.2rem;
-  background: $magenta;
+  background: darken($magenta, 6%);
   color: $cream;
   border-top: none;
   box-shadow: 5px 5px 0 $teal;
   transform: rotate(-0.8deg);
 
   &:nth-child(2) {
-    background: $teal;
+    background: darken($teal, 7%);
     box-shadow: 5px 5px 0 $magenta;
     transform: rotate(0.7deg);
   }
 
   &:nth-child(3) {
-    background: $orange;
+    background: darken($orange, 4%);
     box-shadow: 5px 5px 0 $lavender;
     transform: rotate(0.6deg);
   }
@@ -1532,7 +1532,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   flex: 0 0 2.7rem;
   width: 2.7rem;
   height: 2.7rem;
-  background: $magenta;
+  background: darken($magenta, 6%);
   color: $cream;
   border-radius: 50%;
   font-size: 0.76rem;
@@ -1541,11 +1541,11 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   text-align: center;
 
   .credibility-badge:nth-child(even) & {
-    background: $teal;
+    background: darken($teal, 7%);
   }
 
   .credibility-badge:nth-child(3) & {
-    background: $orange;
+    background: darken($orange, 4%);
   }
 
   .credibility-badge:nth-child(4) & {
@@ -1620,7 +1620,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 }
 
 .credentials-grid .card:nth-child(1) {
-  background: $orange;
+  background: darken($orange, 4%);
   color: $cream;
   box-shadow: 8px 8px 0 $lavender;
 
