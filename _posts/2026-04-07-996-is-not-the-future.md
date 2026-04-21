@@ -1,5 +1,6 @@
 ---
-title: 996 Is Not The Future
+title: Why 996 Work Culture Kills Productivity — And What the Research Says
+display_title: 996 Is Not The Future
 description: Some tech leaders are celebrating 9am to 9pm, six days a week. Some tech leaders are full of bullshit.
 layout: post
 categories: [leadership, self-care]

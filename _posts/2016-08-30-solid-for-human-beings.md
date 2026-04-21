@@ -31,7 +31,7 @@ We can define coupling as
 
 If you change the walk method on your Cat class, and the purr method also has to change, it's probably very highly coupled code.
 
-## S - Single Responsibility Principle <a name="srp"></a>
+## S - Single Responsibility Principle {#srp}
 We should aim to make our classes only responsible for one coherent set of properties with related behaviours. We don’t want our class to be affected by changes that should not concern it because it’s full of properties and methods that really don’t belong there, and may change more than the class itself needs to.
 
 The more we have to change, the more likely we are to introduce new bugs and probably the more unit tests we have to update. If we adhere to the loose coupling, high cohesion principles, we should have code that adheres to the Single Responsibility Principle.
@@ -57,7 +57,7 @@ Now, if we want to change the way the athlete logs to use a file instead of the 
 
 This is great news since all the athlete has to care about now is it’s own properties and methods that act on them and not the specifics of how the log works.
 
-## Dependency Inversion <a name="di"></a>
+## Dependency Inversion {#di}
 A dependency is another class that our class needs to use in order to function.
 
 Dependency Inversion is where we never “new” anything up in a class, and we pass it in from the class that instantiates it. This stops code having an opinion about the implementation details of a dependency.
@@ -78,7 +78,7 @@ The Athlete has been changed to rely on _an interface_ AthleteLog instead of a _
 
 In the runner, we pass a new Athlete an AthleteConsoleLog. We then create a new Athlete that uses an AthleteFileLog. We have _changed the behaviour_ of an Athlete without modifying _the source code_ of the Athlete itself.
 
-## Liskov Substitution <a name="liskov"></a>
+## Liskov Substitution {#liskov}
 Whenever we choose to extend an abstract class or implement an interface, we are saying that we will adhere to the contract. We must implement all the methods to allow the class using the contract act to as if it is the super class type it has been given. This is easier explained with an example.
 
 ### Naughty
@@ -98,11 +98,11 @@ Both the AthleteConsoleLog and AthleteFileLog can be declared as an AthleteLog. 
 
 However we are in for a nasty surprise…
 
-When we use the AthleteConsoleLog, we get a horrible RuntimeException. Why? It turns out the naughty programmer who implemented the interface and made us trust that the implementation was in the AthleteConsoleClass, adhering to the contract, threw an exception instead of doing something sensbile and making the logging happen.
+When we use the AthleteConsoleLog, we get a horrible RuntimeException. Why? It turns out the naughty programmer who implemented the interface and made us trust that the implementation was in the AthleteConsoleClass, adhering to the contract, threw an exception instead of doing something sensible and making the logging happen.
 
 This breaks the Liskov Substitution principle. Any class implementing AthleteLog must have a valid implementation of distance(). If it doesn’t, then it should not be using the interface in the first place. We can’t trust AthleteConsoleLog to be used in conjunction with AthleteLog as a type, as we declared in the example above.
 
-We don’t want to give other developers a nasty surprise when they try to use our class, which is pretending to be adhering to acontract when it’s really not.
+We don’t want to give other developers a nasty surprise when they try to use our class, which is pretending to be adhering to a contract when it’s really not.
 
 This also applies to overloading superclass methods and making them throw errors or return unexpected things.
 
@@ -111,7 +111,7 @@ Now go check the code [here](https://github.com/outragedpinkracoon/SOLID-for-hum
 
 In the good example, both the AthleteConsoleLog and the AthleteFileLog have valid distance() methods, and can both be interchanged with AthleteLog as a type. All is good. NO missing methods, no weird returns. We can trust it to do what we expect from an AthleteLog, which is to run the distance() method it promises to us.
 
-## Interface Segregation <a name="seg"></a>
+## Interface Segregation {#seg}
 We should always favour smaller _highly cohesive_ interfaces over larger less specific ones. A larger set of methods on an interface can result in breaking the Liskov Substitution principles, since the class using it may not need all of the methods defined on it and choose to do nothing, throw an exception etc
 
 We shouldn’t force methods onto classes that they do not need.
@@ -132,7 +132,7 @@ The Olympian interface has been spread out into 3 separate, _highly cohesive_, i
 
 The sprinter only has to implement the methods of an Olympic Runner, which make sense for it.
 
-## Open / Closed Principle <a name="openclosed"></a>
+## Open / Closed Principle {#openclosed}
 We want to be able to cope with changes in the behaviour of our code, but making the smallest possible changes to the source code as possible to achieve this. We don’t a tiny alteration in how our program runs to cause us to have to update hundreds of lines of code.
 
 The Open Closed Principle encourages us to keep our code “open for extension but closed for modification”. We seen this with dependency inversion - we can pass in different behaviours to a class without altering it directly.
@@ -147,17 +147,17 @@ A Gymnast and a Boxer are both athletes that compete in events. Entering an even
 Warm up
 Compete
 Calculate Points
-Recieve Medal
+Receive Medal
 These have to happen in this order. This is a fairly crude example with the same point system being used for assigning medals to both Gymnasts and Boxers.
 
-We can see there is a lot of duplication - both the Gymnast and Boxer have a points property and both have the same prepare(), compete() and recieveMedal() methods. This is not DRY. If we want to add another type of Athlete, we need create a whole new class and duplicate all of these methods, just for the sake of adding a slightly different points calculation.
+We can see there is a lot of duplication - both the Gymnast and Boxer have a points property and both have the same prepare(), compete() and receiveMedal() methods. This is not DRY. If we want to add another type of Athlete, we need create a whole new class and duplicate all of these methods, just for the sake of adding a slightly different points calculation.
 
 If we change the prepare() method on the Boxer, we also need to change it in the Gymnast since they are both meant to be the same. The classes are open for modification since any changes to the other class means it has to be updated. Entering an event cannot be easily extended, since any new action must be added to both a Gymnast and a Boxer.
 
 ### After
 Read the refactored code [here](https://github.com/outragedpinkracoon/SOLID-for-humans/tree/master/Open%20Closed%20Principle/after).
 
-All of the common methods have been pushed up into the new Athlete abstract class. There is an abstract method calculatePoints() that delegates it’s implementation to the Gymnast and the Boxer. This sets the points property which is used in the recieveMedal() method of the Athlete class.
+All of the common methods have been pushed up into the new Athlete abstract class. There is an abstract method calculatePoints() that delegates it’s implementation to the Gymnast and the Boxer. This sets the points property which is used in the receiveMedal() method of the Athlete class.
 
 This is super cool, since adding a new type of Athlete is dead easy. We just extend the Athlete class and write the required calculatePoints() method. The Athlete class is closed for modification since it has all of the running order information inside of it and we do not need to alter the source code to add a new type of athlete. If we didn’t have the source code for an Athlete, we could still make a Swimmer that extends it.
 

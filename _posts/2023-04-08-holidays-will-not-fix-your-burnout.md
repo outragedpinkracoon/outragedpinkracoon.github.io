@@ -1,6 +1,8 @@
 ---
-title: Holidays Will Not Fix Your Work Burnout
+title: "Burnout at Work: Why Holidays Don't Fix It and What Actually Does"
+display_title: Holidays Will Not Fix Your Work Burnout
 description: Sorry about that. But these actions will help instead.
+date: 2023-04-08
 layout: post
 categories: [personal-development]
 ---

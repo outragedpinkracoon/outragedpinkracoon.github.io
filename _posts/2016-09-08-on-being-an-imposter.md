@@ -1,5 +1,6 @@
 ---
-title: On Being an Imposter
+title: Imposter Syndrome as a Developer — You're Not Alone and It's Not You
+display_title: On Being an Imposter
 description: On feeling like you are not good enough and what to do about it.
 layout: post
 categories: [personal-development]

@@ -96,7 +96,7 @@ h1 {
   color: $teal;
   text-shadow: none;
   margin-top: 0;
-  margin-bottom: 1.2rem;
+  margin-bottom: 2rem;
   padding-top: 0;
 
   @include respond-to('medium') { font-size: 3.8rem; }
@@ -108,6 +108,7 @@ h1 {
     text-shadow: none;
     letter-spacing: 0.02em;
     margin-top: 0.15em;
+    margin-bottom: 0.5em;
   }
 }
 
@@ -450,7 +451,7 @@ hr {
     padding: 2.4rem;
   }
 
-  h3 {
+  h2 {
     font-family: $font-display;
     font-style: italic;
     font-weight: 900;
@@ -467,7 +468,7 @@ hr {
     }
   }
 
-  h3 a {
+  h2 a {
     color: inherit;
     text-decoration-color: rgba($cream, 0.45);
 
@@ -638,6 +639,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   flex-direction: column;
   padding: 1.8rem;
   position: relative;
+  cursor: default;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 
   h3 {
@@ -674,6 +676,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     text-decoration: none;
     position: relative;
     z-index: 1;
+    cursor: pointer;
     transition: transform 0.15s ease, border-bottom-color 0.15s ease;
 
     [aria-hidden="true"] {
@@ -684,6 +687,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   h3 a {
     text-decoration: none;
     color: inherit;
+    cursor: pointer;
 
     &:hover { text-decoration: underline; }
 
@@ -767,18 +771,35 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 #recent-posts {
   list-style: none;
   padding: 0;
-  margin: 0 0 1.2rem;
+  margin: 0 0 1.8rem;
 
-  $_post-colors:    darken($teal, 7%),   darken($orange, 4%), darken($magenta, 6%);
-  $_post-rotations: -0.8deg, 1deg,   -0.7deg;
+  @include respond-to('medium') {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.4rem 1.7rem;
+  }
 
-  @for $i from 1 through 3 {
+  $_post-colors:    darken($teal, 7%), darken($orange, 4%), darken($magenta, 6%), $yellow, $lavender;
+  $_post-rotations: -0.8deg, 1deg, -0.7deg, 0.8deg, -0.55deg;
+
+  @for $i from 1 through length($_post-colors) {
     $c:   nth($_post-colors, $i);
     $rot: nth($_post-rotations, $i);
     li:nth-child(#{$i}) {
       background: $c;
       box-shadow: 5px 5px 0 $ink;
       transform: rotate($rot);
+    }
+  }
+
+  li:nth-child(4) {
+    a,
+    .date {
+      color: $ink;
+    }
+
+    a:hover {
+      color: $ink;
     }
   }
 
@@ -790,6 +811,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     align-items: baseline;
     gap: 0 0.8rem;
     position: relative;
+    cursor: pointer;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 
     &:hover {
@@ -805,11 +827,13 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     font-size: 1.15rem;
     text-decoration: none;
     color: $cream;
+    cursor: pointer;
 
     &::after {
       content: '';
       position: absolute;
       inset: 0;
+      cursor: pointer;
     }
 
     &:hover { color: $cream; text-decoration: underline; }
@@ -822,6 +846,16 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: $cream;
+  }
+
+  @include respond-to('medium') {
+    li {
+      margin-bottom: 0;
+
+      &:first-child {
+        grid-column: 1 / -1;
+      }
+    }
   }
 }
 
@@ -1155,6 +1189,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   background: $cream;
   border: 3px solid rgba($ink, 0.14);
   box-shadow: 7px 7px 0 rgba($ink, 0.12);
+  cursor: default;
 
   @include respond-to('medium') {
     &:nth-child(1) { transform: rotate(-0.8deg); }
@@ -1211,6 +1246,87 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   transform: rotate(-1.4deg);
 }
 
+.manager-quote-wall {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.15rem;
+  margin: 2rem 0 2.7rem;
+
+  @include respond-to('medium') {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.35rem 1.5rem;
+  }
+}
+
+.manager-quote-card {
+  margin: 0;
+  padding: 1.25rem 1.35rem;
+  background: $yellow;
+  color: $ink;
+  box-shadow: 6px 6px 0 rgba($ink, 0.72);
+  transform: rotate(-0.9deg);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+
+  &:nth-child(2) {
+    transform: rotate(0.7deg);
+  }
+
+  &:nth-child(3) {
+    transform: rotate(-0.45deg);
+  }
+
+  &:nth-child(4) {
+    transform: rotate(0.85deg);
+  }
+
+  &:nth-child(5) {
+    transform: rotate(0.5deg);
+  }
+
+  &:nth-child(6) {
+    transform: rotate(-0.75deg);
+  }
+
+  &:nth-child(7) {
+    transform: rotate(0.65deg);
+  }
+
+  &:nth-child(8) {
+    transform: rotate(-0.6deg);
+  }
+
+  @media (max-width: 640px) {
+    transform: rotate(-0.45deg);
+
+    &:nth-child(even) { transform: rotate(0.45deg); }
+  }
+
+  &:hover {
+    transform: rotate(0deg) translate(-2px, -2px);
+    box-shadow: 10px 10px 0 rgba($ink, 0.75);
+  }
+
+  blockquote {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+    clear: none;
+    font-family: $font-primary;
+    font-size: 1.05rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 1.42;
+    transform: none;
+    position: static;
+
+    &::before {
+      content: none;
+    }
+  }
+}
+
 .outcome-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -1244,7 +1360,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
   &:nth-child(4) {
     background: $yellow;
-    color: $ink;
+    color: rgba($ink, 0.82);
     box-shadow: 5px 5px 0 $magenta;
     transform: rotate(-0.5deg);
   }

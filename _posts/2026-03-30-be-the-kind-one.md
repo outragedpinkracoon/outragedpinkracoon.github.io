@@ -1,5 +1,6 @@
 ---
-title: Be The Kind One
+title: Why Kindness is a Leadership Strategy, Not a Weakness
+display_title: Be The Kind One
 description: AI is changing everything fast and it's noisy and sometimes frightening. But human kindness is the one thing we can't automate away.
 layout: post
 categories: [leadership, personal-development]

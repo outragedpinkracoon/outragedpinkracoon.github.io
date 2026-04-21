@@ -28,7 +28,7 @@ Instead of
 ❌ Relying on physical space and contact to build culture.
 ❌ Rewarding face time and proximity bias.
 
-Meanwhile only 1 in 3 CEOs think their RTO policy has had even a slight positive impact on productivity
+Meanwhile only 1 in 3 CEOs think their RTO policy has had even a slight positive impact on productivity.
 
 So you know how I keep saying that the companies that embrace flexible and distributed working are going to leave the competitors for dust?
 

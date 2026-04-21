@@ -27,17 +27,22 @@
           "image": "{{ site.url }}/assets/images/brand-images/Me.png",
           "jobTitle": "ILM Certified Coach",
           "description": "{{ site.description }}",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Scotland",
+            "addressCountry": "GB"
+          },
           "sameAs": [
             "https://www.linkedin.com/in/outragedpinkracoon/",
             "https://www.instagram.com/outragedracoonpaws/",
             "https://cara.app/outragedracoonpaws",
             "https://stakeholdersbook.substack.com"
           ]
-        }{% if page.url == '/coaching/' or page.url == '/coaching' %},
+        }{% if page.url == '/coaching/' or page.url == '/coaching' or page.url == '/coaching/engineering-managers/' or page.url == '/coaching/managers' or page.url == '/coaching/folks-in-tech/' or page.url == '/coaching/folks-in-tech' %},
         {
           "@type": "Service",
-          "@id": "{{ site.url }}/coaching/#service",
-          "name": "1:1 Coaching for Neurodivergent, Queer & Under-Represented Folk in Tech",
+          "@id": "{{ site.url }}{{ page.url }}#service",
+          "name": {{ page.title | jsonify }},
           "serviceType": "Executive and leadership coaching",
           "provider": { "@id": "{{ site.url }}/#person" },
           "areaServed": {
@@ -46,15 +51,15 @@
           },
           "availableChannel": {
             "@type": "ServiceChannel",
-            "serviceUrl": "{{ site.url }}/coaching/",
+            "serviceUrl": "{{ site.url }}{{ page.url }}",
             "availableLanguage": "en-GB"
           },
           "audience": {
             "@type": "Audience",
-            "audienceType": "Neurodivergent, queer, non-binary, disabled, and under-represented technologists, managers, and senior leaders"
+            "audienceType": "Technologists, new managers, and senior leaders navigating messy systems"
           },
-          "description": "Remote, private 1:1 coaching for under-represented folk and new managers in tech. Blends executive coaching with 18 years of lived experience as a technologist and leader.",
-          "url": "{{ site.url }}/coaching/",
+          "description": {{ page.description | jsonify }},
+          "url": "{{ site.url }}{{ page.url }}",
           "hasOfferCatalog": {
             "@type": "OfferCatalog",
             "name": "Coaching sessions",
@@ -80,14 +85,14 @@
         },
         {
           "@type": "FAQPage",
-          "@id": "{{ site.url }}/coaching/#faq",
+          "@id": "{{ site.url }}{{ page.url }}#faq",
           "mainEntity": [
             {
               "@type": "Question",
               "name": "Who do you coach?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "I primarily work with women, non-binary, queer, disabled and neurodivergent folk in tech — individual contributors ready to stop shrinking, new managers thrown in the deep end, senior leaders hitting a glass ceiling, and anyone feeling lost, confused or stuck in their career."
+                "text": "I work with folks in tech who are ready to stop shrinking, new managers thrown in the deep end, senior leaders hitting a glass ceiling, and anyone feeling lost, confused or stuck in their career."
               }
             },
             {
@@ -138,16 +143,15 @@
   <a class="skip-link" href="#main-content">Skip to main content</a>
   <nav aria-label="Main navigation">
     <a href='/' {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
-    <a href='/meet-val' {% if page.url == '/meet-val/' or page.url == '/meet-val' %}aria-current="page"{% endif %}>Meet Val</a>
-    <a href='/coaching' {% if page.url == '/coaching/' or page.url == '/coaching' %}aria-current="page"{% endif %}>Coaching</a>
+    <a href='/who-is-val' {% if page.url == '/who-is-val/' or page.url == '/who-is-val' %}aria-current="page"{% endif %}>Who is Val?</a>
+    <a href='/coaching' {% if page.url == '/coaching/' or page.url == '/coaching' or page.url contains '/coaching/' %}aria-current="page"{% endif %}>Coaching</a>
     <a href='/blog' {% if page.url == '/blog/' or page.url == '/blog' %}aria-current="page"{% endif %}>Blog</a>
-    <a href='https://www.linkedin.com/in/outragedpinkracoon/' target='_blank' rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in new tab)</span></a>
     <div class="display-settings">
       <button class="display-settings-toggle" aria-expanded="false" aria-controls="display-settings-panel" aria-label="Open display settings">
         <span class="settings-icon" aria-hidden="true">⚙</span>
         <span>Display</span>
       </button>
-      <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-modal="true" aria-labelledby="display-settings-title">
+      <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-modal="true" aria-labelledby="display-settings-title" aria-hidden="true">
         <div class="panel-close"><button aria-label="Close display settings">✕</button></div>
         <p class="display-settings-title" id="display-settings-title">Make it work for you</p>
         <label class="setting-row">
@@ -175,7 +179,7 @@
   <header><a href='/'>OUTRAGED RACOON COACHING</a></header>
   <main id="main-content">
     {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle }}</p>{% endif %}
-    {% if page.show_cta %}<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Bring me your mess</a></p>{% endif %}
+    {% unless page.show_cta == false %}<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Bring me your mess</a></p>{% endunless %}
     {{ content }}
   </main>
   <footer>
@@ -237,6 +241,7 @@
       toggleBtn.addEventListener('click', function() {
         var open = panel.classList.toggle('is-open');
         toggleBtn.setAttribute('aria-expanded', String(open));
+        panel.setAttribute('aria-hidden', String(!open));
         if (open) {
           var focusable = getFocusable();
           if (focusable.length) focusable[0].focus();
@@ -265,6 +270,7 @@
         closeBtn.addEventListener('click', function() {
           panel.classList.remove('is-open');
           toggleBtn.setAttribute('aria-expanded', 'false');
+          panel.setAttribute('aria-hidden', 'true');
           toggleBtn.focus();
         });
       }
@@ -274,6 +280,7 @@
         if (!toggleBtn.contains(e.target) && !panel.contains(e.target)) {
           panel.classList.remove('is-open');
           toggleBtn.setAttribute('aria-expanded', 'false');
+          panel.setAttribute('aria-hidden', 'true');
         }
       });
 
@@ -282,6 +289,7 @@
         if (e.key === 'Escape' && panel.classList.contains('is-open')) {
           panel.classList.remove('is-open');
           toggleBtn.setAttribute('aria-expanded', 'false');
+          panel.setAttribute('aria-hidden', 'true');
           toggleBtn.focus();
         }
       });

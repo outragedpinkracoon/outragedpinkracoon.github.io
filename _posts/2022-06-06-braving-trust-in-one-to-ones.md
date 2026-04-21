@@ -1,6 +1,8 @@
 ---
-title:  BRAVING Trust In A One-To-One
+title: "Building Trust in One-to-Ones: The BRAVING Framework for Managers"
+display_title: BRAVING Trust In A One-To-One
 description: A walk through Brené Brown's recipe for building trust, in the context of one-to-ones.
+date: 2022-06-06
 layout: post
 categories: [one-to-ones, management]
 ---
