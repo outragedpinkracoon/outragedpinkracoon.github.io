@@ -16,7 +16,7 @@ defaults:
       path: ""
     values:
       image: /assets/images/site/racoon.jpg
-      subtitle: ILM Certified Coach | Former VP Engineering | Neurodivergent | Queer | A Little Feral
+      subtitle: ILM Certified Coach | Tech Exec | Neurodivergent | Queer | Non-binary | A Little Feral
   - scope:
       path: ""
       type: posts
