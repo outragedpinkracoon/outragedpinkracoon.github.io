@@ -13,9 +13,9 @@ description: Who is Val Dryden — ILM certified coach, two decades in tech, neu
 
 <p>I chose this path because almost every manager I met didn't look like me, think like me, or understand what it cost to show up every day feeling like you didn't belong.</p>
 
-<p>I'm neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering/Interm CTO, and enough genuinely terrible situations to know what they look like from every angle.</p>
+<p>I’m neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering / Interim CTO, and enough genuinely terrible situations to know what they look like from every angle.</p>
 
-<p>I now coach the people I used to be. New managers thrown in the deep end, and folks in tech who are exhausted from performing a version of themselves that's slightly wrong.</p>
+<p>I now coach the people I used to be. New managers thrown in the deep end, and people in tech who need a mess untangled or are exhausted from performing a version of themselves that feels wrong.
 
 <div class="credibility-strip" aria-label="Val's coaching and leadership experience">
   <div class="credibility-badge">
@@ -36,33 +36,25 @@ description: Who is Val Dryden — ILM certified coach, two decades in tech, neu
   </div>
 </div>
 
-I know what it feels like to be held to unreasonable standards, left to get on with it alone, and praised for resilience when what you actually needed was support. I spent decades dealing with these situations as a woman. Then I discovered I was never quite that either.
+<p>I know what it feels like to be held to unreasonable standards, left to get on with it alone, and praised for resilience when what you actually needed was support.</p>
 
-Which means I know exactly what it feels like to work your arse off inside a system that wasn't built for you, perform a version of yourself that's slightly wrong, and wonder why you're exhausted all the time.
+<p>I also know what it is to become a manager without any help, and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. I figured it out alone. I make sure nobody else has to.</p>
 
-<div class="callout">I coach because I've navigated this bullshit from the inside and I know how to stop just surviving and start kicking ass.</div>
+<div class="callout">I coach because I've navigated this broken system from the inside and I know how to stop just surviving and start kicking ass.</div>
 
-And it doesn't magically get easier when you reach the top — you just swap one set of battles for a different one, where your competence isn't in question but your right to be in the room somehow still is.
-
-## Why it shapes how I coach
-
-That history shapes how I coach. I do not treat confidence, burnout, masking, management or career decisions as individual failings floating in a vacuum. People exist inside systems. Some of those systems are ridiculous.
-
-I also know what it is to become a manager without enough useful help, and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. I figured it out by accident. Now I make sure nobody else has to.
+<p>That history shapes how I coach. I do not treat confidence, burnout, masking, management or career decisions as individual failings. People exist inside systems. Some of those systems are ridiculous.</p>
 
 ## The kind of coach I am
 
-I am direct, warm, curious and allergic to corporate theatre.
+I am direct, warm, curious and allergic to corporate bullshit.
 
 I will not sit there nodding mysteriously while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.
-
-And when mentoring is useful, I can bring nearly two decades of engineering and executive leadership experience into the room.
-
-I've written the code, sat through the standups, stared into the production incident abyss, and I know what this work feels like from the inside.
 
 <div class="callout callout--teal">
 This is not “how do I feel about that?” coaching. This is “what’s actually going on and what are you going to do about it?” coaching.
 </div>
+
+I've written the code, sat through the standups, stared into the production incident abyss, and I know what this work feels like from the inside. So when mentoring is useful, I can bring nearly two decades of engineering and executive leadership experience into the room.
 
 ## What I stand for
 
@@ -119,11 +111,11 @@ That's who's in your corner. Ready? [Come work with me.](/coaching/)
 
 ## The human bit
 
-I am not only a coach-shaped person. I make things because making things is how I play, process, breathe, and refuse to become smooth and corporate and dead behind the eyes.
+I am not only a coach or exec-shaped person. I make things because making things is how I play, process, breathe, and refuse to become exhausted and dead behind the eyes.
 
-None of this is separate from the coaching, really. It is all part of the same refusal to become smaller, smoother or easier to digest.
+It is all part of the same commitment to be fully Val in the world.
 
-I also sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy.
+I draw. I write. I sew. I run TTRPG campaigns. I play video games. And I read an unreasonable amount of romantasy.
 
 <div class="creative-showcase card-grid" aria-label="Creative work by Val">
   <div class="card creative-feature">
