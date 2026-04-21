@@ -7,7 +7,9 @@ description: Who is Val Dryden — ILM certified coach, two decades in tech, neu
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p>I’m Valerie Dryden — an ILM certified coach based in Scotland, working remotely with clients worldwide. I spent nearly two decades in tech as an engineer, a manager, and eventually a VP and Interim CTO. I became the kind of leader I wish I’d had — building environments where people can actually do their job, have some fun, and not have it feel like a constant fight.</p>
+<p>I’m Valerie Dryden, an ILM certified coach based in Scotland, working remotely with clients worldwide.</p>
+
+<p>I spent nearly two decades in tech as an engineer, a manager, and eventually a VP and Interim CTO. I became the kind of leader I wish I’d had — building environments where people can actually do their job, have some fun, and not have it feel like a constant fight.</p>
 
 <p>I've never had a manager who looked like me, thought like me, or understood what it cost to show up every day as the wrong shape for the room.</p>
 
