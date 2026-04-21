@@ -9,11 +9,11 @@ description: Who is Val Dryden — ILM certified coach, two decades in tech, neu
 
 <p>I’m Valerie Dryden, an ILM certified coach based in Scotland, working remotely with clients worldwide.</p>
 
-<p>I spent nearly two decades in tech as an engineer, a manager, and eventually a VP and Interim CTO. I became the kind of leader I wish I’d had. Building environments where people can actually do their job, have some fun, and not have it feel like a constant fight.</p>
+<p>I spent nearly two decades in tech as an engineer, a manager and a senior exec. I became the kind of leader I wish I’d had, building environments where people can actually do their job, have some fun, and not have it feel like a constant fight.</p>
 
-<p>I've never had a manager who looked like me, thought like me, or understood what it cost to show up every day as the wrong shape for the room.</p>
+<p>I chose this path because lmost every manager I met didn't look like me, think like me, or understand what it cost to show up every day feeling like you didn't belong.</p>
 
-<p>I'm neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering, and enough genuinely terrible situations to know what they look like from every angle.</p>
+<p>I'm neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering/Interm CTO, and enough genuinely terrible situations to know what they look like from every angle.</p>
 
 <p>I now coach the people I used to be. New managers thrown in the deep end, and folks in tech who are exhausted from performing a version of themselves that's slightly wrong.</p>
 
