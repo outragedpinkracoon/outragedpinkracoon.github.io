@@ -16,7 +16,7 @@ I help you stop second-guessing yourself and actually lead.</p>
 
 <p>We’ll get you confident when people are looking to you for clarity, direction and answers — even when you don’t have them yet.</p>
 
-<div class="callout--teal callout" style="clear: both; margin-top: 2rem;">There is no undo button when you fuck up as a manager! But it doesn't have to be terrifying.</div>
+<div class="callout--teal callout" style="clear: both; margin-top: 2rem;">There is no undo button for people! But it doesn't have to be terrifying.</div>
 
 <p>As an ILM certified coach, former tech exec, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I ensure new managers don't suck by providing the training and coaching they need. Without the HR bullshit.</p>
 
