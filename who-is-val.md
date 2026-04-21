@@ -11,7 +11,7 @@ description: Who is Val Dryden — ILM certified coach, two decades in tech, neu
 
 <p>I spent nearly two decades in tech as an engineer, a manager and a senior exec. I became the kind of leader I wish I’d had, building environments where people can actually do their job, have some fun, and not have it feel like a constant fight.</p>
 
-<p>I chose this path because lmost every manager I met didn't look like me, think like me, or understand what it cost to show up every day feeling like you didn't belong.</p>
+<p>I chose this path because almost every manager I met didn't look like me, think like me, or understand what it cost to show up every day feeling like you didn't belong.</p>
 
 <p>I'm neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering/Interm CTO, and enough genuinely terrible situations to know what they look like from every angle.</p>
 
