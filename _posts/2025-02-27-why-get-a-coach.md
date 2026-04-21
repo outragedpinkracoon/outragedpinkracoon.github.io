@@ -1,5 +1,6 @@
 ---
-title: What's A Coach Anyway?
+title: What is Coaching? A No-Bullshit Guide for Folks in Tech
+display_title: What's A Coach Anyway?
 description: What coaching actually is, what it is not, and why you might want a coach when work has become a bit too much to untangle alone.
 layout: post
 categories: [coaching]

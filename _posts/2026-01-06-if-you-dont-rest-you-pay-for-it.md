@@ -1,5 +1,6 @@
 ---
-title: If You Don't Rest, You'll Pay For It
+title: Why Rest is a Leadership Skill, Not a Luxury
+display_title: If You Don't Rest, You'll Pay For It
 description: One of the most important things I've learned as a VP is that rest isn't optional — and the cost of ignoring it is higher than you think.
 layout: post
 categories: [leadership, self-care]

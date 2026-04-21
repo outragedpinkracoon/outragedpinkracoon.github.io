@@ -1,37 +1,19 @@
 ---
 layout: info_page
-permalink: /meet-val/
-title: Meet Val Dryden — ILM Certified Coach for Under-Represented Folk in Tech
-display_title: Meet Val
-description: Meet Val Dryden — ILM certified coach, two decades in tech, neurodivergent, queer, non-binary, disabled. The full story behind Outraged Racoon Coaching®.
-subtitle: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled | A Little Feral
-show_cta: true
+permalink: /who-is-val/
+title: Who is Val Dryden — ILM Certified Coach for Under-Represented Folk in Tech
+display_title: Who is Val?
+description: Who is Val Dryden — ILM certified coach, two decades in tech, neurodivergent, queer, non-binary, disabled. The full story behind Outraged Racoon Coaching®.
 ---
-
-## My story
-
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-I'm neurodivergent, queer, non-binary, disabled and feral in the best way. Trust me, my career in tech has been a ride. 💅🏻
+<p>I’m Valerie Dryden — an ILM certified coach based in Scotland, working remotely with clients worldwide. I spent nearly two decades in tech as an engineer, a manager, and eventually a VP and Interim CTO. I became the kind of leader I wish I’d had — building environments where people can actually do their job, have some fun, and not have it feel like a constant fight.</p>
 
-I've been in tech for almost two decades and I've never had a manager that looked like me. Barely worked with anyone that looked like me — never mind the queer, neurodivergent, disabled version of me. 
+<p>I had a manager who looked like me, thought like me, or understood what it cost to show up every day as the wrong shape for the room.</p>
 
-I'm also a former tech exec who has been the new manager, coached the new manager, and watched far too many capable people get handed a team with nowhere near enough support.
+<p>I'm neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering, and enough genuinely terrible situations to know what they look like from every angle.</p>
 
-I've been bullied. Neglected. Held to unreasonable standards. Left to get on with it alone in toxic environments where support was a foreign concept. 
-
-At every level, from junior dev all the way up to VP Engineering. I spent decades dealing with these difficult situations as a woman. 
-Then I discovered I was never quite that either.
-
-Which means I know exactly what it feels like to work your arse off inside a system that wasn't built for you, perform a version of yourself that's slightly wrong, and wonder why you're exhausted all the time.
-
-<div class="callout">I coach because I know what it costs us to survive in spaces that were never designed for us to have a seat at the table in the first place.</div>
-
-And yet. Here I am. Not untouched by it, but not undone by it either.
-
-I survived despite the odds, and I don't want anyone else to go through what I went through. Working in tech is f*cking hard. It's harder when you're multiply marginalised. 
-
-It's harder still when you finally claw your way to the top and hit the glass ceiling, where your competence is not really in question anymore, but your right to have a seat at the table somehow is.
+<p>I now coach the people I used to be. New managers thrown in the deep end, and folks in tech who are exhausted from performing a version of themselves that's slightly wrong.</p>
 
 <div class="credibility-strip" aria-label="Val's coaching and leadership experience">
   <div class="credibility-badge">
@@ -52,17 +34,19 @@ It's harder still when you finally claw your way to the top and hit the glass ce
   </div>
 </div>
 
-## Why this matters
+I know what it feels like to be held to unreasonable standards, left to get on with it alone, and praised for resilience when what you actually needed was support. I spent decades dealing with these situations as a woman. Then I discovered I was never quite that either.
 
-<div class="story-stamp">
-  <p>I know what it is to be capable and still treated as questionable.</p>
-  <p>I know what it is to be praised for resilience when what you needed was support.</p>
-  <p>I know what it is to reach senior leadership and discover the room still was not built for you.</p>
-</div>
+Which means I know exactly what it feels like to work your arse off inside a system that wasn't built for you, perform a version of yourself that's slightly wrong, and wonder why you're exhausted all the time.
+
+<div class="callout">I coach because I've navigated this bullshit from the inside and I know how to stop just surviving and start kicking ass.</div>
+
+And it doesn't magically get easier when you reach the top — you just swap one set of battles for a different one, where your competence isn't in question but your right to be in the room somehow still is.
+
+## Why it shapes how I coach
 
 That history shapes how I coach. I do not treat confidence, burnout, masking, management or career decisions as individual failings floating in a vacuum. People exist inside systems. Some of those systems are ridiculous.
 
-I also know what it is to become a manager without enough useful help, and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. Nobody should have to figure that out by accident.
+I also know what it is to become a manager without enough useful help, and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. I figured it out by accident. Now I make sure nobody else has to.
 
 ## The kind of coach I am
 
@@ -74,7 +58,9 @@ And when mentoring is useful, I can bring nearly two decades of engineering and 
 
 I've written the code, sat through the standups, stared into the production incident abyss, and I know what this work feels like from the inside.
 
- The point is not for you to become more like me. The point is to help you become more fully, usefully, unapologetically yourself.
+<div class="callout callout--teal">
+This is not “how do I feel about that?” coaching. This is “what’s actually going on and what are you going to do about it?” coaching.
+</div>
 
 ## What I stand for
 
@@ -82,8 +68,8 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
 
 <div class="values-grid">
   <div class="value-card">
-    <h3>Directness without cruelty</h3>
-    <p>I am direct because I'm autistic and I genuinely cannot do performative niceness. That does not mean careless. It means honest, specific and kind enough to be useful.</p>
+    <h3>Directness with kindness</h3>
+    <p>I’m autistic. I don’t do performative niceness. You get honest, specific, kind support — and I will challenge you.</p>
   </div>
   <div class="value-card">
     <h3>Lived experience, not theory</h3>
@@ -94,7 +80,7 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
     <p>I am in your corner without turning the session into a cosy echo chamber. Support and challenge belong together when they are done properly.</p>
   </div>
   <div class="value-card">
-    <h3>Systems-aware coaching</h3>
+    <h3>Context, not self-blame</h3>
     <p>I will not pretend every hard thing at work is a mindset issue. Sometimes you need confidence. Sometimes you need boundaries. Sometimes the room really is on fire.</p>
   </div>
 </div>
@@ -110,7 +96,7 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
       <li>Coached over 150 founders</li>
       <li><a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank" rel="noopener noreferrer">Dare to Lead&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
       <li><a href="https://coachlead.co/leaders-who-coach/" target="_blank" rel="noopener noreferrer">Leaders Who Coach&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
-      <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Sh*t I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
+      <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Shit I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
       <li>BSc Computer Science (First Class)</li>
       <li>BA Accountancy & Finance</li>
     </ul>
@@ -127,11 +113,15 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
   </div>
 </div>
 
-If that sounds like the kind of person you want in your corner, come read about [working with me](/coaching/).
+That's who's in your corner. Ready? [Come work with me.](/coaching/)
 
 ## The human bit
 
 I am not only a coach-shaped person. I make things because making things is how I play, process, breathe, and refuse to become smooth and corporate and dead behind the eyes.
+
+None of this is separate from the coaching, really. It is all part of the same refusal to become smaller, smoother or easier to digest.
+
+I also sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy.
 
 <div class="creative-showcase card-grid" aria-label="Creative work by Val">
   <div class="card creative-feature">
@@ -148,12 +138,6 @@ I am not only a coach-shaped person. I make things because making things is how 
     <a class="card-cta" href="https://stakeholdersbook.substack.com/about" target="_blank" rel="noopener noreferrer">Read Stakeholders <span aria-hidden="true">→</span><span class="sr-only"> (opens in new tab)</span></a>
   </div>
 </div>
-
-None of this is separate from the coaching, really. It is all part of the same refusal to become smaller, smoother or easier to digest.
-
-I also sew things. I run TTRPG campaigns. I play Nintendo Switch and read a frankly unreasonable amount of romantasy.
-
-The racoon is not a metaphor. It is just me.
 
 <div class="image-gallery">
   <img src="/assets/images/brand-images/bat-eating-grapefruit-pink-bg.jpeg" alt="a demon bat eating a grapefruit on a hot pink background">

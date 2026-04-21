@@ -1,5 +1,6 @@
 ---
-title: Imposter Syndrome is A Verb
+title: Imposter Syndrome in Tech — It's Being Done To You, Not By You
+display_title: Imposter Syndrome is A Verb
 description: You are not an imposter. Imposter Syndrome is being done to you.
 layout: post
 categories: [personal-development]
