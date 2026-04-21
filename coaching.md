@@ -15,7 +15,7 @@ show_cta: false
     <p class="audience-label">You're a manager now. Sorry.</p>
     <h3><a href="/coaching/engineering-managers/">I’m a new engineering manager</a></h3>
     <p>For people who have been promoted, handed a team, and expected to magically know what they’re doing.</p>
-    <p>This is for the <em>“holy shit I’m a manager”</em> moment: feedback, one-to-ones, team mess, overwhelm, conflict, managing up, and the sudden realisation that there is no undo button when you fuck up as a manager.</p>
+    <p>This is for the <em>“holy shit I’m a manager”</em> moment: feedback, one-to-ones, team mess, overwhelm, conflict, managing up, and the sudden realisation that there is no undo button when you mess up with people.</p>
     <p><a class="pricing-cta" href="/coaching/engineering-managers/">Get new engineering manager support</a></p>
   </section>
 

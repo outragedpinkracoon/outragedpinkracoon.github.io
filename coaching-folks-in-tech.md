@@ -53,7 +53,7 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I’m capable and still treated as questionable and I'm fucking over it.”</blockquote>
+    <blockquote>“I’m capable and still treated as questionable and I'm over it.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
