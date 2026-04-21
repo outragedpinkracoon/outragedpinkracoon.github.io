@@ -1,5 +1,6 @@
 ---
-title: Stop sacking managers
+title: Why Cutting Engineering Managers is Killing Your Engineering Teams
+display_title: Stop sacking managers
 description: We gotta stop forcing engineers to do pastoral care and pretending management isn't an entire job.
 layout: post
 categories: [management]

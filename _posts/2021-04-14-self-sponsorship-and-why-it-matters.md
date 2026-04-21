@@ -1,5 +1,7 @@
 ---
-title: Self Sponsorship and Why It Matters
+title: "Self-Sponsorship in Tech: How to Advocate for Yourself at Work"
+display_title: Self Sponsorship and Why It Matters
+date: 2021-04-14
 layout: post
 description: Grow your career and sense of pride by owning your achievements and advocating for yourself, regardless of the environment.
 categories: [personal-development]

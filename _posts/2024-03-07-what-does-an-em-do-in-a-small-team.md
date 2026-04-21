@@ -1,5 +1,6 @@
 ---
-title: What does an EM do in a small team if they don't code?
+title: What Does a Non-Coding Engineering Manager Actually Do?
+display_title: What does an EM do in a small team if they don't code?
 description: Clearly nothing at all right? ;)
 layout: post
 categories: [leadership, spicy]

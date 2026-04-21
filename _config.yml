@@ -1,7 +1,7 @@
 url: "https://www.outragedracooncoaching.com" # the base hostname & protocol for your site, e.g. http://example.com
 title: "Outraged Racoon Coaching" # the name of your site, e.g. ACME Corp.
-description: "Leadership thoughts from the Queen of the Racoons"
-author: "Valerie Dryden -> www.linkedin.com/in/valeriejanedryden"
+description: "Valerie Dryden — ILM certified coach based in Scotland, working remotely worldwide. No-bullshit 1:1 coaching for engineering managers and under-represented folks in tech."
+author: "Valerie Dryden"
 locale: 'en_GB'
 permalink: /:year/:month/:day/:title.html
 twitter:
@@ -16,9 +16,9 @@ defaults:
       path: ""
     values:
       image: /assets/images/site/racoon.jpg
+      subtitle: ILM Certified Coach | Former VP Engineering | Neurodivergent | Queer | A Little Feral
   - scope:
       path: ""
       type: posts
     values:
-      subtitle: ILM Certified Coach | Neurodivergent | Queer | Non-Binary | Disabled | A Little Feral
       show_cta: true

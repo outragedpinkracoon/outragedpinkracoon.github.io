@@ -1,5 +1,6 @@
 ---
-title: Have You Heard of AI-Washing?
+title: The AI Trend That Should Concern Every Woman in Tech
+display_title: Have You Heard of AI-Washing?
 description: Much like my laundry, there's a ton of it and I'm already over it. Companies are using AI as a convenient cover story for cuts that were coming anyway — and 86% of the workers most at risk are women.
 layout: post
 categories: [diversity, leadership]

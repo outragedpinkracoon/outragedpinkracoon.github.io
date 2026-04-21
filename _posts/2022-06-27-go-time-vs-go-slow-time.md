@@ -47,7 +47,7 @@ The performance zone for us as managers is what I call 'Go Time'. This can inclu
 * Reviewing the hiring processes.
 * Anything else your boss might drop on you at the last moment.
 
-You’ve probably done these activities before and can do them without thinking. They are a core part of your job and your day-to-day. You just need to get sh*t done and there's no room for learning, failure or reflection.
+You’ve probably done these activities before and can do them without thinking. They are a core part of your job and your day-to-day. You just need to get shit done and there's no room for learning, failure or reflection.
 
 Eventually, you will have done the groundwork to set up your teams for success and can now let them fly and have room to breathe. If everything is quiet, you have done your job well. In terms of the [Eisenhower Matrix](https://www.eisenhower.me/eisenhower-matrix/), you should have few, if any, urgent/important tasks.
 
