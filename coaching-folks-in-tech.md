@@ -4,7 +4,7 @@ permalink: /coaching/folks-in-tech/
 title: No-bullshit Coaching for Neurodivergent, Queer and Under-Represented People in Tech
 display_title: Coaching for folks in tech who are over it
 title_sub: for when the system is getting in your head
-description: 1:1 coaching for neurodivergent, queer, and under-represented folks in tech who need help untangling burnout, masking, stuckness, and broken systems.
+description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and under-represented folks in tech who need fast clarity on burnout, masking, self-doubt, and broken systems.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
