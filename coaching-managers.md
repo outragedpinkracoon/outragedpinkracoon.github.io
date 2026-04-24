@@ -63,55 +63,28 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want a practical foundation you can work through at your own pace, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is there too.</p>
 
-<h2>What you get</h2>
-
-<p>Working with me will not fix your company, your manager, or the system. It will get you out of panic mode, help you see the situation for what it is, and stop you burning energy on the wrong thing.</p>
-
-<div class="outcome-grid">
-  <div class="outcome-item">
-    <p class="outcome-title">A proper untangling</p>
-    <p>We get the mess out of your head and onto the table, then work out what is actually happening, what matters, and what can wait instead of everything screaming for attention at once.</p>
-  </div>
-  <div class="outcome-item">
-    <p class="outcome-title">Better next moves</p>
-    <p>You leave knowing what to say, what to ask for, what boundary to hold, what conversation to have, or what decision needs making.</p>
-  </div>
-  <div class="outcome-item">
-    <p class="outcome-title">Real management context</p>
-    <p>You learn to tell the difference between a genuine skill gap, a messy system, bad management above you, and plain old bullshit.</p>
-  </div>
-  <div class="outcome-item">
-    <p class="outcome-title">Direct support</p>
-    <p>You get warmth without simpering, challenge without cruelty, and honest reflection from someone who has actually done this job for real.</p>
-  </div>
-</div>
-
-<h2>How it works</h2>
-
-<p>Sessions are remote, private and one-to-one.</p>
-<p>I blend coaching with mentoring. That means sharp questions, challenge, and nearly two decades of tech leadership experience when it is useful.</p>
-<p>You bring the messy management knot. I help you work out what the hell is actually going on and what to do about it.</p>
+<h2>What Happens In A Remote 1:1 Session</h2>
 
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
-    <h3>Quick fit-check (free)</h3>
-    <p>Get in touch and tell me what is kicking off. We’ll work out whether this is the right fit.</p>
+    <h3>We dive straight in</h3>
+    <p>No talking about the weather. No twenty minute run-up. We get to the point.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
-    <h3>Bring the messy thing</h3>
-    <p>Choose a single session for one live issue, or a bundle of three if the pattern is bigger and you want room to work it properly.</p>
+    <h3>I clock what is actually going on</h3>
+    <p>You tell me what shitshow has befallen you. We work out what matters, what is noise, what the real problem is and what's yours to own.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
-    <h3>Untangle it together</h3>
-    <p>You’ll get coaching, reflection, challenge, and mentoring where useful. No hiding in abstraction. No pissing about.</p>
+    <h3>We figure out the next move</h3>
+    <p>We work out what to say, what to do, what to stop carrying, and what needs to happen next.</p>
   </li>
   <li>
     <span class="process-step__number">04</span>
-    <h3>Leave with a plan</h3>
-    <p>You’ll leave with clearer thinking and a next move you can actually use.</p>
+    <h3>You stop winging it alone</h3>
+    <p>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</p>
   </li>
 </ol>
 
@@ -119,7 +92,8 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <h2>Pricing</h2>
 
-<p class="pricing-decision">One session with me can cut through a huge amount of confusion and panic. You are paying for speed, judgement, lived leadership experience, and the ability to hear a few minutes of your shitshow and get to the heart of it fast.</p>
+<p class="pricing-decision">One session with me can cut through a huge amount of confusion and panic. You are paying for speed, judgement, lived leadership experience, and the ability to hear a few minutes of the shitshow you are in and get to the heart of it fast.</p>
+
 <p class="pricing-decision">A lot of people start with one session. Often that sorts it. If it doesn’t, it becomes obvious pretty quickly that we need a bit more room.</p>
 
 <div class="pricing-table" aria-label="Coaching prices">
@@ -130,7 +104,7 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
     <p class="pricing-subtitle">One sharp hour to sort the thing that is currently eating your brain.</p>
     <ul class="pricing-includes">
       <li>We dive straight in, no talking about the weather.</li>
-      <li>You get someone who can hear three minutes of your shitshow and clock what is actually going on.</li>
+      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
       <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20new%20manager%20coaching%20session.">Book a coaching session</a>
@@ -140,9 +114,9 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
     <span class="pricing-badge">Go deeper</span>
     <p class="pricing-amount">£500</p>
     <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">A bundle of targeted support for the bigger bastard problems with multiple layers.</p>
+    <p class="pricing-subtitle">For the bigger bastard problems that need more than one hit.</p>
     <ul class="pricing-includes">
-      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
+      <li>Same sharp, no-bullshit support, with more room to do something with it.</li>
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
       <li>A bit more room to deal with the bigger bastard properly.</li>
  
