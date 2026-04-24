@@ -3,7 +3,7 @@ layout: info_page
 permalink: /coaching/engineering-managers/
 title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
-title_sub: for when the people side just got very real
+title_sub: because there's no undo button for people.
 description: No-bullshit remote 1:1 coaching for new engineering managers who need fast clarity on feedback, conflict, team chaos, overwhelm, and the holy-shit-I’m-a-manager moment.
 ---
 
@@ -17,9 +17,7 @@ description: No-bullshit remote 1:1 coaching for new engineering managers who ne
 
 <p>I help new and growing engineering managers get out of the spiral and into action. Fast. We untangle the live situation, work out what actually matters, and get you to a better next move.</p>
 
-<p>This is not generic leadership fluff. We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</p>
-
-<div class="callout--teal callout" style="clear: both; margin-top: 2rem;">There is no undo button for people! But it doesn't have to be terrifying.</div>
+<div class="callout--teal callout" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</div>
 
 <p>As an ILM certified coach, former tech exec, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
 
