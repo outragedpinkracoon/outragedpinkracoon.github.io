@@ -13,9 +13,11 @@ description: No-bullshit remote 1:1 coaching for new engineering managers who ne
 
 <p>Now you’re responsible for actual humans, and suddenly you cannot hide in your IDE anymore.</p>
 
+<p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and not accidentally fuck someone up.</p>
+
 <p>I help new and growing engineering managers get out of the spiral and into action. Fast. We untangle the live situation, work out what actually matters, and get you to a better next move.</p>
 
-<p>This is not generic leadership fluff. This is for the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</p>
+<p>This is not generic leadership fluff. We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</p>
 
 <div class="callout--teal callout" style="clear: both; margin-top: 2rem;">There is no undo button for people! But it doesn't have to be terrifying.</div>
 
