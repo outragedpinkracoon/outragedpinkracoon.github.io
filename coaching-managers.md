@@ -41,7 +41,7 @@ description: No-bullshit remote 1:1 coaching for new engineering managers who ne
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I need to run better one-to-ones, set expectations, or handle conflict.”</blockquote>
+    <blockquote>“My one-to-ones are drifting, expectations are fuzzy, and now conflict is starting to breed in the corners.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
@@ -58,6 +58,14 @@ description: No-bullshit remote 1:1 coaching for new engineering managers who ne
 
   <figure class="manager-quote-card">
     <blockquote>“I need to decide whether to stay, go, push back, or ask for more.”</blockquote>
+  </figure>
+
+  <figure class="manager-quote-card">
+    <blockquote>“Everyone keeps bringing me problems like I’m the adult in the room. Am I?”</blockquote>
+  </figure>
+
+  <figure class="manager-quote-card">
+    <blockquote>“I know I need to have the hard conversation. I just really, really do not want to.”</blockquote>
   </figure>
 </div>
 
