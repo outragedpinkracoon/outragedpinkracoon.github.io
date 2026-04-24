@@ -1,13 +1,13 @@
 ---
 layout: info_page
 permalink: /who-is-val/
-title: Who is Val Dryden — ILM Certified Coach for Under-Represented Folk in Tech
+title: Who Is Val Dryden? Tech Exec, Coach, and Chaos Untangler
 display_title: Who is Val?
-description: "Who is Val Dryden: ILM certified coach, former tech exec, and experienced chaos untangler for people in tech."
+description: "Meet Val Dryden: ILM certified coach, former tech exec, and experienced chaos untangler for new engineering managers, neurodivergent and queer folks in tech who need fast clarity."
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p>I’m Valerie Dryden, an ILM certified coach based in Scotland, working remotely with clients worldwide.</p>
+<p>I’m Valerie Dryden, an ILM certified coach, tech exec, and professional chaos untangler based in Scotland, working remotely with clients worldwide.</p>
 
 <p>I spent nearly two decades in tech as an engineer, a manager and a senior exec. I’m neurodivergent, queer, non-binary and disabled. My career covered everything from junior dev to VP Engineering and Interim CTO, plus enough genuinely terrible situations to know what they look like from every angle.</p>
 

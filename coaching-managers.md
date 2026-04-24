@@ -4,7 +4,7 @@ permalink: /coaching/engineering-managers/
 title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
 title_sub: for when the people side just got very real
-description: No-bullshit, remote 1:1 coaching for engineering managers who need sharp help with feedback, people problems, overwhelm, and live leadership messes.
+description: No-bullshit remote 1:1 coaching for new engineering managers who need fast clarity on feedback, conflict, team chaos, overwhelm, and the holy-shit-I’m-a-manager moment.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
