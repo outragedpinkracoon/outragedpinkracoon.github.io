@@ -13,9 +13,9 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <p>Now you’re having the <em>“holy shit I’m a manager”</em> moment nobody prepared you for, and suddenly you cannot hide behind Jira anymore.</p>
 
-<p>I help new and growing engineering managers get out of the spiral and into action. Fast. We untangle the live situation, work out what matters, and get you to a better next move.</p>
+<p>I help new and growing engineering managers get out of the spiral and into action. Fast. We untangle the live situation, work out what actually matters, and get you to a better next move.</p>
 
-<p>This is not generic leadership fluff. This is for the actual thing happening on your calendar, in your Slack, in your chest, and in the team dynamic that just went weird.</p>
+<p>This is not generic leadership fluff. This is for the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</p>
 
 <div class="callout--teal callout" style="clear: both; margin-top: 2rem;">There is no undo button for people! But it doesn't have to be terrifying.</div>
 
@@ -23,7 +23,7 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <h2>Who I work with</h2>
 
-<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while, but are sick of winging the hard bits alone.</p>
+<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while, but are sick of winging the hard bits alone and hoping nobody notices.</p>
 
 <p>Sound familiar?</p>
 
@@ -65,16 +65,16 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <h2>What you get</h2>
 
-<p>Working with me will not fix your company, your manager, or the system. It will get you out of panic mode, help you see the situation properly, and get you moving on the bit you can actually influence.</p>
+<p>Working with me will not fix your company, your manager, or the system. It will get you out of panic mode, help you see the situation for what it is, and stop you burning energy on the wrong thing.</p>
 
 <div class="outcome-grid">
   <div class="outcome-item">
     <p class="outcome-title">A proper untangling</p>
-    <p>We get the mess out of your head and onto the table, then work out what is actually happening, what matters, and what can wait instead of everything yelling at once.</p>
+    <p>We get the mess out of your head and onto the table, then work out what is actually happening, what matters, and what can wait instead of everything screaming for attention at once.</p>
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Better next moves</p>
-    <p>You leave with practical options: what to say, what to ask for, what boundary to hold, what conversation to have, or what decision needs making.</p>
+    <p>You leave knowing what to say, what to ask for, what boundary to hold, what conversation to have, or what decision needs making.</p>
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Real management context</p>
@@ -82,7 +82,7 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Direct support</p>
-    <p>You get warmth without simpering, challenge without cruelty, and honest reflection from someone who has actually led teams, held power, messed things up, and learned from it.</p>
+    <p>You get warmth without simpering, challenge without cruelty, and honest reflection from someone who has actually done this job for real.</p>
   </div>
 </div>
 
@@ -90,13 +90,13 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <p>Sessions are remote, private and one-to-one.</p>
 <p>I blend coaching with mentoring. That means sharp questions, challenge, and nearly two decades of tech leadership experience when it is useful.</p>
-<p>You bring the messy management knot. I help you get to the truth of it and leave with something usable.</p>
+<p>You bring the messy management knot. I help you work out what the hell is actually going on and what to do about it.</p>
 
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
     <h3>Quick fit-check (free)</h3>
-    <p>Get in touch and tell me what’s going on. We’ll work out whether this is the right fit.</p>
+    <p>Get in touch and tell me what is kicking off. We’ll work out whether this is the right fit.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
@@ -106,12 +106,12 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
   <li>
     <span class="process-step__number">03</span>
     <h3>Untangle it together</h3>
-    <p>You’ll get coaching, reflection, challenge, and mentoring where useful. No hiding in abstraction.</p>
+    <p>You’ll get coaching, reflection, challenge, and mentoring where useful. No hiding in abstraction. No pissing about.</p>
   </li>
   <li>
     <span class="process-step__number">04</span>
     <h3>Leave with a plan</h3>
-    <p>You’ll leave with clearer thinking and practical next steps.</p>
+    <p>You’ll leave with clearer thinking and a next move you can actually use.</p>
   </li>
 </ol>
 
@@ -119,37 +119,37 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <h2>Pricing</h2>
 
+<p class="pricing-decision">One session with me can cut through a huge amount of confusion and panic. You are paying for speed, judgement, lived leadership experience, and the ability to hear a few minutes of your shitshow and get to the heart of it fast.</p>
+<p class="pricing-decision">A lot of people start with one session. Often that sorts it. If it doesn’t, it becomes obvious pretty quickly that we need a bit more room.</p>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">Best value</span>
-    <p class="pricing-amount">£500</p>
-    <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">Most people start here.</p>
-    <p class="pricing-detail">For patterns that keep costing you, leadership shifts that need space, and situations where one conversation is not going to cut it.</p>
-    <ul class="pricing-includes">
-      <li>Three private, remote one-hour sessions.</li>
-      <li>Room to explore a messy, unclear problem space properly.</li>
-      <li>Time to test decisions and come back to talk through what happened.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20new%20manager%20coaching%20bundle.">Book a 3-session bundle</a>
-  </div>
-
-  <div class="pricing-card">
+    <span class="pricing-badge">Start here</span>
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with a plan.</p>
-    <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, leadership situation, promotion question, or work spiral you need to sort now.</p>
+    <p class="pricing-subtitle">One sharp hour to sort the thing that is currently eating your brain.</p>
     <ul class="pricing-includes">
-      <li>Focused pre-session question so we get to the point quickly.</li>
-      <li>Coaching, reflection and mentoring where useful.</li>
-      <li>Clear next steps before we finish.</li>
+      <li>We dive straight in, no talking about the weather.</li>
+      <li>You get someone who can hear three minutes of your shitshow and clock what is actually going on.</li>
+      <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20new%20manager%20coaching%20session.">Book a coaching session</a>
   </div>
-</div>
 
-<p class="pricing-decision">This is not cheap because it is not fluffy. You are paying for speed, clarity, experience, and someone who can get to the heart of the problem fast. If that is what you need, book a session.</p>
+  <div class="pricing-card">
+    <span class="pricing-badge">Go deeper</span>
+    <p class="pricing-amount">£500</p>
+    <p class="pricing-title">3 session bundle</p>
+    <p class="pricing-subtitle">A bundle of targeted support for the bigger bastard problems with multiple layers.</p>
+    <ul class="pricing-includes">
+      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
+      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
+      <li>A bit more room to deal with the bigger bastard properly.</li>
+ 
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20new%20manager%20coaching%20bundle.">Book a 3-session bundle</a>
+  </div>
+</div>
 
 <p class="pricing-terms">The initial fit-check is free. Payment is agreed before paid sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
@@ -164,7 +164,7 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
     <ul>
       <li>You want help with your specific situation, not generic advice.</li>
       <li>You need to talk through a live problem with your team, manager or career.</li>
-      <li>You want challenge, reflection and tailored next steps.</li>
+      <li>You want challenge, reflection, and tailored next steps.</li>
       <li>You’re overwhelmed and need clarity fast.</li>
     </ul>
     <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Book coaching</a></p>
@@ -177,7 +177,6 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
       <li>You want practical manager training you can do at your own pace.</li>
       <li>You’re newly managing people and need a foundation.</li>
       <li>You want tools, frameworks and guidance without booking live sessions.</li>
-      <li>You’d rather start with a lower-cost option.</li>
     </ul>
     <p><a class="pricing-cta" href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Take the course<span class="sr-only"> (opens in new tab)</span></a></p>
   </section>
