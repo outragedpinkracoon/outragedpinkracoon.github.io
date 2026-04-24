@@ -14,7 +14,7 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
 <p>If you're here, it probably means you're capable, exhausted, and starting to wonder whether work has properly fucked you up.</p>
 
 <p>Maybe you’re good at your job and still having to work twice as hard to be believed.</p>
-<p>Maybe you’re masking, code-switching, or performing a version of yourself that is just palatable enough to get through the day.</p>
+<p>Maybe you’re masking or performing a version of yourself that is just palatable enough to get through the day.</p>
 <p>Maybe you’ve hit a ceiling, been overlooked, burned out, or started wondering whether the problem is you or the system.</p>
 
 <div class="callout--teal callout" style="margin-top: 1rem;">You don’t have to be a manager for any of this to be relevant. You just have to be done pretending it’s fine.</div>
@@ -45,7 +45,7 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I’m masking, code-switching, and exhausted from performing palatable competence.”</blockquote>
+    <blockquote>“I’m masking and exhausted from people pleasing.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
@@ -69,11 +69,11 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
   </figure>
 </div>
 
-<p>This tends to resonate especially if you’re neurodivergent, queer, a woman or non-binary person in tech, disabled, or navigating several of those realities at once. You do not need a diagnosis or a perfect label. If any of that is part of your picture, I understand it from the inside.</p>
+<p>This tends to resonate especially if you’re neurodivergent, queer, a woman or non-binary person in tech, disabled, or navigating several of those realities at once.</p>
 
-<p>Note: <strong>I can’t diagnose you</strong>, because coaching is not a medical assessment. But I can help you explore what you’re noticing, untangle what might be masking, burnout or unmet needs, and think through what support, accommodations or next steps might help.</p>
+<p>Note: <strong>I can’t diagnose you</strong>, because coaching is not a medical assessment. But I can help you explore what you’re noticing and think through what to do about it.</p>
 
-<h2>Why work with me</h2>
+<h2>Why Work With Me</h2>
 
 <p>I have nearly two decades in tech, ILM Level 5 executive coaching, and VP Engineering and Interim CTO experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
 
@@ -85,55 +85,28 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
 
 <p>That combination of technical leadership, lived experience, and actual coaching training shapes how I work. I do not treat burnout, masking, confidence wobbles, or career decisions as personal failings. I treat them as real things happening to capable people inside imperfect systems.</p>
 
-<h2>What you get</h2>
-
-<p>Working with me will not fix the system, and I will not insult either of us by pretending otherwise. What it can do is help you see clearly, trust yourself again, and make sharper decisions about what is yours to carry and what absolutely is not.</p>
-
-<div class="outcome-grid">
-  <div class="outcome-item">
-    <p class="outcome-title">Get the mess out of your head</p>
-    <p>We drag whatever is spinning around in there out onto the table, work out what is actually going on, and separate what matters from what is just noise and panic.</p>
-  </div>
-  <div class="outcome-item">
-    <p class="outcome-title">Know what to actually do</p>
-    <p>You leave with real options: what to say, what to ask for, what to stop apologising for, and which conversation you have been avoiding that probably needs having.</p>
-  </div>
-  <div class="outcome-item">
-    <p class="outcome-title">Stop carrying the system's bullshit</p>
-    <p>We separate what is yours from what belongs to the system, so you can tell the difference between something to work on and something to be furious about.</p>
-  </div>
-  <div class="outcome-item">
-    <p class="outcome-title">No bullshit support</p>
-    <p>Warmth without hand-holding, challenge without cruelty, and honest reflection from someone who has led teams, held power, been in the mess, and seen this pattern before.</p>
-  </div>
-</div>
-
-<h2>How it works</h2>
-
-<p>Sessions are remote, private and one-to-one.</p>
-<p>I blend coaching with mentoring. That means sharp questions, challenge, and real leadership experience when it is useful.</p>
-<p>You bring the messy work-life-career knot. I help you see it properly and leave with something useful.</p>
+<h2>What Happens In A Remote 1:1 Session</h2>
 
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
-    <h3>Quick fit-check (free)</h3>
-    <p>Get in touch and tell me what’s going on. We’ll work out whether this is the right fit.</p>
+    <h3>We dive straight in</h3>
+    <p>No talking about the weather. No dancing round it. We get to the point.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
-    <h3>Bring the messy thing</h3>
-    <p>Choose a single session for one live issue, or a bundle of three if the pattern is bigger and needs room.</p>
+    <h3>I clock what is actually going on</h3>
+    <p>You tell me what fresh hell has landed on you. We work out what matters, what is noise, and what bit of this is yours versus the system being ridiculous.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
-    <h3>Untangle it together</h3>
-    <p>You’ll get coaching, reflection, challenge, and mentoring where useful. No vague platitudes. No pretending the system is fine.</p>
+    <h3>We figure out the next move</h3>
+    <p>We work out what to say, what to ask for, what to stop apologising for, and what needs to happen next.</p>
   </li>
   <li>
     <span class="process-step__number">04</span>
-    <h3>Leave with a plan</h3>
-    <p>You’ll leave with clearer thinking and practical next steps.</p>
+    <h3>You stop carrying it alone</h3>
+    <p>You leave with a clearer head, a better plan, and far less chance of getting swallowed by panic, self-doubt, or someone else’s bullshit.</p>
   </li>
 </ol>
 
@@ -141,39 +114,38 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
 
 <h2>Pricing</h2>
 
+<p class="pricing-decision">One session with me can cut through a huge amount of confusion, masking, and self-doubt. You are paying for speed, judgement, lived experience, and the ability to hear a few minutes of whatever carnage is unfolding and get to the heart of it fast.</p>
+<p class="pricing-decision">A lot of people start with one session. Often that sorts it. If it doesn’t, it becomes obvious pretty quickly that we need a bit more room.</p>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">Best value</span>
-    <p class="pricing-amount">£500</p>
-    <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">Most folks start here.</p>
-    <p class="pricing-detail">For patterns that keep costing you, bigger shifts that need space, and situations where you need to try something, come back, and work out what happened.</p>
+    <span class="pricing-badge">Start here</span>
+    <p class="pricing-amount">£200</p>
+    <p class="pricing-title">Single session</p>
+    <p class="pricing-subtitle">One sharp hour to sort the thing that is currently eating your brain.</p>
     <ul class="pricing-includes">
-      <li>Three private, remote one-hour sessions.</li>
-      <li>Room to explore a messy, unclear problem space properly.</li>
-      <li>Time to test decisions and come back to talk through what happened.</li>
+      <li>We dive straight in, no talking about the weather.</li>
+      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
+      <li>You leave with a clearer head, a better plan, and far less chance of disappearing into panic or self-doubt.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20coaching%20bundle.">Book a 3-session bundle</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20coaching%20session.">Bring your mess</a>
   </div>
 
   <div class="pricing-card">
-    <p class="pricing-amount">£200</p>
-    <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with a plan.</p>
-    <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, promotion question, accommodation conversation, or work spiral you need to untangle now.</p>
+    <span class="pricing-badge">Go deeper</span>
+    <p class="pricing-amount">£500</p>
+    <p class="pricing-title">3 session bundle</p>
+    <p class="pricing-subtitle">A bundle of targeted support for the bigger bastard problems with more layers.</p>
     <ul class="pricing-includes">
-      <li>Focused pre-session question so we get to the point quickly.</li>
-      <li>Coaching, reflection and mentoring where useful.</li>
-      <li>Clear next steps before we finish.</li>
+      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
+      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
+      <li>A bit more room to deal with the bigger bastard properly.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20coaching%20session.">Book a coaching session</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20coaching%20bundle.">Bring more mess</a>
   </div>
 </div>
 
-<p class="pricing-decision">This is not cheap because it is not vague. You are paying for speed, clarity, experience, and someone who can separate your shit from the system’s shit fast. If that is what you need, book a session.</p>
-
-<p class="pricing-terms">The initial fit-check is free. Payment is agreed before paid sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 <h2>Real folks saying real things</h2>
 
