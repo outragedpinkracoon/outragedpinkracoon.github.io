@@ -2,80 +2,78 @@
 layout: info_page
 permalink: /coaching/folks-in-tech/
 title: No-bullshit Coaching for Neurodivergent, Queer and Under-Represented People in Tech
-display_title: Coaching for folks in tech who are over it
-title_sub: You are not imagining it. Tech can properly fuck you up.
+display_title: Coaching for folks in tech
+title_sub: who want more than this.
 description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and under-represented folks in tech who need fast clarity on burnout, masking, self-doubt, and broken systems.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p><strong>If you're here, you're probably capable, exhausted, and sick of wondering whether the problem is you.</strong></p>
+<p><strong>If you're here, you're probably capable, tired, and done settling for a shit situation.</strong></p>
 
-<p>You might be good at your job and still having to work twice as hard to be believed.</p>
-<p>You might be masking, over-performing, or trying to make it through the day without screaming.</p> 
-<p>You might have hit the glass ceiling, burned out, or started realising the system might actually be the problem.</p>
+<p>You might be masking, over-performing, or spending a lot of energy managing how you come across.</p> 
+<p>You might be doing the job already and still not getting the title, the credit, or the promotion. And working twice as hard to be listened to.</p>
+<p>You might have hit the glass ceiling, burned out, or started realising the system might be costing you more than it should.</p>
 
-<p>As an ILM certified coach, former tech exec, neurodivergent, queer, non-binary and disabled I help folks in tech get out of the spiral and into action. Fast.</p>
+<p>As an ILM certified coach, former tech exec, neurodivergent, queer, non-binary and disabled person, I help folks in tech get out of the spiral and into action. Fast.</p>
 
 <p class="callout callout--teal">We work out what is actually going on, what belongs to you, what belongs to the system, and what the hell to do next.</p>
 
 <h2>Who I Work With</h2>
 
-<p>I work with folks in tech who are tired of shrinking, masking, over-performing, being overlooked, or trying to make sense of broken systems alone.</p>
+<p>I work with people in tech who are good at what they do and sick of paying extra just to exist in the room.</p>
+
+<p>I work with everyone that needs clarity and fast, but these situations tend to hit especially hard if you are neurodivergent, queer, a woman or non-binary person in tech, disabled, or carrying several of those realities at once. </p>
 
 <p>Sound familiar?</p>
 
 <div class="manager-quote-wall" aria-label="Common experiences for folks in tech">
   <figure class="manager-quote-card">
-    <blockquote>“I’m the highest performer and somehow still the most overlooked.”</blockquote>
+    <blockquote>“I’m doing excellent work and somehow still getting treated like a maybe.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I’m smashing my head on a very real, very present glass ceiling.”</blockquote>
+    <blockquote>“I am so obviously hitting a ceiling here it may as well have my forehead print on it.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I'm burning out to shit, I've had enough and I don't know what to do.”</blockquote>
+    <blockquote>“I am burning out, I have had enough, and I do not know what the move is.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I don't know if I hate tech or I hate men.”</blockquote>
+    <blockquote>“I genuinely do not know if I hate tech or just what tech keeps rewarding.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I’m masking and exhausted from people pleasing.”</blockquote>
+    <blockquote>“I am masking so hard I can barely hear myself think.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I keep being praised for resilience when what I needed was support.”</blockquote>
+    <blockquote>“I keep being praised for resilience when what I actually needed was support.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I’m capable and still treated as questionable and I'm over it.”</blockquote>
+    <blockquote>“I am clearly capable and still getting treated like a question mark.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I can’t work out whether I need confidence, boundaries, accommodations, a new job, or a nap that lasts six months.”</blockquote>
+    <blockquote>“I cannot work out whether I need confidence, boundaries, accommodations, a new job, or a nap that lasts six months.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I’m rebuilding self-trust after being managed, ignored or underestimated into confusion.”</blockquote>
+    <blockquote>“I am rebuilding self-trust after being managed, ignored, or underestimated into confusion.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I want power, visibility or progression without becoming smaller, smoother or easier to digest.”</blockquote>
+    <blockquote>“I want power, visibility, or progression without having to become smaller, smoother, or easier to digest.”</blockquote>
   </figure>
 </div>
-
-<p>This tends to resonate especially if you’re neurodivergent, queer, a woman or non-binary person in tech, disabled, or navigating several of those realities at once.</p>
-
-<p>Note: <strong>I can’t diagnose you</strong>, because coaching is not a medical assessment. But I can help you explore what you’re noticing and think through what to do about it.</p>
 
 <h2>Why Work With Me</h2>
 
 <p>I have nearly two decades in tech, ILM Level 5 executive coaching, and VP Engineering and Interim CTO experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
 
-<p>I’m also neurodivergent, queer, non-binary and disabled. I know what it feels like to work your arse off inside a system that was not built for you, to perform a version of yourself that is slightly wrong, and to finally reach the table only to discover the room still was not built with you in mind.</p>
+<p>I’m also neurodivergent, queer, non-binary and disabled. I know what it feels like to work your arse off inside a system that was not built for you, to perform a version of yourself that is slightly wrong, and to finally reach the table only to discover your seat is upside down and on fire.</p>
 
 <p>Those systems are ridiculous. You're not.</p>
 
@@ -94,7 +92,7 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
   <li>
     <span class="process-step__number">02</span>
     <h3>I clock what is actually going on</h3>
-    <p>You tell me what fresh hell has landed on you. We work out what matters, what is noise, and what bit of this is yours versus the system being ridiculous.</p>
+    <p>You tell me what is going on. We work out what matters, what is noise, and what bit of this is yours versus the system being ridiculous.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
@@ -104,15 +102,17 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
   <li>
     <span class="process-step__number">04</span>
     <h3>You stop carrying it alone</h3>
-    <p>You leave with a clearer head, a better plan, and far less chance of getting swallowed by panic, self-doubt, or someone else’s bullshit.</p>
+    <p>You leave with a clearer head, a better plan, and far less chance of getting swallowed by panic, self-doubt, or someone else’s nonsense.</p>
   </li>
 </ol>
+
+<p><strong>I can’t diagnose you</strong>, because coaching is not a medical assessment. I can help you make sense of what you are noticing and work out what to do about it.</p>
 
 <p>Still thinking “yes, but what even <em>is</em> a coach?” I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What’s A Coach Anyway?</a></p>
 
 <h2>Pricing</h2>
 
-<p class="pricing-decision">One session with me can cut through a huge amount of confusion, masking, and self-doubt. You are paying for speed, judgement, lived experience, and the ability to hear a few minutes of whatever carnage is unfolding and get to the heart of it fast.</p>
+<p class="pricing-decision">One session with me can cut through a huge amount of confusion, masking, and self-doubt. You are paying for speed, judgement, lived experience, and the ability to hear a few minutes of what is going on and get to the heart of it fast.</p>
 <p class="pricing-decision">A lot of people start with one session. Often that sorts it. If it doesn’t, it becomes obvious pretty quickly that we need a bit more room.</p>
 
 <div class="pricing-table" aria-label="Coaching prices">
@@ -123,7 +123,7 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
     <p class="pricing-subtitle">One sharp hour to sort the thing that is currently eating your brain.</p>
     <ul class="pricing-includes">
       <li>We dive straight in, no talking about the weather.</li>
-      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
+      <li>You get someone who can hear three minutes of what is going on and clock what is actually going on.</li>
       <li>You leave with a clearer head, a better plan, and far less chance of disappearing into panic or self-doubt.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20coaching%20session.">Bring your mess</a>
