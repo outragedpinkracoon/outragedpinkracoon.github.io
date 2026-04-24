@@ -3,23 +3,21 @@ layout: info_page
 permalink: /coaching/folks-in-tech/
 title: No-bullshit Coaching for Neurodivergent, Queer and Under-Represented People in Tech
 display_title: Coaching for folks in tech who are over it
-title_sub: for when the system is getting in your head
+title_sub: You are not imagining it. Tech can properly fuck you up.
 description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and under-represented folks in tech who need fast clarity on burnout, masking, self-doubt, and broken systems.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p class="page-intro"><strong>You’re trying to survive tech without shrinking yourself to fit.</strong></p>
+<p><strong>If you're here, you're probably capable, exhausted, and sick of wondering whether the problem is you.</strong></p>
 
-<p>If you're here, it probably means you're capable, exhausted, and starting to wonder whether work has properly fucked you up.</p>
+<p>You might be good at your job and still having to work twice as hard to be believed.</p>
+<p>You might be masking, over-performing, or trying to make it through the day without screaming.</p> 
+<p>You might have hit the glass ceiling, burned out, or started realising the system might actually be the problem.</p>
 
-<p>Maybe you’re good at your job and still having to work twice as hard to be believed.</p>
-<p>Maybe you’re masking or performing a version of yourself that is just palatable enough to get through the day.</p>
-<p>Maybe you’ve hit a ceiling, been overlooked, burned out, or started wondering whether the problem is you or the system.</p>
+<p>As an ILM certified coach, former tech exec, neurodivergent, queer, non-binary and disabled I help folks in tech get out of the spiral and into action. Fast.</p>
 
-<div class="callout--teal callout" style="margin-top: 1rem;">You don’t have to be a manager for any of this to be relevant. You just have to be done pretending it’s fine.</div>
-
-<p>I am an ILM certified coach, former tech exec, neurodivergent, queer, non-binary and disabled. I help people get the mess out of their head, stop swallowing the system’s bullshit whole, and work out what the hell to do next.</p>
+<p class="callout callout--teal">We work out what is actually going on, what belongs to you, what belongs to the system, and what the hell to do next.</p>
 
 <h2>Who I Work With</h2>
 
