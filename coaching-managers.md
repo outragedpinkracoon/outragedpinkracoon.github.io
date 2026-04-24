@@ -11,7 +11,7 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <p class="page-intro"><strong>You’ve been promoted. Congratulations. Also: holy shit.</strong></p>
 
-<p>Now you’re having the <em>“holy shit I’m a manager”</em> moment nobody prepared you for, and suddenly you cannot hide behind Jira anymore.</p>
+<p>Now you’re responsible for actual humans, and suddenly you cannot hide in your IDE anymore.</p>
 
 <p>I help new and growing engineering managers get out of the spiral and into action. Fast. We untangle the live situation, work out what actually matters, and get you to a better next move.</p>
 
