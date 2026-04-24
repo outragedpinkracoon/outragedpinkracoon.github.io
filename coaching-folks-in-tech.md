@@ -111,21 +111,19 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
 <h2>How it works</h2>
 
 <p>Sessions are remote, private and one-to-one.</p>
-
-<p>I blend coaching with mentoring. That means sharp questions, honest reflection, challenge, and real leadership experience when it is useful.</p>
-
+<p>I blend coaching with mentoring. That means sharp questions, challenge, and real leadership experience when it is useful.</p>
 <p>You bring the messy work-life-career knot. I help you see it properly and leave with something useful.</p>
 
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
     <h3>Quick fit-check (free)</h3>
-    <p>Get in touch and tell me what’s going on. We’ll work out whether this is the right fit and what kind of support makes sense.</p>
+    <p>Get in touch and tell me what’s going on. We’ll work out whether this is the right fit.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
     <h3>Bring the messy thing</h3>
-    <p>Choose a single session for one knotty issue, or a bundle of three if the pattern is bigger and needs room.</p>
+    <p>Choose a single session for one live issue, or a bundle of three if the pattern is bigger and needs room.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
@@ -135,7 +133,7 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
   <li>
     <span class="process-step__number">04</span>
     <h3>Leave with a plan</h3>
-    <p>You’ll leave with clearer thinking and practical next steps you can actually use.</p>
+    <p>You’ll leave with clearer thinking and practical next steps.</p>
   </li>
 </ol>
 
@@ -162,7 +160,7 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
   <div class="pricing-card">
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with clearer next steps.</p>
+    <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with a plan.</p>
     <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, promotion question, accommodation conversation, or work spiral you need to untangle now.</p>
     <ul class="pricing-includes">
       <li>Focused pre-session question so we get to the point quickly.</li>
@@ -173,7 +171,7 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
   </div>
 </div>
 
-<p class="pricing-decision">If you are stuck, overwhelmed, or quietly disappearing inside a job that should not be eating this much of you, do not sit on it. Book a session and let’s sort it.</p>
+<p class="pricing-decision">This is not cheap because it is not vague. You are paying for speed, clarity, experience, and someone who can separate your shit from the system’s shit fast. If that is what you need, book a session.</p>
 
 <p class="pricing-terms">The initial fit-check is free. Payment is agreed before paid sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 

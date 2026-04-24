@@ -23,7 +23,7 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
 
 <h2>Who I work with</h2>
 
-<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while, but want to stop winging the hard bits alone.</p>
+<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while, but are sick of winging the hard bits alone.</p>
 
 <p>Sound familiar?</p>
 
@@ -82,28 +82,26 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Direct support</p>
-    <p>You get warmth without simpering, challenge without cruelty, and honest reflection from someone who has actually led teams, held power, messed things up, learned, and come back useful.</p>
+    <p>You get warmth without simpering, challenge without cruelty, and honest reflection from someone who has actually led teams, held power, messed things up, and learned from it.</p>
   </div>
 </div>
 
 <h2>How it works</h2>
 
 <p>Sessions are remote, private and one-to-one.</p>
-
-<p>I blend coaching with mentoring. That means sharp questions, reflection, challenge, and nearly two decades of tech leadership experience when it is useful.</p>
-
+<p>I blend coaching with mentoring. That means sharp questions, challenge, and nearly two decades of tech leadership experience when it is useful.</p>
 <p>You bring the messy management knot. I help you get to the truth of it and leave with something usable.</p>
 
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
     <h3>Quick fit-check (free)</h3>
-    <p>Get in touch and tell me what’s going on. We’ll work out whether this is the right fit and what kind of support makes sense.</p>
+    <p>Get in touch and tell me what’s going on. We’ll work out whether this is the right fit.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
     <h3>Bring the messy thing</h3>
-    <p>Choose a single session for one knotty issue, or a bundle of three if the pattern is bigger and you want room to work it properly.</p>
+    <p>Choose a single session for one live issue, or a bundle of three if the pattern is bigger and you want room to work it properly.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
@@ -113,7 +111,7 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
   <li>
     <span class="process-step__number">04</span>
     <h3>Leave with a plan</h3>
-    <p>You’ll leave with clearer thinking and practical next steps you can actually use.</p>
+    <p>You’ll leave with clearer thinking and practical next steps.</p>
   </li>
 </ol>
 
@@ -140,7 +138,7 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
   <div class="pricing-card">
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with clearer next steps.</p>
+    <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with a plan.</p>
     <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, leadership situation, promotion question, or work spiral you need to sort now.</p>
     <ul class="pricing-includes">
       <li>Focused pre-session question so we get to the point quickly.</li>
@@ -151,14 +149,13 @@ description: No-bullshit, remote 1:1 coaching for engineering managers who need 
   </div>
 </div>
 
-<p class="pricing-decision">If you are stuck, overwhelmed, or quietly losing your mind over a people problem, do not sit on it. Book a session and let’s sort it.</p>
+<p class="pricing-decision">This is not cheap because it is not fluffy. You are paying for speed, clarity, experience, and someone who can get to the heart of the problem fast. If that is what you need, book a session.</p>
 
 <p class="pricing-terms">The initial fit-check is free. Payment is agreed before paid sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 <h2>Coaching or course?</h2>
 
-<p>The course gives you a practical foundation you can work through at your own pace; coaching helps with the live, specific mess happening in your actual team.</p> 
-<p>Plenty of people use both.</p>
+<p>The course gives you a practical foundation you can work through at your own pace. Coaching helps with the live mess happening in your actual team.</p>
 
 <div class="audience-grid">
   <section class="audience-panel audience-panel--manager">

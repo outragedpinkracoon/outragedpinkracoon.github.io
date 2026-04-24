@@ -9,11 +9,7 @@ description: "Who is Val Dryden: ILM certified coach, former tech exec, and expe
 
 <p>I’m Valerie Dryden, an ILM certified coach based in Scotland, working remotely with clients worldwide.</p>
 
-<p>I spent nearly two decades in tech as an engineer, a manager and a senior exec. I became the kind of leader I wish I’d had: clear, honest, useful, and able to make hard things clearer and less lonely.</p>
-
-<p>I chose this path because almost every manager I met did not look like me, think like me, or understand what it cost to show up every day feeling like you did not belong.</p>
-
-<p>I’m neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering and Interim CTO, plus enough genuinely terrible situations to know what they look like from every angle.</p>
+<p>I spent nearly two decades in tech as an engineer, a manager and a senior exec. I’m neurodivergent, queer, non-binary and disabled. My career covered everything from junior dev to VP Engineering and Interim CTO, plus enough genuinely terrible situations to know what they look like from every angle.</p>
 
 <p>I now coach the people I used to be: new managers thrown in the deep end, and people in tech who need a mess untangled or are exhausted from performing a version of themselves that feels wrong.</p>
 
@@ -48,7 +44,7 @@ description: "Who is Val Dryden: ILM certified coach, former tech exec, and expe
 
 I am direct, warm, curious and allergic to corporate bullshit.
 
-I will not sit there nodding mysteriously while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.
+I will not sit there nodding while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.
 
 <div class="callout callout--teal">
 This is not “how do I feel about that?” coaching. This is “what’s actually going on, what matters, and what are you going to do about it?” coaching.
