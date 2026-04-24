@@ -124,10 +124,9 @@ description: No-bullshit remote 1:1 coaching for new engineering managers who ne
     <p class="pricing-title">3 session bundle</p>
     <p class="pricing-subtitle">For the bigger bastard problems that need more than one hit.</p>
     <ul class="pricing-includes">
-      <li>Same sharp, no-bullshit support, with more room to do something with it.</li>
+      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
-      <li>A bit more room to deal with the bigger bastard properly.</li>
- 
+      <li>Fast follow up sessions where I already know the situation and we get it dealt with.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20new%20manager%20coaching%20bundle.">Bring more mess</a>
   </div>
