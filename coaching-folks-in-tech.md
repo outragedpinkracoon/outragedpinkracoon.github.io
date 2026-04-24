@@ -75,13 +75,11 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
 
 <p>I have nearly two decades in tech, ILM Level 5 executive coaching, and VP Engineering and Interim CTO experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
 
-<p>I’m also neurodivergent, queer, non-binary and disabled. I know what it feels like to work your arse off inside a system that was not built for you, to perform a version of yourself that is slightly wrong, and to finally reach the table only to discover your seat is upside down and on fire.</p>
+<p>I’m also neurodivergent, queer, non-binary and disabled. I know what it feels like to be good at what you do and still have to work twice as hard to be taken seriously — and I know what it takes to stop absorbing that cost and start moving on your own terms.</p>
 
-<p>Those systems are ridiculous. You are not.</p>
+<p>Those systems are still ridiculous. You, however, are not going to be stuck in them forever.</p>
 
 <div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is direct, kind, no-bullshit support.</div>
-
-<p>That combination of technical leadership, lived experience, and actual coaching training means I can help you work out what is yours to shift, what is the system being ridiculous, and what the next move actually is.</p>
 
 <h2>What Happens In A Remote 1:1 Session</h2>
 
@@ -135,11 +133,11 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
     <span class="pricing-badge">Go deeper</span>
     <p class="pricing-amount">£500</p>
     <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">A bundle of targeted support for the bigger problems that need a bit more room.</p>
+    <p class="pricing-subtitle">For the bigger bastard problems that need more than one hit.</p>
     <ul class="pricing-includes">
       <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
-      <li>A bit more room to deal with the bigger bastard properly.</li>
+      <li>Fast follow up sessions where I already know the situation and we get it dealt with.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20coaching%20bundle.">Bring more mess</a>
   </div>
