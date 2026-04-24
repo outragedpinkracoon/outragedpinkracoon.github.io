@@ -3,19 +3,19 @@ layout: info_page
 permalink: /who-is-val/
 title: Who is Val Dryden — ILM Certified Coach for Under-Represented Folk in Tech
 display_title: Who is Val?
-description: Who is Val Dryden — ILM certified coach, two decades in tech, neurodivergent, queer, non-binary, disabled. The full story behind Outraged Racoon Coaching®.
+description: "Who is Val Dryden: ILM certified coach, former tech exec, and experienced chaos untangler for people in tech."
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
 <p>I’m Valerie Dryden, an ILM certified coach based in Scotland, working remotely with clients worldwide.</p>
 
-<p>I spent nearly two decades in tech as an engineer, a manager and a senior exec. I became the kind of leader I wish I’d had, building environments where people can actually do their job, have some fun, and not have it feel like a constant fight.</p>
+<p>I spent nearly two decades in tech as an engineer, a manager and a senior exec. I became the kind of leader I wish I’d had: clear, honest, useful, and able to make hard things clearer and less lonely.</p>
 
-<p>I chose this path because almost every manager I met didn't look like me, think like me, or understand what it cost to show up every day feeling like you didn't belong.</p>
+<p>I chose this path because almost every manager I met did not look like me, think like me, or understand what it cost to show up every day feeling like you did not belong.</p>
 
-<p>I’m neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering / Interim CTO, and enough genuinely terrible situations to know what they look like from every angle.</p>
+<p>I’m neurodivergent, queer, non-binary and disabled. My career covered every level from junior dev to VP Engineering and Interim CTO, plus enough genuinely terrible situations to know what they look like from every angle.</p>
 
-<p>I now coach the people I used to be. New managers thrown in the deep end, and people in tech who need a mess untangled or are exhausted from performing a version of themselves that feels wrong.
+<p>I now coach the people I used to be: new managers thrown in the deep end, and people in tech who need a mess untangled or are exhausted from performing a version of themselves that feels wrong.</p>
 
 <div class="credibility-strip" aria-label="Val's coaching and leadership experience">
   <div class="credibility-badge">
@@ -38,9 +38,9 @@ description: Who is Val Dryden — ILM certified coach, two decades in tech, neu
 
 <p>I know what it feels like to be held to unreasonable standards, left to get on with it alone, and praised for resilience when what you actually needed was support.</p>
 
-<p>I also know what it is to become a manager without any help, and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. I figured it out alone. I make sure nobody else has to.</p>
+<p>I also know what it is to become a manager without any help, and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. I figured it out alone. I make sure other people do not have to.</p>
 
-<div class="callout">I coach because I've navigated this broken system from the inside and I know how to stop just surviving and start kicking ass.</div>
+<div class="callout">I coach because I have navigated this broken system from the inside and I know how to help people stop flailing, see clearly, and start kicking ass.</div>
 
 <p>That history shapes how I coach. I do not treat confidence, burnout, masking, management or career decisions as individual failings. People exist inside systems. Some of those systems are ridiculous.</p>
 
@@ -51,10 +51,10 @@ I am direct, warm, curious and allergic to corporate bullshit.
 I will not sit there nodding mysteriously while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.
 
 <div class="callout callout--teal">
-This is not “how do I feel about that?” coaching. This is “what’s actually going on and what are you going to do about it?” coaching.
+This is not “how do I feel about that?” coaching. This is “what’s actually going on, what matters, and what are you going to do about it?” coaching.
 </div>
 
-I've written the code, sat through the standups, stared into the production incident abyss, and I know what this work feels like from the inside. So when mentoring is useful, I can bring nearly two decades of engineering and executive leadership experience into the room.
+I've written the code, sat through the standups, stared into the production incident abyss, and I know what this work feels like from the inside. So when mentoring is useful, I bring nearly two decades of engineering and executive leadership experience into the room.
 
 ## What I stand for
 
@@ -70,8 +70,8 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
     <p>I am queer, non-binary, neurodivergent and disabled. I am not an ally looking in from the outside. I know something of the weather because I have been standing in it too.</p>
   </div>
   <div class="value-card">
-    <h3>Kindness with a spine</h3>
-    <p>I am in your corner without turning the session into a cosy echo chamber. Support and challenge belong together when they are done properly.</p>
+    <h3>Kind, not spineless</h3>
+    <p>I am in your corner, but I am not here to blow smoke up your arse. Support and challenge belong together when they are done properly.</p>
   </div>
   <div class="value-card">
     <h3>Context, not self-blame</h3>
@@ -107,7 +107,7 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
   </div>
 </div>
 
-That's who's in your corner. Ready? [Come work with me.](/coaching/)
+That’s who is in your corner. If you want someone sharp, kind, experienced, and very hard to bullshit, [come work with me.](/coaching/)
 
 ## The human bit
 
