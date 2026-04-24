@@ -8,7 +8,7 @@ description: No-bullshit remote 1:1 coaching for new engineering managers, neuro
 show_cta: false
 ---
 
-<p>You bring the mess. I help you work out what is actually going on, what matters, what is yours, what is the system being ridiculous, and what the hell to do next.</p>
+<p>You bring the mess. I help you work out what is actually going on, what matters, what is yours, what is the system doing its usual nonsense, and what to do next.</p>
 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
@@ -23,9 +23,9 @@ show_cta: false
 
   <section class="audience-panel audience-panel--coaching">
     <p class="audience-label">It's not you, it's the system</p>
-    <h3><a href="/coaching/folks-in-tech/">I work in tech and I’m done</a></h3>
-    <p>You are tired of shrinking, masking, over-performing, being overlooked, or trying to make sense of broken systems alone.</p>
-    <p>Burnout, accommodations, glass ceilings, self-trust, belonging, identity, and the awful question: is it me, or is the system full of shit?</p>
+    <h3><a href="/coaching/folks-in-tech/">I work in tech and I want more than this</a></h3>
+    <p>You want more ease, more room, more honesty, and more of yourself back.</p>
+    <p>More clarity. More self-trust. More options. Less masking, less second-guessing, and less trying to survive systems that were never built with you in mind.</p>
     <p><a class="pricing-cta" href="/coaching/folks-in-tech/">Bring me the rest of it</a></p>
   </section>
 </div>
