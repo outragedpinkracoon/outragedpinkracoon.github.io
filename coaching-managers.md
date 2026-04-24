@@ -107,7 +107,7 @@ description: No-bullshit remote 1:1 coaching for new engineering managers who ne
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
       <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20new%20manager%20coaching%20session.">Book a coaching session</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20new%20manager%20coaching%20session.">Bring your mess</a>
   </div>
 
   <div class="pricing-card">
@@ -121,11 +121,11 @@ description: No-bullshit remote 1:1 coaching for new engineering managers who ne
       <li>A bit more room to deal with the bigger bastard properly.</li>
  
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20new%20manager%20coaching%20bundle.">Book a 3-session bundle</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20new%20manager%20coaching%20bundle.">Bring more mess</a>
   </div>
 </div>
 
-<p class="pricing-terms">The initial fit-check is free. Payment is agreed before paid sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 <h2>Coaching or course?</h2>
 
