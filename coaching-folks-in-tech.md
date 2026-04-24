@@ -3,23 +3,23 @@ layout: info_page
 permalink: /coaching/folks-in-tech/
 title: No-bullshit Coaching for Neurodivergent, Queer and Under-Represented People in Tech
 display_title: Coaching for folks in tech who are over it
-title_sub: by someone who's lived it
-description: 1:1 coaching for neurodivergent, queer, and under-represented folks in tech dealing with masking, burnout, glass ceilings, and systems that weren't built for you.
+title_sub: for when the system is getting in your head
+description: 1:1 coaching for neurodivergent, queer, and under-represented folks in tech who need help untangling burnout, masking, stuckness, and broken systems.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
 <p class="page-intro"><strong>You’re trying to survive tech without shrinking yourself to fit.</strong></p>
 
-<p>If you're here, it probably means you're capable, exhausted, and starting to wonder whether work has finally broken your brain.</p>
+<p>If you're here, it probably means you're capable, exhausted, and starting to wonder whether work has properly fucked you up.</p>
 
-<p>Maybe you’re good at your job and exhausted by how hard you still have to work to prove it.</p>
-<p>Maybe you’re masking, code-switching, or performing a version of yourself that’s slightly wrong — and wondering why you’re so tired.</p>
-<p>Maybe you’ve hit a ceiling, been overlooked, or you’re starting to wonder whether it’s you or the system.</p>
+<p>Maybe you’re good at your job and still having to work twice as hard to be believed.</p>
+<p>Maybe you’re masking, code-switching, or performing a version of yourself that is just palatable enough to get through the day.</p>
+<p>Maybe you’ve hit a ceiling, been overlooked, burned out, or started wondering whether the problem is you or the system.</p>
 
 <div class="callout--teal callout" style="margin-top: 1rem;">You don’t have to be a manager for any of this to be relevant. You just have to be done pretending it’s fine.</div>
 
-<p>I am an ILM certified coach, former tech exec, neurodivergent, queer, non-binary and disabled. I'm here to help you stop surviving it and start owning it.</p>
+<p>I am an ILM certified coach, former tech exec, neurodivergent, queer, non-binary and disabled. I help people get the mess out of their head, stop swallowing the system’s bullshit whole, and work out what the hell to do next.</p>
 
 <h2>Who I Work With</h2>
 
@@ -69,42 +69,42 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
   </figure>
 </div>
 
-<p>This tends to resonate especially if you’re neurodivergent (autistic, ADHD, or still figuring it out), queer, a woman or non-binary person in tech, disabled, or navigating multiple of the above at once. You don’t need a diagnosis or a label. But if any of that is part of your picture, I understand it from the inside.</p>
+<p>This tends to resonate especially if you’re neurodivergent, queer, a woman or non-binary person in tech, disabled, or navigating several of those realities at once. You do not need a diagnosis or a perfect label. If any of that is part of your picture, I understand it from the inside.</p>
 
 <p>Note: <strong>I can’t diagnose you</strong>, because coaching is not a medical assessment. But I can help you explore what you’re noticing, untangle what might be masking, burnout or unmet needs, and think through what support, accommodations or next steps might help.</p>
 
 <h2>Why work with me</h2>
 
-<p>I have nearly two decades in tech, ILM Level 5 executive coaching, and VP Engineering and Interim CTO experience. I've led teams, held power, navigated org politics, and coached folks through promotions, burnout, conflict and some genuinely awful situations.</p>
+<p>I have nearly two decades in tech, ILM Level 5 executive coaching, and VP Engineering and Interim CTO experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
 
-<p>I'm also neurodivergent, queer, non-binary and disabled. I know what it feels like to work your arse off inside a system that wasn't built for you — to perform a version of yourself that's slightly wrong and wonder why you're so tired. I know what it is to finally reach the table and discover the room still wasn't built for you.</p>
+<p>I’m also neurodivergent, queer, non-binary and disabled. I know what it feels like to work your arse off inside a system that was not built for you, to perform a version of yourself that is slightly wrong, and to finally reach the table only to discover the room still was not built with you in mind.</p>
 
 <p>Those systems are ridiculous. You're not.</p>
 
 <div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is direct, kind, no-bullshit support.</div>
 
-<p>That combination — technical leadership, lived experience, and actual coaching training — shapes how I work. I don't treat burnout, masking, confidence wobbles or career decisions as personal failings. I treat them as things that happen to capable folks inside imperfect systems.</p>
+<p>That combination of technical leadership, lived experience, and actual coaching training shapes how I work. I do not treat burnout, masking, confidence wobbles, or career decisions as personal failings. I treat them as real things happening to capable people inside imperfect systems.</p>
 
 <h2>What you get</h2>
 
-<p>Working with me won’t fix the system — and I won’t pretend otherwise. But you’ll leave with a clearer head, sharper options, and the ability to tell what’s yours to fix from what’s just the system being shit.</p>
+<p>Working with me will not fix the system, and I will not insult either of us by pretending otherwise. What it can do is help you see clearly, trust yourself again, and make sharper decisions about what is yours to carry and what absolutely is not.</p>
 
 <div class="outcome-grid">
   <div class="outcome-item">
     <p class="outcome-title">Get the mess out of your head</p>
-    <p>We drag whatever's spinning around in there out onto the table, work out what's actually going on, and figure out what matters versus what's just noise.</p>
+    <p>We drag whatever is spinning around in there out onto the table, work out what is actually going on, and separate what matters from what is just noise and panic.</p>
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Know what to actually do</p>
-    <p>You leave with real options — what to say, what to ask for, what to stop apologising for, and what conversation you've been putting off that probably needs having.</p>
+    <p>You leave with real options: what to say, what to ask for, what to stop apologising for, and which conversation you have been avoiding that probably needs having.</p>
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Stop carrying the system's bullshit</p>
-    <p>We separate what's yours from what's the system's so you can tell the difference between something you can control and work on and something to be furious about.</p>
+    <p>We separate what is yours from what belongs to the system, so you can tell the difference between something to work on and something to be furious about.</p>
   </div>
   <div class="outcome-item">
     <p class="outcome-title">No bullshit support</p>
-    <p>Warmth without hand-holding, challenge without cruelty, and honest reflection from someone who's led teams, held power, been in the mess, and seen it all before.</p>
+    <p>Warmth without hand-holding, challenge without cruelty, and honest reflection from someone who has led teams, held power, been in the mess, and seen this pattern before.</p>
   </div>
 </div>
 
@@ -112,25 +112,25 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
 
 <p>Sessions are remote, private and one-to-one.</p>
 
-<p>In sessions, I blend coaching with mentoring. That means guided questioning, reflection and genuine challenge, with nearly two decades of tech leadership experience brought in when it’s useful.</p>
+<p>I blend coaching with mentoring. That means sharp questions, honest reflection, challenge, and real leadership experience when it is useful.</p>
 
-<p>You bring the messy work/life/career knot; I bring questions, reflection, challenge, and real leadership experience.</p>
+<p>You bring the messy work-life-career knot. I help you see it properly and leave with something useful.</p>
 
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
     <h3>Quick fit-check (free)</h3>
-    <p>Get in touch and tell me what’s going on. We’ll work out what you need, and whether this is the right kind of help.</p>
+    <p>Get in touch and tell me what’s going on. We’ll work out whether this is the right fit and what kind of support makes sense.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
     <h3>Bring the messy thing</h3>
-    <p>Choose a single session for one knotty issue, or a bundle of three for work that needs more space.</p>
+    <p>Choose a single session for one knotty issue, or a bundle of three if the pattern is bigger and needs room.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
     <h3>Untangle it together</h3>
-    <p>You’ll get coaching, reflection, challenge, and mentoring where useful.</p>
+    <p>You’ll get coaching, reflection, challenge, and mentoring where useful. No vague platitudes. No pretending the system is fine.</p>
   </li>
   <li>
     <span class="process-step__number">04</span>
@@ -163,7 +163,7 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
     <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with clearer next steps.</p>
-    <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, leadership situation, promotion question, accommodation conversation, or work spiral you need to untangle properly.</p>
+    <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, promotion question, accommodation conversation, or work spiral you need to untangle now.</p>
     <ul class="pricing-includes">
       <li>Focused pre-session question so we get to the point quickly.</li>
       <li>Coaching, reflection and mentoring where useful.</li>
@@ -173,7 +173,7 @@ description: 1:1 coaching for neurodivergent, queer, and under-represented folks
   </div>
 </div>
 
-<p class="pricing-decision">If you're stuck, overwhelmed, or dealing with something that matters — don't sit on it. Book a session and let's sort it.</p>
+<p class="pricing-decision">If you are stuck, overwhelmed, or quietly disappearing inside a job that should not be eating this much of you, do not sit on it. Book a session and let’s sort it.</p>
 
 <p class="pricing-terms">The initial fit-check is free. Payment is agreed before paid sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 

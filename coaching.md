@@ -4,9 +4,15 @@ permalink: /coaching/
 title: No-bullshit 1:1 Coaching for Engineering Managers and Neurodivergent, Queer & Under-Represented Folks in Tech
 display_title: No-bullshit coaching
 title_sub: two kinds of mess. pick yours.
-description: Remote 1:1 coaching for new engineering managers, neurodivergent, queer and under-represented folks in tech — from an ILM certified coach and tech exec who's lived it.
+description: Remote 1:1 coaching for people in tech who need a sharp, no-bullshit partner to help them untangle hard situations fast.
 show_cta: false
 ---
+
+<p class="page-intro"><strong>This is for when something at work is chewing through your brain and you need proper help, not polite faffing.</strong></p>
+
+<p>I work one-to-one with people in tech who need clarity, momentum, and honest challenge fast. The problem might be people, politics, burnout, confidence, identity, bad management, a stuck career decision, or all of the above in a trench coat.</p>
+
+<p>You bring the mess. I help you work out what is actually going on, what matters, what is yours, what is the system being ridiculous, and what to do next.</p>
 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
@@ -14,16 +20,16 @@ show_cta: false
   <section class="audience-panel audience-panel--manager" id="new-manager-support">
     <p class="audience-label">You're a manager now. Sorry.</p>
     <h3><a href="/coaching/engineering-managers/">I’m a new engineering manager</a></h3>
-    <p>For people who have been promoted, handed a team, and expected to magically know what they’re doing.</p>
-    <p>This is for the <em>“holy shit I’m a manager”</em> moment: feedback, one-to-ones, team mess, overwhelm, conflict, managing up, and the sudden realisation that there is no undo button when you mess up with people.</p>
+    <p>For people who got promoted, handed a team, and expected to magically know how to lead humans.</p>
+    <p>This is for the <em>“holy shit I’m a manager”</em> moment: feedback, one-to-ones, conflict, team chaos, overwhelm, managing up, and the sudden realisation that there is no undo button for people.</p>
     <p><a class="pricing-cta" href="/coaching/engineering-managers/">Get new engineering manager support</a></p>
   </section>
 
   <section class="audience-panel audience-panel--coaching">
     <p class="audience-label">It's not you, it's the system</p>
     <h3><a href="/coaching/folks-in-tech/">I work in tech and I’m done</a></h3>
-    <p>For people in tech who are done shrinking, masking, over-performing, being overlooked, or trying to make sense of broken systems alone.</p>
-    <p>This is for burnout, being overlooked, accommodations, glass ceilings, identity, belonging, self-trust, and the awful question: is it me, or is it the system?</p>
+    <p>For people in tech who are done shrinking, masking, over-performing, being overlooked, or trying to decode broken systems alone.</p>
+    <p>This is for burnout, accommodations, glass ceilings, self-trust, belonging, identity, and the awful question: is it me, or is the system full of shit?</p>
     <p><a class="pricing-cta" href="/coaching/folks-in-tech/">Get support that's lived it</a></p>
   </section>
 </div>
