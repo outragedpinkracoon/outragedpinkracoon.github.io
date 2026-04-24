@@ -3,26 +3,27 @@ layout: info_page
 permalink: /coaching/engineering-managers/
 title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
-title_sub: by someone who's lived it
-description: No-bullshit, remote 1:1 coaching for engineering managers in tech dealing with feedback, one-to-ones, team mess, overwhelm and that 'holy shit I'm a manager!' moment.
+title_sub: for when the people side just got very real
+description: No-bullshit, remote 1:1 coaching for engineering managers who need sharp help with feedback, people problems, overwhelm, and live leadership messes.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
 <p class="page-intro"><strong>You’ve been promoted. Congratulations. Also: holy shit.</strong></p>
 
-<p>Now you’re having that <em>“holy shit I’m a manager”</em> moment nobody prepared you for.
-I help you stop second-guessing yourself and actually lead.</p>
+<p>Now you’re having the <em>“holy shit I’m a manager”</em> moment nobody prepared you for, and suddenly you cannot hide behind Jira anymore.</p>
 
-<p>We’ll get you confident when people are looking to you for clarity, direction and answers — even when you don’t have them yet.</p>
+<p>I help new and growing engineering managers get out of the spiral and into action. Fast. We untangle the live situation, work out what matters, and get you to a better next move.</p>
+
+<p>This is not generic leadership fluff. This is for the actual thing happening on your calendar, in your Slack, in your chest, and in the team dynamic that just went weird.</p>
 
 <div class="callout--teal callout" style="clear: both; margin-top: 2rem;">There is no undo button for people! But it doesn't have to be terrifying.</div>
 
-<p>As an ILM certified coach, former tech exec, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I ensure new managers don't suck by providing the training and coaching they need. Without the HR bullshit.</p>
+<p>As an ILM certified coach, former tech exec, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
 
 <h2>Who I work with</h2>
 
-<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room, and want practical support without turning into the worst manager they ever had. And people that have been managing a while and finally had a chance to breathe and take the time to invest in levelling up.</p>
+<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while, but want to stop winging the hard bits alone.</p>
 
 <p>Sound familiar?</p>
 
@@ -60,16 +61,16 @@ I help you stop second-guessing yourself and actually lead.</p>
   </figure>
 </div>
 
-<p>Coaching can help you work through real, immediate situations that need dealt with, and my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is there if you want structured training you can work through at your own pace.</p>
+<p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want a practical foundation you can work through at your own pace, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is there too.</p>
 
 <h2>What you get</h2>
 
-<p>Working with me won’t fix your company, your manager, or the system. But it will get you out of panic mode, sorted on what’s actually yours to handle, and moving.</p>
+<p>Working with me will not fix your company, your manager, or the system. It will get you out of panic mode, help you see the situation properly, and get you moving on the bit you can actually influence.</p>
 
 <div class="outcome-grid">
   <div class="outcome-item">
     <p class="outcome-title">A proper untangling</p>
-    <p>We get the mess out of your head and onto the table, then work out what is actually happening, what matters, and what can wait.</p>
+    <p>We get the mess out of your head and onto the table, then work out what is actually happening, what matters, and what can wait instead of everything yelling at once.</p>
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Better next moves</p>
@@ -77,7 +78,7 @@ I help you stop second-guessing yourself and actually lead.</p>
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Real management context</p>
-    <p>We separate your growth path from the mess around you, so you can tell the difference between a skill gap, a systems problem, bad management and good old bullshit.</p>
+    <p>You learn to tell the difference between a genuine skill gap, a messy system, bad management above you, and plain old bullshit.</p>
   </div>
   <div class="outcome-item">
     <p class="outcome-title">Direct support</p>
@@ -89,25 +90,25 @@ I help you stop second-guessing yourself and actually lead.</p>
 
 <p>Sessions are remote, private and one-to-one.</p>
 
-<p>In sessions, I blend coaching with mentoring. That means guided questioning, reflection and genuine challenge, with nearly two decades of tech leadership experience brought in when it’s useful.</p>
+<p>I blend coaching with mentoring. That means sharp questions, reflection, challenge, and nearly two decades of tech leadership experience when it is useful.</p>
 
-<p>You bring the messy work/life/career knot; I bring questions, reflection, challenge, and real leadership experience.</p>
+<p>You bring the messy management knot. I help you get to the truth of it and leave with something usable.</p>
 
 <ol class="process-steps">
   <li>
     <span class="process-step__number">01</span>
     <h3>Quick fit-check (free)</h3>
-    <p>Get in touch and tell me what’s going on. We’ll work out what you need, and whether this is the right kind of help.</p>
+    <p>Get in touch and tell me what’s going on. We’ll work out whether this is the right fit and what kind of support makes sense.</p>
   </li>
   <li>
     <span class="process-step__number">02</span>
     <h3>Bring the messy thing</h3>
-    <p>Choose a single session for one knotty issue, or a bundle of three for work that needs more space.</p>
+    <p>Choose a single session for one knotty issue, or a bundle of three if the pattern is bigger and you want room to work it properly.</p>
   </li>
   <li>
     <span class="process-step__number">03</span>
     <h3>Untangle it together</h3>
-    <p>You’ll get coaching, reflection, challenge, and mentoring where useful.</p>
+    <p>You’ll get coaching, reflection, challenge, and mentoring where useful. No hiding in abstraction.</p>
   </li>
   <li>
     <span class="process-step__number">04</span>
@@ -127,7 +128,7 @@ I help you stop second-guessing yourself and actually lead.</p>
     <p class="pricing-amount">£500</p>
     <p class="pricing-title">3 session bundle</p>
     <p class="pricing-subtitle">Most people start here.</p>
-    <p class="pricing-detail">For patterns that keep costing you, bigger shifts that need space, and situations where you need to try something, come back, and work out what happened.</p>
+    <p class="pricing-detail">For patterns that keep costing you, leadership shifts that need space, and situations where one conversation is not going to cut it.</p>
     <ul class="pricing-includes">
       <li>Three private, remote one-hour sessions.</li>
       <li>Room to explore a messy, unclear problem space properly.</li>
@@ -140,7 +141,7 @@ I help you stop second-guessing yourself and actually lead.</p>
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
     <p class="pricing-subtitle">One sharp hour to untangle the thing draining your energy and leave with clearer next steps.</p>
-    <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, leadership situation, promotion question, accommodation conversation, or work spiral you need to untangle properly.</p>
+    <p class="pricing-detail">One private, remote hour for one live knot: a decision, conflict, confidence wobble, leadership situation, promotion question, or work spiral you need to sort now.</p>
     <ul class="pricing-includes">
       <li>Focused pre-session question so we get to the point quickly.</li>
       <li>Coaching, reflection and mentoring where useful.</li>
@@ -150,7 +151,7 @@ I help you stop second-guessing yourself and actually lead.</p>
   </div>
 </div>
 
-<p class="pricing-decision">If you're stuck, overwhelmed, or dealing with something that matters — don't sit on it. Book a session and let's sort it.</p>
+<p class="pricing-decision">If you are stuck, overwhelmed, or quietly losing your mind over a people problem, do not sit on it. Book a session and let’s sort it.</p>
 
 <p class="pricing-terms">The initial fit-check is free. Payment is agreed before paid sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
