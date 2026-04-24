@@ -9,11 +9,11 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p><strong>If you're here, you're probably capable, tired, and done settling for a shit situation.</strong></p>
+<p><strong>If you're here, you're probably capable, tired, and done settling for less than you should have to.</strong></p>
 
-<p>You might be masking, over-performing, or spending a lot of energy managing how you come across.</p> 
 <p>You might be doing the job already and still not getting the title, the credit, or the promotion. And working twice as hard to be listened to.</p>
-<p>You might have hit the glass ceiling, burned out, or started realising the system might be costing you more than it should.</p>
+<p>You might be masking, over-performing, or spending a lot of energy managing how you come across.</p> 
+<p>You might have hit the glass ceiling, burned out, or started realising this is costing you more than it should.</p>
 
 <p>As an ILM certified coach, former tech exec, neurodivergent, queer, non-binary and disabled person, I help folks in tech get out of the spiral and into action. Fast.</p>
 
@@ -23,7 +23,7 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
 
 <p>I work with people in tech who are good at what they do and sick of paying extra just to exist in the room.</p>
 
-<p>I work with everyone that needs clarity and fast, but these situations tend to hit especially hard if you are neurodivergent, queer, a woman or non-binary person in tech, disabled, or carrying several of those realities at once. </p>
+<p>I work with anyone in tech who needs fast clarity, but these situations tend to hit especially hard if you are neurodivergent, queer, a woman or non-binary person in tech, disabled, or carrying several of those realities at once.</p>
 
 <p>Sound familiar?</p>
 
@@ -71,15 +71,17 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
 
 <h2>Why Work With Me</h2>
 
+<p>Because I do not look at burnout, masking, self-doubt, or getting overlooked and reduce it all to “have you tried believing in yourself more?”</p>
+
 <p>I have nearly two decades in tech, ILM Level 5 executive coaching, and VP Engineering and Interim CTO experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
 
 <p>I’m also neurodivergent, queer, non-binary and disabled. I know what it feels like to work your arse off inside a system that was not built for you, to perform a version of yourself that is slightly wrong, and to finally reach the table only to discover your seat is upside down and on fire.</p>
 
-<p>Those systems are ridiculous. You're not.</p>
+<p>Those systems are ridiculous. You are not.</p>
 
 <div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is direct, kind, no-bullshit support.</div>
 
-<p>That combination of technical leadership, lived experience, and actual coaching training shapes how I work. I do not treat burnout, masking, confidence wobbles, or career decisions as personal failings. I treat them as real things happening to capable people inside imperfect systems.</p>
+<p>That combination of technical leadership, lived experience, and actual coaching training means I can help you work out what is yours to shift, what is the system being ridiculous, and what the next move actually is.</p>
 
 <h2>What Happens In A Remote 1:1 Session</h2>
 
@@ -102,7 +104,7 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
   <li>
     <span class="process-step__number">04</span>
     <h3>You stop carrying it alone</h3>
-    <p>You leave with a clearer head, a better plan, and far less chance of getting swallowed by panic, self-doubt, or someone else’s nonsense.</p>
+    <p>You leave with a clearer head, a better plan, and far less chance of getting swallowed by panic, self-doubt, or someone else’s agenda.</p>
   </li>
 </ol>
 
@@ -133,7 +135,7 @@ description: No-bullshit remote 1:1 coaching for neurodivergent, queer, and unde
     <span class="pricing-badge">Go deeper</span>
     <p class="pricing-amount">£500</p>
     <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">A bundle of targeted support for the bigger bastard problems with more layers.</p>
+    <p class="pricing-subtitle">A bundle of targeted support for the bigger problems that need a bit more room.</p>
     <ul class="pricing-includes">
       <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
