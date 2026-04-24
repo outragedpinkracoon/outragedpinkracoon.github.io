@@ -8,11 +8,7 @@ description: No-bullshit remote 1:1 coaching for new engineering managers, neuro
 show_cta: false
 ---
 
-<p class="page-intro"><strong>This is for when something at work is chewing through your brain and you need proper help, not polite faffing.</strong></p>
-
 <p>You bring the mess. I help you work out what is actually going on, what matters, what is yours, what is the system being ridiculous, and what to do next.</p>
-
-<p>This is high-value work because we get to the point quickly. Less circling. Less bullshit. More actual movement.</p>
 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
