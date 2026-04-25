@@ -53,7 +53,7 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I am clearly capable and still getting treated like a question mark.”</blockquote>
+    <blockquote>“I keep doing senior work while everyone acts like promotion would be a wild experiment.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
