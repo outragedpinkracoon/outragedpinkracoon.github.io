@@ -4,7 +4,7 @@ permalink: /coaching/
 title: No-bullshit 1:1 Coaching for Engineering Managers and Neurodivergent, Queer & Under-Represented Folks in Tech
 display_title: No-bullshit coaching
 title_sub: two kinds of mess. pick yours.
-description: No-bullshit remote 1:1 coaching for new engineering managers, neurodivergent and queer folks in tech who need fast clarity, honest challenge, and help untangling hard work, career, and people problems.
+description: No-bullshit 1:1 coaching for new engineering managers and folks in tech who need fast clarity on people problems, career moves, burnout, and hard decisions.
 show_cta: false
 ---
 
@@ -22,10 +22,10 @@ show_cta: false
   </section>
 
   <section class="audience-panel audience-panel--coaching">
-    <p class="audience-label">It's not you, it's the system</p>
-    <h3><a href="/coaching/folks-in-tech/">I work in tech and I want more than this</a></h3>
-    <p>You want more ease, more room, more honesty, and more of yourself back.</p>
-    <p>More clarity. More self-trust. More options. Less masking, less second-guessing, and less trying to survive systems that were never built with you in mind.</p>
+    <p class="audience-label">For folks in tech</p>
+    <h3><a href="/coaching/folks-in-tech/">I want more power, more credit, and less bullshit</a></h3>
+    <p>You are capable, ambitious, and tired of being treated like a maybe.</p>
+    <p>Career moves, burnout, masking, visibility, self-trust, accommodations, confidence wobbles, and deciding what the hell happens next.</p>
     <p><a class="pricing-cta" href="/coaching/folks-in-tech/">Bring me the rest of it</a></p>
   </section>
 </div>
