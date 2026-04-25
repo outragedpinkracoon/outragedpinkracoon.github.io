@@ -4,7 +4,7 @@ permalink: /coaching/
 title: No-bullshit 1:1 Coaching for Engineering Managers and Neurodivergent, Queer & Under-Represented Folks in Tech
 display_title: No-bullshit coaching
 title_sub: two kinds of mess. pick yours.
-description: No-bullshit 1:1 coaching for new engineering managers and folks in tech who need fast clarity on people problems, career moves, burnout, and hard decisions.
+description: No-bullshit 1:1 coaching for engineering managers and folks in tech who need fast clarity, with specialist support for neurodivergent, queer, and under-represented people.
 show_cta: false
 ---
 
