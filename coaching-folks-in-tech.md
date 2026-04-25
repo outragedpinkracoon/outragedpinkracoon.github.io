@@ -25,6 +25,8 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 
 <p>I work broadly with folks in tech, and I specialise in supporting neurodivergent, queer, disabled and under-represented people who have spent too long being talented in rooms that keep asking them to prove the obvious.</p>
 
+<p>If you want a neurodivergent coach who understands tech, masking, burnout, power, and the quiet rage of being treated like a maybe, welcome.</p>
+
 <p>Sound familiar?</p>
 
 <div class="manager-quote-wall" aria-label="Common experiences for folks in tech">
