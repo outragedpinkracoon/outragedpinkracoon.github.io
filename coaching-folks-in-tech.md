@@ -81,7 +81,7 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 
 <div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is sharp pattern recognition, direct kindness, and fast clarity in human form.</div>
 
-<h2>What Happens In A Remote 1:1 Session</h2>
+<h2>What happens in a remote 1:1 session</h2>
 
 <ol class="process-steps">
   <li>
@@ -120,9 +120,9 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
     <span class="pricing-badge">Start here</span>
     <p class="pricing-amount">£200</p>
     <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">One sharp hour to sort the thing that is currently eating your brain.</p>
+    <p class="pricing-subtitle">Perfect when you already know the problem.</p>
     <ul class="pricing-includes">
-            <li>We dive straight in, no talking about the weather.</li>
+      <li>We dive straight in, no talking about the weather.</li>
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
       <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
@@ -133,7 +133,7 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
     <span class="pricing-badge">Go deeper</span>
     <p class="pricing-amount">£500</p>
     <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">For the bigger bastard problems that need more than one hit.</p>
+    <p class="pricing-subtitle">For messy situations where you don't even know where to start.</p>
     <ul class="pricing-includes">
       <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
