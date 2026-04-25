@@ -8,7 +8,7 @@ description: No-bullshit 1:1 coaching for new engineering managers and folks in 
 show_cta: false
 ---
 
-<p>You bring the mess. I help you work out what is actually going on, what matters, what is yours, what is the system doing its usual nonsense, and what to do next.</p>
+<p>You bring the mess. I help you get fast clarity on what is actually going on, what matters, and what the hell to do next.</p>
 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
