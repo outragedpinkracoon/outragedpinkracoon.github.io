@@ -122,9 +122,9 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
     <p class="pricing-title">Single session</p>
     <p class="pricing-subtitle">One sharp hour to sort the thing that is currently eating your brain.</p>
     <ul class="pricing-includes">
-      <li>We dive straight in, no talking about the weather.</li>
-      <li>You get someone who can hear three minutes of the situation and get to the bit everyone else has been politely orbiting.</li>
-      <li>You leave with a clearer head, a sharper read, and a next move that does not require becoming a more palatable version of yourself.</li>
+            <li>We dive straight in, no talking about the weather.</li>
+      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
+      <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20coaching%20session.">Bring your mess</a>
   </div>
