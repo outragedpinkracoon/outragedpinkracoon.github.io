@@ -23,7 +23,7 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 
 <p>I work with people in tech who are good at what they do and sick of paying extra just to exist in the room.</p>
 
-<p>That includes neurodivergent people, queer people, women and non-binary people in tech, disabled people, under-represented people, and anyone who has spent too long being talented in rooms that keep asking them to prove the obvious.</p>
+<p>I work broadly with folks in tech, and I specialise in supporting neurodivergent, queer, disabled and under-represented people who have spent too long being talented in rooms that keep asking them to prove the obvious.</p>
 
 <p>Sound familiar?</p>
 
