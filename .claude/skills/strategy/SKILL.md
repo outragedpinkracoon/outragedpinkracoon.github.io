@@ -24,7 +24,7 @@ Don't proceed until she's chosen. If she's already stated a specific question in
 For either mode, start by:
 1. Reading `tasks.md` for current priorities and in-progress work — don't recommend things already being done
 2. Reading the current coaching pages (`coaching-managers.md`, `coaching-folks-in-tech.md`, `coaching.md`, `who-is-val.md`) for the actual live offer, pricing, and credentials — do not rely on memory or assumptions
-3. For pricing/positioning comparisons, fetch https://attycronin.com/ as a reference point for a comparable coach in the same space
+3. For pricing/positioning comparisons, fetch https://attycronin.com/ as a reference point — but note: Atty does not have Val's exec credentials (no VP/CTO, no ILM L5, no 500+ coached, no tech sector specialism). Atty's pricing is a floor, not a ceiling. If Val is pricing at or below Atty, flag it and push back.
 3. Work through the lenses below. Don't just audit — propose specific moves. For each problem you name, say what to do about it.
 
 ---
