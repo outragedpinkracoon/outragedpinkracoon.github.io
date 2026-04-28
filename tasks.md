@@ -2,7 +2,7 @@
 
 ## Quick wins — single edits, do these first
 
-- [x] Raise single session price to £250 (both coaching pages)
+- [x] Raise single session price to £300 (both coaching pages)
 - [x] Restructure 3-session bundle to £550 — saving becomes £200, actually moves behaviour (both coaching pages)
 - [x] Move "coaching or course?" section to after testimonials on coaching-managers.md
 - [x] Add "teams and organisations" line to both coaching pages
