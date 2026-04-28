@@ -73,30 +73,7 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
 
 <p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want a practical foundation you can work through at your own pace, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is there too.</p>
 
-<h2>What happens in a remote 1:1 session</h2>
-
-<ol class="process-steps">
-  <li>
-    <span class="process-step__number">01</span>
-    <h3>We dive straight in</h3>
-    <p>No talking about the weather. No dancing round it. We get to the point.</p>
-  </li>
-  <li>
-    <span class="process-step__number">02</span>
-    <h3>I get to the ugly little truth of it</h3>
-    <p>You tell me what is going on. We work out what matters, what is noise, where the pressure is coming from, and what has been quietly chewing through your energy.</p>
-  </li>
-  <li>
-    <span class="process-step__number">03</span>
-    <h3>We figure out the next move</h3>
-    <p>We work out what to say, what to ask for, what to stop apologising for, and what move changes the shape of the problem.</p>
-  </li>
-  <li>
-    <span class="process-step__number">04</span>
-    <h3>You stop carrying it alone</h3>
-    <p>You leave with a clearer head, a better plan, and far less chance of getting swallowed by panic, self-doubt, or someone else’s agenda.</p>
-  </li>
-</ol>
+{% include session-process.html %}
 
 <p>Still thinking “yes, but what even <em>is</em> a coach?” I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What’s A Coach Anyway?</a></p>
 

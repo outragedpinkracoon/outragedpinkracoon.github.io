@@ -85,30 +85,7 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 
 <div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is sharp pattern recognition, direct kindness, and fast clarity in human form.</div>
 
-<h2>What happens in a remote 1:1 session</h2>
-
-<ol class="process-steps">
-  <li>
-    <span class="process-step__number">01</span>
-    <h3>We dive straight in</h3>
-    <p>No talking about the weather. No dancing round it. We get to the point.</p>
-  </li>
-  <li>
-    <span class="process-step__number">02</span>
-    <h3>I get to the ugly little truth of it</h3>
-    <p>You tell me what is going on. We work out what matters, what is noise, where the pressure is coming from, and what has been quietly chewing through your energy.</p>
-  </li>
-  <li>
-    <span class="process-step__number">03</span>
-    <h3>We figure out the next move</h3>
-    <p>We work out what to say, what to ask for, what to stop apologising for, and what move changes the shape of the problem.</p>
-  </li>
-  <li>
-    <span class="process-step__number">04</span>
-    <h3>You stop carrying it alone</h3>
-    <p>You leave with a clearer head, a better plan, and far less chance of getting swallowed by panic, self-doubt, or someone else’s agenda.</p>
-  </li>
-</ol>
+{% include session-process.html %}
 
 <p><strong>I can’t diagnose you</strong>, because coaching is not a medical assessment. I can help you make sense of what you are noticing and work out what to do about it.</p>
 
