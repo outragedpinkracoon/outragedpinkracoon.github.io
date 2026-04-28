@@ -77,6 +77,25 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 
 <p>I have nearly two decades in tech, ILM Level 5 executive coaching, and VP Engineering and Interim CTO experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
 
+<div class="credibility-strip" aria-label="Val's coaching and leadership experience">
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">ILM</span>
+    <span>ILM Level 5 Executive Coach</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">500+</span>
+    <span>500+ coached, 150+ founders</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">VP</span>
+    <span>Interim CTO / VP Engineering</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">14Y</span>
+    <span>14 years hands-on coding</span>
+  </div>
+</div>
+
 <p>I’m also neurodivergent, queer, non-binary and disabled. I know what it feels like to be good at what you do and still have to fight to be read accurately. I also know what it takes to stop absorbing the cost and start moving on your own terms.</p>
 
 <p>The system may still be ridiculous. You, however, do not have to keep contorting yourself around it.</p>
