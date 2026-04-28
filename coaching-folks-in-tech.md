@@ -120,7 +120,7 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Start here</span>
-    <p class="pricing-amount">£200</p>
+    <p class="pricing-amount">£250</p>
     <p class="pricing-title">Single session</p>
     <p class="pricing-subtitle">Perfect when you already know the problem.</p>
     <ul class="pricing-includes">
@@ -133,9 +133,9 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 
   <div class="pricing-card">
     <span class="pricing-badge">Go deeper</span>
-    <p class="pricing-amount">£500</p>
+    <p class="pricing-amount">£550</p>
     <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">For messy situations where you don't even know where to start.</p>
+    <p class="pricing-subtitle">For messy situations where you don't even know where to start. Save £200 vs. booking separately.</p>
     <ul class="pricing-includes">
       <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
