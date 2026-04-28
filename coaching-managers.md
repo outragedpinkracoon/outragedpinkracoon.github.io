@@ -4,7 +4,7 @@ permalink: /coaching/engineering-managers/
 title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
 title_sub: because there's no undo button for people.
-description: No-bullshit remote 1:1 coaching for engineering managers, team leads, and heads of function who need fast clarity on feedback, conflict, team chaos, and overwhelm.
+description: No-bullshit remote 1:1 coaching for engineering managers, team leads, and heads of function, from an ILM certified coach and former tech exec who has navigated every bit of this from the inside.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
@@ -142,7 +142,7 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
     <ul>
       <li>Something is happening right now and you need to talk it through.</li>
       <li>You need someone to challenge you and get you moving.</li>
-      <li>You're overwhelmed and need fast clarity before shit hits the fan.</li>
+      <li>You're overwhelmed and need someone to cut through it before shit hits the fan.</li>
     </ul>
     <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Book coaching</a></p>
   </section>

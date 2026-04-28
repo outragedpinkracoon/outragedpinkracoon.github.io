@@ -3,7 +3,7 @@ layout: info_page
 permalink: /who-is-val/
 title: Who Is Val Dryden? Tech Exec, Coach, and Chaos Untangler
 display_title: Who is Val?
-description: "Meet Val Dryden: ILM certified coach, former tech exec, and experienced chaos untangler for new engineering managers, neurodivergent and queer folks in tech who need fast clarity."
+description: "Meet Val Dryden: ILM certified coach, former tech exec, neurodivergent and queer, and the person in your corner who has seen this exact mess before and knows how to untangle it."
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
