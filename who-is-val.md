@@ -13,24 +13,7 @@ description: "Meet Val Dryden: ILM certified coach, former tech exec, and experi
 
 <p>I now coach the people I used to be: new managers thrown in the deep end, and people in tech who need a mess untangled or are exhausted from performing a version of themselves that feels wrong.</p>
 
-<div class="credibility-strip" aria-label="Val's coaching and leadership experience">
-  <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">ILM</span>
-    <span>ILM Level 5 Executive Coach</span>
-  </div>
-  <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">500+</span>
-    <span>500+ coached, 150+ founders</span>
-  </div>
-  <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">VP</span>
-    <span>Interim CTO / VP Engineering</span>
-  </div>
-  <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">14Y</span>
-    <span>14 years hands-on coding</span>
-  </div>
-</div>
+{% include credibility-strip.html %}
 
 <p>I know what it feels like to be held to unreasonable standards, left to get on with it alone, and praised for resilience when what you actually needed was support.</p>
 

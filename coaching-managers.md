@@ -21,24 +21,7 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
 
 <p>As an ILM certified coach, former tech exec, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
 
-<div class="credibility-strip" aria-label="Val's coaching and leadership experience">
-  <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">ILM</span>
-    <span>ILM Level 5 Executive Coach</span>
-  </div>
-  <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">500+</span>
-    <span>500+ coached, 150+ founders</span>
-  </div>
-  <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">VP</span>
-    <span>Interim CTO / VP Engineering</span>
-  </div>
-  <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">14Y</span>
-    <span>14 years hands-on coding</span>
-  </div>
-</div>
+{% include credibility-strip.html %}
 
 <h2>Who I work with</h2>
 
@@ -119,41 +102,7 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
 
 <h2>Pricing</h2>
 
-<p class="pricing-decision">One session with me can untangle a huge amount of chaos. You are paying for speed, judgement, lived experience, and the ability to hear a few minutes of the situation and get to the bit everyone else has been politely avoiding.</p>
-
-<p class="pricing-decision">A lot of people start with one session. Often that is enough to name the problem, stop the spiral, and make the next move obvious. If it needs more room, we will know that quickly too.</p>
-
-<div class="pricing-table" aria-label="Coaching prices">
-  <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">Start here</span>
-    <p class="pricing-amount">£250</p>
-    <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">Perfect when you already know the problem.</p>
-    <ul class="pricing-includes">
-      <li>We dive straight in, no talking about the weather.</li>
-      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
-      <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20new%20manager%20coaching%20session.">Bring your mess</a>
-  </div>
-
-  <div class="pricing-card">
-    <span class="pricing-badge">Go deeper</span>
-    <p class="pricing-amount">£550</p>
-    <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">For messy situations where you don't even know where to start. Save £200 vs. booking separately.</p>
-    <ul class="pricing-includes">
-      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
-      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
-      <li>Fast follow up sessions where I already know the situation and we get it dealt with.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20new%20manager%20coaching%20bundle.">Bring more mess</a>
-  </div>
-</div>
-
-<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
-
-<div class="callout--yellow callout"><strong>Working with a team?</strong> I coach engineering managers in bulk for startups and scale-ups. <a href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch.</a></div>
+{% include pricing.html subject_single="New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20new%20manager%20coaching%20session." subject_bundle="New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20new%20manager%20coaching%20bundle." %}
 
 <h2>Real people saying real things</h2>
 
