@@ -72,12 +72,21 @@ The site is NOT targeting:
 ## What good looks like
 
 **Strong description example:**
-> "You've just been promoted to engineering manager. Nobody told you what that actually means. Coaching that gets you fast clarity on what's actually going on — without the corporate gloss."
+> "You've just been promoted to engineering manager. Nobody told you what that actually means. No-bullshit coaching from someone who has been in this exact mess — without the corporate gloss."
 
 **Weak description example:**
 > "Coaching services for tech professionals looking to grow their career and reach their full potential."
 
 The difference: the strong one names the person, names the problem, sounds like Val.
+
+## Inclusion in meta descriptions
+
+Never lead with "neurodivergent" or "queer" as the primary qualifier in a meta description — it signals to the broader audience that the service isn't for them. The pattern is: broad audience first, specialist support as additive.
+
+**Right:** "No-bullshit coaching for engineering managers and folks in tech... specialist support for neurodivergent and queer people."
+**Wrong:** "Coaching for neurodivergent and queer folks in tech who want more power and less bullshit." (excludes everyone else before they've read a word)
+
+The folks-in-tech page is the exception — that page is explicitly for that audience, so leading with it is correct there.
 
 ## What to flag
 

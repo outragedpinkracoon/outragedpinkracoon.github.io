@@ -46,6 +46,8 @@ Do the work. Be opinionated. Don't hedge. Flag weak copy directly — don't flat
 
 **Important:** Don't write as if only people in collapse deserve coaching. Keep the door wide for aspirational buyers too. `I work in tech and I want more than this` is a better front door than `I'm done`.
 
+**Inclusion in SEO and meta copy:** Never lead meta descriptions with "neurodivergent" or "queer" as the primary qualifier — it signals to everyone else that the service isn't for them. The broad audience (engineering managers, folks in tech) comes first. Specialist support for neurodivergent and queer people is additive, not the front door. Pattern: "coaching for engineering managers and folks in tech... specialist support for neurodivergent and queer people."
+
 **Offer framing — critical:** The format fits the problem. Distinguish clearly between:
 - **Discrete problems** (single session / 3-session bundle) — you have a thing, she gets to the heart of it, you leave knowing what to do
 - **Ongoing support** (6-session programme) — the situation keeps changing faster than you can solve it alone; this isn't slower Val, it's Val for the long game
