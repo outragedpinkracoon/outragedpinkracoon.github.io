@@ -21,6 +21,25 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
 
 <p>As an ILM certified coach, former tech exec, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
 
+<div class="credibility-strip" aria-label="Val's coaching and leadership experience">
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">ILM</span>
+    <span>ILM Level 5 Executive Coach</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">500+</span>
+    <span>500+ coached, 150+ founders</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">VP</span>
+    <span>Interim CTO / VP Engineering</span>
+  </div>
+  <div class="credibility-badge">
+    <span class="credibility-badge__mark" aria-hidden="true">14Y</span>
+    <span>14 years hands-on coding</span>
+  </div>
+</div>
+
 <h2>Who I work with</h2>
 
 <p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while and are sick of winging the hard bits alone.</p>

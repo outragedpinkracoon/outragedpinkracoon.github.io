@@ -19,8 +19,8 @@ description: "Meet Val Dryden: ILM certified coach, former tech exec, and experi
     <span>ILM Level 5 Executive Coach</span>
   </div>
   <div class="credibility-badge">
-    <span class="credibility-badge__mark" aria-hidden="true">300+</span>
-    <span>300+ people coached</span>
+    <span class="credibility-badge__mark" aria-hidden="true">500+</span>
+    <span>500+ coached, 150+ founders</span>
   </div>
   <div class="credibility-badge">
     <span class="credibility-badge__mark" aria-hidden="true">VP</span>
@@ -82,8 +82,7 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
     <h3>Coaching and training</h3>
     <ul>
       <li>ILM Level 5 Executive Coach</li>
-      <li>6 years coaching over 300 people</li>
-      <li>Coached over 150 founders</li>
+      <li>500+ coached, 150+ founders</li>
       <li><a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank" rel="noopener noreferrer">Dare to Lead&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
       <li><a href="https://coachlead.co/leaders-who-coach/" target="_blank" rel="noopener noreferrer">Leaders Who Coach&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
       <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Shit I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
