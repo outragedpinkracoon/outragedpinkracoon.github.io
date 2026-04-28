@@ -134,34 +134,6 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
 
 <p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
-<h2>Coaching or course?</h2>
-
-<p>The course gives you the foundations. Coaching is for the live mess currently happening in your actual team.</p>
-
-<div class="audience-grid">
-  <section class="audience-panel audience-panel--manager">
-    <p class="audience-label">For immediate support</p>
-    <h3>Use coaching when…</h3>
-    <ul>
-      <li>You need to talk through a live problem with your team, manager, career or specific chaos.</li>
-      <li>You need someone to challenge you and get you moving.</li>
-      <li>You’re overwhelmed and need fast clarity before shit hits the fan.</li>
-    </ul>
-    <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Book coaching</a></p>
-  </section>
-
-  <section class="audience-panel audience-panel--coaching">
-    <p class="audience-label">For structured learning</p>
-    <h3>Use Holy Shit I’m a Manager™ when…</h3>
-    <ul>
-      <li>You want the wider foundations of how to succeed as a manager.</li>
-      <li>You’re newly responsible for people and don't know where to start.</li>
-      <li>You want practical tools you can use without booking live sessions.</li>
-    </ul>
-    <p><a class="pricing-cta" href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Take the course<span class="sr-only"> (opens in new tab)</span></a></p>
-  </section>
-</div>
-
 <h2>Real people saying real things</h2>
 
 <div class="testimonial-grid">
@@ -198,6 +170,34 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
     <p>If you are moving into a leadership role from engineering, or are in such a role and struggling, I can strongly recommend Valerie as a coach and mentor.</p>
     <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
   </blockquote>
+</div>
+
+<h2>Coaching or course?</h2>
+
+<p>The course gives you the foundations. Coaching is for the live mess currently happening in your actual team.</p>
+
+<div class="audience-grid">
+  <section class="audience-panel audience-panel--manager">
+    <p class="audience-label">For immediate support</p>
+    <h3>Use coaching when…</h3>
+    <ul>
+      <li>You need to talk through a live problem with your team, manager, career or specific chaos.</li>
+      <li>You need someone to challenge you and get you moving.</li>
+      <li>You're overwhelmed and need fast clarity before shit hits the fan.</li>
+    </ul>
+    <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Book coaching</a></p>
+  </section>
+
+  <section class="audience-panel audience-panel--coaching">
+    <p class="audience-label">For structured learning</p>
+    <h3>Use Holy Shit I'm a Manager™ when…</h3>
+    <ul>
+      <li>You want the wider foundations of how to succeed as a manager.</li>
+      <li>You're newly responsible for people and don't know where to start.</li>
+      <li>You want practical tools you can use without booking live sessions.</li>
+    </ul>
+    <p><a class="pricing-cta" href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Take the course<span class="sr-only"> (opens in new tab)</span></a></p>
+  </section>
 </div>
 
 <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Bring me your mess</a></p>
