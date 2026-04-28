@@ -4,7 +4,7 @@ permalink: /coaching/folks-in-tech/
 title: No-bullshit Coaching for Neurodivergent, Queer and Under-Represented People in Tech
 display_title: Coaching for folks in tech
 title_sub: who want more power, more credit, and less bullshit.
-description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-represented folks in tech who want fast clarity, more power, more credit, and less bullshit.
+description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-represented folks in tech who want more power, more credit, and less bullshit — from a coach who has lived this from the inside.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
@@ -83,7 +83,7 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 
 <p>The system may still be ridiculous. You, however, do not have to keep contorting yourself around it.</p>
 
-<div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is sharp pattern recognition, direct kindness, and fast clarity in human form.</div>
+<div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is sharp pattern recognition, direct kindness, and someone who will get to the ugly little truth of it faster than you expect.</div>
 
 {% include session-process.html %}
 
