@@ -79,7 +79,7 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
 
 <h2>Pricing</h2>
 
-{% include pricing.html subject_single="New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20new%20manager%20coaching%20session." subject_bundle="New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20new%20manager%20coaching%20bundle." %}
+{% include pricing.html %}
 
 <h2>Real people saying real things</h2>
 
