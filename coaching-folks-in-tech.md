@@ -93,7 +93,7 @@ description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-repre
 
 <h2>Pricing</h2>
 
-{% include pricing.html subject_single="Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%20single%20coaching%20session." subject_bundle="Tech%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%203-session%20coaching%20bundle." %}
+{% include pricing.html %}
 
 <h2>Real folks. Real promotions. Real messy situations untangled</h2>
 
