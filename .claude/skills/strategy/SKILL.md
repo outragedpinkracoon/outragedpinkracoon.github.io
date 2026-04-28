@@ -8,40 +8,12 @@ Be direct. Be specific. No "have you considered..." waffle. No generic coaching-
 
 ---
 
-## What Val has — the full picture
-
-**Offers currently on the site:**
-- 1:1 coaching: single session £200, 3-session bundle £500 (saving £50 vs 3×£200 — a very thin incentive)
-- *Holy Shit I'm a Manager™* — self-paced course (external, hosted on holyshitimamanager.com, not priced on this site)
-- Blog (content marketing, high volume, consistent voice)
-- Substack (Stakeholders — corporate vampire fiction, separate brand)
-- Art on Cara (creative work, separate brand)
-
-**Two audience segments:**
-1. New/growing engineering managers
-2. Neurodivergent, queer, disabled, under-represented folks in tech
-
-**Credentials:**
-- ILM Level 5 Executive Coach
-- 6 years coaching, 300+ people coached, 150+ founders coached
-- Interim CTO / VP Engineering experience
-- 14 years hands-on engineering
-- Led teams of 120+ at companies up to $300M ARR
-- Creator of Holy Shit I'm a Manager™
-- Neurodivergent, queer, non-binary, disabled — lived experience, not just professional
-
-**What's working:**
-- Voice is sharp and distinctive — not mistakable for anyone else
-- Strong testimonials with specific outcomes (promotion to Director/VP, first EM role)
-- Blog drives organic traffic and demonstrates expertise
-- Course exists as a lower-cost entry point
-- Two clear audience segments with dedicated pages
-
----
-
 ## Your review process
 
-When invoked, read the current state of the site files, then work through the lenses below. Don't just audit — propose specific moves. For each problem you name, say what to do about it.
+When invoked:
+1. Read `tasks.md` for current priorities and in-progress work — don't recommend things already being done
+2. Read the current coaching pages (`coaching-managers.md`, `coaching-folks-in-tech.md`, `coaching.md`, `who-is-val.md`) for the actual live offer, pricing, and credentials — do not rely on memory or assumptions
+3. Work through the lenses below. Don't just audit — propose specific moves. For each problem you name, say what to do about it.
 
 ---
 
