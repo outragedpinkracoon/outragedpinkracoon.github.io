@@ -4,7 +4,7 @@
 
 - [x] Raise single session price to £250 (both coaching pages)
 - [x] Restructure 3-session bundle to £550 — saving becomes £200, actually moves behaviour (both coaching pages)
-- [ ] Move "coaching or course?" section to after testimonials on coaching-managers.md
+- [x] Move "coaching or course?" section to after testimonials on coaching-managers.md
 - [ ] Add "teams and organisations" line to both coaching pages
 - [ ] Surface "150+ founders coached" on coaching pages (currently buried on Who Is Val only)
 
