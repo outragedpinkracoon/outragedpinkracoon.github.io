@@ -15,7 +15,7 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
 
 <p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and not accidentally fuck someone up.</p>
 
-<p>I help new and growing engineering managers get fast clarity on the live thing currently eating their brain. We work out what actually matters, what is noise, and what the hell to do next.</p>
+<p>I help new and growing engineering managers get clear on the live thing currently eating their brain. We work out what actually matters, what is noise, and what the hell to do next. Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does.</p>
 
 <div class="callout--teal callout" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</div>
 
