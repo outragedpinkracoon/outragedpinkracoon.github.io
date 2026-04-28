@@ -134,6 +134,8 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
 
 <p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
+<div class="callout--yellow callout"><strong>Working with a team?</strong> I coach engineering managers in bulk for startups and scale-ups. <a href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch.</a></div>
+
 <h2>Real people saying real things</h2>
 
 <div class="testimonial-grid">
