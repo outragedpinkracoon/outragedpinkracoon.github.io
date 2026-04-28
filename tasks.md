@@ -10,7 +10,7 @@
 
 ## Medium moves — new copy or structural changes
 
-- [ ] Add credential anchoring near pricing — coaches at this level typically charge £300–500/session
+- [x] Add credential anchoring near pricing — coaches at this level typically charge £300–500/session
 - [ ] Reframe course as entry point to coaching, not budget alternative (coaching-managers.md)
 - [ ] Add 6-session programme tier at £900–1000 to both coaching pages
 - [ ] Name founders explicitly as an audience on the coaching split page (coaching.md)
