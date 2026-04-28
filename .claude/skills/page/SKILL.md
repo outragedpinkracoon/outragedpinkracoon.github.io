@@ -17,6 +17,15 @@ Everything in those files applies here. The sections below are page-specific add
 - Deeper sales pages: more bite
 - No fit checks. No defensive pricing. Frame: valuable because it works, fast.
 
+## Shared components — use Jekyll includes
+
+Shared components live in `_includes/`. Always use these rather than duplicating HTML across pages:
+- `{% include credibility-strip.html %}` — Val's credentials/stats bar
+- `{% include pricing.html %}` — full pricing table, saving badges, teams card, pull-quote
+- `{% include session-process.html %}` — "What happens in a remote 1:1 session" steps
+
+If you're adding something that appears on more than one page, make it an include.
+
 ---
 
 ## What to check on every page change

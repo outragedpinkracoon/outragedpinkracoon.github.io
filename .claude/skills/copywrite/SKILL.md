@@ -41,8 +41,16 @@ Do the work. Be opinionated. Don't hedge. Flag weak copy directly — don't flat
 - Softer men who are overlooked
 - People doing the job without title, credit, or promotion
 - Ambitious and blocked, or quietly wanting more
+- **Founders** — isolated, making decisions alone at speed, people chaos with no HR support, often first-time managers with no safety net
+- **CTOs** — bridge between tech and business, board/investor pressure, no peer group, hard calls with no one to reality-check them
 
 **Important:** Don't write as if only people in collapse deserve coaching. Keep the door wide for aspirational buyers too. `I work in tech and I want more than this` is a better front door than `I'm done`.
+
+**Offer framing — critical:** Val's brand is fast clarity. Most things she fixes fast. But distinguish clearly between:
+- **Discrete problems** (single session / 3-session bundle) — you have a thing, she fixes the thing, fast
+- **Ongoing support** (6-session programme) — the situation keeps changing faster than you can solve it alone; this isn't slower Val, it's Val for the long game
+
+Never frame the 6-session programme as "Val takes longer." Frame it as a different product for a different problem.
 
 ## Reference: what good looks like on her site
 
