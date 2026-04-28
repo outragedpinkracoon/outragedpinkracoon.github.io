@@ -38,6 +38,8 @@ Card accent rotation: `$card-accents: $magenta, $teal, $orange, $lavender` — u
 
 **Contrast rule:** All text on coloured backgrounds must pass WCAG AA. `$yellow` and `$cream` are not safe for small text — use `$ink` on top of both. `$magenta`, `$teal`, `$orange`, `$lavender` are all cleared for `$cream` body text at normal sizes (they've been adjusted for this).
 
+**Callout variants and link safety:** `.callout--teal` uses `$cream` text — do not place `$magenta` links inside it (magenta-on-teal clashes badly; global link styles can bleed through). If a callout contains a link, use `.callout--yellow` instead, which has `$ink` text and the default `$magenta` link colour — safe and on-brand.
+
 ## Non-negotiable constraints
 
 **Responsive — hard requirement:** Every change must work at 320px → 4K. No exceptions. Test your mental model at both extremes before proposing anything. If a layout breaks at 320px, it's broken.
