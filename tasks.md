@@ -13,11 +13,13 @@
 - [x] Add credential anchoring near pricing — coaches at this level typically charge £300–500/session
 - [x] Reframe course as entry point to coaching, not budget alternative (coaching-managers.md)
 - [x] Add 6-session programme tier at £900–1000 to both coaching pages
-- [ ] Name founders explicitly as an audience on the coaching split page (coaching.md)
+- [x] Name founders explicitly as an audience on the coaching split page (coaching.md)
 - [ ] Source and add neurodivergent/queer client testimonials to folks-in-tech page
 - [ ] Add email capture to blog post footers for warm readers not yet ready to buy
 
 ## Bigger bets — new offers or new audiences
+
+- [ ] Build dedicated founders/CTO coaching page (coaching-founders.md) — founders and CTOs named explicitly as audience; update coaching.md split page to link to it
 
 - [ ] Add monthly retainer offer (2 sessions/month + async check-in, £350–400/month)
 - [ ] Build corporate/team coaching page with L&D-framed pricing
