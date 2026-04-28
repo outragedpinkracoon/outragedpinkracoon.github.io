@@ -71,7 +71,7 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
   </figure>
 </div>
 
-<p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want a practical foundation you can work through at your own pace, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is there too.</p>
+<p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want to get the foundations in place first, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is a good place to start — then come back when it gets live.</p>
 
 {% include session-process.html %}
 
@@ -119,31 +119,32 @@ description: No-bullshit remote 1:1 coaching for engineering managers, team lead
   </blockquote>
 </div>
 
-<h2>Coaching or course?</h2>
+<h2>Where to start</h2>
 
-<p>The course gives you the foundations. Coaching is for the live mess currently happening in your actual team.</p>
+<p>The course gives you the foundations. Come back to coaching when something live needs untangling.</p>
 
 <div class="audience-grid">
+  <section class="audience-panel audience-panel--coaching">
+    <p class="audience-label">Start here first</p>
+    <h3>Holy Shit I'm a Manager™</h3>
+    <p class="pricing-amount">£400</p>
+    <ul>
+      <li>Get the frameworks and tools before the chaos starts.</li>
+      <li>Newly responsible for people and don't know where to start.</li>
+      <li>Build the foundations, then come back when it gets live.</li>
+    </ul>
+    <p><a class="pricing-cta" href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Take the course<span class="sr-only"> (opens in new tab)</span></a></p>
+  </section>
+
   <section class="audience-panel audience-panel--manager">
-    <p class="audience-label">For immediate support</p>
+    <p class="audience-label">For the live mess</p>
     <h3>Use coaching when…</h3>
     <ul>
-      <li>You need to talk through a live problem with your team, manager, career or specific chaos.</li>
+      <li>Something is happening right now and you need to talk it through.</li>
       <li>You need someone to challenge you and get you moving.</li>
       <li>You're overwhelmed and need fast clarity before shit hits the fan.</li>
     </ul>
-    <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Book coaching</a></p>
-  </section>
-
-  <section class="audience-panel audience-panel--coaching">
-    <p class="audience-label">For structured learning</p>
-    <h3>Use Holy Shit I'm a Manager™ when…</h3>
-    <ul>
-      <li>You want the wider foundations of how to succeed as a manager.</li>
-      <li>You're newly responsible for people and don't know where to start.</li>
-      <li>You want practical tools you can use without booking live sessions.</li>
-    </ul>
-    <p><a class="pricing-cta" href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Take the course<span class="sr-only"> (opens in new tab)</span></a></p>
+    <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Book coaching</a></p>
   </section>
 </div>
 
