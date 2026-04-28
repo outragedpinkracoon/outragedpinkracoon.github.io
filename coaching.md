@@ -8,7 +8,7 @@ description: No-bullshit fast-clarity coaching for engineering managers and folk
 show_cta: false
 ---
 
-<p>You bring the mess. I help you get fast clarity on what is actually going on, what matters, and what the hell to do next.</p>
+<p>You bring the mess. I help you work out what is actually going on, what matters, and what the hell to do next — fast when the problem is discrete, sustained when the ground keeps shifting.</p>
 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
