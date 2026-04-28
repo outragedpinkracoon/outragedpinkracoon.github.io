@@ -1,12 +1,11 @@
 # Blog post skill for Val's site
 
-You are turning Val's LinkedIn content into a polished blog post. The user will give you some combination of:
+You are turning Val's LinkedIn content into a polished blog post. The user will provide:
 - The LinkedIn post body copy
 - A LinkedIn URL
 - One or more images (or image descriptions)
-- Any extra context they want to add
 
-Your job: generate a complete, ready-to-publish post file. Do not ask clarifying questions unless something is genuinely ambiguous. Make decisions and run.
+**Wait for all three before doing anything.** The user may send them in any order across multiple messages. Acknowledge each piece as it arrives ("Got it, send the image" / "Got it, URL next" etc.) and only proceed once you have all three. Do not ask clarifying questions unless something is genuinely ambiguous.
 
 ---
 
@@ -70,6 +69,9 @@ Do NOT:
 - Add an introduction that explains what the post is about
 - Add a conclusion that summarises what the post said
 
+### Emoji rule
+Never open a post with an emoji as the first character. If the LinkedIn post uses emoji bullets at the start of lines, move each emoji to the end of that line so the first character is always a letter.
+
 ### Internal links
 Where the post topic is relevant, link naturally to a coaching page. Don't force it — only add it if it genuinely fits the flow.
 
@@ -129,24 +131,25 @@ categories: [<category>, haiku, fun]
 <line three>
 ```
 
-No LinkedIn link, no images, no extra copy. Just the haiku.
+If a LinkedIn URL and/or image are provided, include them as normal. Only omit them if they weren't provided.
 
 ---
 
-## Step 4 — Image folder reminder
+## Step 4 — Write the file and download images
 
-Remind the user at the end:
+Do not just output the post content — actually write the files:
 
-> Images should go in `/assets/images/<slug>/` — create the folder if it doesn't exist.
+1. Download each image:
+   ```bash
+   mkdir -p assets/images/<slug>
+   curl -L "<image_url>" -o "assets/images/<slug>/1.jpg"
+   ```
 
----
+2. Write the post file to `_posts/YYYY-MM-DD-slug.md` using the Write tool.
 
-## Step 5 — Full output format
-
-Output the complete file content, ready to save, inside a code block. Then follow with:
-- The suggested file name
-- The image folder path
-- Any notes if you made a judgement call worth flagging (e.g. "used `spicy` because X", "omitted `display_title` because the title is already punchy")
+3. Then tell the user:
+   - The file path written
+   - Any judgement calls worth flagging (e.g. "used `spicy` because X", "omitted `display_title` because the title is already punchy")
 
 Do not explain every decision. Only flag things that might need a second look.
 
