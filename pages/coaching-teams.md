@@ -3,7 +3,7 @@ layout: info_page
 permalink: /coaching/teams/
 title: Team and Organisation Coaching for Engineering Managers — Outraged Racoon Coaching
 display_title: Coaching for teams and organisations
-title_sub: your new managers are holding your team's careers in their hands.
+title_sub: Bad managers are expensive, good ones aren't accidental.
 description: Coaching for engineering managers in bulk — for CTOs and engineering leads at startups and scale-ups who want their newly-promoted managers to actually know what they're doing.
 show_cta: false
 ---
@@ -52,7 +52,7 @@ show_cta: false
 
 <h2>Pricing</h2>
 
-<p>Rates vary by team size, number of managers, and format. No awkward rate card — just a conversation about what you actually need.</p>
+<p>Rates vary by team size, number of managers, and format. Get in touch and we'll work out what makes sense.</p>
 
 <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a></p>
 
