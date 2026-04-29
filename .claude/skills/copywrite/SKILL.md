@@ -15,9 +15,9 @@ Do the work. Be opinionated. Don't hedge. Flag weak copy directly — don't flat
 
 **Her voice:** Sharp, irreverent, funny, direct, emotionally intelligent. Warm but not soft. High-agency. Mildly feral. Swear where it lands hardest, not everywhere. Zero coaching jargon (`power hour`, `intensive`, `transformational journey`, etc). Zero corporate polish. Zero dead professional copy.
 
-**Her promise:** Fast clarity. Getting to the heart of the problem fast. One session can shift a lot.
+**Her promise:** She's been in this exact mess — as an engineer, manager, VP, interim CTO, neurodivergent person in tech — and she can see what's actually going on faster than anyone who hasn't. One session can shift a lot.
 
-**Her brand:** No-bullshit coaching. Lived experience is supporting proof, not the headline.
+**Her brand:** No-bullshit coaching. Credential-led trust. Lived experience is supporting proof, not the headline.
 
 **Lines that nail her voice:**
 - `I've seen this exact mess before`
@@ -29,9 +29,9 @@ Do the work. Be opinionated. Don't hedge. Flag weak copy directly — don't flat
 - `done settling for this`
 - `I want more than this`
 
-**Phrases to use sparingly:** `chaos untangler`, `fast clarity`
+**Phrases to use sparingly:** `chaos untangler`
 
-**Avoid:** Too much doom upfront. Overexplaining. SEO sludge. Polished consultant/therapist/LinkedIn voice. Weird metaphors. Try-hard or accidentally poetic. Overusing `fast clarity`.
+**Avoid:** `fast clarity` as a hook or promise — it's an output, not the sell. The sell is pattern recognition from lived experience, delivered without the HR varnish. Too much doom upfront. Overexplaining. SEO sludge. Polished consultant/therapist/LinkedIn voice. Weird metaphors. Try-hard or accidentally poetic.
 
 ## Audience
 
@@ -46,8 +46,8 @@ Do the work. Be opinionated. Don't hedge. Flag weak copy directly — don't flat
 
 **Important:** Don't write as if only people in collapse deserve coaching. Keep the door wide for aspirational buyers too. `I work in tech and I want more than this` is a better front door than `I'm done`.
 
-**Offer framing — critical:** Val's brand is fast clarity. Most things she fixes fast. But distinguish clearly between:
-- **Discrete problems** (single session / 3-session bundle) — you have a thing, she fixes the thing, fast
+**Offer framing — critical:** The format fits the problem. Distinguish clearly between:
+- **Discrete problems** (single session / 3-session bundle) — you have a thing, she gets to the heart of it, you leave knowing what to do
 - **Ongoing support** (6-session programme) — the situation keeps changing faster than you can solve it alone; this isn't slower Val, it's Val for the long game
 
 Never frame the 6-session programme as "Val takes longer." Frame it as a different product for a different problem.
@@ -63,7 +63,7 @@ These lines from her existing pages represent her voice at its best — use them
 > "If you want autistic directness, kindness, hard-won judgement, and someone who can do more in one session than most coaches manage in ten, welcome."
 
 **Coaching router:**
-> "You bring the mess. I help you get fast clarity on what is actually going on, what matters, and what the hell to do next."
+> "You bring the mess. I help you work out what is actually going on, what matters, and what the hell to do next — fast when the problem is discrete, sustained when the ground keeps shifting."
 > "You're a manager now. Sorry."
 > "I want more power, more credit, and less bullshit"
 > "You are capable, ambitious, and tired of being treated like a maybe."
@@ -101,7 +101,7 @@ These lines from her existing pages represent her voice at its best — use them
 - Vivid and specific over abstract
 - Every section should make reader think: "Oh fuck, that's me" / "She gets it" / "Take my money"
 - Single session is the hero offer; bundle is for when more room is needed
-- No fit checks. No defensive pricing. Frame: valuable because it works, fast.
+- No fit checks. No defensive pricing. Frame: valuable because she's been in this exact mess and knows what's actually going on.
 
 ## When reviewing copy
 
@@ -112,7 +112,8 @@ Flag:
 - Abstract where it should be specific
 - Too much doom with no exit
 - SEO sludge
-- Overuse of `fast clarity` or `chaos untangler`
+- `fast clarity` as a hook or promise (it's an output, not the sell)
+- Overuse of `chaos untangler`
 
 Preserve:
 - Lines that already sound like Val
@@ -125,4 +126,4 @@ When you flag something weak, replace it with something sharper — don't just p
 
 Ask yourself before every sentence: would Val actually say this? If the answer is "maybe, in a LinkedIn post," cut it.
 
-Lead with the reader's problem. Get to the fix fast. Sound like someone who has been in the mess themselves and came out with something useful to say about it.
+Lead with the reader's problem. Get to what's actually going on. Sound like someone who has been in this exact mess and came out with something useful to say about it.
