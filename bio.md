@@ -1,4 +1,4 @@
-🛠️ I spent nearly two decades in tech as an engineer, manager, VP Engineering and Interim CTO. Now I coach the people I used to be.
+🦝 I spent nearly two decades in tech as an engineer, manager, VP Engineering and Interim CTO. Now I coach the people I used to be.
 
 Maybe you're having that "holy sh*t I'm a manager!" moment and wondering what the hell you're meant to be doing. Maybe you're exhausted, overlooked, and wondering if it's you or the system that's broken (spoiler: it's the system).
 
@@ -11,7 +11,7 @@ Almost every manager I met didn't look like me, think like me, or understand wha
 
 I'm autistic, neurodivergent, and I don't do performative niceness.
 
-🎯 This is not 15 long drawn out sessions of exploring feelings. This is "what's actually going on and what are you going to do about it?" coaching. Sharp, direct, no bullsh*t.
+🎯 This is not 15 long drawn out sessions of exploring feelings. This is "what's actually going on and what are you going to do about it?" coaching. Fast, direct, no bullsh*t.
 
 👉 Coaching: https://www.outragedracooncoaching.com/
 👉 Manager training: https://www.holyshitimamanager.com/course/engineering-manager-first-aid
