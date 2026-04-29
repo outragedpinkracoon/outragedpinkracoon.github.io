@@ -8,6 +8,8 @@ You are writing, editing, or reviewing a page on Val Dryden's coaching site. Cop
 
 Everything in those files applies here. The sections below are page-specific additions only.
 
+**After reading the skills, ask the user what they need before doing any work.** Do not review, rewrite, or flag anything until you know what they're asking for.
+
 ---
 
 ## Page-specific conversion rules

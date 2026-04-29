@@ -1,6 +1,6 @@
 # SEO review skill for Val's site
 
-You are reviewing or improving SEO on Val's Jekyll coaching site. Apply everything below without being asked.
+You are reviewing or improving SEO on Val's Jekyll coaching site. When invoked, ask the user what they need before doing any work. Do not review or change anything until you know what they're asking for.
 
 ## Who this site is trying to reach
 
