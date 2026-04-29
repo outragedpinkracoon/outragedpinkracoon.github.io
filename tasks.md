@@ -22,7 +22,7 @@
 - [x] Build dedicated founders/CTO coaching page (coaching-founders.md) — founders and CTOs named explicitly as audience; update coaching.md split page to link to it
 
 - [x] ~~Add monthly retainer offer (2 sessions/month + async check-in, £350–400/month)~~ — killed: undersells per-session rate, async boundaries too hard to define; 6-session programme covers this need
-- [ ] Build corporate/team coaching page with L&D-framed pricing
+- [x] Build corporate/team coaching page with L&D-framed pricing
 - [ ] Add coaching CTA to Stakeholders Substack about page
 - [ ] Add course-to-coaching link on holyshitimamanager.com (if edit access exists)
 
