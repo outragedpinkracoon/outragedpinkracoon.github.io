@@ -33,7 +33,7 @@ show_cta: false
     <p class="audience-label">For founders and CTOs</p>
     <h3><a href="/coaching/founders/">I'm a founder with no one to think out loud with</a></h3>
     <p>You are making decisions alone, at speed, with no one to reality-check you. The isolation is real and it costs you.</p>
-    <p>I've coached 150+ founders through exactly this — the people chaos, the hard calls, the moments where you genuinely don't know what to do next and can't admit that to anyone.</p>
+    <p>I've coached 100+ founders through exactly this — the people chaos, the hard calls, the moments where you genuinely don't know what to do next and can't admit that to anyone.</p>
     <p><a class="pricing-cta" href="/coaching/founders/">Bring me the founder mess</a></p>
   </section>
 </div>
