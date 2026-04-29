@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /coaching/folks-in-tech/
-title: No-bullshit Coaching for Neurodivergent, Queer and Under-Represented People in Tech
+title: No-bullshit Coaching for Folks in Tech — Specialist Support for Neurodivergent, Queer and Disabled People
 display_title: Coaching for folks in tech
 title_sub: who want more power, more credit, and less bullshit.
-description: No-bullshit 1:1 coaching for neurodivergent, queer, and under-represented folks in tech who want more power, more credit, and less bullshit — from a coach who has lived this from the inside.
+description: No-bullshit 1:1 coaching for folks in tech who want more power, more credit, and less bullshit — with specialist support for neurodivergent, queer, and disabled people.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
