@@ -19,7 +19,7 @@
 
 ## Bigger bets — new offers or new audiences
 
-- [ ] Build dedicated founders/CTO coaching page (coaching-founders.md) — founders and CTOs named explicitly as audience; update coaching.md split page to link to it
+- [x] Build dedicated founders/CTO coaching page (coaching-founders.md) — founders and CTOs named explicitly as audience; update coaching.md split page to link to it
 
 - [ ] Add monthly retainer offer (2 sessions/month + async check-in, £350–400/month)
 - [ ] Build corporate/team coaching page with L&D-framed pricing
