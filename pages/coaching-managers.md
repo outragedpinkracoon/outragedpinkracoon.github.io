@@ -5,6 +5,7 @@ title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
 title_sub: because there's no undo button for people.
 description: No-bullshit remote 1:1 coaching for engineering managers, team leads, and heads of function, from an ILM certified coach and former tech exec who has navigated every bit of this from the inside.
+show_teams_card: true
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
