@@ -19,7 +19,7 @@ description: No-bullshit 1:1 coaching for founders, early-stage CEOs, and CTOs i
 
 <div class="callout callout--teal" style="clear: both; margin-top: 2rem;">We get to the actual problem fast. Not the one you came in with — the one underneath it.</div>
 
-<p>As an ILM certified coach with VP Engineering and Interim CTO experience, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have coached 150+ founders through exactly this. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
+<p>As an ILM certified coach with VP Engineering and Interim CTO experience, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have coached 100+ founders through exactly this. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
 
 {% include credibility-strip.html %}
 
@@ -75,7 +75,7 @@ description: No-bullshit 1:1 coaching for founders, early-stage CEOs, and CTOs i
 
 <p>Because I have been in this room. Not as an observer — as the person making the calls, holding the team, carrying the weight of it, and figuring out how to keep functioning while all of that is happening.</p>
 
-<p>I spent nearly two decades in tech. I have led organisations of 120+ people. I have been the Interim CTO brought in when things were on fire. I have coached 150+ founders through the specific chaos of building something from nothing while also becoming a manager, a leader, and sometimes an accidental therapist to everyone around them.</p>
+<p>I spent nearly two decades in tech. I have led organisations of 120+ people. I have been the Interim CTO brought in when things were on fire. I have coached 100+ founders through the specific chaos of building something from nothing while also becoming a manager, a leader, and sometimes an accidental therapist to everyone around them.</p>
 
 <p>I know what it is to be the person everyone needs to look steady. I also know that steadiness has a cost, and what to do when you are running out of it.</p>
 

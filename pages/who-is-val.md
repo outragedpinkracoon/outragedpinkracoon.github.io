@@ -65,7 +65,7 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
     <h3>Coaching and training</h3>
     <ul>
       <li>ILM Level 5 Executive Coach</li>
-      <li>500+ coached, 150+ founders</li>
+      <li>300+ coached, 100+ founders</li>
       <li><a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank" rel="noopener noreferrer">Dare to Lead&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
       <li><a href="https://coachlead.co/leaders-who-coach/" target="_blank" rel="noopener noreferrer">Leaders Who Coach&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
       <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Shit I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
