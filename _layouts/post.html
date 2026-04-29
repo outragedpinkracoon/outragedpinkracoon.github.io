@@ -17,5 +17,5 @@ layout: default
       {{ content }}
     </div>
   </article>
-  <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Bring me your mess</a></p>
+  {% unless page.categories contains 'haiku' %}<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Bring me your mess</a></p>{% endunless %}
 </div>
