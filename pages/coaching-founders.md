@@ -3,7 +3,7 @@ layout: info_page
 permalink: /coaching/founders/
 title: No-bullshit 1:1 Coaching for Founders and CTOs in Tech
 display_title: Coaching for founders and CTOs
-title_sub: because making hard calls alone is unsustainable.
+title_sub: because making hard calls alone sucks.
 description: No-bullshit 1:1 coaching for founders, early-stage CEOs, and CTOs in tech — from an ILM certified coach and former tech exec who has made these exact calls and knows what they cost.
 ---
 
