@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /coaching/founders/
-title: No-bullshit 1:1 Coaching for Founders and CTOs in Tech
+title: Coaching for Founders, CTOs and Early-Stage CEOs in Tech
 display_title: Coaching for founders and CTOs
 title_sub: because making hard calls alone sucks.
-description: No-bullshit 1:1 coaching for founders, early-stage CEOs, and CTOs in tech — from an ILM certified coach and former tech exec who has made these exact calls and knows what they cost.
+description: No-bullshit 1:1 coaching for founders, CTOs, and early-stage CEOs in tech. ILM certified coach, former VP Engineering and Interim CTO, 100+ founders coached. Remote, direct, no waffle.
 hide_self_funding_note: true
 show_teams_card: true
 ---
@@ -13,7 +13,7 @@ show_teams_card: true
 
 <p class="page-intro"><strong>You are making decisions alone, at speed, with nobody to reality-check you.</strong></p>
 
-<p>There is no manager above you, no peer group who gets the full picture, and most of the people around you need you to look like you know what you are doing. That's the reality of being a founder.</p>
+<p>There is no manager above you, no peer group who gets the full picture, and most of the people around you need you to look like you know what you are doing. That's the reality of being a founder or CTO.</p>
 
 <p>So you keep making the calls. And some of them are fine. And some of them you are less sure about than you let on.</p>
 
