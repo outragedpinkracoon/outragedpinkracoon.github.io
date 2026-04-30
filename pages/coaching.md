@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /coaching/
-title: No-bullshit 1:1 Coaching for Engineering Managers and Neurodivergent, Queer & Under-Represented Folks in Tech
+title: No-bullshit 1:1 Coaching for Engineering Managers, Founders, CTOs and Folks in Tech
 display_title: No-bullshit coaching
 title_sub: three kinds of mess. pick yours.
-description: No-bullshit 1:1 coaching for engineering managers and folks in tech, from an ILM certified coach and former tech exec who has seen this exact mess before. Specialist support for neurodivergent and queer people.
+description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, and folks in tech. ILM certified coach and former tech exec. Specialist support for neurodivergent and queer people.
 show_cta: false
 ---
 
@@ -31,9 +31,9 @@ show_cta: false
 
   <section class="audience-panel audience-panel--manager">
     <p class="audience-label">For founders and CTOs</p>
-    <h3><a href="/coaching/founders/">I'm a founder with no one to think out loud with</a></h3>
-    <p>You are making decisions alone, at speed, with no one to reality-check you. The isolation is real and it costs you.</p>
-    <p>I've coached 100+ founders through exactly this — the people chaos, the hard calls, the moments where you genuinely don't know what to do next and can't admit that to anyone.</p>
-    <p><a class="pricing-cta" href="/coaching/founders/">Bring me the founder mess</a></p>
+    <h3><a href="/coaching/founders/">I'm making hard calls with no one to reality-check me</a></h3>
+    <p>You are at the top, making decisions alone, at speed, with no one who gets the full picture.</p>
+    <p>I've coached 100+ founders and CTOs through exactly this — the people chaos, the hard calls, the moments where you genuinely don't know what to do next and can't admit that to anyone.</p>
+    <p><a class="pricing-cta" href="/coaching/founders/">Bring me the mess</a></p>
   </section>
 </div>
