@@ -1,6 +1,6 @@
 ## Checklist
 
-- [x] **Who Is Val** — full rewrite (flip authority before identity, keep key lines, add "never had a manager who looked like her")
+- [x] **Who Is Val** — full rewrite (flip authority before identity, keep key lines, add "never had a manager who looked like her") ✓ done
 - [ ] **Coaching landing page** — refresh intro copy to reflect new positioning (messy, human, hard parts)
 - [ ] **Founders/CTOs page** — add retainer option (above £2k/month, long-game framing, pricing TBD)
 - [ ] **All coaching pages** — update header strip to reflect dual positioning (Fractional CTO + Coach)
