@@ -4,7 +4,7 @@ permalink: /fractional-cto/
 title: Fractional CTO Services for Tech Startups and Scale-ups
 display_title: Fractional CTO
 title_sub: on the ground, no corporate bullshit.
-description: "Fractional CTO services for startups and scale-ups. Nearly two decades in tech, VP Engineering and Acting CTO experience, 5+ multi-million dollar transformations. £1,600/day. Remote or on-site."
+description: "Fractional CTO services for startups and scale-ups. Nearly two decades in tech, VP Engineering and Acting CTO experience, 5+ multi-million dollar transformations. £1,600/day. Remote."
 ---
 
 <div class="who-hero">
@@ -90,9 +90,15 @@ description: "Fractional CTO services for startups and scale-ups. Nearly two dec
 
 <p>I spent nearly two decades in tech. I have led engineering organisations of 120+ people. I have been the Acting CTO brought in when things were on fire. I have worked across MedTech, FinTech, InsurTech, AppSec, agency and other domains. I know what good looks like and I know what the warning signs look like before they become expensive.</p>
 
+<p>To give you a sense of what this looks like in practice: I have cut cycle times by 60%, reduced incidents by 50%, and saved £1m+ annually through delivery transformation and AI adoption across multiple organisations. These are not theoretical outcomes. They are the result of being in the room, making the calls, and knowing what actually moves the needle.</p>
+
 <div class="callout callout--teal">I will not waste your time getting up to speed. I will tell you what you need to hear. And I will make a plan to get you where you need to be.</div>
 
-<p>I also coach, which means I don't just fix the technical situation, I help the people in it get better at navigating it. The two things go together.</p>
+<p>I also coach, which means I don't just fix the technical situation. I help the people in it get better at navigating it. The two things go together.</p>
+
+<h2>How engagements work</h2>
+
+<p>I work on a day-rate basis. Some engagements are focused and defined: a tech assessment, a due diligence review, a delivery transformation. Some are ongoing while things are moving fast. Typical engagements run from a few days to several months. We agree scope and expected days upfront so there are no surprises.</p>
 
 <h2>Pricing</h2>
 
@@ -101,13 +107,26 @@ description: "Fractional CTO services for startups and scale-ups. Nearly two dec
     <span class="pricing-badge">Day rate</span>
     <p class="pricing-amount">£1,600</p>
     <p class="pricing-title">Per day</p>
-    <p class="pricing-subtitle">Remote or on-site. Scope and minimum engagement agreed upfront.</p>
+    <p class="pricing-subtitle">Remote. Typical engagements run from a few days to several months depending on what you need. Scope agreed upfront.</p>
     <ul class="pricing-includes">
       <li>Direct, no-bullshit engagement from someone who has been in this exact situation before.</li>
       <li>No expensive ramp-up time. I get to the actual problem fast.</li>
       <li>I'll tell you what you need to hear, not what you want to hear.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry">Get in touch</a>
+  </div>
+
+  <div class="pricing-card">
+    <span class="pricing-badge">Bespoke</span>
+    <p class="pricing-title">Consultancy engagement</p>
+    <p class="pricing-subtitle">For defined pieces of work. Scoped, priced, and delivered.</p>
+    <p class="pricing-saving">Pricing on application</p>
+    <ul class="pricing-includes">
+      <li>Culture audits, tech assessments, due diligence, delivery reviews.</li>
+      <li>Clear scope, clear output, clear price. Agreed before we start.</li>
+      <li>No open-ended engagements, no scope creep, no surprises.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry">Let's talk</a>
   </div>
 </div>
 
