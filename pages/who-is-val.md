@@ -40,7 +40,7 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
 
 <h2>The kind of coach I am</h2>
 
-<div class="callout callout--teal">This is not "how do I feel about that?" coaching. This is "what's actually going on, what matters, and what are you going to do about it?" coaching.</div>
+<p class="pull-quote">This is not "how do I feel about that?" coaching. This is "what's actually going on, what matters, and what are you going to do about it?" coaching.</p>
 
 <p>I am direct, warm, curious and allergic to corporate bullshit.</p>
 
@@ -48,7 +48,7 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
 
 <p>I know what it is to become a manager without any help and figure it out anyway. I know what it takes to navigate unreasonable standards, build something real under pressure, and come out the other side wearing a f*cking crown like the queen you are.</p>
 
-<p>I coach people in the situations I've been in, as someone who is neurodivergent, disabled, queer, and still very much here.</p>
+<div class="callout">I coach people in the situations I've been in, as someone who is neurodivergent, disabled, queer, and still very much here.</div>
 
 <p>I do not treat confidence, burnout, masking, management or career decisions as individual failings. People exist inside systems. Some of those systems are ridiculous. Whatever is keeping you up at 3am, I've lived it. Nothing scares me.</p>
 
@@ -79,9 +79,16 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
 
 <h2>The human bit</h2>
 
-<p>I am not only a coach or exec-shaped person. I make things because making things is how I play, process, breathe, and refuse to become exhausted and dead behind the eyes.</p>
+<p>I am not only a coach. I make things because making things is how I play, process, breathe, and refuse to become a hollow shell of a human being.</p>
 
-<p>I draw. I write. I sew. I run TTRPG campaigns. I play video games. And I read an unreasonable amount of romantasy.</p>
+<ul class="human-list">
+  <li><strong>I draw.</strong> <span>My brain shifts into a different mode and half my best ideas show up uninvited. I run art sessions for others because creativity and play matter, and I want more people to have access to both.</span></li>
+  <li><strong>I write.</strong> <span>Because life needs more whimsy and corporate vampire smut to get us through hard days.</span></li>
+  <li><strong>I sew.</strong> <span>Because I want to wear colourful, fun shit and the shops won't provide.</span></li>
+  <li><strong>I run and create TTRPG campaigns and solo play mechanics.</strong> <span>Storytelling, improv, and keeping six chaotic players from damaging themselves — turns out it sharpens the same skills as running an exec team.</span></li>
+  <li><strong>I play video games.</strong> <span>Because catching Pokémon counts as spiritual rest.</span></li>
+  <li><strong>I read an unreasonable amount of romantasy.</strong> <span>No notes.</span></li>
+</ul>
 
 <div class="creative-showcase card-grid" aria-label="Creative work by Val">
   <div class="card creative-feature">

@@ -1750,6 +1750,36 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   margin: 1.8rem 0 2rem;
 }
 
+.human-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 2rem;
+
+  li {
+    padding: 0.9rem 0;
+    border-bottom: 2px solid rgba($ink, 0.1);
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    strong {
+      display: block;
+      font-family: $font-primary;
+      font-size: 1.05rem;
+    }
+
+    span {
+      color: rgba($ink, 0.7);
+      font-size: 0.95rem;
+    }
+  }
+}
+
+body.reading-mode .human-list li {
+  border-bottom-color: rgba($ink, 0.15);
+}
+
 .credentials-grid .card:nth-child(1) {
   background: darken($orange, 4%);
   color: $cream;
