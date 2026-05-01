@@ -1931,6 +1931,15 @@ body.reading-mode .human-list li {
   margin-top: 0;
 }
 
+.who-hero__text .credibility-strip {
+  margin-top: 1.2rem;
+  margin-bottom: 0;
+
+  @include respond-to('large') {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // BLOCKQUOTE / TESTIMONIALS
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
