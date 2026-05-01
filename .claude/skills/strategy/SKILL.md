@@ -23,7 +23,7 @@ Don't proceed until she's chosen. If she's already stated a specific question in
 
 For either mode, start by:
 1. Reading `tasks.md` for current priorities and in-progress work — don't recommend things already being done
-2. Reading the current coaching pages (`coaching-managers.md`, `coaching-folks-in-tech.md`, `coaching.md`, `who-is-val.md`) for the actual live offer, pricing, and credentials — do not rely on memory or assumptions
+2. Reading `.claude/skills/site-pages.md` for the index of all main pages and includes, then read the relevant files directly for the actual live offer, pricing, and credentials — do not rely on memory or assumptions
 3. For pricing/positioning comparisons, refer to the competitor memory for Atty Cronin (attycronin.com). Atty no longer publishes prices publicly, but her 6-session programme was £1,500 (£250/session) as of April 2026. Atty does not have Val's exec credentials (no VP/CTO, no ILM L5, no 500+ coached, no tech sector specialism). Atty's pricing is a floor, not a ceiling — Val should be at or above it. Do not fetch attycronin.com for pricing; the prices have been removed.
 3. Work through the lenses below. Don't just audit — propose specific moves. For each problem you name, say what to do about it.
 

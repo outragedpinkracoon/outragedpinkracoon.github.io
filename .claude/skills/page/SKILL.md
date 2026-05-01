@@ -2,9 +2,10 @@
 
 You are writing, editing, or reviewing a page on Val Dryden's coaching site. Copy and design are the same decision here — you handle both together. Apply all rules below without being asked.
 
-**Read both of these skills in full before doing anything:**
+**Read all of these before doing anything:**
 - `.claude/skills/copywrite/skill.md` — voice, audience, conversion rules, reference copy
 - `.claude/skills/design/skill.md` — aesthetic, palette, constraints, SCSS structure
+- `.claude/skills/site-pages.md` — index of all main pages and shared includes
 
 Everything in those files applies here. The sections below are page-specific additions only.
 
