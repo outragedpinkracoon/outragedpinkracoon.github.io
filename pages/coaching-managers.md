@@ -72,7 +72,7 @@ show_teams_card: true
   </figure>
 </div>
 
-<p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want to get the foundations in place first, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is a good place to start — then come back when it gets live.</p>
+<p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want to get the foundations in place first, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is a good place to start. Then come back when it gets live.</p>
 
 {% include session-process.html %}
 
@@ -110,13 +110,28 @@ show_teams_card: true
     <p><span class="quote-author">— Olwen Milne, Senior Engineering Manager @ Oak National Academy</span></p>
   </blockquote>
 
-  <blockquote class="testimonial-card">
-    <p class="testimonial-tag">New leadership role</p>
-    <p class="testimonial-pullquote">“She coached me through the practical issues and emotional regulation needed to excel.”</p>
+  <blockquote class=”testimonial-card”>
+    <p class=”testimonial-tag”>New leadership role</p>
+    <p class=”testimonial-pullquote”>”She coached me through the practical issues and emotional regulation needed to excel.”</p>
     <p>I’ve always believed that when you move into a new situation, the best thing you can do is reach out to people who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
     <p>She coached me through the practical issues and emotional regulation needed to excel in this role, and avoid traps common with people moving into more leadership-oriented positions from technical backgrounds.</p>
-    <p>If you are moving into a leadership role from engineering, or are in such a role and struggling, I can strongly recommend Valerie as a coach and mentor.</p>
-    <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
+    <p><span class=”quote-author”>— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
+  </blockquote>
+
+  <blockquote class=”testimonial-card”>
+    <p class=”testimonial-tag”>Transformed as a leader</p>
+    <p class=”testimonial-pullquote”>”Valerie transformed my understanding of what a leader and manager can be.”</p>
+    <p>With empathy as her superpower, she created an open, honest and brave space where I felt seen, heard and supported. Using her coaching leadership style she helped me tackle complex people issues and as a result I have grown significantly as a person, leader and manager.</p>
+    <p>Valerie has an infectious enthusiasm which allowed me to be brave and explore new areas I would have shied away from. I also benefitted greatly from her clear, kind and actionable feedback.</p>
+    <p><span class=”quote-author”>— Tobi Tonner, Brave Leadership Coach</span></p>
+  </blockquote>
+
+  <blockquote class=”testimonial-card”>
+    <p class=”testimonial-tag”>Best manager I’ve had</p>
+    <p class=”testimonial-pullquote”>”Val is quite simply the best manager I’ve ever had.”</p>
+    <p>She has helped me to grow and develop and learn in ways I had not considered before — by showing me how to reflect and have confidence in the skills and experience I already have, and where to focus new learning. She gave me the tools, freedom, resources, and connections I need to flourish.</p>
+    <p>Val is a true leader, leading by example, and allowing those she leads to be their best.</p>
+    <p><span class=”quote-author”>— Barry Northern, Lead Engineer @ Thirdfort</span></p>
   </blockquote>
 </div>
 
