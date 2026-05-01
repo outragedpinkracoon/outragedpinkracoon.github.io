@@ -16,7 +16,7 @@ defaults:
       path: ""
     values:
       image: /assets/images/site/racoon.jpg
-      subtitle: Fractional CTO & Executive Coach | Neurodivergent | Queer | Non-binary | Chief Racoon Officer
+      subtitle: Fractional CTO | ILM Executive Coach | Neurodivergent | Queer | Chief Racoon Officer
   - scope:
       path: ""
       type: posts

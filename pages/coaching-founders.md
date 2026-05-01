@@ -4,7 +4,7 @@ permalink: /coaching/founders/
 title: Coaching for Founders, CTOs and Early-Stage CEOs in Tech
 display_title: Coaching for founders and CTOs
 title_sub: because making hard calls alone sucks.
-description: No-bullshit 1:1 coaching for founders, CTOs, and early-stage CEOs in tech. ILM certified coach, Fractional CTO, VP Engineering, 100+ founders coached. Remote, direct, no waffle.
+description: No-bullshit 1:1 coaching for founders, CTOs, and early-stage CEOs in tech. ILM certified Executive Coach, Fractional CTO, VP Engineering, 100+ founders coached. Remote, direct, no waffle.
 hide_self_funding_note: true
 show_teams_card: true
 ---
@@ -23,7 +23,7 @@ show_teams_card: true
 
 <div class="callout callout--teal" style="clear: both; margin-top: 2rem;">We get to the actual problem fast. Not the one you came in with — the one underneath it.</div>
 
-<p>As a Fractional CTO and ILM certified coach with VP Engineering experience, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have coached 100+ founders through exactly this. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
+<p>As a Fractional CTO and ILM certified Executive Coach with VP Engineering experience, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have coached 100+ founders through exactly this. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
 
 <h2>Who I work with</h2>
 

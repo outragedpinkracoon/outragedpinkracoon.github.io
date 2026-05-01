@@ -22,7 +22,7 @@ show_teams_card: true
 
 <div class="callout--teal callout" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</div>
 
-<p>As a Fractional CTO, ILM certified coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
+<p>As a Fractional CTO, ILM certified Executive Coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
 
 <h2>Who I work with</h2>
 
