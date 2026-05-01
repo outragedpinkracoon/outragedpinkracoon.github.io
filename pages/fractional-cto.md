@@ -117,18 +117,35 @@ description: "Fractional CTO services for startups and scale-ups. Nearly two dec
 
 <div class="testimonial-grid">
   <blockquote class="testimonial-card">
-    <p class="testimonial-tag">Promotion</p>
-    <p class="testimonial-pullquote">"By September I'd been promoted to Director of Engineering -- much faster than I'd expected."</p>
-    <p>I asked Valerie to be my career coach when I joined Speechmatics as a senior team lead in January 2024. We had regular sessions during the year, and by September I'd been promoted to Director of Engineering -- much faster than I'd expected to achieve. Val's coaching was a huge part of my ability to hit this goal.</p>
-    <p><span class="quote-author">— Teri Drummond, VP Engineering @ Speechmatics</span></p>
+    <p class="testimonial-tag">VP & transformation</p>
+    <p class="testimonial-pullquote">"She has transformed the Technology organization in our time together."</p>
+    <p>Val is my VP and I have reported to her for just over a year. It has been a huge pleasure to work with her on many complex technological and organizational challenges — including shaping critical technology decisions, setting guardrails in place, and balancing feature delivery against maintenance needs.</p>
+    <p>She has an inimitable style of leadership — a capacity to both demand the best of you whilst simultaneously making the hard work fun. She has transformed the Technology organization in our time together, using her profound software engineering experience and honed managerial skills to elevate and grow both individuals and the business as a whole.</p>
+    <p><span class="quote-author">— Tom Welch, Head of Engineering</span></p>
   </blockquote>
 
   <blockquote class="testimonial-card">
-    <p class="testimonial-tag">Leadership growth</p>
-    <p class="testimonial-pullquote">"I have learnt more from working with Val than I ever thought possible."</p>
-    <p>When applying for my first EM role, the recruiter told me, "Oh, you'll talk to Val first. She is something special." He could not have been more right. Ever since that first Zoom, Val's energy, expertise and passion have been a guiding light in my career.</p>
-    <p>She is authentic, tough, compassionate, and absolutely will not give you an easy ride. I have learnt more from working with Val than I ever thought possible.</p>
-    <p><span class="quote-author">— Olwen Milne, Senior Engineering Manager @ Oak National Academy</span></p>
+    <p class="testimonial-tag">Engineering leadership</p>
+    <p class="testimonial-pullquote">"Her leadership played a pivotal role in the team's growth and development, taking them to new heights."</p>
+    <p>I had the privilege of working closely with Valerie during her tenure as Head of Platform Engineering at Zego. I witnessed her incredible ability to manage a diverse team of around 50 individuals, overseeing business critical engineering teams. Her leadership played a pivotal role in the team's growth and development, taking them to new heights.</p>
+    <p>What sets Valerie apart as a leader is her genuine care for her team members. She puts people first, valuing their well-being, opinions, and career aspirations. As a result, the team's morale soared, and the overall performance improved significantly.</p>
+    <p><span class="quote-author">— Sean King, CEO @ Dragonfly</span></p>
+  </blockquote>
+
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Delivery and culture</p>
+    <p class="testimonial-pullquote">"Val is dedicated to making the bold decisions needed whilst carefully thinking through all the implications of change."</p>
+    <p>Val is quite simply the best manager I've ever had. She cares deeply about her engineering team as a whole, and how to improve the ways they work, grow, collaborate, and manage themselves.</p>
+    <p>She is dedicated to ensuring we become more high performing, deliver with more velocity and reliability, to making the bold decisions needed, and challenging preconceptions, whilst carefully thinking through all the implications of change, and helping us navigate through them with a steady hand.</p>
+    <p><span class="quote-author">— Barry Northern, Lead Engineer @ Thirdfort</span></p>
+  </blockquote>
+
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Strategic and human</p>
+    <p class="testimonial-pullquote">"She understands both tactical and strategic sides of navigating growth."</p>
+    <p>Val is hands-down one of the most fascinating leaders I had the pleasure of working with. Her dedication to people as the heart and driving force behind any business is remarkable, and she guides organisations with energy, grace and empathy.</p>
+    <p>She understands both tactical and strategic sides of navigating growth, and is able to set ambitious goals while advocating for people's wellbeing and personal development.</p>
+    <p><span class="quote-author">— Yan Ramos da Silva, Senior Engineering Manager - AI &amp; Automation</span></p>
   </blockquote>
 </div>
 
