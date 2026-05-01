@@ -406,10 +406,14 @@ hr {
   }
 }
 
+.page-header-cta {
+  margin-bottom: 3.5rem;
+}
+
 .header-cta {
   @extend %btn-base;
-  padding: 0.7rem 2.2rem;
-  font-size: 0.88rem;
+  padding: 0.9rem 2.8rem;
+  font-size: 1rem;
   background: darken($magenta, 6%);
   color: $cream;
   // off-register ink shadow
