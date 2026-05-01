@@ -25,7 +25,7 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
     </ul>
   </div>
   <div class="card card--static credential-card">
-    <h3>The coaching</h3>
+    <h3>Coaching credentials</h3>
     <ul>
       <li>ILM Level 5 Executive Coach</li>
       <li>300+ coached, 100+ founders</li>
@@ -48,7 +48,7 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
 
 <p>I know what it is to become a manager without any help and figure it out anyway. I know what it takes to navigate unreasonable standards, build something real under pressure, and come out the other side wearing a f*cking crown like the queen you are.</p>
 
-<div class="callout">I coach people in the situations I've been in, as someone who is neurodivergent, disabled, queer, and still very much here.</div>
+<p>I coach people in the situations I've been in, as someone who is neurodivergent, disabled, queer, and still very much here.</p>
 
 <p>I do not treat confidence, burnout, masking, management or career decisions as individual failings. People exist inside systems. Some of those systems are ridiculous. Whatever is keeping you up at 3am, I've lived it. Nothing scares me.</p>
 

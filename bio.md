@@ -17,14 +17,14 @@ I've seen some sh*t I tell you.
 
 I work in two modes.
 
-As a Fractional CTO I embed directly — on the ground, no corporate bullshit. Tech due diligence, tech and culture assessments, delivery transformation, AI adoption. I'll tell you what you need to hear and make a plan to get you where you need to be.
-
 As an Executive Coach I use everything I've learned to coach people through the exact situations I've been in.
 🫟 A messy people issue.
 🎯 A difficult strategic decision.
 💼 A career crossroads or missed promotion.
 😩 A constant feeling of overwhelm.
 🧠 A neurodivergent brain being failed by a neurotypical system.
+
+As a Fractional CTO I embed directly on the ground, no corporate bullshit. Tech due diligence, tech and culture assessments, delivery transformation, AI adoption. I'll tell you what you need to hear and make a plan to get you where you need to be.
 
 Whoever you are and whatever is keeping you up at 3am, I've lived it.
 🔥 Nothing scares me.
