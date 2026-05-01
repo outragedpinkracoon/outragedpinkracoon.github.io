@@ -75,7 +75,7 @@ description: No-bullshit 1:1 coaching for folks in tech who want more power, mor
 
 <p>Because I do not look at being overlooked, underestimated, burned out, or quietly furious and reduce it all to “have you tried believing in yourself more?”</p>
 
-<p>I have nearly two decades in tech, ILM Level 5 executive coaching, and VP Engineering and Interim CTO experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
+<p>I have nearly two decades in tech, ILM Level 5 executive coaching, and Fractional CTO and VP Engineering experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
 
 {% include credibility-strip.html %}
 

@@ -1873,6 +1873,36 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   }
 }
 
+// Who Is Val hero — explicit grid replacing float for clean layout
+.who-hero {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  margin-bottom: 2rem;
+
+  @include respond-to('medium') {
+    grid-template-columns: 1fr 260px;
+    gap: 2.5rem;
+  }
+}
+
+.who-hero__image {
+  display: block;
+  width: 260px;
+  margin: 0 auto;
+  transform: rotate(2deg);
+  box-shadow: 8px 8px 0 $magenta;
+
+  @include respond-to('medium') {
+    margin: 0;
+  }
+}
+
+.who-hero__text p {
+  margin-top: 0;
+}
+
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // BLOCKQUOTE / TESTIMONIALS
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
