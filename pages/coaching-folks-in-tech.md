@@ -15,7 +15,9 @@ description: No-bullshit 1:1 coaching for folks in tech who want more power, mor
 <p>You might already be doing the job without the title, the credit, or the money. You might be ambitious as hell and bored of being underestimated. You might be exhausted from making yourself easier to digest.</p>
 <p>Or maybe nothing is on fire. Maybe you have just realised you want more than this, and you are done trying to earn it by quietly swallowing shit.</p>
 
-<p>As an ILM certified coach, former tech exec, neurodivergent, queer, non-binary and disabled person, I help folks in tech stop circling the same problem and make a cleaner move. Sometimes that's one sharp conversation. Sometimes you need someone who already knows the context while you navigate something that keeps shifting.</p>
+<p>As a Fractional CTO, ILM certified coach, neurodivergent, queer, non-binary and disabled person, I help folks in tech stop circling the same problem and make a cleaner move. Sometimes that's one sharp conversation. Sometimes you need someone who already knows the context while you navigate something that keeps shifting.</p>
+
+{% include credibility-strip.html %}
 
 <p class="callout callout--teal">We will work out what is real, what is noise, what is costing you, and what the hell to do next.</p>
 
@@ -76,8 +78,6 @@ description: No-bullshit 1:1 coaching for folks in tech who want more power, mor
 <p>Because I do not look at being overlooked, underestimated, burned out, or quietly furious and reduce it all to “have you tried believing in yourself more?”</p>
 
 <p>I have nearly two decades in tech, ILM Level 5 executive coaching, and Fractional CTO and VP Engineering experience. I have led teams, held power, navigated org politics, and coached people through promotions, burnout, conflict, bad bosses, and some genuinely awful situations.</p>
-
-{% include credibility-strip.html %}
 
 <p>I’m also neurodivergent, queer, non-binary and disabled. I know what it feels like to be good at what you do and still have to fight to be read accurately. I also know what it takes to stop absorbing the cost and start moving on your own terms.</p>
 
