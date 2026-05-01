@@ -4,7 +4,7 @@ permalink: /coaching/founders/
 title: Coaching for Founders, CTOs and Early-Stage CEOs in Tech
 display_title: Coaching for founders and CTOs
 title_sub: because making hard calls alone sucks.
-description: No-bullshit 1:1 coaching for founders, CTOs, and early-stage CEOs in tech. ILM certified coach, former VP Engineering and Interim CTO, 100+ founders coached. Remote, direct, no waffle.
+description: No-bullshit 1:1 coaching for founders, CTOs, and early-stage CEOs in tech. ILM certified coach, Fractional CTO, VP Engineering, 100+ founders coached. Remote, direct, no waffle.
 hide_self_funding_note: true
 show_teams_card: true
 ---
@@ -21,7 +21,7 @@ show_teams_card: true
 
 <div class="callout callout--teal" style="clear: both; margin-top: 2rem;">We get to the actual problem fast. Not the one you came in with — the one underneath it.</div>
 
-<p>As an ILM certified coach with VP Engineering and Interim CTO experience, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have coached 100+ founders through exactly this. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
+<p>As a Fractional CTO and ILM certified coach with VP Engineering experience, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have coached 100+ founders through exactly this. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
 
 {% include credibility-strip.html %}
 
@@ -77,7 +77,7 @@ show_teams_card: true
 
 <p>Because I have been in this room. Not as an observer — as the person making the calls, holding the team, carrying the weight of it, and figuring out how to keep functioning while all of that is happening.</p>
 
-<p>I spent nearly two decades in tech. I have led organisations of 120+ people. I have been the Interim CTO brought in when things were on fire. I have coached 100+ founders through the specific chaos of building something from nothing while also becoming a manager, a leader, and sometimes an accidental therapist to everyone around them.</p>
+<p>I spent nearly two decades in tech. I have led organisations of 120+ people. I have been the person brought in as Acting CTO when things were on fire. I have coached 100+ founders through the specific chaos of building something from nothing while also becoming a manager, a leader, and sometimes an accidental therapist to everyone around them.</p>
 
 <p>I know what it is to be the person everyone needs to look steady. I also know that steadiness has a cost, and what to do when you are running out of it.</p>
 

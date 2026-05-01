@@ -1,48 +1,71 @@
 ---
 layout: info_page
 permalink: /who-is-val/
-title: Who Is Val Dryden? Tech Exec, Coach, and Chaos Untangler
+title: Who Is Val Dryden? Fractional CTO and Executive Coach
 display_title: Who is Val?
-description: "Meet Val Dryden: ILM certified coach, tech exec, neurodivergent and queer, and the person in your corner who has seen this exact mess before and knows how to untangle it."
+description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach with nearly two decades in tech. Fractional CTO, VP Engineering. 300+ people coached. No-bullshit support for the messy, human, hard parts of working in tech."
 ---
-<img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
-
-<p>I’m Valerie Dryden, an ILM certified coach, tech exec, and professional chaos untangler based in Scotland, working remotely with clients worldwide.</p>
-
-<p>I spent nearly two decades in tech as an engineer, a manager and a senior exec. I’m neurodivergent, queer, non-binary and disabled. My career covered everything from junior dev to VP Engineering and Interim CTO, plus enough genuinely terrible situations to know what they look like from every angle.</p>
-
-<p>I now coach the people I used to be: new managers thrown in the deep end, and people in tech who need a mess untangled or are exhausted from performing a version of themselves that feels wrong.</p>
-
-{% include credibility-strip.html %}
-
-<p>I know what it feels like to be held to unreasonable standards, left to get on with it alone, and praised for resilience when what you actually needed was support.</p>
-
-<p>I also know what it is to become a manager without any help, and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. I figured it out alone. I make sure other people do not have to.</p>
-
-<div class="callout">I coach because I have navigated this broken system from the inside and I know how to help people stop flailing, see clearly, and start kicking ass.</div>
-
-<p>That history shapes how I coach. I do not treat confidence, burnout, masking, management or career decisions as individual failings. People exist inside systems. Some of those systems are ridiculous.</p>
-
-## The kind of coach I am
-
-I am direct, warm, curious and allergic to corporate bullshit.
-
-I will not sit there nodding while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.
-
-<div class="callout callout--teal">
-This is not “how do I feel about that?” coaching. This is “what’s actually going on, what matters, and what are you going to do about it?” coaching.
+<div class="who-hero">
+  <div class="who-hero__text">
+    <p>I'm Valerie Dryden. I've worked in tech for nearly two decades — from hands-on engineering all the way up to VP Engineering and Acting CTO. I've seen some sh*t, I tell you.</p>
+  </div>
+  <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="who-hero__image">
 </div>
 
-I've written the code, sat through the standups, stared into the production incident abyss, and I know what this work feels like from the inside. So when mentoring is useful, I bring nearly two decades of engineering and executive leadership experience into the room.
+<div class="credentials-grid card-grid">
+  <div class="card card--static credential-card">
+    <h3>The track record</h3>
+    <ul>
+      <li>5+ multi-million dollar transformations in companies up to $300M ARR</li>
+      <li>Cut cycle times by 60%, incidents by 50%, defects by 40%</li>
+      <li>Saved £1m+ annually through delivery transformation and AI adoption, multiple times</li>
+      <li>Cloud migrations with zero downtime. ISO 27001/13485 audits delivered.</li>
+      <li>Cultures moved from fear to empowerment, diversity increased by 55–60%</li>
+      <li>Led engineering organisations of 120+ people</li>
+    </ul>
+  </div>
+  <div class="card card--static credential-card">
+    <h3>The coaching</h3>
+    <ul>
+      <li>ILM Level 5 Executive Coach</li>
+      <li>300+ coached, 100+ founders</li>
+      <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Shit I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> — 100+ graduates, 200+ member community</li>
+      <li>Co-created the curriculum for Scotland's first coding academy</li>
+      <li><a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank" rel="noopener noreferrer">Dare to Lead&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
+      <li><a href="https://coachlead.co/leaders-who-coach/" target="_blank" rel="noopener noreferrer">Leaders Who Coach&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
+      <li>BSc Computer Science (First Class). BA Accountancy &amp; Finance.</li>
+    </ul>
+  </div>
+</div>
 
-## What I stand for
+<h2>I work in two modes</h2>
 
-Weird is welcome. You do not need to become smoother, smaller or more palatable to be worth listening to. Weird, tired, furious, ambitious, confused and brilliant can all come in.
+<p>As a <strong>Fractional CTO</strong> I embed directly — on the ground, no corporate bullshit. Tech due diligence, tech and culture assessments, delivery transformation, AI adoption. I'll tell you what you need to hear and make a plan to get you where you need to be.</p>
+
+<p>As an <strong>Executive Coach</strong> I use everything I've learned to coach people through the exact situations I've been in: the messy people issues, the difficult strategic decisions, the career crossroads, the overwhelm, the moments where you genuinely don't know what to do next and can't admit that to anyone.</p>
+
+<div class="callout callout--teal">This is not "how do I feel about that?" coaching. This is "what's actually going on, what matters, and what are you going to do about it?" coaching.</div>
+
+<h2>The kind of coach I am</h2>
+
+<p>I am direct, warm, curious and allergic to corporate bullshit.</p>
+
+<p>I will not sit there nodding while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.</p>
+
+<p>I know what it is to become a manager without any help and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. I know what it feels like to be held to unreasonable standards, left to get on with it alone, and praised for resilience when what you actually needed was support. I never had a manager who looked like me. That's the reason I do this.</p>
+
+<div class="callout">I coach the people I used to be — including the neurodivergent, disabled and queer version of me.</div>
+
+<p>I do not treat confidence, burnout, masking, management or career decisions as individual failings. People exist inside systems. Some of those systems are ridiculous. Whatever is keeping you up at 3am, I've lived it. Nothing scares me.</p>
+
+<h2>What I stand for</h2>
+
+<p>Weird is welcome. You do not need to become smoother, smaller or more palatable to be worth listening to. Weird, tired, furious, ambitious, confused and brilliant can all come in.</p>
 
 <div class="values-grid">
   <div class="value-card">
     <h3>Directness with kindness</h3>
-    <p>I’m autistic. I don’t do performative niceness. You get honest, specific, kind support — and I will challenge you.</p>
+    <p>I'm autistic. I don't do performative niceness. You get honest, specific, kind support — and I will challenge you.</p>
   </div>
   <div class="value-card">
     <h3>Lived experience, not theory</h3>
@@ -58,42 +81,13 @@ Weird is welcome. You do not need to become smoother, smaller or more palatable 
   </div>
 </div>
 
-## Credentials
+<p>If you want someone sharp, kind, experienced, and very hard to bullshit, <a href="/coaching/">come work with me.</a></p>
 
-<div class="credentials-grid card-grid">
-  <div class="card card--static credential-card">
-    <h3>Coaching and training</h3>
-    <ul>
-      <li>ILM Level 5 Executive Coach</li>
-      <li>300+ coached, 100+ founders</li>
-      <li><a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank" rel="noopener noreferrer">Dare to Lead&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
-      <li><a href="https://coachlead.co/leaders-who-coach/" target="_blank" rel="noopener noreferrer">Leaders Who Coach&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
-      <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Shit I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a></li>
-      <li>BSc Computer Science (First Class)</li>
-      <li>BA Accountancy & Finance</li>
-    </ul>
-  </div>
-  <div class="card card--static credential-card">
-    <h3>Leadership and work</h3>
-    <ul>
-      <li>14 years hands-on engineering</li>
-      <li>8+ years as an exec leader (VP Engineering/Interim CTO)</li>
-      <li>Led engineering teams and organisations of 120+ people</li>
-      <li>Led at exec level inside companies up to $300M ARR</li>
-      <li>Worked across MedTech, FinTech, InsurTech, AppSec, agency and other domains</li>
-    </ul>
-  </div>
-</div>
+<h2>The human bit</h2>
 
-That’s who is in your corner. If you want someone sharp, kind, experienced, and very hard to bullshit, [come work with me.](/coaching/)
+<p>I am not only a coach or exec-shaped person. I make things because making things is how I play, process, breathe, and refuse to become exhausted and dead behind the eyes.</p>
 
-## The human bit
-
-I am not only a coach or exec-shaped person. I make things because making things is how I play, process, breathe, and refuse to become exhausted and dead behind the eyes.
-
-It is all part of the same commitment to be fully Val in the world.
-
-I draw. I write. I sew. I run TTRPG campaigns. I play video games. And I read an unreasonable amount of romantasy.
+<p>I draw. I write. I sew. I run TTRPG campaigns. I play video games. And I read an unreasonable amount of romantasy.</p>
 
 <div class="creative-showcase card-grid" aria-label="Creative work by Val">
   <div class="card creative-feature">

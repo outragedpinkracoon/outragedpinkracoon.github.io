@@ -71,7 +71,7 @@ For either mode, start by:
 
 ### 7. Untapped assets
 - 150+ founders coached — is there a founder/startup audience being ignored?
-- VP/Interim CTO experience — is there a senior leader / executive audience?
+- VP/Acting CTO experience — is there a senior leader / executive audience?
 - The Stakeholders fiction brand and the art — are these assets being wasted, or is the creative work actually a pipeline for a different kind of client?
 - The blog's volume and quality — has syndication, speaking, or media coverage been explored?
 
