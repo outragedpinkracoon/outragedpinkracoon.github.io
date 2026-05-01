@@ -3,12 +3,14 @@ layout: info_page
 permalink: /coaching/
 title: No-bullshit 1:1 Coaching for Engineering Managers, Founders, CTOs and Folks in Tech
 display_title: No-bullshit coaching
-title_sub: three kinds of mess. pick yours.
-description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, and folks in tech. ILM certified coach and former tech exec. Specialist support for neurodivergent and queer people.
+title_sub: pick your adventure.
+description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, and folks in tech. Fractional CTO and ILM certified Executive Coach. Specialist support for neurodivergent and queer people.
 show_cta: false
 ---
 
-<p>You bring the mess. I help you work out what is actually going on, what matters, and what the hell to do next — fast when the problem is discrete, sustained when the ground keeps shifting.</p>
+<p>No-bullshit coaching for the messy, human, hard parts of working in tech. From someone who has been in every room this work takes you to.</p>
+
+<p>I help you work out what is actually going on, what matters, and what the hell to do next — fast when the problem is discrete, sustained when the ground keeps shifting.</p>
 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
@@ -26,7 +28,7 @@ show_cta: false
     <h3><a href="/coaching/folks-in-tech/">I want more power, more credit, and less bullshit</a></h3>
     <p>You are capable, ambitious, and tired of being treated like a maybe.</p>
     <p>Career moves, burnout, masking, visibility, accommodations, self-trust, and deciding what the hell happens next. Especially if you are neurodivergent, queer, disabled, or done making yourself easier to digest.</p>
-    <p><a class="pricing-cta" href="/coaching/folks-in-tech/">Bring me the rest of it</a></p>
+    <p><a class="pricing-cta" href="/coaching/folks-in-tech/">Bring me the whole mess</a></p>
   </section>
 
   <section class="audience-panel audience-panel--manager">
@@ -34,6 +36,6 @@ show_cta: false
     <h3><a href="/coaching/founders/">I'm making hard calls with no one to reality-check me</a></h3>
     <p>You are at the top, making decisions alone, at speed, with no one who gets the full picture.</p>
     <p>I've coached 100+ founders and CTOs through exactly this — the people chaos, the hard calls, the moments where you genuinely don't know what to do next and can't admit that to anyone.</p>
-    <p><a class="pricing-cta" href="/coaching/founders/">Bring me the mess</a></p>
+    <p><a class="pricing-cta" href="/coaching/founders/">Bring me the big mess</a></p>
   </section>
 </div>
