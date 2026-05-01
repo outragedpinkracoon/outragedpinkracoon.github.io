@@ -4,7 +4,7 @@ permalink: /coaching/engineering-managers/
 title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
 title_sub: because there's no undo button for people.
-description: No-bullshit remote 1:1 coaching for engineering managers, team leads, and heads of function, from an ILM certified coach and former tech exec who has navigated every bit of this from the inside.
+description: No-bullshit remote 1:1 coaching for engineering managers, team leads, and heads of function. ILM certified Executive Coach, Fractional CTO, 300+ people coached. Direct, no waffle.
 show_teams_card: true
 ---
 
@@ -18,11 +18,11 @@ show_teams_card: true
 
 <p>I help new and growing engineering managers get clear on the live thing currently eating their brain. We work out what actually matters, what is noise, and what the hell to do next. Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does.</p>
 
+{% include credibility-strip.html %}
+
 <div class="callout--teal callout" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</div>
 
-<p>As an ILM certified coach, former tech exec, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
-
-{% include credibility-strip.html %}
+<p>As a Fractional CTO, ILM certified coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
 
 <h2>Who I work with</h2>
 

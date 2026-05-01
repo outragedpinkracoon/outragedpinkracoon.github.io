@@ -19,11 +19,11 @@ show_teams_card: true
 
 <p>I work with founders and CTOs who need someone sharp, external, and genuinely able to keep up — to think out loud with, to pressure-test decisions with, and to get clear with when the fog rolls in.</p>
 
+{% include credibility-strip.html %}
+
 <div class="callout callout--teal" style="clear: both; margin-top: 2rem;">We get to the actual problem fast. Not the one you came in with — the one underneath it.</div>
 
 <p>As a Fractional CTO and ILM certified coach with VP Engineering experience, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have coached 100+ founders through exactly this. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
-
-{% include credibility-strip.html %}
 
 <h2>Who I work with</h2>
 

@@ -4,7 +4,7 @@
 - [x] **Coaching landing page** — refresh intro copy to reflect new positioning (messy, human, hard parts) ✓ done
 - [ ] **Founders/CTOs page** — add retainer option (above £2k/month, long-game framing, pricing TBD)
 - [x] **All coaching pages** — update header strip to reflect dual positioning (Fractional CTO + Coach) ✓ done
-- [ ] **All coaching pages** — move credentials moment earlier, before the empathy; lead with weight then warmth (lighter version of the Who Is Val rewrite principle)
+- [x] **All coaching pages** — move credentials moment earlier, before the empathy; lead with weight then warmth ✓ done
 
 ---
 
