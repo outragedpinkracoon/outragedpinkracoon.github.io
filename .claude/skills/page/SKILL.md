@@ -35,6 +35,7 @@ If you're adding something that appears on more than one page, make it an includ
 
 **Copy:**
 - Does every line sound like Val, not a LinkedIn coach?
+- Are there any em dashes (—)? Replace with a period, comma, or colon. Val hates them as an AI tell.
 - Is there doom without exit? Fix it.
 - Is there padding that adds nothing? Cut it.
 - Is jargon (`transformational`, `power hour`, `journey`) anywhere? Kill it.

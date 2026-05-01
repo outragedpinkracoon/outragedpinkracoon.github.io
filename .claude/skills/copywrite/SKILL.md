@@ -35,7 +35,7 @@ Do the work. Be opinionated. Don't hedge. Flag weak copy directly — don't flat
 
 **Phrases to use sparingly:** `chaos untangler`
 
-**Avoid:** `fast clarity` as a hook or promise — it's an output, not the sell. The sell is pattern recognition from lived experience, delivered without the HR varnish. Too much doom upfront. Overexplaining. SEO sludge. Polished consultant/therapist/LinkedIn voice. Weird metaphors. Try-hard or accidentally poetic.
+**Avoid:** `fast clarity` as a hook or promise — it's an output, not the sell. The sell is pattern recognition from lived experience, delivered without the HR varnish. Too much doom upfront. Overexplaining. SEO sludge. Polished consultant/therapist/LinkedIn voice. Weird metaphors. Try-hard or accidentally poetic. **Em dashes (—) — Val hates them as an AI tell. Use a period, comma, or colon instead.**
 
 ## Audience
 

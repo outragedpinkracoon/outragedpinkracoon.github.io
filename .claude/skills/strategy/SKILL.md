@@ -25,55 +25,73 @@ For either mode, start by:
 1. Reading `tasks.md` for current priorities and in-progress work — don't recommend things already being done
 2. Reading `.claude/skills/site-pages.md` for the index of all main pages and includes, then read the relevant files directly for the actual live offer, pricing, and credentials — do not rely on memory or assumptions
 3. For pricing/positioning comparisons, refer to the competitor memory for Atty Cronin (attycronin.com). Atty no longer publishes prices publicly, but her 6-session programme was £1,500 (£250/session) as of April 2026. Atty does not have Val's exec credentials (no VP/CTO, no ILM L5, no 500+ coached, no tech sector specialism). Atty's pricing is a floor, not a ceiling — Val should be at or above it. Do not fetch attycronin.com for pricing; the prices have been removed.
-3. Work through the lenses below. Don't just audit — propose specific moves. For each problem you name, say what to do about it.
+4. Work through the lenses below. Don't just audit — propose specific moves. For each problem you name, say what to do about it.
+
+---
+
+## What the site is now (as of May 2026)
+
+Val runs two businesses from this site:
+
+**Executive Coaching** — 1:1 coaching for engineering managers, founders/CTOs, and folks in tech. Pricing: £400 single session, £1,000 bundle of 3, £2,000 6-session programme, retainer on application. Specialist support for neurodivergent, queer, and disabled people. ILM Level 5 certified, 300+ coached, 100+ founders.
+
+**Fractional CTO** — embedded, day-rate consultancy. £1,600/day. Culture audits, tech assessments, due diligence, delivery transformation, AI adoption, board-level advisory. Bespoke engagements on application.
+
+Four coaching audiences: engineering managers, founders/CTOs, folks in tech, and fractional CTO clients. Each has a dedicated page with relevant testimonials. Testimonials are now distributed by audience — not generic across all pages.
+
+The site has been recently overhauled. The positioning is sharp, the copy is strong, the credibility is front-loaded. Don't re-audit things that are already working.
 
 ---
 
 ## What to look at
 
 ### 1. Offer architecture
-- Is there a clear value ladder? (cheap → expensive, low-commitment → high-commitment)
-- What's the gap between the course and 1:1 coaching — is there anything in between?
-- Is the bundle saving big enough to actually change buying behaviour? (£50 saving on a £500 bundle is 10% — barely moves the needle)
-- Are there audiences who'd buy a different format (group, async, retainer) that aren't being served?
-- Is the course being used properly as a funnel into coaching, or just sitting there?
+- Is the coaching value ladder clear? (£400 session -> £1,000 bundle -> £2,000 programme -> retainer)
+- Is the retainer offer doing enough work to attract serious long-term clients, or is it too vague?
+- Is the Fractional CTO offer clearly differentiated from the coaching offer, or do they blur?
+- Is the bespoke consultancy card converting, or is "pricing on application" a dead end without more specificity?
+- Is the Holy Shit I'm a Manager course being used as a proper funnel into coaching, or just sitting there?
 
 ### 2. Pricing
-- Is £200/session underpriced given the credentials? (ILM L5, VP/CTO experience, 300+ people coached, 14 years engineering — this is an unusually stacked CV for a coach)
-- Is the bundle structured to maximise commitment, or is it just a slight discount?
-- Is there a premium tier? What would "Val at her most intensive" look like as an offer, and what would it cost?
-- Are there corporate or team buyers being ignored? (Companies pay more, buy in bulk, and the credentials justify it)
+- Is £400/session underpriced given the credentials? (ILM L5, Fractional CTO, 300+ coached, nearly two decades in tech — unusually stacked CV)
+- Is the bundle saving (£200 on 3 sessions) big enough to actually change buying behaviour?
+- Is £1,600/day the right Fractional CTO rate given the track record (£1m+ saved, 60% cycle time improvements)?
+- Are there corporate or team buyers being ignored? Companies pay more, buy in bulk, and the credentials justify it.
 
 ### 3. Positioning
-- Is the "two audiences on one site" split creating clarity or dilution?
-- Does the homepage make an immediate clear choice, or does it create decision paralysis?
-- Is the neurodivergent/queer/disabled positioning an asset being fully used, or is it buried?
-- Are there niches within the current audiences that are underserved and could be spoken to more directly? (e.g. senior ICs who don't want to manage, disabled people navigating accommodations, people leaving toxic companies)
+- Does the dual Fractional CTO + coaching positioning create clarity or dilution on the homepage?
+- Is the neurodivergent/queer/disabled positioning being fully used as a differentiator, or is it present but not prominent?
+- Are there underserved niches within the current audiences? (senior ICs who don't want to manage, disabled people navigating accommodations, people leaving toxic companies)
+- Is the Fractional CTO page speaking to the right buyer (founder/CEO/board) clearly enough?
 
 ### 4. Social proof
-- Are the testimonials doing maximum work? Are the best ones in the best places?
-- Are outcomes quantified where possible? (promotions, timelines, specific results)
-- "300+ people coached" and "150+ founders coached" — are these prominent enough? Are they used strategically?
-- Is there a missing type of testimonial? (e.g. from neurodivergent clients specifically, from the folks-in-tech audience, not just EM promotions)
+- Are case studies missing from the Fractional CTO page? (testimonials are strong but "she transformed the org" is different from "situation X, Val came in, result Y in Z months" — this is the biggest gap)
+- Are the testimonials on each page actually matched to that audience's concerns?
+- Are quantified outcomes (60% cycle time reduction, £1m+ saved, 55% diversity increase) prominent enough on the Fractional CTO page?
+- Is there a missing type of testimonial? (neurodivergent clients specifically, founder/CTO coaching clients rather than EM promotions)
 
 ### 5. Content and distribution
-- Is the blog content building toward anything, or is it just publishing?
-- Are high-performing posts being used to drive coaching enquiries?
-- Is the LinkedIn content creating demand that the site captures well?
-- Is the Substack audience being connected to the coaching business?
-- Are there content formats being ignored that would work well for this audience? (threads, short-form video, workshops, talks)
+- Is the blog content building toward anything, or just publishing?
+- Are high-performing posts connected to relevant coaching or CTO enquiries with CTAs?
+- Is the LinkedIn content creating demand the site captures well?
+- Is the Substack audience connected to the coaching or CTO business?
 
 ### 6. Conversion
-- What is the friction between "I like this" and "I booked a session"? (email link → what happens next?)
-- Is there a way to capture email before someone is ready to buy?
-- Is there a free/low-commitment entry point that warms leads? (the course exists but it's external and not prominently featured on every coaching page)
-- Are there people who want Val's help but £200 is a barrier? Is that an audience worth serving differently?
+- What is the friction between "I like this" and "I booked a session"? (email link — what happens next?)
+- Is the self-funding/Access to Work callout doing enough work for the folks-in-tech audience?
+- For Fractional CTO: is "get in touch" a strong enough CTA for a £1,600/day buyer, or does it need more framing of what happens next?
 
 ### 7. Untapped assets
-- 150+ founders coached — is there a founder/startup audience being ignored?
-- VP/Acting CTO experience — is there a senior leader / executive audience?
-- The Stakeholders fiction brand and the art — are these assets being wasted, or is the creative work actually a pipeline for a different kind of client?
-- The blog's volume and quality — has syndication, speaking, or media coverage been explored?
+- The Stakeholders fiction brand and the art — pipeline for a different kind of client?
+- The blog volume and quality — has syndication, speaking, or media coverage been explored?
+- The Holy Shit I'm a Manager community (200+ members) — is this being used to drive coaching enquiries?
+
+---
+
+## Hard constraints (do not suggest these)
+
+- No email capture or mailing list — Val has decided against this
+- No on-site work — all Fractional CTO engagements are remote only
 
 ---
 
@@ -88,8 +106,8 @@ For each finding:
 
 Flag things in three buckets:
 
-**Quick wins** — can be changed in a day, meaningful impact  
-**Medium moves** — require new content, a new page, or a pricing change — worth doing in the next month  
+**Quick wins** — can be changed in a day, meaningful impact
+**Medium moves** — require new content, a new page, or a pricing change — worth doing in the next month
 **Bigger bets** — new offer formats, new audiences, structural changes — worth thinking about seriously
 
-Don't pad. Don't soften. Don't list things that are already working unless they're being underused. Val knows the copy is good — she doesn't need to be told that again.
+Don't pad. Don't soften. Don't list things that are already working unless they're being underused.
