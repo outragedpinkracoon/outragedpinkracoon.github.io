@@ -38,15 +38,9 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
   </div>
 </div>
 
-<h2>I work in two modes</h2>
-
-<p>As a <strong>Fractional CTO</strong> I embed directly — on the ground, no corporate bullshit. Tech due diligence, tech and culture assessments, delivery transformation, AI adoption. I'll tell you what you need to hear and make a plan to get you where you need to be.</p>
-
-<p>As an <strong>Executive Coach</strong> I use everything I've learned to coach people through the exact situations I've been in: the messy people issues, the difficult strategic decisions, the career crossroads, the overwhelm, the moments where you genuinely don't know what to do next and can't admit that to anyone.</p>
+<h2>The kind of coach I am</h2>
 
 <div class="callout callout--teal">This is not "how do I feel about that?" coaching. This is "what's actually going on, what matters, and what are you going to do about it?" coaching.</div>
-
-<h2>The kind of coach I am</h2>
 
 <p>I am direct, warm, curious and allergic to corporate bullshit.</p>
 
