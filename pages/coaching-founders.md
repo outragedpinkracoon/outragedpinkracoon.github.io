@@ -7,6 +7,7 @@ title_sub: because making hard calls alone sucks.
 description: No-bullshit 1:1 coaching for founders, CTOs, and early-stage CEOs in tech. ILM certified Executive Coach, Fractional CTO, VP Engineering, 100+ founders coached. Remote, direct, no waffle.
 hide_self_funding_note: true
 show_teams_card: true
+show_retainer_card: true
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
