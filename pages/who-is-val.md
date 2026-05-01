@@ -8,13 +8,14 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
 <div class="who-hero">
   <div class="who-hero__text">
     <p>I'm Valerie Dryden. I've worked in tech for nearly two decades — from hands-on engineering all the way up to VP Engineering and Acting CTO. I've seen some sh*t, I tell you.</p>
+    {% include credibility-strip.html %}
   </div>
   <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="who-hero__image">
 </div>
 
 <div class="credentials-grid card-grid">
   <div class="card card--static credential-card">
-    <h3>The track record</h3>
+    <h3>Sh*t I've Shipped</h3>
     <ul>
       <li>5+ multi-million dollar transformations in companies up to $300M ARR</li>
       <li>Cut cycle times by 60%, incidents by 50%, defects by 40%</li>
