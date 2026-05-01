@@ -81,15 +81,6 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
 
 <p>I am not only a coach. I make things because making things is how I play, process, breathe, and refuse to become a hollow shell of a human being.</p>
 
-<ul class="human-list">
-  <li><strong>I draw.</strong> <span>My brain shifts into a different mode and half my best ideas show up uninvited. I run art sessions for others because creativity and play matter, and I want more people to have access to both.</span></li>
-  <li><strong>I write.</strong> <span>Because life needs more whimsy and corporate vampire smut to get us through hard days.</span></li>
-  <li><strong>I sew.</strong> <span>Because I want to wear colourful, fun shit and the shops won't provide.</span></li>
-  <li><strong>I run and create TTRPG campaigns and solo play mechanics.</strong> <span>Storytelling, improv, and keeping six chaotic players from damaging themselves — turns out it sharpens the same skills as running an exec team.</span></li>
-  <li><strong>I play video games.</strong> <span>Because catching Pokémon counts as spiritual rest.</span></li>
-  <li><strong>I read an unreasonable amount of romantasy.</strong> <span>No notes.</span></li>
-</ul>
-
 <div class="creative-showcase card-grid" aria-label="Creative work by Val">
   <div class="card creative-feature">
     <p class="offer-label">Art on Cara</p>
@@ -105,6 +96,15 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
     <a class="card-cta" href="https://stakeholdersbook.substack.com/about" target="_blank" rel="noopener noreferrer">Read Stakeholders <span aria-hidden="true">→</span><span class="sr-only"> (opens in new tab)</span></a>
   </div>
 </div>
+
+<ul class="human-list">
+  <li><strong>I draw.</strong> <span>My brain shifts into a different mode and half my best ideas show up uninvited. I run art sessions for others because creativity and play matter, and I want more people to have access to both.</span></li>
+  <li><strong>I write.</strong> <span>Because life needs more whimsy and corporate vampire smut to get us through hard days.</span></li>
+  <li><strong>I sew.</strong> <span>Because I want to wear colourful, fun shit and the shops won't provide.</span></li>
+  <li><strong>I run and create TTRPG campaigns and solo play mechanics.</strong> <span>Storytelling, improv, and keeping six chaotic players from damaging themselves — turns out it sharpens the same skills as running an exec team.</span></li>
+  <li><strong>I play video games.</strong> <span>Because catching Pokémon counts as spiritual rest.</span></li>
+  <li><strong>I read an unreasonable amount of romantasy.</strong> <span>No notes.</span></li>
+</ul>
 
 <div class="image-gallery">
   <img src="/assets/images/brand-images/bat-eating-grapefruit-pink-bg.jpeg" alt="a demon bat eating a grapefruit on a hot pink background">
