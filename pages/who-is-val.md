@@ -64,20 +64,20 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
 
 <div class="values-grid">
   <div class="value-card">
-    <h3>Directness with kindness</h3>
-    <p>I'm autistic. I don't do performative niceness. You get honest, specific, kind support — and I will challenge you.</p>
+    <h3>I will tell you the thing</h3>
+    <p>I'm autistic. I don't do performative nodding. You will get the honest read, not the one that's easier to hear — delivered with actual care, not HR varnish.</p>
   </div>
   <div class="value-card">
-    <h3>Lived experience, not theory</h3>
-    <p>I am queer, non-binary, neurodivergent and disabled. I am not an ally looking in from the outside. I know something of the weather because I have been standing in it too.</p>
+    <h3>I'm not an ally looking in</h3>
+    <p>I am queer, non-binary, neurodivergent and disabled. Not an ally looking in from outside. I know what this costs because I have been paying it too.</p>
   </div>
   <div class="value-card">
-    <h3>Kind, not spineless</h3>
-    <p>I am in your corner, but I am not here to blow smoke up your arse. Support and challenge belong together when they are done properly.</p>
+    <h3>In your corner, not your echo chamber</h3>
+    <p>I am fully in your corner. I am also not going to tell you what you want to hear if it isn't true. Those two things go together — that's what good support actually looks like.</p>
   </div>
   <div class="value-card">
-    <h3>Context, not self-blame</h3>
-    <p>I will not pretend every hard thing at work is a mindset issue. Sometimes you need confidence. Sometimes you need boundaries. Sometimes the room really is on fire.</p>
+    <h3>The system, not you</h3>
+    <p>I will not reduce every hard thing to a mindset issue. Sometimes you need confidence. Sometimes you need boundaries. Sometimes you just need someone to confirm that yes, the system is broken, and it is not your fault.</p>
   </div>
 </div>
 
