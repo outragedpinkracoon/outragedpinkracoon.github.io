@@ -5,6 +5,8 @@
 - [x] **Founders/CTOs page** — add retainer option (above £2k/month, long-game framing, pricing TBD) ✓ done
 - [x] **All coaching pages** — update header strip to reflect dual positioning (Fractional CTO + Coach) ✓ done
 - [x] **All coaching pages** — move credentials moment earlier, before the empathy; lead with weight then warmth ✓ done
+- [ ] **Fractional CTO page** — add case studies (situation, what Val did, result) when available from real clients
+- [ ] **Blog** — connect high-performing posts to coaching/CTO enquiries with relevant CTAs
 
 ---
 
