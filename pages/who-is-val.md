@@ -52,9 +52,9 @@ description: "Val Dryden is a Fractional CTO and ILM certified Executive Coach w
 
 <p>I will not sit there nodding while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.</p>
 
-<p>I know what it is to become a manager without any help and then realise you are suddenly holding other people's careers, confidence and working lives in your hands. I know what it feels like to be held to unreasonable standards, left to get on with it alone, and praised for resilience when what you actually needed was support. I never had a manager who looked like me. That's the reason I do this.</p>
+<p>I know what it is to become a manager without any help and figure it out anyway. I know what it takes to navigate unreasonable standards, build something real under pressure, and come out the other side wearing a f*cking crown like the queen you are.</p>
 
-<div class="callout">I coach the people I used to be — including the neurodivergent, disabled and queer version of me.</div>
+<div class="callout">I coach people in the situations I've been in, as someone who is neurodivergent, disabled, queer, and still very much here.</div>
 
 <p>I do not treat confidence, burnout, masking, management or career decisions as individual failings. People exist inside systems. Some of those systems are ridiculous. Whatever is keeping you up at 3am, I've lived it. Nothing scares me.</p>
 
