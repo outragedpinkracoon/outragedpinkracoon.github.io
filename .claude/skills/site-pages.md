@@ -15,6 +15,7 @@ Index of all main pages and shared includes. Read these files directly when you 
 | `pages/coaching-teams.md` | `/coaching/teams/` | Team/org coaching |
 | `pages/coaching-funding.md` | `/coaching/funding/` | L&D, Access to Work, self-funding options |
 | `pages/coaching-disclaimer-and-terms.md` | `/coaching-disclaimer-and-terms/` | T&Cs |
+| `pages/fractional-cto.md` | `/fractional-cto/` | Fractional CTO sales page, £1,600/day |
 
 ## Shared includes (`_includes/`)
 
