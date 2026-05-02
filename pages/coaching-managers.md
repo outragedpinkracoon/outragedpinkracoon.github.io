@@ -160,8 +160,8 @@ show_teams_card: true
       <li>You need someone to challenge you and get you moving.</li>
       <li>You're overwhelmed and need someone to cut through it before shit hits the fan.</li>
     </ul>
-    <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Book coaching</a></p>
+    <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Get in touch</a></p>
   </section>
 </div>
 
-<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Bring me your mess</a></p>
+<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Get in touch</a></p>

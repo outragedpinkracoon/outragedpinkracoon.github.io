@@ -118,4 +118,4 @@ show_retainer_card: true
   </blockquote>
 </div>
 
-<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Founder%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Bring me your mess</a></p>
+<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Founder%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Get in touch</a></p>

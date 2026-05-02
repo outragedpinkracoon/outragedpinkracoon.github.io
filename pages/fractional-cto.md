@@ -5,6 +5,8 @@ title: Fractional CTO Services for Tech Startups and Scale-ups
 display_title: Fractional CTO
 title_sub: on the ground, no corporate bullshit.
 description: "Fractional CTO services for startups and scale-ups. Nearly two decades in tech, VP Engineering and Acting CTO experience, 5+ multi-million dollar transformations. £1,600/day. Remote."
+cta_label: Get in touch
+cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support."
 ---
 
 <div class="who-hero">
@@ -113,7 +115,7 @@ description: "Fractional CTO services for startups and scale-ups. Nearly two dec
       <li>No expensive ramp-up time. I get to the actual problem fast.</li>
       <li>I'll tell you what you need to hear, not what you want to hear.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support.">Get in touch</a>
   </div>
 
   <div class="pricing-card">
@@ -126,7 +128,7 @@ description: "Fractional CTO services for startups and scale-ups. Nearly two dec
       <li>Clear scope, clear output, clear price. Agreed before we start.</li>
       <li>No open-ended engagements, no scope creep, no surprises.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry">Let's talk</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20scope%20a%20defined%20consultancy%20engagement.">Get in touch</a>
   </div>
 </div>
 
@@ -168,4 +170,4 @@ description: "Fractional CTO services for startups and scale-ups. Nearly two dec
   </blockquote>
 </div>
 
-<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry">Get in touch</a></p>
+<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support.">Get in touch</a></p>

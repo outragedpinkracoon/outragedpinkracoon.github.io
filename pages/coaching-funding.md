@@ -34,7 +34,7 @@ description: How to fund coaching with Val — through your employer's L&D budge
 <p>If it helps: I've worked with people funded by their employers at companies across the UK tech sector, from early-stage startups to scale-ups. It's not unusual. You're not asking for something weird.</p>
 
 <div class="callout callout--yellow">
-  <p>Want to talk through how to frame this for your specific situation? <a href="mailto:outragedracooncoaching@gmail.com?subject=Funding%20Enquiry">Get in touch</a> — happy to help you work out the pitch before you have the conversation.</p>
+  <p>Want to talk through how to frame this for your specific situation? <a href="mailto:outragedracooncoaching@gmail.com?subject=Funding%20Enquiry">Get in touch</a>. Happy to help you work out the pitch before you have the conversation.</p>
 </div>
 
 <h2>Access to Work</h2>
@@ -61,6 +61,6 @@ description: How to fund coaching with Val — through your employer's L&D budge
 
 <h2>Self-funding</h2>
 
-<p>If neither of these routes works for you — especially if you're under-represented in tech and paying out of pocket — <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">get in touch</a>. I don't advertise reduced rates but I do have options, and I'd rather talk than have someone rule themselves out before asking.</p>
+<p>If neither of these routes works for you, especially if you're under-represented in tech and paying out of pocket, <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">get in touch</a>. I don't advertise reduced rates but I do have options, and I'd rather talk than have someone rule themselves out before asking.</p>
 
-<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Funding%20Enquiry">Get in touch about funding</a></p>
+<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Funding%20Enquiry">Get in touch</a></p>
