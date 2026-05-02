@@ -1438,6 +1438,96 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   line-height: 1.35;
 }
 
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// WHAT HAPPENS NEXT — clipboard checklist
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.next-steps {
+  position: relative;
+  background: $cream;
+  border: 3px solid $ink;
+  box-shadow: 8px 8px 0 $teal;
+  margin: 2rem 0 2.5rem;
+  padding: 2rem 1.6rem 1.6rem;
+  transform: rotate(-0.5deg);
+
+  // clipboard clip bar — sits on top of the top border
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -18px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 72px;
+    height: 20px;
+    background: $ink;
+    border-radius: 6px 6px 0 0;
+  }
+
+  // clip hole — centred in the bar
+  &::after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20px;
+    height: 20px;
+    background: $cream;
+    border: 3px solid rgba($ink, 0.5);
+    border-radius: 50%;
+    z-index: 1;
+  }
+}
+
+.next-steps__clipboard {
+  display: none; // decorative fallback only, CSS clip is doing the work
+}
+
+.next-steps__list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+
+.next-steps__item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.75rem 0;
+  border-bottom: 2px dashed rgba($ink, 0.18);
+  margin-bottom: 0;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.next-steps__check {
+  flex-shrink: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: $magenta;
+  font-family: $font-primary;
+  margin-top: 0.05em;
+}
+
+.next-steps__content {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: $ink;
+
+  strong {
+    font-family: $font-primary;
+    font-weight: 800;
+    color: $ink;
+    display: block;
+    margin-bottom: 0.1rem;
+  }
+}
+
 .process-steps {
   counter-reset: process;
   display: grid;

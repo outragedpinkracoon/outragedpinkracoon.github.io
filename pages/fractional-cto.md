@@ -100,7 +100,9 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
 
 <h2>How engagements work</h2>
 
-<p>Email me with the rough shape of what is going on. If it sounds like something I can help with, we will book an intro call and work out whether you need a focused review, a few days of sharp technical judgement, or ongoing cover while things are moving fast. Before any work starts, we agree the shape, the expected days, and what you will have at the end of it.</p>
+<p>Email me with the rough shape of what is going on. I will reply to book a free 30-minute intro call: no charge, no commitment. We work out whether it is the right fit, what the problem actually is, and which format makes sense.</p>
+
+<p>If we go ahead, we agree the scope, expected days, and what you will have at the end before any work starts. No open-ended retainer fog, no consultant who disappears after the diagnosis.</p>
 
 <h2>Pricing</h2>
 
