@@ -80,7 +80,7 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
 
 <h2>The human bit</h2>
 
-<p>I am not only a coach. I make things because making things is how I play, process, breathe, and refuse to become a hollow shell of a human being.</p>
+<p>I am not only a coach. I make things because making things is how I play, process, and breathe. Play is how we stay kind to ourselves. It is also where the best ideas hide.</p>
 
 <div class="creative-showcase card-grid" aria-label="Creative work by Val">
   <div class="card creative-feature">
