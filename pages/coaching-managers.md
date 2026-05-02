@@ -15,11 +15,13 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and not accidentally fuck someone up.</p>
 
+<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Sessions from £400. Bundle of 3 from £1,000.</p>
+
 <p>I work with engineering managers at every stage from first EM role through to Head of Engineering and Director. If you have just been promoted, or you have been doing the job a while and are growing into something bigger, this is the right place. VP and above is <a href="/coaching/founders/">exec coaching</a>.</p>
 
 <p>I help you get clear on the live thing currently eating your brain. We work out what actually matters, what is noise, and what the hell to do next. Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does.</p>
 
-{% include credibility-strip.html %}
+<div style="clear: left;">{% include credibility-strip.html %}</div>
 
 <div class="callout--teal callout" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</div>
 
