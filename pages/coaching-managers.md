@@ -110,28 +110,28 @@ show_teams_card: true
     <p><span class="quote-author">— Olwen Milne, Senior Engineering Manager @ Oak National Academy</span></p>
   </blockquote>
 
-  <blockquote class=”testimonial-card”>
-    <p class=”testimonial-tag”>New leadership role</p>
-    <p class=”testimonial-pullquote”>”She coached me through the practical issues and emotional regulation needed to excel.”</p>
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">New leadership role</p>
+    <p class="testimonial-pullquote">“She coached me through the practical issues and emotional regulation needed to excel.”</p>
     <p>I’ve always believed that when you move into a new situation, the best thing you can do is reach out to people who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
     <p>She coached me through the practical issues and emotional regulation needed to excel in this role, and avoid traps common with people moving into more leadership-oriented positions from technical backgrounds.</p>
-    <p><span class=”quote-author”>— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
+    <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
   </blockquote>
 
-  <blockquote class=”testimonial-card”>
-    <p class=”testimonial-tag”>Transformed as a leader</p>
-    <p class=”testimonial-pullquote”>”Valerie transformed my understanding of what a leader and manager can be.”</p>
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Transformed as a leader</p>
+    <p class="testimonial-pullquote">“Valerie transformed my understanding of what a leader and manager can be.”</p>
     <p>With empathy as her superpower, she created an open, honest and brave space where I felt seen, heard and supported. Using her coaching leadership style she helped me tackle complex people issues and as a result I have grown significantly as a person, leader and manager.</p>
     <p>Valerie has an infectious enthusiasm which allowed me to be brave and explore new areas I would have shied away from. I also benefitted greatly from her clear, kind and actionable feedback.</p>
-    <p><span class=”quote-author”>— Tobi Tonner, Brave Leadership Coach</span></p>
+    <p><span class="quote-author">— Tobi Tonner, Brave Leadership Coach</span></p>
   </blockquote>
 
-  <blockquote class=”testimonial-card”>
-    <p class=”testimonial-tag”>Best manager I’ve had</p>
-    <p class=”testimonial-pullquote”>”Val is quite simply the best manager I’ve ever had.”</p>
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Best manager I’ve had</p>
+    <p class="testimonial-pullquote">“Val is quite simply the best manager I’ve ever had.”</p>
     <p>She has helped me to grow and develop and learn in ways I had not considered before — by showing me how to reflect and have confidence in the skills and experience I already have, and where to focus new learning. She gave me the tools, freedom, resources, and connections I need to flourish.</p>
     <p>Val is a true leader, leading by example, and allowing those she leads to be their best.</p>
-    <p><span class=”quote-author”>— Barry Northern, Lead Engineer @ Thirdfort</span></p>
+    <p><span class="quote-author">— Barry Northern, Lead Engineer @ Thirdfort</span></p>
   </blockquote>
 </div>
 
