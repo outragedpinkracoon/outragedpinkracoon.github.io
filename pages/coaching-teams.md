@@ -5,7 +5,7 @@ title: Team and Organisation Coaching for Engineering Managers — Outraged Raco
 display_title: Coaching for teams and organisations
 title_sub: Bad managers are expensive, good ones aren't accidental.
 description: Team coaching for engineering managers from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for new managers.
-show_cta: false
+show_cta: true
 ---
 
 <p class="page-intro"><strong>You just promoted someone into management. Congratulations. Now what?</strong></p>
@@ -73,7 +73,7 @@ show_cta: false
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
       <li>They leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
@@ -87,7 +87,7 @@ show_cta: false
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
       <li>Follow-up sessions where I already know the situation and we get it dealt with.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
@@ -101,7 +101,7 @@ show_cta: false
       <li>I already know the context. No re-briefing, no starting over.</li>
       <li>Slots are held. No chasing availability when things get live.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
@@ -114,7 +114,7 @@ show_cta: false
       <li>Format and cadence shaped around what you're actually dealing with.</li>
       <li>Tell me the situation and we'll work out what makes sense.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Let's do this</a>
   </div>
 </div>
 

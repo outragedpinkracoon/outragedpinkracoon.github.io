@@ -100,7 +100,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
       <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
@@ -114,7 +114,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
       <li>Fast follow up sessions where I already know the situation and we get it dealt with.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
@@ -128,7 +128,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
       <li>I already know the context. No re-briefing, no starting over — we pick up where we left off and keep moving.</li>
       <li>Your slots are held. No chasing availability when things get live — I'm already in your corner.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">

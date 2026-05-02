@@ -100,7 +100,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
       <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
@@ -114,7 +114,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
       <li>Fast follow up sessions where I already know the situation and we get it dealt with.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
@@ -128,7 +128,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
       <li>I already know the context. No re-briefing, no starting over — we pick up where we left off and keep moving.</li>
       <li>Your slots are held. No chasing availability when things get live — I'm already in your corner.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
@@ -141,7 +141,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
       <li>Held slots, someone who already knows the full picture, and the kind of context that only builds over time.</li>
       <li>For the long game, not the defined problem.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiryclass="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Get in touchbody=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Let's do this</a>
   </div>
 
   <div class="pricing-card">
