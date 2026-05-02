@@ -4,7 +4,7 @@ permalink: /coaching/teams/
 title: Team and Organisation Coaching for Engineering Managers — Outraged Racoon Coaching
 display_title: Coaching for teams and organisations
 title_sub: Bad managers are expensive, good ones aren't accidental.
-description: Coaching for engineering managers in bulk — for CTOs and engineering leads at startups and scale-ups who want their newly-promoted managers to actually know what they're doing.
+description: ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit support for engineering managers and tech leaders.
 show_cta: false
 ---
 

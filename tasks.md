@@ -12,7 +12,7 @@ This is the current work queue after the site overhaul. Keep it practical: fix w
   - Explain how coaching sessions work: single session, bundles, ongoing work, and whether there is async support between sessions.
   - Add light expectation-setting for retainers and Fractional CTO scoping so "get in touch" does not feel like a black box.
 
-- [ ] **Fix meta descriptions page by page**
+- [x] **Fix meta descriptions page by page**
   - Review one page at a time so the descriptions stay specific and sound like Val.
   - Keep `Fractional CTO / VP Engineering` where it supports credibility.
   - Use the "messy human bits of tech" positioning where it fits.

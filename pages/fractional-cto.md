@@ -4,7 +4,7 @@ permalink: /fractional-cto/
 title: Fractional CTO / VP Engineering Services for Tech Startups and Scale-ups
 display_title: Fractional CTO / VP Eng
 title_sub: on the ground, no corporate bullshit.
-description: "Fractional CTO / VP Engineering services for startups and scale-ups. Nearly two decades in tech, VP Engineering and Acting CTO experience, 5+ multi-million dollar transformations. £1,600/day. Remote."
+description: "ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit fractional CTO/VP Engineering support for startups and scale-ups."
 cta_label: Get in touch
 cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support."
 ---
