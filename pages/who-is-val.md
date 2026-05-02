@@ -3,7 +3,7 @@ layout: info_page
 permalink: /who-is-val/
 title: Who Is Val Dryden? Fractional CTO / VP Engineering and Executive Coach
 display_title: Who is Val?
-description: "Val Dryden is a Fractional CTO / VP Engineering and ILM certified Executive Coach with nearly two decades in tech. 300+ people coached. No-bullshit support for the messy, human, hard parts of working in tech."
+description: "Val Dryden is an ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit support for the messy, human, hard parts of tech."
 ---
 <div class="who-hero">
   <div class="who-hero__text">

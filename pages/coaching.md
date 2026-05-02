@@ -4,7 +4,7 @@ permalink: /coaching/
 title: No-bullshit 1:1 Coaching for Engineering Managers, Founders, CTOs and Folks in Tech
 display_title: No-bullshit coaching
 title_sub: pick your adventure.
-description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, and folks in tech. Fractional CTO / VP Engineering and ILM certified Executive Coach. Specialist support for neurodivergent and queer people.
+description: ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit 1:1 coaching for engineering managers, founders, and folks in tech.
 ---
 
 <p>No-bullshit coaching for the messy, human, hard parts of working in tech. From someone who has been in every room this work takes you to.</p>

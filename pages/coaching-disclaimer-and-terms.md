@@ -2,7 +2,7 @@
 layout: info_page
 permalink: /coaching-disclaimer-and-terms/
 title: Coaching disclaimer/terms and conditions
-description: Terms and conditions for my coaching services
+description: Terms and conditions for no-bullshit coaching with an ILM-certified executive coach and fractional CTO/VP Engineering.
 sitemap: false
 ---
 The coaching disclaimer and terms and conditions outlined below define the relationship between Coach and Client and underpin any services delivered by Valerie Dryden trading as Outraged Racoon Coaching®. Please make sure you read the following carefully and if you have any questions or queries then please send them by email to [outragedracooncoaching@gmail.com](outragedracooncoaching@gmail.com).

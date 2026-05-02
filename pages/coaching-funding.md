@@ -4,7 +4,7 @@ permalink: /coaching/funding/
 title: How to Fund Coaching — Employer L&D and Access to Work
 display_title: How to fund coaching
 title_sub: you probably don't have to pay for this yourself.
-description: How to fund coaching with Val — through your employer's L&D budget or Access to Work. Guidance on making the case to your manager and applying for AtW support.
+description: How to fund no-bullshit coaching with an ILM-certified executive coach and fractional CTO/VP Engineering through L&D or Access to Work.
 ---
 
 <p class="page-intro"><strong>There's a good chance someone else should be paying for this.</strong></p>
