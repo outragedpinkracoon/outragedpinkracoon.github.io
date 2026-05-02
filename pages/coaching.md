@@ -37,4 +37,12 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
     <p>I've coached 100+ founders and CTOs through exactly this — the people chaos, the hard calls, the moments where you genuinely don't know what to do next and can't admit that to anyone.</p>
     <p><a class="pricing-cta" href="/coaching/founders/">Help me make the hard call</a></p>
   </section>
+
+  <section class="audience-panel audience-panel--coaching">
+    <p class="audience-label">For CTOs and engineering leads</p>
+    <h3><a href="/coaching/teams/">My engineers just became managers. Let's not leave them to break the team finding out.</a></h3>
+    <p>You're scaling and your new managers need to get good fast. There is no undo button for people.</p>
+    <p>I coach newly-promoted engineering managers at startups and scale-ups: the ones handed a team and a vague brief and quietly terrified.</p>
+    <p><a class="pricing-cta" href="/coaching/teams/">Help my managers get good fast</a></p>
+  </section>
 </div>

@@ -18,7 +18,7 @@ This is the current work queue after the site overhaul. Keep it practical: fix w
   - Use the "messy human bits of tech" positioning where it fits.
   - Avoid generic SEO-directory wording.
 
-- [ ] **Make coaching outcomes concrete**
+- [x] **Make coaching outcomes concrete**
   - Add 1-2 specific client outcomes near testimonials or pricing on core coaching pages.
   - Use existing testimonials where possible, especially the Director of Engineering promotion example.
   - Focus on real changes: promotion, clearer roadmap, stabilised team, hard conversation handled, role transition navigated.
@@ -31,7 +31,7 @@ This is the current work queue after the site overhaul. Keep it practical: fix w
   - "AI adoption" should become "you avoid wasting money chasing hype and make useful adoption stick."
   - "Culture and team assessments" should become "you find out whether the problem is people, process, tech, leadership, or incentives."
 
-- [ ] **Add stories only where they earn their keep**
+- [x] **Add stories only where they earn their keep**
   - Consider 1-2 short, human stories for `pages/who-is-val.md`.
   - Use them only if they make Val feel more credible, vivid, or trustworthy.
   - Do not force CV material into the site for proof.
