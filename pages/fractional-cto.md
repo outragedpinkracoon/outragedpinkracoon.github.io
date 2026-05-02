@@ -100,7 +100,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
 
 <h2>How engagements work</h2>
 
-<p>I work on a day-rate basis. Some engagements are focused and defined: a tech assessment, a due diligence review, a delivery transformation. Some are ongoing while things are moving fast. Typical engagements run from a few days to several months. We agree scope and expected days upfront so there are no surprises.</p>
+<p>Email me with the rough shape of what is going on. If it sounds like something I can help with, we will book an intro call and work out whether you need a focused review, a few days of sharp technical judgement, or ongoing cover while things are moving fast. Before any work starts, we agree the shape, the expected days, and what you will have at the end of it.</p>
 
 <h2>Pricing</h2>
 
@@ -109,11 +109,11 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
     <span class="pricing-badge">Day rate</span>
     <p class="pricing-amount">£1,600</p>
     <p class="pricing-title">Per day</p>
-    <p class="pricing-subtitle">Remote. Typical engagements run from a few days to several months depending on what you need. Scope agreed upfront.</p>
+    <p class="pricing-subtitle">Remote senior tech leadership when the decisions are expensive and the ground keeps moving.</p>
     <ul class="pricing-includes">
-      <li>Direct, no-bullshit engagement from someone who has been in this exact situation before.</li>
-      <li>No expensive ramp-up time. I get to the actual problem fast.</li>
-      <li>I'll tell you what you need to hear, not what you want to hear.</li>
+      <li>For CTO gaps, founder overwhelm, delivery chaos, board pressure, and decisions you cannot afford to get wrong.</li>
+      <li>No expensive ramp-up theatre. I get to the actual problem fast.</li>
+      <li>Direct advice, practical calls, and a plan your team can act on.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support.">Get in touch</a>
   </div>
@@ -121,12 +121,12 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
   <div class="pricing-card">
     <span class="pricing-badge">Bespoke</span>
     <p class="pricing-title">Consultancy engagement</p>
-    <p class="pricing-subtitle">For defined pieces of work. Scoped, priced, and delivered.</p>
+    <p class="pricing-subtitle">For a specific decision, risk, or mess you need untangled without hiring someone permanent.</p>
     <p class="pricing-saving">Pricing on application</p>
     <ul class="pricing-includes">
-      <li>Culture audits, tech assessments, due diligence, delivery reviews.</li>
-      <li>Clear scope, clear output, clear price. Agreed before we start.</li>
-      <li>No open-ended engagements, no scope creep, no surprises.</li>
+      <li>Find out what is really going on across culture, delivery, architecture, leadership, and incentives.</li>
+      <li>Get a clear read on the risk, the options, and the next sensible move.</li>
+      <li>Clear scope, clear output, clear price. No open-ended consultancy fog.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20scope%20a%20defined%20consultancy%20engagement.">Get in touch</a>
   </div>
