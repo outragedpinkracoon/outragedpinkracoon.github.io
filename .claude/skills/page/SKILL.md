@@ -20,6 +20,18 @@ Everything in those files applies here. The sections below are page-specific add
 - Deeper sales pages: more bite
 - No fit checks. No defensive pricing. Frame: valuable because it works, fast.
 
+## Aesthetic target — chaotic but classy
+
+The site should feel like a risograph zine that somehow also charges £400 a session and means it. The reference points are MÖRK BORG (maximalist, high-contrast, slightly unhinged layout choices) and risograph print (bold flat colour, deliberate texture, things slightly off-register). Not chaos for chaos's sake — controlled enough to be legible, wild enough to feel like it means it.
+
+**Router and overview pages specifically** tend to go too safe and too grid-clean. Push harder:
+- Audience panels can have tilts, colour clashes, offset shadows — they should feel like cards pinned to a wall, not a pricing table
+- Labels, headings, and CTAs should have visual energy, not just bold text on a white card
+- If a page layout could belong on a SaaS product site, it's not there yet
+- Use the palette aggressively — colour rotation across cards, clashing accent colours between adjacent elements, not harmonious neutrals
+
+The target is: someone lands and immediately feels the personality before they read a word.
+
 ## Shared components — use Jekyll includes
 
 Shared components live in `_includes/`. Always use these rather than duplicating HTML across pages:

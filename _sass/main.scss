@@ -1236,17 +1236,35 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   li { margin-bottom: 0.55rem; }
 
   &--coaching {
-    border-color: rgba($magenta, 0.35);
-    box-shadow: 7px 7px 0 rgba($magenta, 0.24);
+    border: 4px solid $magenta;
+    box-shadow: 8px 8px 0 $magenta;
 
     h3 { color: $magenta; }
+    .audience-label { background: $magenta; color: $cream; }
   }
 
   &--manager {
-    border-color: rgba($teal, 0.35);
-    box-shadow: 7px 7px 0 rgba($teal, 0.24);
+    border: 4px solid $teal;
+    box-shadow: 8px 8px 0 $teal;
 
     h3 { color: $teal; }
+    .audience-label { background: $teal; color: $cream; }
+  }
+
+  &--orange {
+    border: 4px solid $orange;
+    box-shadow: 8px 8px 0 $orange;
+
+    h3 { color: $orange; }
+    .audience-label { background: $orange; color: $cream; }
+  }
+
+  &--lavender {
+    border: 4px solid $lavender;
+    box-shadow: 8px 8px 0 $lavender;
+
+    h3 { color: $lavender; }
+    .audience-label { background: $lavender; color: $cream; }
   }
 }
 
