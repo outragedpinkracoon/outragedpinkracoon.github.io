@@ -8,7 +8,7 @@ I was a little puzzled today that the List module in Elixir has first and last m
 
 I wanted to investigate this further I used my recently learned h List command to give me some interesting help about the List module in iex which showed me this:
 
-“This module aims to provide operations that are specific to lists, like conversion between data types, updates, deletions and key lookups (for lists of tuples). For traversing lists in general, developers
+"This module aims to provide operations that are specific to lists, like conversion between data types, updates, deletions and key lookups (for lists of tuples). For traversing lists in general, developers
 should use the functions in the Enum module that work across a variety of data types.”
 
 Ah ha! So it would seem that the Enum module is what I actually want to use for accessing and traversing my list, and actually is a more general use module for various data types.

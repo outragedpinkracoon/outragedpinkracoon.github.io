@@ -106,7 +106,7 @@ readFile('1.txt', "") //first call to the function
 ```
 The first big difference is here is there is no v-shaped spaghetti junction. It’s nice and linear and we can read exactly what is going on. Notice that .then() contains result, which we pass into the resolve function. Our resolve action maps directly to the then() method here, allowing us to consume the result and if we like chain this onto something else. This is only possible by returning a Promise object!
 
-Notice also the .catch() method at the end of the chain. The “reject” function call from earlier directly maps to this - you can see the “err” object from earlier making an appearance. If any of the promises in the chain fail, this will be invoked.
+Notice also the .catch() method at the end of the chain. The "reject” function call from earlier directly maps to this - you can see the "err” object from earlier making an appearance. If any of the promises in the chain fail, this will be invoked.
 
 Pretty neat huh??
 

@@ -55,7 +55,7 @@ You stay up all night desperately trying to learn all the things and slowly but 
 
 Truth is, they are not better than you.
 
-Unrealistic deadlines on projects you know nothing about in a tech stack you have never used are unrealistic and unfair. We need to be strong enough to stand up for ourselves and say that it’s not achievable. We need to speak up confidently and say “I need support” or “I need time to learn”.
+Unrealistic deadlines on projects you know nothing about in a tech stack you have never used are unrealistic and unfair. We need to be strong enough to stand up for ourselves and say that it’s not achievable. We need to speak up confidently and say "I need support” or "I need time to learn”.
 
 It takes a lot of courage to ask for help. Why would we spend weeks failing to learn something under pressure when someone else on the team already knows it and can show us how to do it, so we can grow and learn and the deadline can be met? It’s bad for us and it’s bad for the business too.
 

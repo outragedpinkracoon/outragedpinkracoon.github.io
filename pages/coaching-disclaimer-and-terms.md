@@ -11,7 +11,7 @@ The coaching disclaimer and terms and conditions outlined below define the relat
 
 I understand that I am solely responsible for my own physical, mental, and emotional well-being, decisions, choices, actions, and results arising from the coaching relationship. Accordingly, I agree that the Coach is not and will not be liable for any actions, inaction, or direct or indirect results of the services provided.
 
-I acknowledge that coaching is not a substitute for counselling, psychotherapy, psychoanalysis, mental health care, substance abuse treatment, or medical advice, and that the Coach is not acting as a medical professional or mental health counsellor. Coaching does not diagnose, treat, prevent, or cure any mental disorder or medical condition. For legal purposes, I understand that coaching is an unregulated industry and that my Coach and their business are not “licensed” by any UK body.
+I acknowledge that coaching is not a substitute for counselling, psychotherapy, psychoanalysis, mental health care, substance abuse treatment, or medical advice, and that the Coach is not acting as a medical professional or mental health counsellor. Coaching does not diagnose, treat, prevent, or cure any mental disorder or medical condition. For legal purposes, I understand that coaching is an unregulated industry and that my Coach and their business are not "licensed” by any UK body.
 
 I understand that coaching is a process designed to support me in achieving the goals I set with my Coach, but that results are not guaranteed. Where our work involves career or business matters, I understand that no promises are made regarding specific outcomes, including (but not limited to) increased clientele, profitability, or business success.
 
