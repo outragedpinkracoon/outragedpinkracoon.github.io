@@ -16,12 +16,12 @@
 - [x] **Fractional CTO page: add a retainer/ongoing engagement tier**
   Same logic. A Fractional CTO buyer doing a 3-day engagement may want to extend into a sustained monthly relationship. The current pricing only shows day rate and bespoke. Add an ongoing engagement option that signals "this can be a longer relationship" without open-ended retainer fog — something like: scope agreed per quarter, minimum day commitment, pricing on application.
 
-- [ ] **Homepage: consider a two-path entry for coaching vs. Fractional CTO**
+- [x] **Homepage: consider a two-path entry for coaching vs. Fractional CTO** — decided against; "I work in two modes" copy + reordered cards already do this work
   Right now, a £1,600/day CTO buyer lands on a page that looks primarily like a coaching site with a CTO card. Consider whether the homepage hero needs a clearer split — two explicit paths before the card grid — so a CTO buyer feels immediately addressed rather than having to find their card. This is a structural change; do the quick wins first and see if the homepage still feels off.
 
 ## Bigger bets
 
-- [ ] **Teams/org coaching page: add a corporate buyer framing**
+- [x] **Teams/org coaching page: add a corporate buyer framing**
   The bespoke pricing card exists ("multiple managers — pricing on application") but there's no copy that speaks to the L&D manager, Head of Eng, or CTO who is buying coaching for their whole engineering floor. Those buyers have different budgets, different decision processes, and need different framing. A version of the teams offer that explicitly addresses "you're buying for a cohort, not one person" — with language about ROI, retention cost, and the cost of bad management — would convert a different and more valuable buyer.
 
 ---

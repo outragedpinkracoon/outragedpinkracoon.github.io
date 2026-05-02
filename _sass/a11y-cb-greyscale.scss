@@ -294,6 +294,17 @@ body.cb-greyscale {
       .audience-label { background: $gs-mid-dark; color: $gs-near-white; }
       a { color: $gs-near-white; text-decoration-color: rgba($gs-near-white, 0.5); }
     }
+
+    &--exec {
+      background: $gs-light;
+      border-color: $gs-dark;
+      border-style: double;
+      box-shadow: 7px 7px 0 $gs-mid;
+      color: $gs-dark;
+      h3 { color: $gs-dark; }
+      .audience-label { background: $gs-dark; color: $gs-near-white; }
+      a { color: $gs-dark; text-decoration-color: rgba($gs-dark, 0.5); }
+    }
   }
   .outcome-item {
     background: $gs-dark;

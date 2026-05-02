@@ -1271,6 +1271,14 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     h3 { color: $lavender; }
     .audience-label { background: $lavender; color: $cream; }
   }
+
+  &--exec {
+    border: 4px solid $yellow;
+    box-shadow: 8px 8px 0 darken($yellow, 10%);
+
+    h3 { color: darken($yellow, 20%); }
+    .audience-label { background: darken($yellow, 10%); color: $ink; }
+  }
 }
 
 .audience-label {

@@ -253,6 +253,12 @@ body.cb-red-green {
       box-shadow: 7px 7px 0 rgba($cb-sky, 0.36);
       h3 { color: darken($cb-sky, 15%); }
     }
+    &--exec {
+      border-color: rgba($cb-amber, 0.6);
+      box-shadow: 7px 7px 0 rgba($cb-amber, 0.4);
+      h3 { color: darken($cb-amber, 15%); }
+      .audience-label { background: darken($cb-amber, 10%); color: $ink; }
+    }
   }
   .outcome-item {
     background: $cb-blue;

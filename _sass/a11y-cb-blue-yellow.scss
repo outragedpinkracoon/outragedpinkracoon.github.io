@@ -240,6 +240,12 @@ body.cb-blue-yellow {
       box-shadow: 7px 7px 0 rgba($tri-red, 0.28);
       h3 { color: $tri-red; }
     }
+    &--exec {
+      border-color: rgba($tri-coral, 0.55);
+      box-shadow: 7px 7px 0 rgba($tri-coral, 0.36);
+      h3 { color: darken($tri-coral, 10%); }
+      .audience-label { background: darken($tri-coral, 8%); color: $cream; }
+    }
   }
   .outcome-item {
     background: #d91a5e;

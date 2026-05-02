@@ -7,13 +7,13 @@ title_sub: Bad managers are expensive, good ones aren't accidental.
 description: Team coaching for engineering managers from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for new managers.
 ---
 
-<p class="page-intro"><strong>You just promoted someone into management. Congratulations. Now what?</strong></p>
+<p class="page-intro"><strong>Your engineers just became managers. They're good at the technical stuff. That's not the problem.</strong></p>
 
-<p>They're good engineers. That's why you promoted them. But being good at writing code is not the same as being good at holding a team together, giving feedback that lands, handling conflict, or not accidentally crushing someone's confidence in a 1:1.</p>
+<p>The problem is they've never had to give feedback that lands, handle conflict without making it worse, or hold a team together while everything is on fire. And nobody told them how.</p>
 
-<p>And you don't have time to babysit them through it. You have your own fires.</p>
+<p>You don't have time to shepherd them through it. You have your own fires. And there's no undo button for the damage a struggling manager does to a team while they're figuring it out.</p>
 
-<p>I coach newly-promoted engineering managers at startups and scale-ups — the ones who've just been handed a team and a vague brief and are quietly terrified. I get them effective fast, without the HR varnish or the six-week feelings parade.</p>
+<p>I coach newly-promoted engineering managers at startups and scale-ups: the ones handed a team and a vague brief and quietly terrified. I get them effective fast.</p>
 
 {% include credibility-strip.html %}
 
@@ -55,6 +55,16 @@ description: Team coaching for engineering managers from an ILM-certified execut
   </section>
 </div>
 
+<h2>Buying for a team?</h2>
+
+<p>If you're a CTO, Head of Engineering, or L&D manager looking to coach a cohort — not just one person — the economics are different and the conversation is different.</p>
+
+<p>The cost of bad management at scale is not abstract. Turnover in a mid-level engineer costs 6-9 months of their salary in recruiting, onboarding, and lost velocity. Disengagement is slower and more expensive. A newly promoted manager who handles conflict badly, gives terrible feedback, or loses people who should have stayed — that bill lands on you.</p>
+
+<p>Coaching at the point of promotion is the cheapest intervention available. I work with companies coaching anywhere from 2 to 10+ managers at a time, in whatever format fits what you're actually dealing with.</p>
+
+<div class="callout callout--yellow">We always start with a conversation before anything is agreed. <a href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a> and we'll work out whether this is the right fit and what it would look like for your org.</div>
+
 <h2>Pricing</h2>
 
 <p class="pricing-decision">Individual managers can be coached on the standard session pricing below. For multiple managers or org-wide support, get in touch and we'll work out what makes sense.</p>
@@ -72,7 +82,7 @@ description: Team coaching for engineering managers from an ILM-certified execut
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
       <li>They leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Let's do this</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
   </div>
 
   <div class="pricing-card">
@@ -86,7 +96,7 @@ description: Team coaching for engineering managers from an ILM-certified execut
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
       <li>Follow-up sessions where I already know the situation and we get it dealt with.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Let's do this</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
   </div>
 
   <div class="pricing-card">
@@ -100,20 +110,20 @@ description: Team coaching for engineering managers from an ILM-certified execut
       <li>I already know the context. No re-briefing, no starting over.</li>
       <li>Slots are held. No chasing availability when things get live.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Let's do this</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">Multiple managers</span>
-    <p class="pricing-title">Bespoke team engagement</p>
-    <p class="pricing-subtitle">Coaching multiple managers, or want something structured around your org?</p>
+    <span class="pricing-badge">For organisations</span>
+    <p class="pricing-title">Cohort engagement</p>
+    <p class="pricing-subtitle">Coaching 3, 5, or 10+ managers across your engineering org.</p>
     <p class="pricing-saving">Pricing on application</p>
     <ul class="pricing-includes">
-      <li>Same no-bullshit coaching, scaled across your team.</li>
-      <li>Format and cadence shaped around what you're actually dealing with.</li>
-      <li>Tell me the situation and we'll work out what makes sense.</li>
+      <li>Format, cadence, and scope agreed around what you're actually dealing with — not a fixed programme dropped into your calendar.</li>
+      <li>Works alongside your existing L&D budget. I'll provide whatever documentation your finance team needs.</li>
+      <li>Tell me how many managers, what they're navigating, and how fast you need them effective. We'll work out what makes sense.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Let's do this</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Get in touch</a>
   </div>
 </div>
 
