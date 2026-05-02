@@ -2132,6 +2132,8 @@ blockquote {
     box-shadow: 6px 6px 0 $ink;
     transform: rotate(-1.8deg);
 
+    strong { color: $cream; }
+
     a {
       color: $cream;
       text-decoration: underline;
