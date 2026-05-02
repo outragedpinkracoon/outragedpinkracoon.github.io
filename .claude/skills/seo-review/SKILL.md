@@ -40,7 +40,7 @@ The site is NOT targeting:
 
 ### Front matter
 - `title:` — does it contain a target keyword AND sound like Val? Not "Coaching Services". More like "Engineering Manager Coaching — Outraged Racoon"
-- `description:` — 140–160 chars, leads with the reader's problem, sounds human not corporate, contains at least one search term
+- `description:` — tight, focused, and audience-specific. Aim for 140–160 chars, but shorter is fine if it is stronger. It must contain the right search language for that page and sell why Val, not just describe the category.
 - `image:` — is there a meaningful OG image set? Defaults to `/assets/images/site/racoon.jpg` if not overridden
 
 ### Headings
@@ -79,6 +79,13 @@ The site is NOT targeting:
 
 The difference: the strong one names the person, names the problem, sounds like Val.
 
+Meta descriptions must do three jobs at once:
+- **Keyword fit:** use the words the right audience would actually search (`engineering manager coaching`, `founder coaching`, `Fractional CTO`, `VP Engineering`, `neurodivergent tech coach`, etc.)
+- **Audience fit:** make the right person feel "oh, that's me" without trying to include everyone
+- **Val fit:** show why Val specifically is credible or different: Fractional CTO / VP Engineering, ILM certified where relevant, direct/no-bullshit, has been in the room, understands the messy human bits of tech, can see the real problem quickly without corporate varnish
+
+Do not "optimise" a description into directory copy. A description that says the right keywords but could belong to any coach has failed.
+
 ## Inclusion in meta descriptions
 
 Never lead with "neurodivergent" or "queer" as the primary qualifier in a meta description — it signals to the broader audience that the service isn't for them. The pattern is: broad audience first, specialist support as additive.
@@ -91,6 +98,7 @@ The folks-in-tech page is the exception — that page is explicitly for that aud
 ## What to flag
 
 - `description:` that's vague, jargon-heavy, or over 160 chars
+- `description:` that is technically SEO-shaped but generic, e.g. just listing the audience and credentials without a reason to click
 - `title:` tags that don't contain a keyword (e.g. just "Coaching" or "Home")
 - Missing `description:` front matter (will fall back to `_config.yml` site description — usually too generic)
 - H1s that don't match search intent
@@ -108,4 +116,10 @@ The folks-in-tech page is the exception — that page is explicitly for that aud
 
 ## When writing or rewriting meta descriptions
 
-Ask: would Val actually say this? Would the target person recognise themselves in it? If yes to both, it's right. If it sounds like it was written by an SEO agency, it's wrong.
+Ask:
+- Would Val actually say this?
+- Would the target person recognise themselves in it?
+- Does it include the right keyword/search phrase for this specific page?
+- Does it make Val feel like the obvious person to click, not just one option in a list?
+
+If yes to all four, it's right. If it sounds like it was written by an SEO agency, it's wrong.
