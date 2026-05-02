@@ -32,19 +32,19 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
     <p><a class="pricing-cta" href="/coaching/engineering-managers/">Help me manage humans</a></p>
   </section>
 
-  <section class="audience-panel audience-panel--lavender">
-    <p class="audience-label">For CTOs and engineering leads</p>
-    <h3><a href="/coaching/teams/">My engineers just became managers. Let’s not leave them to break the team finding out.</a></h3>
-    <p>You’re scaling and your new managers need to get good fast. There is no undo button for people.</p>
-    <p>I coach newly-promoted engineering managers at startups and scale-ups: the ones handed a team and a vague brief and quietly terrified.</p>
-    <p><a class="pricing-cta" href="/coaching/teams/">Help my managers get good fast</a></p>
-  </section>
-
   <section class="audience-panel audience-panel--coaching">
     <p class="audience-label">For folks in tech</p>
     <h3><a href="/coaching/folks-in-tech/">I want more power, more credit, and less bullshit</a></h3>
     <p>You are capable, ambitious, and tired of being treated like a maybe.</p>
     <p>Career moves, burnout, masking, visibility, accommodations, self-trust, and deciding what the hell happens next. Especially if you are neurodivergent, queer, disabled, or done making yourself easier to digest.</p>
     <p><a class="pricing-cta" href="/coaching/folks-in-tech/">Help me get unstuck</a></p>
+  </section>
+
+  <section class="audience-panel audience-panel--lavender">
+    <p class="audience-label">For CTOs and engineering leads</p>
+    <h3><a href="/coaching/teams/">My engineers just became managers. Let’s not leave them to break the team finding out.</a></h3>
+    <p>You’re scaling and your new managers need to get good fast. There is no undo button for people.</p>
+    <p>I coach newly-promoted engineering managers at startups and scale-ups: the ones handed a team and a vague brief and quietly terrified.</p>
+    <p><a class="pricing-cta" href="/coaching/teams/">Help my managers get good fast</a></p>
   </section>
 </div>

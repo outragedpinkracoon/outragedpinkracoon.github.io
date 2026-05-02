@@ -91,3 +91,6 @@ very well structured and easy to follow. I like the thoughts section at the end 
 
 Rui Andrés
 Great course and amazing insights, methods, and all-around knowledge. It will be crucial for becoming a better human and co-worker and hopefully my team-members current and future will benefit from what I'll apply from it. Thank you for your time producing and distilling this gem.
+
+Url for checkout 
+https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/sales?ticketId=29208000000080004
