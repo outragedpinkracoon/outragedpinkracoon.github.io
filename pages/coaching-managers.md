@@ -4,7 +4,7 @@ permalink: /coaching/engineering-managers/
 title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
 title_sub: because there's no undo button for people.
-description: ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit 1:1 coaching for engineering managers and tech leaders.
+description: Engineering manager coaching from an ILM-certified neurodivergent executive coach and CTO/VP Engineering. No-bullshit support for feedback and conflict.
 show_teams_card: true
 ---
 

@@ -4,7 +4,7 @@ permalink: /coaching/funding/
 title: How to Fund Coaching — Employer L&D and Access to Work
 display_title: How to fund coaching
 title_sub: you probably don't have to pay for this yourself.
-description: How to fund no-bullshit coaching with an ILM-certified executive coach and fractional CTO/VP Engineering through L&D or Access to Work.
+description: How to fund coaching through L&D or Access to Work. No-bullshit support from an ILM-certified executive coach and CTO/VP Engineering.
 ---
 
 <p class="page-intro"><strong>There's a good chance someone else should be paying for this.</strong></p>
