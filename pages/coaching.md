@@ -32,7 +32,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
     <p><a class="pricing-cta" href="/coaching/folks-in-tech/">Help me get unstuck</a></p>
   </section>
 
-  <section class="audience-panel audience-panel--manager">
+  <section class="audience-panel audience-panel--orange">
     <p class="audience-label">For founders / CTOs / VPs</p>
     <h3><a href="/coaching/founders/">I'm making hard calls with no one to reality-check me</a></h3>
     <p>You are at the top, making decisions alone, at speed, with no one who gets the full picture.</p>
@@ -40,7 +40,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
     <p><a class="pricing-cta" href="/coaching/founders/">Help me make the hard call</a></p>
   </section>
 
-  <section class="audience-panel audience-panel--coaching">
+  <section class="audience-panel audience-panel--lavender">
     <p class="audience-label">For CTOs and engineering leads</p>
     <h3><a href="/coaching/teams/">My engineers just became managers. Let's not leave them to break the team finding out.</a></h3>
     <p>You're scaling and your new managers need to get good fast. There is no undo button for people.</p>

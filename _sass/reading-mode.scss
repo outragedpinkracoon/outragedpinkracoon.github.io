@@ -113,6 +113,16 @@ body.reading-mode {
       box-shadow: 7px 7px 0 rgba($reading-teal, 0.22);
       h3 { color: $reading-teal; }
     }
+    &--orange {
+      border-color: rgba(#c8421a, 0.45);
+      box-shadow: 7px 7px 0 rgba(#c8421a, 0.22);
+      h3 { color: #c8421a; }
+    }
+    &--lavender {
+      border-color: rgba(#6f4f94, 0.45);
+      box-shadow: 7px 7px 0 rgba(#6f4f94, 0.22);
+      h3 { color: #6f4f94; }
+    }
   }
 
   .outcome-item {
@@ -208,12 +218,10 @@ body.reading-mode {
     &:nth-child(3) { border-bottom-color: #d46f42; }
     &:nth-child(4) { border-bottom-color: $reading-yellow; }
   }
-  .credibility-badge__mark {
-    background: darken($reading-magenta, 10%);
-    .credibility-badge:nth-child(even) & { background: darken($reading-teal, 8%); }
-    .credibility-badge:nth-child(3) & { background: #d46f42; color: #1c1714; }
-    .credibility-badge:nth-child(4) & { background: $reading-yellow; color: #1c1714; }
-  }
+  .credibility-badge__mark { background: darken($reading-magenta, 10%); }
+  .credibility-badge:nth-child(even) .credibility-badge__mark { background: darken($reading-teal, 8%); }
+  .credibility-badge:nth-child(3) .credibility-badge__mark { background: #d46f42; color: #1c1714; }
+  .credibility-badge:nth-child(4) .credibility-badge__mark { background: $reading-yellow; color: #1c1714; }
   .story-stamp {
     background: rgba($reading-yellow, 0.32);
     color: #1c1714;
@@ -509,6 +517,16 @@ body.cb-red-green {
       box-shadow: 7px 7px 0 rgba($cb-amber, 0.36);
       h3 { color: darken($cb-amber, 8%); }
     }
+    &--orange {
+      border-color: rgba($cb-vermillion, 0.55);
+      box-shadow: 7px 7px 0 rgba($cb-vermillion, 0.36);
+      h3 { color: $cb-vermillion; }
+    }
+    &--lavender {
+      border-color: rgba($cb-sky, 0.55);
+      box-shadow: 7px 7px 0 rgba($cb-sky, 0.36);
+      h3 { color: darken($cb-sky, 15%); }
+    }
   }
   .outcome-item {
     background: $cb-blue;
@@ -592,12 +610,10 @@ body.cb-red-green {
     &:nth-child(3) { border-bottom-color: $cb-vermillion; }
     &:nth-child(4) { border-bottom-color: $cb-sky; }
   }
-  .credibility-badge__mark {
-    background: $cb-blue;
-    .credibility-badge:nth-child(even) & { background: $cb-amber; color: #1c1714; }
-    .credibility-badge:nth-child(3) & { background: $cb-vermillion; color: #1c1714; }
-    .credibility-badge:nth-child(4) & { background: $cb-sky; color: #1c1714; }
-  }
+  .credibility-badge__mark { background: $cb-blue; color: #f7f2e8; }
+  .credibility-badge:nth-child(even) .credibility-badge__mark { background: $cb-amber; color: #1c1714; }
+  .credibility-badge:nth-child(3) .credibility-badge__mark { background: $cb-vermillion; color: #1c1714; }
+  .credibility-badge:nth-child(4) .credibility-badge__mark { background: $cb-sky; color: #1c1714; }
   .story-stamp {
     background: #f7f2e8;
     color: #1c1714;
@@ -715,18 +731,10 @@ body.cb-blue-yellow {
         &:hover { box-shadow: 12px 12px 0 $sh; }
       }
     }
-    // orange and coral cards need ink text
-    &:nth-child(3),
-    &:nth-child(4) {
-      color: #1c1714;
-      h3, p, .card-cta { color: #1c1714; }
-      .card-cta { border-bottom-color: rgba(#1c1714, 0.7); }
-    }
-    // dark green card needs white text
-    &:nth-child(2) {
-      color: #f7f2e8;
-      h3, p, li, a { color: #f7f2e8; }
-    }
+    // all cards use white text
+    color: #f7f2e8;
+    h3, p, li, a, .card-cta { color: #f7f2e8; }
+    .card-cta { border-bottom-color: rgba(#f7f2e8, 0.7); }
   }
 
   // Blockquotes — replace yellow bg with coral
@@ -741,8 +749,18 @@ body.cb-blue-yellow {
 
   .manager-quote-card {
     background: $tri-coral;
-    color: #1c1714;
+    color: #f7f2e8;
     box-shadow: 6px 6px 0 #d91a5e;
+
+    &:nth-child(2)  { background: #d91a5e;    color: #f7f2e8; }
+    &:nth-child(3)  { background: $tri-green;  color: #f7f2e8; }
+    &:nth-child(4)  { background: #ef6820;     color: #f7f2e8; }
+    &:nth-child(5)  { background: $tri-red;    color: #f7f2e8; }
+    &:nth-child(6)  { background: $tri-coral;  color: #f7f2e8; }
+    &:nth-child(7)  { background: #d91a5e;     color: #f7f2e8; }
+    &:nth-child(8)  { background: $tri-green;  color: #f7f2e8; }
+    &:nth-child(9)  { background: #ef6820;     color: #f7f2e8; }
+    &:nth-child(10) { background: $tri-red;    color: #f7f2e8; }
 
     blockquote {
       background: transparent;
@@ -859,6 +877,10 @@ body.cb-blue-yellow {
     background: $tri-green;
     color: #f7f2e8;
   }
+  .pricing-saving {
+    background: $tri-coral;
+    color: #1c1714;
+  }
 
   // Coaching page sections
   .audience-label { background: #1c1714; color: #f7f2e8; }
@@ -872,6 +894,16 @@ body.cb-blue-yellow {
       border-color: rgba($tri-green, 0.48);
       box-shadow: 7px 7px 0 rgba($tri-green, 0.28);
       h3 { color: $tri-green; }
+    }
+    &--orange {
+      border-color: rgba(#ef6820, 0.48);
+      box-shadow: 7px 7px 0 rgba(#ef6820, 0.28);
+      h3 { color: #ef6820; }
+    }
+    &--lavender {
+      border-color: rgba($tri-red, 0.48);
+      box-shadow: 7px 7px 0 rgba($tri-red, 0.28);
+      h3 { color: $tri-red; }
     }
   }
   .outcome-item {
@@ -947,17 +979,18 @@ body.cb-blue-yellow {
     &:nth-child(4) { border-left-color: $tri-red; }
   }
   .credibility-badge {
-    border-bottom-color: #d91a5e;
-    &:nth-child(even) { border-bottom-color: $tri-green; }
-    &:nth-child(3) { border-bottom-color: #ef6820; }
-    &:nth-child(4) { border-bottom-color: $tri-red; }
+    border-bottom: 5px solid #d91a5e;
+    &:nth-child(even) { border-bottom: 5px solid $tri-green; }
+    &:nth-child(3) { border-bottom: 5px solid #ef6820; }
+    &:nth-child(4) { border-bottom: 5px solid $tri-red; }
   }
   .credibility-badge__mark {
     background: darken(#d91a5e, 6%);
-    .credibility-badge:nth-child(even) & { background: darken($tri-green, 8%); }
-    .credibility-badge:nth-child(3) & { background: #ef6820; color: #1c1714; }
-    .credibility-badge:nth-child(4) & { background: $tri-red; }
+    color: #f7f2e8;
   }
+  .credibility-badge:nth-child(even) .credibility-badge__mark { background: darken($tri-green, 8%); color: #f7f2e8; }
+  .credibility-badge:nth-child(3) .credibility-badge__mark { background: #ef6820; color: #f7f2e8; }
+  .credibility-badge:nth-child(4) .credibility-badge__mark { background: $tri-red; color: #f7f2e8; }
   .story-stamp {
     background: #f7f2e8;
     color: #1c1714;
@@ -1347,18 +1380,25 @@ body.cb-greyscale {
     background: lighten($gs-light, 6%);
     border-color: rgba($gs-dark, 0.2);
     border-bottom-color: $gs-dark;
+    border-bottom-style: solid;
     color: $gs-dark;
     box-shadow: 4px 4px 0 $gs-mid;
     &:nth-child(even) { border-bottom-color: $gs-mid-dark; border-bottom-style: dashed; }
     &:nth-child(3) { border-bottom-color: $gs-mid; border-bottom-style: dotted; }
     &:nth-child(4) { border-bottom-color: $gs-mid-light; border-bottom-style: double; }
   }
-  .credibility-badge__mark {
-    background: $gs-dark;
-    color: $gs-near-white;
-    .credibility-badge:nth-child(even) & { background: $gs-mid-dark; }
-    .credibility-badge:nth-child(3) & { background: $gs-mid; }
-    .credibility-badge:nth-child(4) & { background: $gs-light; color: $gs-dark; border: 1px solid $gs-dark; }
+  .credibility-badge__mark { background: $gs-dark; color: $gs-near-white; border-radius: 0; }
+  .credibility-badge:nth-child(even) .credibility-badge__mark { background: $gs-mid-dark; color: $gs-near-white; }
+  .credibility-badge:nth-child(3) .credibility-badge__mark { background: $gs-mid; color: $gs-near-white; }
+  .credibility-badge:nth-child(4) .credibility-badge__mark { background: $gs-light; color: $gs-dark; border: 2px solid $gs-dark; }
+  .pricing-saving {
+    background: $gs-light;
+    color: $gs-dark;
+    border: 1px dashed $gs-mid-dark;
+  }
+  .profile-image,
+  .who-hero__image {
+    box-shadow: 8px 8px 0 $gs-mid-dark;
   }
   .story-stamp {
     background: lighten($gs-light, 7%);
