@@ -13,10 +13,11 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
   <div class="who-hero__text">
     <p class="page-intro"><strong>You need someone who has actually done this, not someone who will take three months to get up to speed.</strong></p>
     <p>I embed directly into your business as a Fractional CTO / VP Engineering. On the ground, in the room, making the calls with you. No corporate theatre, no slide decks full of obvious things, no consultant who disappears after the diagnosis.</p>
-    {% include credibility-strip.html %}
   </div>
   <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="who-hero__image">
 </div>
+
+<div class="credibility-strip--bar-wrap">{% include credibility-strip.html %}</div>
 
 <h2>Who I work with</h2>
 
@@ -81,7 +82,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
       <li>You avoid wasting money chasing AI hype and make useful adoption stick</li>
       <li>Your engineering leaders get sharper and your teams get less chaotic</li>
       <li>Your startup stops outgrowing its own operating system</li>
-      <li>Your board gets tech explained without theatre or fog</li>
+      <li>Your board gets tech explained clearly and honestly</li>
     </ul>
   </div>
 </div>
@@ -102,7 +103,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
 
 <p>Email me with the rough shape of what is going on. I will reply to book a free 30-minute intro call: no charge, no commitment. We work out whether it is the right fit, what the problem actually is, and which format makes sense.</p>
 
-<p>If we go ahead, we agree the scope, expected days, and what you will have at the end before any work starts. No open-ended retainer fog, no consultant who disappears after the diagnosis.</p>
+<p>If we go ahead, we agree the scope, expected days, and what you will have at the end before any work starts. No consultant who disappears after the diagnosis.</p>
 
 <h2>Pricing</h2>
 
@@ -128,9 +129,22 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
     <ul class="pricing-includes">
       <li>Find out what is really going on across culture, delivery, architecture, leadership, and incentives.</li>
       <li>Get a clear read on the risk, the options, and the next sensible move.</li>
-      <li>Clear scope, clear output, clear price. No open-ended consultancy fog.</li>
+      <li>Clear scope, clear output, clear price.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20scope%20a%20defined%20consultancy%20engagement.">Book a free intro call</a>
+  </div>
+
+  <div class="pricing-card">
+    <span class="pricing-badge">Ongoing</span>
+    <p class="pricing-title">Retained engagement</p>
+    <p class="pricing-subtitle">For when one engagement turns into something longer, or you know from the start you need someone in your corner for a while.</p>
+    <p class="pricing-saving">Pricing on application</p>
+    <ul class="pricing-includes">
+      <li>Agreed scope and minimum day commitment per quarter.</li>
+      <li>I already know your business, your team, and your problems. No re-briefing, no ramp-up cost.</li>
+      <li>Right for companies going through a sustained period of change, growth, or pressure.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Retained%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20an%20ongoing%20retained%20engagement.">Book a free intro call</a>
   </div>
 </div>
 

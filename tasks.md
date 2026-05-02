@@ -13,7 +13,7 @@
 - [x] **Founders/CTO coaching page: add a retainer card**
   The value ladder stops at £2,000 (6 sessions). A founder going through a raise, or a CTO in a sustained difficult stretch, may want ongoing monthly access. That's a fundamentally different and more valuable engagement. Add a retainer pricing card ("Ongoing monthly support — pricing on application") to the founders/CTO coaching page. Same format as the other pricing cards.
 
-- [ ] **Fractional CTO page: add a retainer/ongoing engagement tier**
+- [x] **Fractional CTO page: add a retainer/ongoing engagement tier**
   Same logic. A Fractional CTO buyer doing a 3-day engagement may want to extend into a sustained monthly relationship. The current pricing only shows day rate and bespoke. Add an ongoing engagement option that signals "this can be a longer relationship" without open-ended retainer fog — something like: scope agreed per quarter, minimum day commitment, pricing on application.
 
 - [ ] **Homepage: consider a two-path entry for coaching vs. Fractional CTO**

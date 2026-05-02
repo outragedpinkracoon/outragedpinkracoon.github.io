@@ -2065,6 +2065,14 @@ body.reading-mode .human-list li {
   }
 }
 
+.credibility-strip--bar-wrap .credibility-strip {
+  margin: 1.8rem 0 2.2rem;
+
+  @include respond-to('medium') {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // BLOCKQUOTE / TESTIMONIALS
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

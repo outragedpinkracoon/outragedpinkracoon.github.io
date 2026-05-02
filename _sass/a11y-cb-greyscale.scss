@@ -411,6 +411,15 @@ body.cb-greyscale {
     }
   }
 
+  .credential-card.card {
+    color: $gs-near-white;
+
+    h3 { color: $gs-near-white; }
+    li { color: $gs-near-white; }
+
+    &:nth-child(2) { color: $gs-near-white; h3 { color: $gs-near-white; } li { color: $gs-near-white; } }
+  }
+
   .problem-list {
     ul {
       border-top-color: rgba($gs-dark, 0.18);
