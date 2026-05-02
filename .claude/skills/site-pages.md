@@ -24,3 +24,4 @@ Index of all main pages and shared includes. Read these files directly when you 
 | `_includes/credibility-strip.html` | All coaching pages | ILM / 300+ / VP / 14Y badges |
 | `_includes/pricing.html` | All coaching pages | £400 / £1,000 / £2,000 + optional teams card + self-funding note |
 | `_includes/session-process.html` | All coaching pages | 4-step "what happens in a session" |
+| `_includes/what-happens-next.html` | All coaching pages | 4-step "what happens after you email" — intro call, format, payment, sessions |

@@ -91,6 +91,8 @@ description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-
 
 <p>Still thinking “yes, but what even <em>is</em> a coach?” I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What’s A Coach Anyway?</a></p>
 
+{% include what-happens-next.html %}
+
 <h2>Pricing</h2>
 
 {% include pricing.html %}

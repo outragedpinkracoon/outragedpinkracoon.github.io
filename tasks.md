@@ -7,7 +7,7 @@ This is the current work queue after the site overhaul. Keep it practical: fix w
   - Check `pages/coaching-managers.md` and `pages/coaching-folks-in-tech.md`.
   - Confirm testimonial styling still renders properly afterwards.
 
-- [ ] **Clarify the buyer journey**
+- [x] **Clarify the buyer journey**
   - Make it clearer what happens after someone emails.
   - Explain how coaching sessions work: single session, bundles, ongoing work, and whether there is async support between sessions.
   - Add light expectation-setting for retainers and Fractional CTO scoping so "get in touch" does not feel like a black box.

@@ -78,6 +78,8 @@ show_teams_card: true
 
 <p>Still thinking “yes, but what even <em>is</em> a coach?” I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What’s A Coach Anyway?</a></p>
 
+{% include what-happens-next.html %}
+
 <h2>Pricing</h2>
 
 {% include pricing.html %}
