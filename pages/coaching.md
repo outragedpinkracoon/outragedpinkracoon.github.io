@@ -7,7 +7,7 @@ title_sub: pick your adventure.
 description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, and folks in tech from an ILM-certified executive coach and CTO/VP Engineering.
 ---
 
-<p class="pull-quote">Prices from £400 per session. Bundles available.</p>
+<p class="starburst">Prices from £400 per session. Bundles available.</p>
 
 <p>No-bullshit coaching for the messy, human, hard parts of working in tech. From someone who has been in every room this work takes you to.</p>
 
