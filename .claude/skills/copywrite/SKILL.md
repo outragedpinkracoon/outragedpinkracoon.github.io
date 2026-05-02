@@ -35,6 +35,8 @@ Do the work. Be opinionated. Don't hedge. Flag weak copy directly — don't flat
 
 **Avoid:** `fast clarity` as a hook or promise — it's an output, not the sell. The sell is pattern recognition from lived experience, delivered without the HR varnish. Too much doom upfront. Overexplaining. SEO sludge. Polished consultant/therapist/LinkedIn voice. Weird metaphors. Try-hard or accidentally poetic. **Em dashes (—) — Val hates them as an AI tell. Use a period, comma, or colon instead.**
 
+**CRITICAL — straight quotes only:** Never use smart/curly quotes (`"` `"`) or smart apostrophes (`'`) in any copy that goes into HTML or Markdown files. Always use straight quotes (`"`) and straight apostrophes (`'`). Smart characters in HTML attribute values break Jekyll's Markdown processor and cause raw tags to render instead of styled content. This includes contractions like "I'm", "don't", "I've" — the apostrophe must be straight too.
+
 ## Audience
 
 - Engineering managers new to people leadership (overwhelmed, underbriefed, suddenly responsible for actual humans)

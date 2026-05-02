@@ -10,9 +10,9 @@ show_teams_card: true
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p class="page-intro"><strong>You’ve been promoted. Congratulations. Also: holy shit.</strong></p>
+<p class="page-intro"><strong>You've been promoted. Congratulations. Also: holy shit.</strong></p>
 
-<p>Now you’re responsible for actual humans, and suddenly you cannot hide in your IDE anymore.</p>
+<p>Now you're responsible for actual humans, and suddenly you cannot hide in your IDE anymore.</p>
 
 <p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and not accidentally fuck someone up.</p>
 
@@ -34,42 +34,43 @@ show_teams_card: true
 
 <div class="manager-quote-wall" aria-label="Common new manager worries">
   <figure class="manager-quote-card">
-    <blockquote>"I’ve been promoted and I have no idea what is expected of me now.”</blockquote>
+    <blockquote>"I've been promoted and I have no idea what is expected of me now."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"My team is a mess and I don’t know what to do first.”</blockquote>
+    <blockquote>"Everyone keeps bringing me problems like I'm the adult in the room. Am I?"</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I know I need to have the hard conversation. I just really, really do not want to.”</blockquote>
+    <blockquote>"I know I need to have the hard conversation. I just really, really do not want to."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I’m managing up, sideways and down and nobody warned me how weird this would be.”</blockquote>
+    <blockquote>"My team is a mess and I don't know what to do first."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I’m trying to protect my team’s energy without setting myself on fire.”</blockquote>
+    <blockquote>"I'm managing up, sideways and down and nobody warned me how weird this would be."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I need to decide whether to stay, go, push back, or ask for more.”</blockquote>
+    <blockquote>"I'm trying to protect my team's energy without setting myself on fire."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"Everyone keeps bringing me problems like I’m the adult in the room. Am I?”</blockquote>
+    <blockquote>"I got here by being good at the job. Now the job is making other people good at the job. Help."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I got here by being good at the job. Now the job is making other people good at the job. Help.”</blockquote>
+    <blockquote>"My line reports keep coming to me with every decision. Is it me or them that's doing it wrong?"</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"My line reports keep coming to me with every decision. Is it me or them that's doing it wrong?”</blockquote>
+    <blockquote>"I used to manage engineers. Now I manage managers. Nobody told me those are completely different jobs."</blockquote>
   </figure>
+
   <figure class="manager-quote-card">
-    <blockquote>"I used to manage engineers. Now I manage managers. What does.. that mean?”</blockquote>
+    <blockquote>"I need to decide whether to stay, go, push back, or ask for more."</blockquote>
   </figure>
 </div>
 
@@ -77,7 +78,7 @@ show_teams_card: true
 
 {% include session-process.html %}
 
-<p>Still thinking "yes, but what even <em>is</em> a coach?” I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What’s A Coach Anyway?</a></p>
+<p>Still thinking "yes, but what even <em>is</em> a coach?" I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What's A Coach Anyway?</a></p>
 
 {% include what-happens-next.html %}
 
@@ -90,7 +91,7 @@ show_teams_card: true
 <div class="testimonial-grid">
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">Promotion</p>
-    <p class="testimonial-pullquote">"By September I'd been promoted to Director of Engineering -- much faster than I'd expected.”</p>
+    <p class="testimonial-pullquote">"By September I'd been promoted to Director of Engineering -- much faster than I'd expected."</p>
     <p>I asked Valerie to be my career coach when I joined Speechmatics as a senior team lead in January 2024. We had regular sessions during the year, and by September I'd been promoted to Director of Engineering -- much faster than I'd expected to achieve. Val's coaching was a huge part of my ability to hit this goal.</p>
     <p>She's helped me identify the ways to be most impactful, organise my thinking when facing complex problems, and navigate challenging interpersonal struggles. Above all, she's helped me see clearly my strongest traits, which I may not have seen in myself otherwise.</p>
     <p>Her coaching gave me a huge boost in both confidence and competence, and helped me appreciate my strengths and seize opportunities to excel in my career.</p>
@@ -99,7 +100,7 @@ show_teams_card: true
 
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">First EM role</p>
-    <p class="testimonial-pullquote">"She was my first manager when I began the EM role and she was truly transformational.”</p>
+    <p class="testimonial-pullquote">"She was my first manager when I began the EM role and she was truly transformational."</p>
     <p>I am thrilled to recommend Val as an exceptional leader and mentor. She was my first manager when I began the EM role and she was truly transformational, guiding me in ways that shaped my career path. I have sought her support as a professional coach on a number of occasions since, and her influence continues to have a positive impact on my journey.</p>
     <p>What sets Val apart is her unique ability to blend insight and coaching. She skillfully draws out my own insights while complementing them with her extensive experience, creating a powerful learning environment.</p>
     <p><span class="quote-author">— Hugh Lyon, Engineering Manager @ Perk</span></p>
@@ -107,31 +108,31 @@ show_teams_card: true
 
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">Leadership growth</p>
-    <p class="testimonial-pullquote">"I have learnt more from working with Val than I ever thought possible.”</p>
-    <p>When applying for my first EM role, the recruiter told me, "Oh, you’ll talk to Val first. She is something special.” He could not have been more right. Ever since that first Zoom, Val’s energy, expertise and passion have been a guiding light in my career.</p>
+    <p class="testimonial-pullquote">"I have learnt more from working with Val than I ever thought possible."</p>
+    <p>When applying for my first EM role, the recruiter told me, "Oh, you'll talk to Val first. She is something special." He could not have been more right. Ever since that first Zoom, Val's energy, expertise and passion have been a guiding light in my career.</p>
     <p>She is authentic, tough, compassionate, and absolutely will not give you an easy ride. I have learnt more from working with Val than I ever thought possible.</p>
     <p><span class="quote-author">— Olwen Milne, Senior Engineering Manager @ Oak National Academy</span></p>
   </blockquote>
 
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">New leadership role</p>
-    <p class="testimonial-pullquote">"She coached me through the practical issues and emotional regulation needed to excel.”</p>
-    <p>I’ve always believed that when you move into a new situation, the best thing you can do is reach out to people who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
+    <p class="testimonial-pullquote">"She coached me through the practical issues and emotional regulation needed to excel."</p>
+    <p>I've always believed that when you move into a new situation, the best thing you can do is reach out to people who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
     <p>She coached me through the practical issues and emotional regulation needed to excel in this role, and avoid traps common with people moving into more leadership-oriented positions from technical backgrounds.</p>
     <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
   </blockquote>
 
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">Transformed as a leader</p>
-    <p class="testimonial-pullquote">"Valerie transformed my understanding of what a leader and manager can be.”</p>
+    <p class="testimonial-pullquote">"Valerie transformed my understanding of what a leader and manager can be."</p>
     <p>With empathy as her superpower, she created an open, honest and brave space where I felt seen, heard and supported. Using her coaching leadership style she helped me tackle complex people issues and as a result I have grown significantly as a person, leader and manager.</p>
     <p>Valerie has an infectious enthusiasm which allowed me to be brave and explore new areas I would have shied away from. I also benefitted greatly from her clear, kind and actionable feedback.</p>
     <p><span class="quote-author">— Tobi Tonner, Brave Leadership Coach</span></p>
   </blockquote>
 
   <blockquote class="testimonial-card">
-    <p class="testimonial-tag">Best manager I’ve had</p>
-    <p class="testimonial-pullquote">"Val is quite simply the best manager I’ve ever had.”</p>
+    <p class="testimonial-tag">Best manager I've had</p>
+    <p class="testimonial-pullquote">"Val is quite simply the best manager I've ever had."</p>
     <p>She has helped me to grow and develop and learn in ways I had not considered before — by showing me how to reflect and have confidence in the skills and experience I already have, and where to focus new learning. She gave me the tools, freedom, resources, and connections I need to flourish.</p>
     <p>Val is a true leader, leading by example, and allowing those she leads to be their best.</p>
     <p><span class="quote-author">— Barry Northern, Lead Engineer @ Thirdfort</span></p>

@@ -98,3 +98,7 @@ Preserve:
 - The bold, high-contrast, deliberate aesthetic — this is not a neutral site
 - Existing tilt/shadow/offset patterns — they're intentional brand elements
 - Any component already tested and signed off across modes
+
+## CRITICAL — straight quotes only
+
+Never use smart/curly quotes (`"` `"`) or smart apostrophes (`'`) in any HTML or Markdown files. Always use straight quotes (`"`) and straight apostrophes (`'`). Smart characters inside HTML attribute values break Jekyll's Markdown processor and cause raw tags to render. This includes any copy you write inline — contractions like "I'm", "don't" must use straight apostrophes.
