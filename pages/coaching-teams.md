@@ -48,13 +48,77 @@ show_cta: false
     <h3>Managers who've been winging the hard bits</h3>
     <p>Been doing the job a while but avoiding the conversations, struggling with conflict, or losing people they should be keeping. Same no-bullshit approach, different starting point.</p>
   </section>
+
+  <section class="audience-panel audience-panel--exec">
+    <p class="audience-label">Growing Heads of Engineering and Directors</p>
+    <h3>Managers growing into the big seat</h3>
+    <p>The job just got bigger: more scope, more org politics, more stakeholders expecting answers. The skills that got them here aren't always the ones that keep them there.</p>
+  </section>
 </div>
 
 <h2>Pricing</h2>
 
-<p>Rates vary by team size, number of managers, and format. Tell me what you're dealing with and we'll work out what makes sense.</p>
+<p class="pricing-decision">Individual managers can be coached on the standard session pricing below. For multiple managers or org-wide support, get in touch and we'll work out what makes sense.</p>
 
-<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Get in touch</a></p>
+<p class="pull-quote">Many clients expense this through their employer's L&D budget. <a href="/coaching/funding/">Find out more about funding options.</a></p>
+
+<div class="pricing-table" aria-label="Coaching prices">
+  <div class="pricing-card pricing-card--featured">
+    <span class="pricing-badge">Start here</span>
+    <p class="pricing-amount">£400</p>
+    <p class="pricing-title">Single session</p>
+    <p class="pricing-subtitle">One manager, one live problem.</p>
+    <ul class="pricing-includes">
+      <li>We dive straight in, no talking about the weather.</li>
+      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
+      <li>They leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
+  </div>
+
+  <div class="pricing-card">
+    <span class="pricing-badge">Go deeper</span>
+    <p class="pricing-amount">£1,000</p>
+    <p class="pricing-title">3 session bundle</p>
+    <p class="pricing-subtitle">For messy situations where they don't even know where to start.</p>
+    <p class="pricing-saving">Save £200 vs. booking separately</p>
+    <ul class="pricing-includes">
+      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
+      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
+      <li>Follow-up sessions where I already know the situation and we get it dealt with.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
+  </div>
+
+  <div class="pricing-card">
+    <span class="pricing-badge">For the long game</span>
+    <p class="pricing-amount">£2,000</p>
+    <p class="pricing-title">6 session programme</p>
+    <p class="pricing-subtitle">For a manager navigating sustained change or a significant step up.</p>
+    <p class="pricing-saving">Save £400 vs. booking separately</p>
+    <ul class="pricing-includes">
+      <li>The situation keeps shifting. They need someone in their corner while it unfolds, not just a one-off.</li>
+      <li>I already know the context. No re-briefing, no starting over.</li>
+      <li>Slots are held. No chasing availability when things get live.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
+  </div>
+
+  <div class="pricing-card">
+    <span class="pricing-badge">Multiple managers</span>
+    <p class="pricing-title">Bespoke team engagement</p>
+    <p class="pricing-subtitle">Coaching multiple managers, or want something structured around your org?</p>
+    <p class="pricing-saving">Pricing on application</p>
+    <ul class="pricing-includes">
+      <li>Same no-bullshit coaching, scaled across your team.</li>
+      <li>Format and cadence shaped around what you're actually dealing with.</li>
+      <li>Tell me the situation and we'll work out what makes sense.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Get in touch</a>
+  </div>
+</div>
+
+<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 <h2>Real managers saying real things</h2>
 
