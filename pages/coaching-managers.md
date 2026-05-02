@@ -5,7 +5,6 @@ title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
 title_sub: because there's no undo button for people.
 description: Engineering manager coaching from an ILM-certified neurodivergent executive coach and CTO/VP Engineering. No-bullshit support for feedback and conflict.
-show_teams_card: true
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
@@ -84,7 +83,69 @@ show_teams_card: true
 
 <h2>Pricing</h2>
 
-{% include pricing.html %}
+<p class="pricing-decision">The format depends on the problem. Something discrete and live: one session often makes a big difference. Something that keeps evolving — a restructure, a new role, a situation that won't stay solved — that needs a different kind of support. Pick the one that fits what's actually happening.</p>
+
+<p class="pull-quote">Many clients expense this through their employer's L&D budget — Access to Work also covers coaching for disabled people and neurodivergent folks. Self-funding? <a href="/coaching/funding/">Find out more about funding options.</a></p>
+
+<div class="callout callout--yellow"><p>Paying out of pocket — especially if you're under-represented in tech? I have options and I'd rather talk than have you rule yourself out. <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">Get in touch.</a></p></div>
+
+<div class="pricing-table" aria-label="Coaching prices">
+  <div class="pricing-card pricing-card--featured">
+    <span class="pricing-badge">Start here</span>
+    <p class="pricing-amount">£400</p>
+    <p class="pricing-title">Single session</p>
+    <p class="pricing-subtitle">Perfect when you already know the problem.</p>
+    <ul class="pricing-includes">
+      <li>We dive straight in, no talking about the weather.</li>
+      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
+      <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+  </div>
+
+  <div class="pricing-card">
+    <span class="pricing-badge">Go deeper</span>
+    <p class="pricing-amount">£1,000</p>
+    <p class="pricing-title">3 session bundle</p>
+    <p class="pricing-subtitle">For messy situations where you don't even know where to start.</p>
+    <p class="pricing-saving">Save £200 vs. booking separately</p>
+    <ul class="pricing-includes">
+      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
+      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
+      <li>Fast follow up sessions where I already know the situation and we get it dealt with.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+  </div>
+
+  <div class="pricing-card">
+    <span class="pricing-badge">For the long game</span>
+    <p class="pricing-amount">£2,000</p>
+    <p class="pricing-title">6 session programme</p>
+    <p class="pricing-subtitle">For continued support across a longer period.</p>
+    <p class="pricing-saving">Save £400 vs. booking separately</p>
+    <ul class="pricing-includes">
+      <li>You're in a period of change and chaos. You don't know the exact shape of it yet, and you need someone in your corner while it unfolds.</li>
+      <li>I already know the context. No re-briefing, no starting over — we pick up where we left off and keep moving.</li>
+      <li>Your slots are held. No chasing availability when things get live — I'm already in your corner.</li>
+    </ul>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Get in touch</a>
+  </div>
+
+  <div class="pricing-card">
+    <span class="pricing-badge">For teams</span>
+    <p class="pricing-title">Team &amp; organisation coaching</p>
+    <p class="pricing-subtitle">I coach engineering managers in bulk for startups and scale-ups.</p>
+    <p class="pricing-saving">Rates vary by team size and format</p>
+    <ul class="pricing-includes">
+      <li>Same direct, no-bullshit coaching — just for multiple people.</li>
+      <li>Ideal for CTOs and engineering leads who want their new managers to hit the ground running.</li>
+      <li>Pricing depends on the number of managers, the format, and what is actually going on.</li>
+    </ul>
+    <a class="pricing-cta" href="/coaching/teams/">Read about team coaching</a>
+  </div>
+</div>
+
+<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 <h2>Real people saying real things</h2>
 
