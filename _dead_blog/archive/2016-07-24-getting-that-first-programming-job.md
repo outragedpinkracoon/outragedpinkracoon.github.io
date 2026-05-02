@@ -26,11 +26,11 @@ The opening paragraph to your CV or cover letter is your chance to really grab a
 
 What do you think about this:
 
-“Valerie has recently completed the 16 week intensive programming course at CodeClan. The course covers Object Orientation, Test Driven Development, Git, Ruby, JS and Java. She is looking for a role as a junior developer”.
+"Valerie has recently completed the 16 week intensive programming course at CodeClan. The course covers Object Orientation, Test Driven Development, Git, Ruby, JS and Java. She is looking for a role as a junior developer”.
 
 While factual, there's no real personal in this and I don't get a clear sense of where the person wants to grow and develop and what they have achieved.
 
-“In the relatively short and intense time I've been at CodeClan I have worked on several projects across a variety of languages. I like to work as independently as I can to constantly improve and challenge myself but love to collaborate and support others as well. I really enjoy Object Orientation with Ruby as well as full stack JavaScript development and I am looking for a role where I can continue to be supported in my growth but can hit the ground running with my existing knowledge.”
+"In the relatively short and intense time I've been at CodeClan I have worked on several projects across a variety of languages. I like to work as independently as I can to constantly improve and challenge myself but love to collaborate and support others as well. I really enjoy Object Orientation with Ruby as well as full stack JavaScript development and I am looking for a role where I can continue to be supported in my growth but can hit the ground running with my existing knowledge.”
 
 This has a lot more flavour to it, clearly expresses areas of interest and shows the strengths of the candidate and gets me interested to know more.
 
@@ -39,7 +39,7 @@ When we are talking about our projects we want to get really specific. How many 
 
 Try to avoid listing a massive screed of technologies floating in the middle of the page like this:
 
-“Java, C#, .NET, Visual Studio, JavaScript, Git, Ruby, Python, VB, C, C++, JQuery, Angular, React, Redux, NHibernate, SQL Server, PostGRES, Rails, Django”
+"Java, C#, .NET, Visual Studio, JavaScript, Git, Ruby, Python, VB, C, C++, JQuery, Angular, React, Redux, NHibernate, SQL Server, PostGRES, Rails, Django”
 
 Out of context this doesn't help me as a hiring manager. What competency level are you at with each of these, which ones did you enjoy the most? We want to couple this information with the projects or work experience that it’s relevant to.
 
@@ -82,7 +82,7 @@ If you do meet someone interesting, see if they are up for meeting you for a cof
 If your bootcamp or university runs a mentoring program this can be a great way to meet someone that can also find you opportunities. What to ask a mentor and get the most out of the relationship is a post for another day.
 
 ### Email Everyone
-For my first job, I googled “Software Development Edinburgh” and emailed every single company that came up in that list, whether they said they were recruiting or not. I fired over a simple email saying who I was and what I was after, and simply asked for a coffee with them to discuss further if they were interested.
+For my first job, I googled "Software Development Edinburgh” and emailed every single company that came up in that list, whether they said they were recruiting or not. I fired over a simple email saying who I was and what I was after, and simply asked for a coffee with them to discuss further if they were interested.
 
 This is how I got my first job - at a smaller company that didn’t have the budget for job ads or networking, and I loved it!
 
@@ -119,9 +119,9 @@ The more relaxed and chatty you are, the better the chance you will have at gett
 ### Be Honest
 If you are asked a question you don’t know the answer to, be honest! Tell them you don’t know, but you would love to learn more about it.
 
-For example, if someone were to ask me “Do you have any experience with Swift?” instead of a flat yes or no, I might say “I’m afraid not, but I have done C# and other statically typed languages, so I am confident I could pick it up quickly. I have also looked at Android and I’m reasonably comfortable with how mobile development works”.
+For example, if someone were to ask me "Do you have any experience with Swift?” instead of a flat yes or no, I might say "I’m afraid not, but I have done C# and other statically typed languages, so I am confident I could pick it up quickly. I have also looked at Android and I’m reasonably comfortable with how mobile development works”.
 
-This also stands for technical questions like “Can you explain prototypal inheritance?”. Even if you know the answer, you might draw a total mind blank. It's totally okay to answer “We did cover this on the course but I’m afraid I can’t quite remember what it is. Could you explain?” something like that, to show you are interested. Then when they explain, if possible follow up with “Oh! Yes, of course. I actually used this a lot on my full stack JS project for my game objects”.
+This also stands for technical questions like "Can you explain prototypal inheritance?”. Even if you know the answer, you might draw a total mind blank. It's totally okay to answer "We did cover this on the course but I’m afraid I can’t quite remember what it is. Could you explain?” something like that, to show you are interested. Then when they explain, if possible follow up with "Oh! Yes, of course. I actually used this a lot on my full stack JS project for my game objects”.
 
 
 ### Practice the Performance
@@ -136,7 +136,7 @@ You're going to be in a very nerve wracking situation and trying to do the thing
 
 - Make eye contact with the interviewer as much as possible. Try not to look at the ground or stare into space.
 - Smile!
-- Be aware of any “ticks” you have, you might not even know you are doing it. Do you constantly scrub your hair? Repeat yourself? These tend to get worse the more stressed we are.
+- Be aware of any "ticks” you have, you might not even know you are doing it. Do you constantly scrub your hair? Repeat yourself? These tend to get worse the more stressed we are.
 - Keep your hands under control and out of your pockets. Use them to gesture when needed, but rest them on your lap or somewhere neutral otherwise.
 - Try not to interrupt or talk over the top of the interviewer.
 

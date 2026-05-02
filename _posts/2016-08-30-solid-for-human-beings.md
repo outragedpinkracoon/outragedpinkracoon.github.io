@@ -60,7 +60,7 @@ This is great news since all the athlete has to care about now is it’s own pro
 ## Dependency Inversion {#di}
 A dependency is another class that our class needs to use in order to function.
 
-Dependency Inversion is where we never “new” anything up in a class, and we pass it in from the class that instantiates it. This stops code having an opinion about the implementation details of a dependency.
+Dependency Inversion is where we never "new” anything up in a class, and we pass it in from the class that instantiates it. This stops code having an opinion about the implementation details of a dependency.
 
 ### Before
 Read the code [here](https://github.com/outragedpinkracoon/SOLID-for-humans/tree/master/Dependency%20Inversion/before) before continuing.
@@ -135,7 +135,7 @@ The sprinter only has to implement the methods of an Olympic Runner, which make 
 ## Open / Closed Principle {#openclosed}
 We want to be able to cope with changes in the behaviour of our code, but making the smallest possible changes to the source code as possible to achieve this. We don’t a tiny alteration in how our program runs to cause us to have to update hundreds of lines of code.
 
-The Open Closed Principle encourages us to keep our code “open for extension but closed for modification”. We seen this with dependency inversion - we can pass in different behaviours to a class without altering it directly.
+The Open Closed Principle encourages us to keep our code "open for extension but closed for modification”. We seen this with dependency inversion - we can pass in different behaviours to a class without altering it directly.
 
 The [template pattern](http://www.tutorialspoint.com/design_pattern/template_pattern.htm) is another great example of this - we can change the behaviour of a super class by delegating methods to the subclass. The superclass doesn’t have to change, but can be used effectively to abstract away details from the subclass.
 
