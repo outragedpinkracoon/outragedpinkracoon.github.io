@@ -4,7 +4,7 @@ permalink: /coaching/engineering-managers/
 title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: No-bullshit Engineering Manager Coaching
 title_sub: because there's no undo button for people.
-description: No-bullshit remote 1:1 coaching for engineering managers, team leads, and heads of function. ILM certified Executive Coach, Fractional CTO, 300+ people coached. Direct, no waffle.
+description: No-bullshit remote 1:1 coaching for engineering managers, team leads, and heads of function. ILM certified Executive Coach, Fractional CTO / VP Engineering, 300+ people coached. Direct, no waffle.
 show_teams_card: true
 ---
 
@@ -22,7 +22,7 @@ show_teams_card: true
 
 <div class="callout--teal callout" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</div>
 
-<p>As a Fractional CTO, ILM certified Executive Coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
+<p>As a Fractional CTO / VP Engineering, ILM certified Executive Coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
 
 <h2>Who I work with</h2>
 
