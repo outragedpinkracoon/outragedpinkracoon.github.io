@@ -18,7 +18,7 @@ This is the current work queue after the site overhaul. Keep it practical: fix w
   - Focus on real changes: promotion, clearer roadmap, stabilised team, hard conversation handled, role transition navigated.
   - Avoid fluffy "clients feel empowered" language.
 
-- [ ] **Rewrite Fractional CTO services as outcomes**
+- [x] **Rewrite Fractional CTO services as outcomes**
   - Make the page about buyer problems and business results, not service labels.
   - "Delivery transformation" should become "your team starts shipping predictably."
   - "Tech due diligence" should become "you stop making expensive bets blind."
