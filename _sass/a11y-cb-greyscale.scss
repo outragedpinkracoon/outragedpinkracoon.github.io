@@ -263,6 +263,7 @@ body.cb-greyscale {
       box-shadow: 7px 7px 0 $gs-mid;
       color: $gs-dark;
       h3 { color: $gs-dark; }
+      .audience-label { background: $gs-dark; color: $gs-near-white; }
     }
     &--manager {
       background: lighten($gs-light, 8%);
@@ -271,6 +272,27 @@ body.cb-greyscale {
       box-shadow: 7px 7px 0 $gs-mid-light;
       color: $gs-dark;
       h3 { color: $gs-mid-dark; }
+      .audience-label { background: $gs-mid-dark; color: $gs-near-white; }
+    }
+    &--orange {
+      background: $gs-mid-dark;
+      border-color: $gs-dark;
+      border-style: solid;
+      box-shadow: 7px 7px 0 $gs-dark;
+      color: $gs-near-white;
+      h3 { color: $gs-near-white; }
+      .audience-label { background: $gs-dark; color: $gs-near-white; }
+      a { color: $gs-near-white; text-decoration-color: rgba($gs-near-white, 0.5); }
+    }
+    &--lavender {
+      background: $gs-mid;
+      border-color: $gs-mid-dark;
+      border-style: dotted;
+      box-shadow: 7px 7px 0 $gs-mid-dark;
+      color: $gs-near-white;
+      h3 { color: $gs-near-white; }
+      .audience-label { background: $gs-mid-dark; color: $gs-near-white; }
+      a { color: $gs-near-white; text-decoration-color: rgba($gs-near-white, 0.5); }
     }
   }
   .outcome-item {
