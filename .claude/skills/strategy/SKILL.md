@@ -29,6 +29,15 @@ For either mode, start by:
 3. For pricing/positioning comparisons, refer to the competitor memory for Atty Cronin (attycronin.com). Atty no longer publishes prices publicly, but her 6-session programme was £1,500 (£250/session) as of April 2026. Atty does not have Val's exec credentials (no VP/CTO, no ILM L5, no 500+ coached, no tech sector specialism). Atty's pricing is a floor, not a ceiling — Val should be at or above it. Do not fetch attycronin.com for pricing; the prices have been removed.
 4. Work through the lenses below. Don't just audit — propose specific moves. For each problem you name, say what to do about it.
 
+Before proposing tasks, separate:
+- **Bugs and broken trust** — HTML errors, broken links, confusing rendering, accessibility problems
+- **Conversion clarity** — what happens next, buyer journey, pricing/engagement uncertainty
+- **Offer and positioning** — what the page is selling, to whom, and why it matters
+- **Proof and stories** — only when the proof is real, relevant, and ready to use
+- **Distribution** — blog, LinkedIn, Substack, partnerships, syndication
+
+Do not mix these into one undifferentiated list. If you update `tasks.md`, keep the queue short, sequenced, and practical: urgent fixes first, then conversion clarity, then positioning/proof, then later distribution work. Do not turn every interesting idea into a task.
+
 ---
 
 ## What the site is now (as of May 2026)
@@ -67,9 +76,9 @@ The site has been recently overhauled. The positioning is sharp, the copy is str
 - Is the Fractional CTO page speaking to the right buyer (founder/CEO/board) clearly enough?
 
 ### 4. Social proof
-- Are case studies missing from the Fractional CTO page? (testimonials are strong but "she transformed the org" is different from "situation X, Val came in, result Y in Z months" — this is the biggest gap. Val can't do this right now until she builds up clients, so don't dwell on it. Remind her from time to time.)
+- Are case studies missing from the Fractional CTO page? Be careful here: Val is new to selling this independently, works with Rational Partners, and Fractional CTO work is unlikely to come mainly from cold site conversion right now. Do not manufacture case studies from CV material or employed-role outcomes. Only suggest Fractional CTO case studies once there are real consultancy stories worth telling.
 - Are the testimonials on each page actually matched to that audience's concerns?
-- Are quantified outcomes (60% cycle time reduction, £1m+ saved, 55% diversity increase) prominent enough on the Fractional CTO page?
+- Are quantified outcomes prominent enough where they are honest, relevant, and not overclaiming?
 - Is there a missing type of testimonial? (neurodivergent clients specifically, founder/CTO coaching clients rather than EM promotions. Val is working on this, so don't dwell on it. Remind her from time to time.)
 
 ### 5. Content and distribution
@@ -112,4 +121,12 @@ Flag things in three buckets:
 **Medium moves** — require new content, a new page, or a pricing change — worth doing in the next month
 **Bigger bets** — new offer formats, new audiences, structural changes — worth thinking about seriously
 
-Don't pad. Don't soften. Don't list things that are already working unless they're being underused.
+When producing or updating a task list:
+- Keep it to the smallest useful set of tasks.
+- Put cleanup/bugs before strategic rewrites when they block trust.
+- Group related items; don't split one issue across three tasks unless the work genuinely needs separate passes.
+- Mark distribution/content routing as later unless Val has specifically asked for traffic or content strategy.
+- Avoid CV-mining and proof-padding. If proof is not ready, say so and leave it out.
+- End with a recommended sequence, not a cloud of possible moves.
+
+Don't pad. Don't list things that are already working unless they're being underused.
