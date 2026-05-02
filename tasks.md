@@ -5,7 +5,7 @@
 - [x] **Fractional CTO page: change all "Get in touch" CTAs to "Book a free intro call"**
   The current CTA is too weak for a £1,600/day buyer. The "How engagements work" section already explains the free 30-minute no-commitment intro call, but the button doesn't reflect that. Change CTA text to "Book a free intro call" (or "Start with a free 30-minute conversation") across the page, including the pricing cards and the bottom text-center link.
 
-- [ ] **Homepage: strengthen the Fractional CTO card**
+- [x] **Homepage: strengthen the Fractional CTO card**
   The CTO card ("I need CTO / VP Eng support but not full time") reads in the same register as the coaching cards. It should feel heavier, more serious — a different class of engagement. Rewrite the card copy to reflect the scale and stakes of the CTO work (expensive decisions, delivery chaos, board pressure) and change the CTA from "Tell me more" to something with more conviction. The card needs to signal "this is a different kind of thing" without blending into the coaching row.
 
 ## Medium moves
