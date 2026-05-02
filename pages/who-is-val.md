@@ -91,7 +91,7 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
   </div>
 
   <div class="card creative-feature">
-    <p class="offer-label">Corporate vampire fiction</p>
+    <p class="offer-label">Corporate vampire romance</p>
     <h3><a href="https://stakeholdersbook.substack.com/about" target="_blank" rel="noopener noreferrer">Stakeholders&trade;<span class="sr-only"> (opens in new tab)</span></a></h3>
     <p>Stakeholders is corporate vampire fiction about power, politics, influence, and the absolute absurdity of tech. It is ridiculous on purpose. It is also, inconveniently, quite serious.</p>
     <a class="card-cta" href="https://stakeholdersbook.substack.com/about" target="_blank" rel="noopener noreferrer">Read Stakeholders <span aria-hidden="true">→</span><span class="sr-only"> (opens in new tab)</span></a>
@@ -106,7 +106,7 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
     </li>
     <li class="next-steps__item">
       <span class="next-steps__check" aria-hidden="true">🐾</span>
-      <div class="next-steps__content"><strong>I write.</strong> Because life needs more whimsy and corporate vampire smut to get us through hard days.</div>
+      <div class="next-steps__content"><strong>I write.</strong> Because life needs more whimsy and corporate vampire romance to get us through hard days.</div>
     </li>
     <li class="next-steps__item">
       <span class="next-steps__check" aria-hidden="true">🐾</span>
