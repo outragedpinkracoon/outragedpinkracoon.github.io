@@ -141,7 +141,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
       <li>Held slots, someone who already knows the full picture, and the kind of context that only builds over time.</li>
       <li>For the long game, not the defined problem.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiryclass="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Get in touchbody=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Let's do this</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Let's do this</a>
   </div>
 
   <div class="pricing-card">
