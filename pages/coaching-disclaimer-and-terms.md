@@ -36,6 +36,8 @@ The Client understands that coaching is not therapy and does not substitute for 
 
 The Client agrees to communicate honestly, be open to feedback, and commit the necessary time and energy to participate fully in the coaching process.
 
+The Coach holds professional indemnity insurance covering claims of negligence, breach of confidentiality, and defamation, and public liability insurance with a £2M limit.
+
 ### Services
 Coaching sessions will be arranged flexibly between the Coach and the Client, with each session bookable up to one month in advance by email or text. The Coach may recommend a frequency of sessions based on a professional assessment of the Client’s needs; this recommendation is not binding and may be adjusted by mutual agreement throughout the coaching journey.
 

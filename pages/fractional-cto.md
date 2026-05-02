@@ -99,6 +99,8 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
 
 <p>I also coach, which means I don't just fix the technical situation. I help the people in it get better at navigating it. The two things go together.</p>
 
+<p>I hold professional indemnity insurance and public liability insurance (£2M limit), covering negligence, breach of confidentiality, and defamation. Available on request.</p>
+
 <h2>How engagements work</h2>
 
 <p>Email me with the rough shape of what is going on. I will reply to book a free 30-minute intro call: no charge, no commitment. We work out whether it is the right fit, what the problem actually is, and which format makes sense.</p>
