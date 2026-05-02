@@ -34,11 +34,7 @@ show_teams_card: true
 
 <div class="manager-quote-wall" aria-label="Common new manager worries">
   <figure class="manager-quote-card">
-    <blockquote>“I’ve been promoted and I feel wildly underbriefed by the universe.”</blockquote>
-  </figure>
-
-  <figure class="manager-quote-card">
-    <blockquote>“I’m newly responsible for people and thinking, ‘Holy shit, I’m a manager... how do I even do this?’”</blockquote>
+    <blockquote>“I’ve been promoted and I have no idea what is expected of me now.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
@@ -46,11 +42,7 @@ show_teams_card: true
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“My one-to-ones are drifting, expectations are fuzzy, and now conflict is starting to breed in the corners.”</blockquote>
-  </figure>
-
-  <figure class="manager-quote-card">
-    <blockquote>“I need to give feedback and I’m avoiding it.”</blockquote>
+    <blockquote>“I know I need to have the hard conversation. I just really, really do not want to.”</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
@@ -70,7 +62,15 @@ show_teams_card: true
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>“I know I need to have the hard conversation. I just really, really do not want to.”</blockquote>
+    <blockquote>“I got here by being good at the job. Now the job is making other people    
+  ▎ good at the job. I'm not sure I know how to do that.”</blockquote>
+  </figure>
+
+  <figure class="manager-quote-card">
+    <blockquote>“My line reports keep coming to me with every decision. I don't know if I've trained them wrong or I'm doing it wrong or both.”</blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>“I used to manage engineers. Now I manage managers. Nobody told me those are completely different jobs.”</blockquote>
   </figure>
 </div>
 
