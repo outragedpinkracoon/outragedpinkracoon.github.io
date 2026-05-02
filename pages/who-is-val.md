@@ -10,11 +10,9 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
 
 <p class="page-intro"><strong>Tech is a wild place. More so when you are non-binary, neurodivergent, queer and disabled.</strong></p>
 
-<p>I started my career writing VBA (whooo!) in an agency, hacking away at Excel macros and then graduated to Java making automated fund factsheets. From there I did C#, Ruby, Elixir and pretty much every programming language you can think of in more companies than I can count on two hands.</p>
-<p>I've worked in InsureTech, FinTech, MedTech, AppSec, you name it. Skyscanner, Deliveroo, Snyk. Big names, big scary f*cking technical estates with big f*cking technical problems.</p>
-<p>I then realised every manager I had sucked, and also never looked like me. So I decided to do something about it and become the manager I never had. I want people to come to work and have fun and be at their best, not live in fear and be at their worst.</p>
-<p>So for a decade I've run teams from 10 people up to 150+, in Series A companies to Series G. I've been on exec, middle management and the front line. I've seen it all. I know how to thrive in situations that would break a less stubborn person.</p>
-<p>Racoons are animals that don't belong anywhere, but thrive anyway. And that's why it's my brand mascot!</p>
+<p>I started in engineering and worked my way through pretty much every language, sector, and company size going. InsureTech, FinTech, MedTech, AppSec. Skyscanner, Deliveroo, Snyk. Big names, big scary technical estates, big f*cking problems. I loved it.</p>
+<p>Then I realised every manager I'd ever had was terrible, and none of them looked anything like me. So I decided to become the manager I never had. For a decade I ran teams from 10 to 150+, across Series A to Series G, on the front line and on exec. I know what it takes to build something real under pressure, to change a culture that wasn't working, and to come out the other side with your principles intact.</p>
+<p class="callout callout--teal">Racoons don't belong anywhere, but they thrive anyway.</p>
 
 <div class="credentials-grid card-grid">
   <div class="card card--static credential-card">
