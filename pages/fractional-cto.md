@@ -73,15 +73,15 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
     </ul>
   </div>
   <div class="card card--static credential-card">
-    <h3>What I work on</h3>
+    <h3>What you get</h3>
     <ul>
-      <li>Tech due diligence and tech assessments</li>
-      <li>Culture and team assessments</li>
-      <li>Delivery transformation</li>
-      <li>AI adoption and strategy</li>
-      <li>Engineering leadership and team building</li>
-      <li>Scaling from startup to scale-up</li>
-      <li>Bridging tech and business at board level</li>
+      <li>You stop making expensive tech bets blind</li>
+      <li>You find out whether the problem is people, process, tech, leadership, or incentives</li>
+      <li>Your team starts shipping more predictably</li>
+      <li>You avoid wasting money chasing AI hype and make useful adoption stick</li>
+      <li>Your engineering leaders get sharper and your teams get less chaotic</li>
+      <li>Your startup stops outgrowing its own operating system</li>
+      <li>Your board gets tech explained without theatre or fog</li>
     </ul>
   </div>
 </div>
