@@ -1,0 +1,426 @@
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// GREYSCALE MODE (achromatopsia)
+// Applied via body.cb-greyscale
+// All colour replaced with luminance-varied greys.
+// Cards/categories use border styles (solid/dashed/dotted) to distinguish
+// elements that previously relied on colour alone.
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$gs-dark:      #1a1a1a;
+$gs-mid-dark:  #3d3d3d;
+$gs-mid:       #717171;
+$gs-mid-light: #a0a0a0;
+$gs-light:     #d4d4d4;
+$gs-near-white: #eeeeee;
+
+body.cb-greyscale {
+  background-color: #f0f0f0;
+
+  // Body links
+  a { color: $gs-dark; text-decoration-color: rgba($gs-dark, 0.4); }
+  a:hover { color: $gs-mid-dark; text-decoration-color: $gs-dark; }
+
+  // Headings
+  h1 { color: $gs-dark; }
+  h2 { background: $gs-dark; color: $gs-near-white; }
+  .display-settings-title { background: none; color: #1c1714; }
+  h3 { color: $gs-mid-dark; border-left-color: $gs-mid-dark; }
+  h4 { color: $gs-mid; }
+
+  // Pre / code
+  pre { border-left-color: $gs-mid; }
+  .title-sub { color: rgba($gs-mid, 0.9); }
+
+  // Nav
+  nav {
+    $_gs-nav: $gs-dark, $gs-mid-dark, $gs-mid, $gs-mid-light, $gs-mid-dark;
+    @for $i from 1 through 5 {
+      $c: nth($_gs-nav, $i);
+      a:nth-child(#{$i}) {
+        color: $c;
+        &:hover, &.active-link { background: $c; color: $gs-near-white; }
+      }
+    }
+  }
+
+  // Header
+  header {
+    a { color: $gs-dark; text-shadow: none; }
+    &::before { background: $gs-dark; }
+    &::after  { background: $gs-mid; }
+  }
+
+  // CTAs
+  .header-cta, .button {
+    background: $gs-dark;
+    color: $gs-near-white;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &:hover { color: $gs-near-white; box-shadow: 6px 6px 0 $gs-mid; }
+  }
+  .pricing-cta {
+    background: $gs-dark;
+    color: $gs-near-white;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &:hover { color: $gs-near-white; box-shadow: 6px 6px 0 $gs-mid; }
+  }
+
+  // Cards — use border styles + grey luminance to distinguish without colour
+  .card-grid .card {
+    $_gs-bg:      $gs-dark,  $gs-mid-dark, $gs-mid,  $gs-light;
+    $_gs-shadow:  $gs-mid,   $gs-mid-light, $gs-dark, $gs-mid-dark;
+    $_gs-borders: solid,     dashed,        dotted,   solid;
+    @for $i from 1 through 4 {
+      $bg: nth($_gs-bg, $i);
+      $sh: nth($_gs-shadow, $i);
+      $b:  nth($_gs-borders, $i);
+      &:nth-child(#{$i}) {
+        background: $bg;
+        box-shadow: 8px 8px 0 $sh;
+        border-top: 4px $b $gs-near-white;
+        &:hover { box-shadow: 12px 12px 0 $sh; }
+      }
+    }
+    // light card needs dark text
+    &:nth-child(4) {
+      color: $gs-dark;
+      h3 { color: $gs-dark; }
+      p { color: rgba($gs-dark, 0.8); }
+      .card-cta { color: $gs-dark; border-bottom-color: rgba($gs-dark, 0.4); }
+    }
+  }
+
+  // Blockquotes
+  blockquote {
+    background: $gs-light;
+    &::before { color: $gs-dark; }
+  }
+  #post .grt blockquote {
+    background: $gs-light;
+    &::before { color: $gs-dark; }
+  }
+
+  .manager-quote-card {
+    background: $gs-light;
+    color: $gs-dark;
+    border: 2px dashed $gs-dark;
+    box-shadow: 6px 6px 0 $gs-mid;
+
+    blockquote {
+      background: transparent;
+      box-shadow: none;
+
+      &::before { content: none; }
+    }
+  }
+
+  // Callouts — border styles distinguish variants
+  .callout {
+    background: $gs-light;
+    box-shadow: 6px 6px 0 $gs-dark;
+    &--teal { background: $gs-mid; color: $gs-near-white; box-shadow: 6px 6px 0 $gs-dark; }
+    &--yellow { background: $gs-light; border: 3px dashed $gs-dark; box-shadow: 6px 6px 0 $gs-dark; }
+  }
+
+  // Starburst
+  .starburst {
+    background: $gs-dark;
+    color: $gs-near-white;
+  }
+
+  // HR
+  hr::after { background: rgba($gs-mid, 0.35); }
+
+  // Recent posts (homepage)
+  #recent-posts {
+    li:nth-child(1) { background: $gs-mid;      box-shadow: 5px 5px 0 $gs-dark;     a { color: $gs-near-white; } }
+    li:nth-child(2) { background: $gs-mid-dark; box-shadow: 5px 5px 0 $gs-mid;      a { color: $gs-near-white; } }
+    li:nth-child(3) { background: $gs-dark;     box-shadow: 5px 5px 0 $gs-mid-dark; a { color: $gs-near-white; } }
+    li:nth-child(4) { background: $gs-mid-light; box-shadow: 5px 5px 0 $gs-dark;    a, .date { color: $gs-dark; } }
+    li:nth-child(5) { background: $gs-mid;      box-shadow: 5px 5px 0 $gs-mid-dark; a { color: $gs-near-white; } }
+    li a { color: $gs-near-white; }
+  }
+
+  // Blog post list — border styles distinguish items
+  #posts {
+    li:nth-child(6n+1) { background: $gs-mid;       box-shadow: 6px 6px 0 $gs-dark;      border-left: 4px solid $gs-near-white; &:hover { box-shadow: 10px 10px 0 $gs-dark !important; } }
+    li:nth-child(6n+2) { background: $gs-mid-dark;  box-shadow: 6px 6px 0 $gs-mid;       border-left: 4px dashed $gs-near-white; &:hover { box-shadow: 10px 10px 0 $gs-mid !important; } }
+    li:nth-child(6n+3) { background: $gs-dark;      box-shadow: 6px 6px 0 $gs-mid-dark;  border-left: 4px dotted $gs-near-white; &:hover { box-shadow: 10px 10px 0 $gs-mid-dark !important; } }
+    li:nth-child(6n+4) { background: $gs-mid;       box-shadow: 6px 6px 0 $gs-dark;      border-left: 4px solid $gs-near-white; &:hover { box-shadow: 10px 10px 0 $gs-dark !important; } }
+    li:nth-child(6n+5) { background: $gs-mid-light; box-shadow: 6px 6px 0 $gs-mid;       border-left: 4px dashed $gs-dark; color: $gs-dark; h2 a { color: $gs-dark; } .date { color: rgba($gs-dark, 0.7); } p { color: $gs-dark; } &:hover { box-shadow: 10px 10px 0 $gs-mid !important; } }
+    li:nth-child(6n+6) { background: $gs-mid-dark;  box-shadow: 6px 6px 0 $gs-mid-light; border-left: 4px dotted $gs-near-white; &:hover { box-shadow: 10px 10px 0 $gs-mid-light !important; } }
+  }
+
+  // Categories — pill nav, border styles distinguish
+  #categories #category-name-list {
+    li:nth-child(6n+1) a { background: $gs-dark;      box-shadow: 4px 4px 0 $gs-mid;       border: 2px solid $gs-near-white; }
+    li:nth-child(6n+2) a { background: $gs-mid-dark;  box-shadow: 4px 4px 0 $gs-dark;      border: 2px dashed $gs-near-white; }
+    li:nth-child(6n+3) a { background: $gs-mid;       box-shadow: 4px 4px 0 $gs-dark;      border: 2px dotted $gs-near-white; }
+    li:nth-child(6n+4) a { background: $gs-mid-light; box-shadow: 4px 4px 0 $gs-mid;       border: 2px solid $gs-dark;  color: $gs-dark; }
+    li:nth-child(6n+5) a { background: $gs-dark;      box-shadow: 4px 4px 0 $gs-mid-dark;  border: 2px dashed $gs-near-white; }
+    li:nth-child(6n+6) a { background: $gs-mid-dark;  box-shadow: 4px 4px 0 $gs-mid-light; border: 2px dotted $gs-near-white; }
+  }
+
+  // Categories — heading banner
+  #categories .category-name { background: $gs-dark; color: $gs-near-white; }
+
+  // Categories — post list
+  #category-posts {
+    li:nth-child(6n+1) { background: $gs-mid;       box-shadow: 5px 5px 0 $gs-dark;      border-left: 4px solid $gs-near-white; }
+    li:nth-child(6n+2) { background: $gs-mid-dark;  box-shadow: 5px 5px 0 $gs-mid;       border-left: 4px dashed $gs-near-white; }
+    li:nth-child(6n+3) { background: $gs-dark;      box-shadow: 5px 5px 0 $gs-mid-dark;  border-left: 4px dotted $gs-near-white; }
+    li:nth-child(6n+4) { background: $gs-mid;       box-shadow: 5px 5px 0 $gs-dark;      border-left: 4px solid $gs-near-white; }
+    li:nth-child(6n+5) { background: $gs-mid-light; box-shadow: 5px 5px 0 $gs-mid;       border-left: 4px dashed $gs-dark; a { color: $gs-dark; } .date { color: rgba($gs-dark, 0.7); } }
+    li:nth-child(6n+6) { background: $gs-mid-dark;  box-shadow: 5px 5px 0 $gs-mid-light; border-left: 4px dotted $gs-near-white; }
+  }
+
+  // Post body
+  #post {
+    .post-body img:nth-of-type(odd)  { box-shadow: 8px 8px 0 $gs-dark; }
+    .post-body img:nth-of-type(even) { box-shadow: 8px 8px 0 $gs-mid; }
+    .post-body > p:first-of-type::first-letter { color: $gs-dark; }
+    strong { color: $gs-dark; }
+    em { color: $gs-mid; }
+    .metadata { border-left-color: rgba($gs-mid, 0.5); }
+    .categories a {
+      border-color: rgba($gs-mid, 0.4);
+      color: $gs-mid-dark;
+      &:hover { background: rgba($gs-mid, 0.08); box-shadow: 2px 2px 0 rgba($gs-mid, 0.3); }
+    }
+    .grt blockquote::before { color: $gs-dark; }
+  }
+
+  // Image gallery
+  .image-gallery {
+    img:nth-child(1) { box-shadow:  6px  6px 0 $gs-dark; }
+    img:nth-child(2) { box-shadow:  6px  6px 0 $gs-mid-dark; }
+    img:nth-child(3) { box-shadow:  6px  6px 0 $gs-mid; }
+    img:nth-child(4) { box-shadow: -6px  6px 0 $gs-mid-light; }
+    img:nth-child(5) { box-shadow: -6px  6px 0 $gs-dark; }
+    img:nth-child(6) { box-shadow:  6px -6px 0 $gs-mid-dark; }
+  }
+
+  // Pricing
+  .pricing-intro {
+    background: $gs-light;
+    border-color: $gs-mid-dark;
+    border-left-color: $gs-dark;
+    box-shadow: 8px 8px 0 $gs-mid;
+  }
+  .pricing-kicker,
+  .pricing-lede { color: $gs-dark; }
+  .pricing-proof span {
+    background: lighten($gs-light, 7%);
+    border-color: $gs-mid-dark;
+    border-style: dashed;
+    color: $gs-dark;
+  }
+  .pricing-card {
+    background: lighten($gs-light, 7%);
+    border-color: rgba($gs-dark, 0.24);
+    border-bottom-color: rgba($gs-dark, 0.34);
+    box-shadow: 7px 7px 0 rgba($gs-dark, 0.12);
+    color: $gs-dark;
+  }
+  .pricing-card--featured { border-color: $gs-dark; border-bottom-color: $gs-dark; box-shadow: 5px 5px 0 $gs-mid; }
+  .pricing-amount { color: $gs-dark; text-shadow: 3px 3px 0 rgba($gs-mid, 0.3); }
+  .pricing-title { color: $gs-dark; }
+  .pricing-subtitle { color: $gs-mid-dark; }
+  .pricing-detail,
+  .pricing-includes { color: rgba($gs-dark, 0.78); }
+  .pricing-outcome {
+    background: lighten($gs-light, 12%);
+    border-left-color: $gs-dark;
+    color: $gs-dark;
+  }
+  .pricing-cta {
+    background: $gs-dark;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &:hover { box-shadow: 6px 6px 0 $gs-mid; }
+  }
+  .pricing-badge {
+    background: $gs-dark;
+    color: $gs-near-white;
+  }
+  .pricing-saving {
+    background: $gs-light;
+    color: $gs-dark;
+    border: 1px dashed $gs-mid-dark;
+  }
+
+  // Profile image
+  .profile-image,
+  .who-hero__image {
+    box-shadow: 8px 8px 0 $gs-mid-dark;
+  }
+
+  // Coaching page sections
+  .audience-label { background: $gs-dark; color: $gs-near-white; }
+  .audience-panel {
+    &--coaching {
+      background: $gs-light;
+      border-color: $gs-dark;
+      border-style: solid;
+      box-shadow: 7px 7px 0 $gs-mid;
+      color: $gs-dark;
+      h3 { color: $gs-dark; }
+    }
+    &--manager {
+      background: lighten($gs-light, 8%);
+      border-color: $gs-mid-dark;
+      border-style: dashed;
+      box-shadow: 7px 7px 0 $gs-mid-light;
+      color: $gs-dark;
+      h3 { color: $gs-mid-dark; }
+    }
+  }
+  .outcome-item {
+    background: $gs-dark;
+    color: $gs-near-white;
+    box-shadow: 5px 5px 0 $gs-mid;
+    border-top: 4px solid $gs-near-white;
+    &:nth-child(2) { background: $gs-mid-dark; color: $gs-near-white; box-shadow: 5px 5px 0 $gs-dark; border-top-style: dashed; }
+    &:nth-child(3) { background: $gs-mid; color: $gs-near-white; box-shadow: 5px 5px 0 $gs-dark; border-top-style: dotted; }
+    &:nth-child(4) { background: $gs-light; color: $gs-dark; box-shadow: 5px 5px 0 $gs-mid-dark; border-top: 4px double $gs-dark; }
+  }
+  .coaching-explainer {
+    background: $gs-mid-dark;
+    color: $gs-near-white;
+    box-shadow: 7px 7px 0 $gs-dark;
+    p, a { color: $gs-near-white; }
+    a { text-decoration-color: rgba($gs-near-white, 0.65); }
+  }
+  .next-steps {
+    background: $gs-near-white;
+    border-color: $gs-dark;
+    box-shadow: 8px 8px 0 $gs-mid;
+    &::before { background: $gs-dark; }
+    &::after { background: $gs-near-white; border-color: $gs-dark; }
+  }
+  .next-steps--human {
+    box-shadow: 8px 8px 0 $gs-mid-dark;
+    .next-steps__check { color: $gs-mid-dark; }
+  }
+  .next-steps__item { border-bottom-color: rgba($gs-dark, 0.2); }
+  .next-steps__check { color: $gs-dark; }
+  .next-steps__content { color: $gs-dark; strong { color: $gs-dark; } }
+
+  .process-steps {
+    li {
+      background: lighten($gs-light, 7%);
+      border-left-color: $gs-dark;
+      box-shadow: 5px 5px 0 rgba($gs-dark, 0.12);
+      color: $gs-dark;
+    }
+    li:nth-child(even) { border-left-color: $gs-mid-dark; border-left-style: dashed; }
+    li:nth-child(3) { border-left-color: $gs-mid; border-left-style: dotted; }
+    h3 { color: $gs-dark; }
+  }
+  .process-step__number { color: rgba($gs-dark, 0.72); }
+  .testimonial-card {
+    background: $gs-light;
+    border-color: rgba($gs-dark, 0.2);
+    border-top-color: $gs-dark;
+    box-shadow: 5px 5px 0 $gs-mid;
+    color: $gs-dark;
+    .testimonial-tag {
+      background: lighten($gs-light, 4%);
+      border-color: $gs-mid;
+      color: $gs-dark;
+    }
+    .testimonial-pullquote {
+      border-bottom-color: rgba($gs-dark, 0.16);
+      color: $gs-dark;
+    }
+    &:nth-child(even) { border-top-color: $gs-mid-dark; border-top-style: dashed; }
+    &:nth-child(3) { border-top-color: $gs-mid; border-top-style: dotted; }
+    &:nth-child(4) { border-top-color: $gs-dark; border-top-style: double; }
+  }
+  .testimonial-bridge { color: $gs-dark; }
+  .value-card {
+    background: lighten($gs-light, 6%);
+    border-color: rgba($gs-dark, 0.2);
+    border-left-color: $gs-dark;
+    color: $gs-dark;
+    &:nth-child(even) { border-left-color: $gs-mid-dark; border-left-style: dashed; }
+    &:nth-child(3) { border-left-color: $gs-mid; border-left-style: dotted; }
+    &:nth-child(4) { border-left-color: $gs-mid-light; border-left-style: double; }
+  }
+  .credibility-badge {
+    background: lighten($gs-light, 6%);
+    border-color: rgba($gs-dark, 0.2);
+    border-bottom-color: $gs-dark;
+    border-bottom-style: solid;
+    color: $gs-dark;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &:nth-child(even) { border-bottom-color: $gs-mid-dark; border-bottom-style: dashed; }
+    &:nth-child(3) { border-bottom-color: $gs-mid; border-bottom-style: dotted; }
+    &:nth-child(4) { border-bottom-color: $gs-mid-light; border-bottom-style: double; }
+  }
+  .credibility-badge__mark { background: $gs-dark; color: $gs-near-white; border-radius: 0; }
+  .credibility-badge:nth-child(even) .credibility-badge__mark { background: $gs-mid-dark; color: $gs-near-white; }
+  .credibility-badge:nth-child(3) .credibility-badge__mark { background: $gs-mid; color: $gs-near-white; }
+  .credibility-badge:nth-child(4) .credibility-badge__mark { background: $gs-light; color: $gs-dark; border: 2px solid $gs-dark; }
+
+  .story-stamp {
+    background: lighten($gs-light, 7%);
+    color: $gs-dark;
+    border-left-color: $gs-dark;
+    box-shadow: 7px 7px 0 $gs-mid;
+
+    p + p {
+      border-top-style: dashed;
+      border-top-color: rgba($gs-dark, 0.28);
+    }
+  }
+  .credential-card:not(.card) {
+    background: $gs-dark;
+    box-shadow: 7px 7px 0 $gs-mid;
+    color: $gs-near-white;
+
+    h3,
+    a {
+      color: $gs-near-white;
+    }
+
+    &:nth-child(2) {
+      background: $gs-mid-dark;
+      border-top: 4px dashed $gs-near-white;
+      box-shadow: 7px 7px 0 $gs-mid-light;
+    }
+  }
+
+  .problem-list {
+    ul {
+      border-top-color: rgba($gs-dark, 0.18);
+    }
+
+    li {
+      border-bottom-color: rgba($gs-dark, 0.18);
+      border-left-color: $gs-dark;
+      color: rgba($gs-dark, 0.84);
+
+      &:nth-child(3n + 2) {
+        border-left-color: $gs-mid-dark;
+      }
+
+      &:nth-child(3n) {
+        border-left-color: $gs-mid;
+      }
+    }
+  }
+
+  .display-settings-toggle {
+    &:hover,
+    &[data-active="true"] {
+      background: $gs-dark;
+      color: $gs-near-white;
+    }
+  }
+
+  .display-settings-panel {
+    background: $gs-near-white;
+  }
+
+  // Footer
+  footer { border-top-color: $gs-dark; }
+}
