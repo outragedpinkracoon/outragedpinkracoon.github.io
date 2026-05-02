@@ -29,8 +29,6 @@ Do the work. Be opinionated. Don't hedge. Flag weak copy directly — don't flat
 - `whatever carnage is unfolding`
 - `There's no undo button for people`
 - `Bring your mess`
-- `dangerous amount of clarity in human form`
-- `done settling for this`
 - `I want more than this`
 
 **Phrases to use sparingly:** `chaos untangler`
@@ -108,6 +106,8 @@ These lines from her existing pages represent her voice at its best — use them
 - Every section should make reader think: "Oh fuck, that's me" / "She gets it" / "Take my money"
 - Single session is the hero offer; bundle is for when more room is needed
 - No fit checks. No defensive pricing. Frame: valuable because she's been in this exact mess and knows what's actually going on.
+
+**Voice:** Sharp, irreverent, funny, direct, emotionally intelligent. Warm but not soft-focus. High-agency. Mildly feral. Swear where it lands hardest, not everywhere. No coaching jargon (`power hour`, `intensive`, `transformational journey`, etc). No corporate polish. No dead professional copy.
 
 ## When reviewing copy
 
