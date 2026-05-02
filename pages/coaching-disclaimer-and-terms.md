@@ -41,7 +41,24 @@ Coaching sessions will be arranged flexibly between the Coach and the Client, wi
 
 Additional sessions may be agreed after completion of the initial arrangement. These terms and conditions will apply to all sessions, and the Per Session Fee will remain as originally agreed unless the Coach notifies the Client in writing of any change, in line with the section headed Variation of Terms and Conditions.
 
-Clients who have concerns about any part of this agreement should raise them with the Coach before the first session. Participation in the first session constitutes acceptance of these terms and conditions.
+Clients who have concerns about any part of this agreement should raise them with the Coach before the first session. Payment of an invoice for any session, bundle, or programme constitutes acceptance of these terms and conditions.
+
+### Session expiry
+Sessions purchased as part of a bundle or programme must be used within the following periods from the date of purchase:
+
+* 3-session bundle: 3 months
+* 6-session programme: 6 months
+
+Sessions not used within these periods lapse without refund. Extensions are not available as a matter of course, but may be considered at the Coach’s sole discretion in exceptional circumstances.
+
+### Booking notice
+Sessions must be booked with a minimum of 48 hours’ notice. Requests to book a session with less than 48 hours until the proposed start time may not be accommodated and do not constitute a confirmed booking until accepted by the Coach.
+
+### Non-transferability
+Bundles and programmes are purchased for a named individual Client only. Sessions may not be transferred to, shared with, or used by any other person.
+
+### Pausing a bundle or programme
+Bundles and programmes do not have a pause facility as a standard feature. If exceptional circumstances arise (such as a serious medical situation), the Client may contact the Coach to discuss options. Any arrangement to extend or pause a bundle is entirely at the Coach’s discretion and must be agreed in writing before the original expiry date.
 
 ### Per Session Fee
 The fee for coaching is £400.00 (VAT exempt) per 50-minute session. Reduced rates may be agreed on a discretionary basis — get in touch to discuss.
@@ -74,20 +91,30 @@ Exceptions may be made at the Coach’s discretion for circumstances outside the
 
 Session length will not be extended if the Client arrives late.
 
-### Payment terms
-Invoices will be issued by email after each session and are payable within 7 days via the payment methods specified on the invoice. A late payment charge of 10% of the outstanding balance will be applied to any invoice not settled within this period.
+If the Coach needs to cancel or reschedule a session, the Client will be notified as soon as reasonably practicable and the session will be rescheduled at a mutually convenient time at no additional charge. No session is forfeited as a result of a cancellation initiated by the Coach.
 
-Where multiple sessions occur within the same month, fees may be grouped into a single invoice issued at month end.
+### Payment terms
+For single sessions, invoices will be issued by email after each session and are payable within 7 days via the payment methods specified on the invoice.
+
+For bundles and programmes, payment is required in full before the first session is booked. A single invoice will be issued on purchase.
+
+A late payment charge of 10% of the outstanding balance will be applied to any invoice not settled within 7 days of the invoice date.
+
+Where multiple single sessions occur within the same month, fees may be grouped into a single invoice issued at month end.
 
 ### Refunds
 Refunds are not available on a per-session basis since invoices are sent after sessions have completed and service has been delivered.
 
-If a block of sessions (e.g. 3 sessions at a discounted rate) is booked, no refunds will be offered for unused sessions within that block. The discount is offered on the basis of the full block being completed.
+No refunds are offered for unused sessions within a bundle or programme, whether unused sessions remain at the point of cancellation or lapse due to expiry. The discounted rate is offered on the basis of the full bundle or programme being purchased and used within the applicable expiry period.
+
+This does not affect your statutory rights.
 
 ### Termination
 Either the Client or the Coach may terminate this agreement at any time.
 
 The Coach also reserves the right to terminate services early in certain circumstances, such as illness, bereavement, other personal commitments, inappropriate behaviour by the Client, a conflict of interest, or other reasonable grounds. Where practicable, the Client will be given reasonable notice of such termination.
+
+Where the Coach terminates a bundle or programme and unused sessions have been prepaid, those unused sessions will be refunded to the Client pro-rata within 14 days of termination.
 
 ### Variation of terms and conditions
 These terms and conditions may be updated by the Coach at any time. The current version will always be available on the Coach’s website and applies from the date of publication. It is the Client’s responsibility to review the terms periodically.
