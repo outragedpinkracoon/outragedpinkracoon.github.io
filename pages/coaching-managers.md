@@ -16,7 +16,9 @@ show_teams_card: true
 
 <p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and not accidentally fuck someone up.</p>
 
-<p>I help new and growing engineering managers get clear on the live thing currently eating their brain. We work out what actually matters, what is noise, and what the hell to do next. Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does.</p>
+<p>I work with engineering managers at every stage from first EM role through to Head of Engineering and Director. If you have just been promoted, or you have been doing the job a while and are growing into something bigger, this is the right place. VP and above is <a href="/coaching/founders/">exec coaching</a>.</p>
+
+<p>I help you get clear on the live thing currently eating your brain. We work out what actually matters, what is noise, and what the hell to do next. Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does.</p>
 
 {% include credibility-strip.html %}
 
@@ -26,7 +28,7 @@ show_teams_card: true
 
 <h2>Who I work with</h2>
 
-<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while and are sick of winging the hard bits alone.</p>
+<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while and are growing into Head of Engineering and need someone to pressure-test the hard calls with.</p>
 
 <p>Sound familiar?</p>
 

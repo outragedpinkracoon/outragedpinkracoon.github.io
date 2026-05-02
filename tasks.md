@@ -37,7 +37,7 @@ This is the current work queue after the site overhaul. Keep it practical: fix w
   - Do not force CV material into the site for proof.
   - Do not build Fractional CTO case studies until there are real consultancy stories worth telling.
 
-- [ ] **Improve blog routing later**
+- [x] **Improve blog routing later**
   - Route new manager posts to `/coaching/engineering-managers/`.
   - Route burnout/career/power posts to `/coaching/folks-in-tech/`.
   - Route founder, AI, delivery, hiring, and org-chaos posts to `/fractional-cto/` or `/coaching/founders/`.
