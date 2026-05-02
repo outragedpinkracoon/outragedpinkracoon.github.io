@@ -17,15 +17,18 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Sessions from £400. Bundle of 3 from £1,000.</p>
 
-<p>I work with engineering managers at every stage from first EM role through to Head of Engineering and Director. If you have just been promoted, or you have been doing the job a while and are growing into something bigger, this is the right place. VP and above is <a href="/coaching/founders/">exec coaching</a>.</p>
+<p>I work with engineering managers at every stage from first EM role through to Head of Engineering and Director.</p>
 
-<p>I help you get clear on the live thing currently eating your brain. We work out what actually matters, what is noise, and what the hell to do next. Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does.</p>
+<p>If you have just been promoted, or you have been doing the job a while and are growing into something bigger, this is the right place. VP and above is <a href="/coaching/founders/">exec coaching</a>.</p>
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
-<div class="callout--teal callout" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system, and in the team dynamic that just went sideways.</div>
-
 <p>As a Fractional CTO / VP Engineering, ILM certified Executive Coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
+
+
+<div class="pull-quote" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career.</div>
+
+<p>Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does.</p>
 
 <h2>Who I work with</h2>
 
@@ -84,12 +87,12 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 {% include what-happens-next.html %}
 
 <h2>Pricing</h2>
+<p class="pull-quote">Many clients expense this through their employer's L&D budget — Access to Work also covers coaching for disabled people and neurodivergent folks. Self-funding? <a href="/coaching/funding/">Find out more about funding options.</a></p>
 
 <p class="pricing-decision">The format depends on the problem. Something discrete and live: one session often makes a big difference. Something that keeps evolving — a restructure, a new role, a situation that won't stay solved — that needs a different kind of support. Pick the one that fits what's actually happening.</p>
 
-<p class="pull-quote">Many clients expense this through their employer's L&D budget — Access to Work also covers coaching for disabled people and neurodivergent folks. Self-funding? <a href="/coaching/funding/">Find out more about funding options.</a></p>
 
-<div class="callout callout--yellow"><p>Paying out of pocket — especially if you're under-represented in tech? I have options and I'd rather talk than have you rule yourself out. <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">Get in touch.</a></p></div>
+<div class="callout callout--yellow"><p>Paying out of pocket? I have options and I'd rather talk than have you rule yourself out, especially if you're under-represented in tech? <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">Get in touch.</a></p></div>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">

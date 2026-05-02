@@ -1285,39 +1285,36 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   box-shadow: 6px 6px 0 rgba($ink, 0.72);
   transform: rotate(-0.9deg);
   transition: transform 0.18s ease, box-shadow 0.18s ease;
+  cursor: default;
 
-  &:nth-child(2) {
-    transform: rotate(0.7deg);
-  }
+  // Colour rotation
+  &:nth-child(2)  { background: $magenta;  color: white; }
+  &:nth-child(3)  { background: $teal;     color: white; }
+  &:nth-child(4)  { background: $orange;   color: white; }
+  &:nth-child(5)  { background: $lavender; color: white; }
+  &:nth-child(6)  { background: $yellow;   color: $ink;  }
+  &:nth-child(7)  { background: $magenta;  color: white; }
+  &:nth-child(8)  { background: $teal;     color: white; }
+  &:nth-child(9)  { background: $orange;   color: white; }
+  &:nth-child(10) { background: $lavender; color: white; }
 
-  &:nth-child(3) {
-    transform: rotate(-0.45deg);
-  }
 
-  &:nth-child(4) {
-    transform: rotate(0.85deg);
-  }
-
-  &:nth-child(5) {
-    transform: rotate(0.5deg);
-  }
-
-  &:nth-child(6) {
-    transform: rotate(-0.75deg);
-  }
-
-  &:nth-child(7) {
-    transform: rotate(0.65deg);
-  }
-
-  &:nth-child(8) {
-    transform: rotate(-0.6deg);
-  }
+  // Tilt variation
+  &:nth-child(2)  { transform: rotate(2.1deg); }
+  &:nth-child(3)  { transform: rotate(-1.6deg); }
+  &:nth-child(4)  { transform: rotate(2.5deg); }
+  &:nth-child(5)  { transform: rotate(-1.2deg); }
+  &:nth-child(6)  { transform: rotate(1.9deg); }
+  &:nth-child(7)  { transform: rotate(-2.3deg); }
+  &:nth-child(8)  { transform: rotate(1.4deg); }
+  &:nth-child(9)  { transform: rotate(-2deg); }
+  &:nth-child(10) { transform: rotate(1.7deg); }
 
   @media (max-width: 640px) {
-    transform: rotate(-0.45deg);
+    transform: rotate(-1deg);
+    padding: 1.25rem 1.35rem;
 
-    &:nth-child(even) { transform: rotate(0.45deg); }
+    &:nth-child(even) { transform: rotate(1deg); }
   }
 
   &:hover {
@@ -1332,6 +1329,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     background: transparent;
     box-shadow: none;
     clear: none;
+    color: inherit;
     font-family: $font-primary;
     font-size: 1.05rem;
     font-style: normal;
