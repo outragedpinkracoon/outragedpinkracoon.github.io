@@ -3,15 +3,18 @@ layout: info_page
 permalink: /who-is-val/
 title: Who Is Val Dryden? Fractional CTO / VP Engineering and Executive Coach
 display_title: Who is Val?
+title_sub: "Oh so many things."
 description: "Val Dryden is an ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit support for the messy, human, hard parts of tech."
 ---
-<div class="who-hero">
-  <div class="who-hero__text">
-    <p>I'm Valerie Dryden. I've worked in tech for nearly two decades — from hands-on engineering all the way up to VP Engineering and Acting CTO. I've seen some sh*t, I tell you.</p>
-    {% include credibility-strip.html %}
-  </div>
-  <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="who-hero__image">
-</div>
+<img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
+
+<p class="page-intro"><strong>Tech is a wild place. More so when you are non-binary, neurodivergent, queer and disabled.</strong></p>
+
+<p>I started my career writing VBA (whooo!) in an agency, hacking away at Excel macros and then graduated to Java making automated fund factsheets. From there I did C#, Ruby, Elixir and pretty much every programming language you can think of in more companies than I can count on two hands.</p>
+<p>I've worked in InsureTech, FinTech, MedTech, AppSec, you name it. Skyscanner, Deliveroo, Snyk. Big names, big scary f*cking technical estates with big f*cking technical problems.</p>
+<p>I then realised every manager I had sucked, and also never looked like me. So I decided to do something about it and become the manager I never had. I want people to come to work and have fun and be at their best, not live in fear and be at their worst.</p>
+<p>So for a decade I've run teams from 10 people up to 150+, in Series A companies to Series G. I've been on exec, middle management and the front line. I've seen it all. I know how to thrive in situations that would break a less stubborn person.</p>
+<p>Racoons are animals that don't belong anywhere, but thrive anyway. And that's why it's my brand mascot!</p>
 
 <div class="credentials-grid card-grid">
   <div class="card card--static credential-card">
@@ -64,7 +67,7 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
   </div>
   <div class="value-card">
     <h3>I'm not an ally looking in</h3>
-    <p>I am queer, non-binary, neurodivergent and disabled. Not an ally looking in from outside. I know what this costs because I have been paying it too.</p>
+    <p>I am queer, neurodivergent and disabled. Not an ally looking in from outside. I know what this costs because I have been paying it too.</p>
   </div>
   <div class="value-card">
     <h3>In your corner, not your echo chamber</h3>
