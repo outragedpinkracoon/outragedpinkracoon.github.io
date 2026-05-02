@@ -17,11 +17,10 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
 
 <div class="audience-grid">
   <section class="audience-panel audience-panel--manager" id="new-manager-support">
-    <p class="audience-label">New to management</p>
-    <p class="audience-label">Growing into Head of Eng or Director</p>
+    <p class="audience-label">New manager to Head of Eng</p>
     <h3><a href="/coaching/engineering-managers/">I’m a new engineering manager</a></h3>
     <p>You got promoted, handed a team, and now everyone expects you to know how to lead actual humans.</p>
-    <p>Feedback, one-to-ones, conflict, team chaos, overwhelm, managing up, and the sudden realisation that there is no undo button for people. From first EM role through to Head of Engineering.</p>
+    <p>From first EM role through to growing into Head of Engineering. Feedback, one-to-ones, conflict, team chaos, overwhelm, managing up, and the sudden realisation that there is no undo button for people.</p>
     <p><a class="pricing-cta" href="/coaching/engineering-managers/">Help me manage humans</a></p>
   </section>
 
