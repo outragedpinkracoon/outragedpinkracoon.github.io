@@ -4,7 +4,7 @@ permalink: /coaching/founders/
 title: Coaching for Founders, CTOs and Early-Stage CEOs in Tech
 display_title: Coaching for founders and CTOs
 title_sub: because making hard calls alone sucks.
-description: ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit 1:1 coaching for founders, CTOs, and tech leaders.
+description: Founder and CTO coaching from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for hard calls and people chaos.
 hide_self_funding_note: true
 show_teams_card: true
 show_retainer_card: true

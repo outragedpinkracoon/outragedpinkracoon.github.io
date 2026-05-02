@@ -4,7 +4,7 @@ permalink: /coaching/folks-in-tech/
 title: No-bullshit Coaching for Folks in Tech — Specialist Support for Neurodivergent, Queer and Disabled People
 display_title: Coaching for folks in tech
 title_sub: who want more power, more credit, and less bullshit.
-description: ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit support for folks in tech who want more power, more credit, and less bullshit.
+description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-bullshit support for folks in tech who want more power, more credit, and less bullshit.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
