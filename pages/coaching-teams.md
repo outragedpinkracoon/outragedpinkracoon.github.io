@@ -52,9 +52,9 @@ show_cta: false
 
 <h2>Pricing</h2>
 
-<p>Rates vary by team size, number of managers, and format. Get in touch and we'll work out what makes sense.</p>
+<p>Rates vary by team size, number of managers, and format. Tell me what you're dealing with and we'll work out what makes sense.</p>
 
-<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a></p>
+<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Get in touch</a></p>
 
 <h2>Real managers saying real things</h2>
 
