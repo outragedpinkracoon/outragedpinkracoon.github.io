@@ -14,31 +14,6 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
 <p>Then I realised every manager I'd ever had was terrible, and none of them looked anything like me. So I decided to become the manager I never had. For a decade I ran teams from 10 to 150+, across Series A to Series G, on the front line and on exec. I know what it takes to build something real under pressure, to change a culture that wasn't working, and to come out the other side with your principles intact.</p>
 <p class="callout callout--teal">Racoons don't belong anywhere, but they thrive anyway.</p>
 
-<div class="credentials-grid card-grid">
-  <div class="card card--static credential-card">
-    <h3>Sh*t I've Shipped</h3>
-    <ul>
-      <li>5+ multi-million dollar transformations in companies up to $300M ARR</li>
-      <li>Cut cycle times by 60%, incidents by 50%, defects by 40%</li>
-      <li>Saved £1m+ annually through delivery transformation and AI adoption, multiple times</li>
-      <li>Cloud migrations with zero downtime. ISO 27001/13485 audits delivered.</li>
-      <li>Cultures moved from fear to empowerment, diversity increased by 55–60%</li>
-      <li>Led engineering organisations of 120+ people</li>
-    </ul>
-  </div>
-  <div class="card card--static credential-card">
-    <h3>Coaching credentials</h3>
-    <ul>
-      <li>ILM Level 5 Executive Coach</li>
-      <li>300+ coached, 100+ founders</li>
-      <li>Creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid#/home" target="_blank" rel="noopener noreferrer">Holy Shit I'm A Manager&trade;<span class="sr-only"> (opens in new tab)</span></a> — 100+ graduates, 200+ member community</li>
-      <li>Co-created the curriculum for Scotland's first coding academy</li>
-      <li><a href="https://brenebrown.com/hubs/dare-to-lead/" target="_blank" rel="noopener noreferrer">Dare to Lead&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
-      <li><a href="https://coachlead.co/leaders-who-coach/" target="_blank" rel="noopener noreferrer">Leaders Who Coach&trade;<span class="sr-only"> (opens in new tab)</span></a> trained</li>
-      <li>BSc Computer Science (First Class). BA Accountancy &amp; Finance.</li>
-    </ul>
-  </div>
-</div>
 
 <h2>The kind of coach I am</h2>
 
