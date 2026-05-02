@@ -390,6 +390,12 @@ body.cb-red-green {
     &--yellow { background: lighten($cb-sky, 30%); box-shadow: 6px 6px 0 $cb-blue; }
   }
 
+  // Starburst
+  .starburst {
+    background: $cb-blue;
+    color: #f7f2e8;
+  }
+
   // HR
   hr::after { background: rgba($cb-blue, 0.35); }
 
@@ -716,6 +722,11 @@ body.cb-blue-yellow {
       h3, p, .card-cta { color: #1c1714; }
       .card-cta { border-bottom-color: rgba(#1c1714, 0.7); }
     }
+    // dark green card needs white text
+    &:nth-child(2) {
+      color: #f7f2e8;
+      h3, p, li, a { color: #f7f2e8; }
+    }
   }
 
   // Blockquotes — replace yellow bg with coral
@@ -969,12 +980,12 @@ body.cb-blue-yellow {
 
     &:nth-child(2) {
       background: $tri-coral;
-      color: #1c1714;
+      color: #f7f2e8;
       box-shadow: 7px 7px 0 $tri-green;
 
       h3,
       a {
-        color: #1c1714;
+        color: #f7f2e8;
       }
     }
   }
@@ -1117,6 +1128,12 @@ body.cb-greyscale {
     box-shadow: 6px 6px 0 $gs-dark;
     &--teal { background: $gs-mid; color: $gs-near-white; box-shadow: 6px 6px 0 $gs-dark; }
     &--yellow { background: $gs-light; border: 3px dashed $gs-dark; box-shadow: 6px 6px 0 $gs-dark; }
+  }
+
+  // Starburst
+  .starburst {
+    background: $gs-dark;
+    color: $gs-near-white;
   }
 
   // HR
