@@ -10,7 +10,7 @@
 
 ## Medium moves
 
-- [ ] **Founders/CTO coaching page: add a retainer card**
+- [x] **Founders/CTO coaching page: add a retainer card**
   The value ladder stops at £2,000 (6 sessions). A founder going through a raise, or a CTO in a sustained difficult stretch, may want ongoing monthly access. That's a fundamentally different and more valuable engagement. Add a retainer pricing card ("Ongoing monthly support — pricing on application") to the founders/CTO coaching page. Same format as the other pricing cards.
 
 - [ ] **Fractional CTO page: add a retainer/ongoing engagement tier**
