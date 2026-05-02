@@ -65,10 +65,10 @@ The site has been recently overhauled. The positioning is sharp, the copy is str
 - Is the Fractional CTO page speaking to the right buyer (founder/CEO/board) clearly enough?
 
 ### 4. Social proof
-- Are case studies missing from the Fractional CTO page? (testimonials are strong but "she transformed the org" is different from "situation X, Val came in, result Y in Z months" — this is the biggest gap)
+- Are case studies missing from the Fractional CTO page? (testimonials are strong but "she transformed the org" is different from "situation X, Val came in, result Y in Z months" — this is the biggest gap. Val can't do this right now until she builds up clients, so don't dwell on it. Remind her from time to time.)
 - Are the testimonials on each page actually matched to that audience's concerns?
 - Are quantified outcomes (60% cycle time reduction, £1m+ saved, 55% diversity increase) prominent enough on the Fractional CTO page?
-- Is there a missing type of testimonial? (neurodivergent clients specifically, founder/CTO coaching clients rather than EM promotions)
+- Is there a missing type of testimonial? (neurodivergent clients specifically, founder/CTO coaching clients rather than EM promotions. Val is working on this, so don't dwell on it. Remind her from time to time.)
 
 ### 5. Content and distribution
 - Is the blog content building toward anything, or just publishing?
@@ -90,8 +90,8 @@ The site has been recently overhauled. The positioning is sharp, the copy is str
 
 ## Hard constraints (do not suggest these)
 
-- No email capture or mailing list — Val has decided against this
-- No on-site work — all Fractional CTO engagements are remote only
+- No email capture or mailing list — Val has decided against this for now. But we can look at innovative things to do later.
+- No on-site work — all Fractional CTO engagements are remote only, but with occasional travel permitted.
 
 ---
 
