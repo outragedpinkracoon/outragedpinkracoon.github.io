@@ -1,0 +1,376 @@
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// BLUE-YELLOW COLOUR BLIND MODE (tritanopia)
+// Applied via body.cb-blue-yellow
+// Yellow and blue unsafe — replaced with red/green safe alternatives.
+// Magenta and orange are safe and kept.
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$tri-green:   #2E8B3A;   // replaces teal (teal is blue-ish, unsafe)
+$tri-coral:   #E8604C;   // replaces yellow (yellow unsafe for tritanopia)
+$tri-red:     #C0392B;   // replaces lavender (purple is blue-ish, unsafe)
+
+body.cb-blue-yellow {
+  // Body links — magenta is safe, keep it
+  // Headings
+  h3 { color: $tri-green; border-left-color: $tri-green; }
+  // h2 stays magenta — safe
+  // h4 stays orange — safe
+
+  // Pre / code
+  pre { border-left-color: $tri-green; }
+  .title-sub { color: rgba($tri-green, 0.8); }
+
+  // Nav — teal->green, lavender->red, yellow stays, magenta stays, orange stays
+  nav {
+    $_tri-nav: #d91a5e, $tri-green, #ef6820, $tri-red, $tri-green;
+    @for $i from 1 through 5 {
+      $c: nth($_tri-nav, $i);
+      a:nth-child(#{$i}) {
+        color: $c;
+        &:hover, &.active-link { background: $c; color: #f7f2e8; }
+      }
+    }
+  }
+
+  // Header wordmark — magenta safe, but teal shadow unsafe
+  header a {
+    text-shadow: 5px 5px 0 rgba($tri-green, 0.38);
+    &:hover { text-shadow: 7px 7px 0 rgba($tri-green, 0.5), -3px -2px 0 rgba($tri-red, 0.2); }
+  }
+  header::after { background: $tri-green; }
+
+  // CTAs — magenta bg safe, swap teal shadow
+  .header-cta, .button {
+    background: darken(#d91a5e, 6%);
+    color: #f7f2e8;
+    box-shadow: 4px 4px 0 $tri-green;
+    &:hover { color: #f7f2e8; box-shadow: 6px 6px 0 $tri-green; }
+  }
+  .pricing-cta {
+    background: darken(#d91a5e, 6%);
+    color: #f7f2e8;
+    box-shadow: 4px 4px 0 $tri-green;
+    &:hover { color: #f7f2e8; box-shadow: 6px 6px 0 $tri-green; }
+  }
+
+  // Cards — replace teal and lavender, keep magenta and orange
+  .card-grid .card {
+    $_tri-accents: darken(#d91a5e, 6%), darken($tri-green, 8%), #ef6820, $tri-coral;
+    $_tri-shadows: $tri-green, #d91a5e, $tri-red, #d91a5e;
+    @for $i from 1 through 4 {
+      $bg: nth($_tri-accents, $i);
+      $sh: nth($_tri-shadows, $i);
+      &:nth-child(#{$i}) {
+        background: $bg;
+        box-shadow: 8px 8px 0 $sh;
+        &:hover { box-shadow: 12px 12px 0 $sh; }
+      }
+    }
+    // all cards use white text
+    color: #f7f2e8;
+    h3, p, li, a, .card-cta { color: #f7f2e8; }
+    .card-cta { border-bottom-color: rgba(#f7f2e8, 0.7); }
+  }
+
+  // Blockquotes — replace yellow bg with coral
+  blockquote {
+    background: $tri-coral;
+    &::before { color: #d91a5e; }
+  }
+  #post .grt blockquote {
+    background: $tri-coral;
+    &::before { color: #d91a5e; }
+  }
+
+  .manager-quote-card {
+    background: $tri-coral;
+    color: #f7f2e8;
+    box-shadow: 6px 6px 0 #d91a5e;
+
+    &:nth-child(2)  { background: #d91a5e;    color: #f7f2e8; }
+    &:nth-child(3)  { background: $tri-green;  color: #f7f2e8; }
+    &:nth-child(4)  { background: #ef6820;     color: #f7f2e8; }
+    &:nth-child(5)  { background: $tri-red;    color: #f7f2e8; }
+    &:nth-child(6)  { background: $tri-coral;  color: #f7f2e8; }
+    &:nth-child(7)  { background: #d91a5e;     color: #f7f2e8; }
+    &:nth-child(8)  { background: $tri-green;  color: #f7f2e8; }
+    &:nth-child(9)  { background: #ef6820;     color: #f7f2e8; }
+    &:nth-child(10) { background: $tri-red;    color: #f7f2e8; }
+
+    blockquote {
+      background: transparent;
+      box-shadow: none;
+
+      &::before { content: none; }
+    }
+  }
+
+  // Callouts
+  .callout {
+    background: $tri-coral;
+    box-shadow: 6px 6px 0 #d91a5e;
+    &--teal { background: $tri-green; color: #f7f2e8; box-shadow: 6px 6px 0 #1c1714; }
+    &--yellow { background: $tri-coral; box-shadow: 6px 6px 0 #d91a5e; }
+  }
+
+  // HR
+  hr::after { background: rgba(#d91a5e, 0.35); }
+
+  // Recent posts (homepage)
+  #recent-posts {
+    li:nth-child(1) { background: $tri-green; box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(2) { background: #ef6820;    box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(3) { background: #d91a5e;    box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(4) { background: $tri-red;   box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(5) { background: $tri-green; box-shadow: 5px 5px 0 #d91a5e; }
+  }
+
+  // Blog post list
+  #posts {
+    li:nth-child(6n+1) { background: $tri-green; box-shadow: 6px 6px 0 #d91a5e; }
+    li:nth-child(6n+2) { background: #ef6820;    box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+3) { background: #d91a5e;    box-shadow: 6px 6px 0 $tri-green; }
+    li:nth-child(6n+4) { background: $tri-green; box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+5) { background: $tri-red;   box-shadow: 6px 6px 0 #1c1714; }
+    li:nth-child(6n+6) { background: #ef6820;    box-shadow: 6px 6px 0 #d91a5e; }
+  }
+
+  // Categories — pill nav
+  #categories #category-name-list {
+    li:nth-child(6n+1) a { background: #d91a5e;    box-shadow: 4px 4px 0 $tri-green; }
+    li:nth-child(6n+2) a { background: $tri-green; box-shadow: 4px 4px 0 #d91a5e; }
+    li:nth-child(6n+3) a { background: #ef6820;    box-shadow: 4px 4px 0 #1c1714; }
+    li:nth-child(6n+4) a { background: $tri-red;   box-shadow: 4px 4px 0 #1c1714; }
+    li:nth-child(6n+5) a { background: #1c1714;    box-shadow: 4px 4px 0 #d91a5e; }
+    li:nth-child(6n+6) a { background: #d91a5e;    box-shadow: 4px 4px 0 #ef6820; }
+  }
+
+  // Categories — heading banner
+  #categories .category-name { background: #d91a5e; }
+
+  // Categories — post list
+  #category-posts {
+    li:nth-child(6n+1) { background: $tri-green; box-shadow: 5px 5px 0 #d91a5e; }
+    li:nth-child(6n+2) { background: #ef6820;    box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+3) { background: #d91a5e;    box-shadow: 5px 5px 0 $tri-green; }
+    li:nth-child(6n+4) { background: $tri-green; box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+5) { background: $tri-red;   box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(6n+6) { background: #ef6820;    box-shadow: 5px 5px 0 #d91a5e; }
+  }
+
+  // Post body
+  #post {
+    .post-body img:nth-of-type(odd)  { box-shadow: 8px 8px 0 #d91a5e; }
+    .post-body img:nth-of-type(even) { box-shadow: 8px 8px 0 $tri-green; }
+    em { color: $tri-green; }
+    .metadata { border-left-color: rgba($tri-red, 0.5); }
+    .categories a {
+      border-color: rgba($tri-green, 0.4);
+      color: $tri-green;
+      &:hover { background: rgba($tri-green, 0.08); box-shadow: 2px 2px 0 rgba($tri-green, 0.3); }
+    }
+    .grt blockquote::before { color: #d91a5e; }
+  }
+
+  // Image gallery
+  .image-gallery {
+    img:nth-child(1) { box-shadow:  6px  6px 0 #d91a5e; }
+    img:nth-child(2) { box-shadow:  6px  6px 0 $tri-green; }
+    img:nth-child(3) { box-shadow:  6px  6px 0 #ef6820; }
+    img:nth-child(4) { box-shadow: -6px  6px 0 $tri-red; }
+    img:nth-child(5) { box-shadow: -6px  6px 0 #d91a5e; }
+    img:nth-child(6) { box-shadow:  6px -6px 0 $tri-green; }
+  }
+
+  // Pricing
+  .pricing-intro {
+    background: rgba($tri-green, 0.08);
+    border-color: rgba($tri-green, 0.34);
+    border-left-color: $tri-green;
+    box-shadow: 8px 8px 0 $tri-coral;
+  }
+  .pricing-kicker,
+  .pricing-lede { color: $tri-green; }
+  .pricing-subtitle { color: $tri-green; }
+  .pricing-outcome {
+    background: rgba($tri-coral, 0.24);
+    border-left-color: #ef6820;
+  }
+  .pricing-proof span {
+    background: rgba($tri-coral, 0.16);
+    border-color: rgba($tri-green, 0.36);
+    color: $tri-green;
+  }
+  .pricing-card--featured { border-color: $tri-green; border-bottom-color: $tri-green; box-shadow: 5px 5px 0 $tri-coral; }
+  .pricing-amount { color: $tri-green; text-shadow: 3px 3px 0 rgba($tri-coral, 0.3); }
+  .pricing-cta {
+    background: $tri-green;
+    box-shadow: 4px 4px 0 $tri-coral;
+    &:hover { box-shadow: 6px 6px 0 $tri-coral; }
+  }
+  .pricing-badge {
+    background: $tri-green;
+    color: #f7f2e8;
+  }
+  .pricing-saving {
+    background: $tri-coral;
+    color: #1c1714;
+  }
+
+  // Coaching page sections
+  .audience-label { background: #1c1714; color: #f7f2e8; }
+  .audience-panel {
+    &--coaching {
+      border-color: rgba(#d91a5e, 0.45);
+      box-shadow: 7px 7px 0 rgba(#d91a5e, 0.24);
+      h3 { color: #d91a5e; }
+    }
+    &--manager {
+      border-color: rgba($tri-green, 0.48);
+      box-shadow: 7px 7px 0 rgba($tri-green, 0.28);
+      h3 { color: $tri-green; }
+    }
+    &--orange {
+      border-color: rgba(#ef6820, 0.48);
+      box-shadow: 7px 7px 0 rgba(#ef6820, 0.28);
+      h3 { color: #ef6820; }
+    }
+    &--lavender {
+      border-color: rgba($tri-red, 0.48);
+      box-shadow: 7px 7px 0 rgba($tri-red, 0.28);
+      h3 { color: $tri-red; }
+    }
+  }
+  .outcome-item {
+    background: #d91a5e;
+    color: #f7f2e8;
+    box-shadow: 5px 5px 0 $tri-green;
+    &:nth-child(2) { background: $tri-green; color: #f7f2e8; box-shadow: 5px 5px 0 #d91a5e; }
+    &:nth-child(3) { background: #ef6820; color: #f7f2e8; box-shadow: 5px 5px 0 $tri-red; }
+    &:nth-child(4) { background: darken($tri-coral, 14%); color: #f7f2e8; box-shadow: 5px 5px 0 #d91a5e; }
+  }
+  .coaching-explainer {
+    background: $tri-green;
+    box-shadow: 7px 7px 0 #1c1714;
+  }
+  .next-steps {
+    box-shadow: 8px 8px 0 $tri-green;
+  }
+  .next-steps--human {
+    box-shadow: 8px 8px 0 #d91a5e;
+    .next-steps__check { color: $tri-green; }
+  }
+  .next-steps__check { color: #d91a5e; }
+
+  .process-steps {
+    li { border-left-color: #d91a5e; }
+    li:nth-child(even) { border-left-color: $tri-green; }
+    li:nth-child(3) { border-left-color: #ef6820; }
+  }
+  .process-step__number { color: rgba(#d91a5e, 0.72); }
+  .testimonial-card {
+    background: lighten($tri-coral, 30%);
+    color: #1c1714;
+    border-top-color: #d91a5e;
+    .testimonial-tag {
+      background: rgba(#d91a5e, 0.1);
+      border-color: rgba(#d91a5e, 0.32);
+      color: darken(#d91a5e, 8%);
+    }
+    .testimonial-pullquote { color: #d91a5e; }
+    &:nth-child(even) { border-top-color: $tri-green; }
+    &:nth-child(3) { border-top-color: #ef6820; }
+    &:nth-child(4) { border-top-color: $tri-red; }
+    &:nth-child(even) {
+      .testimonial-tag {
+        background: rgba($tri-green, 0.12);
+        border-color: rgba($tri-green, 0.42);
+        color: darken($tri-green, 10%);
+      }
+      .testimonial-pullquote { color: darken($tri-green, 8%); }
+    }
+    &:nth-child(3) {
+      .testimonial-tag {
+        background: rgba(#ef6820, 0.12);
+        border-color: rgba(#ef6820, 0.42);
+        color: darken(#ef6820, 12%);
+      }
+      .testimonial-pullquote { color: darken(#ef6820, 8%); }
+    }
+    &:nth-child(4) {
+      .testimonial-tag {
+        background: rgba($tri-red, 0.12);
+        border-color: rgba($tri-red, 0.42);
+        color: darken($tri-red, 10%);
+      }
+      .testimonial-pullquote { color: darken($tri-red, 8%); }
+    }
+  }
+  .testimonial-bridge { color: #d91a5e; }
+  .value-card {
+    border-left-color: #d91a5e;
+    &:nth-child(even) { border-left-color: $tri-green; }
+    &:nth-child(3) { border-left-color: #ef6820; }
+    &:nth-child(4) { border-left-color: $tri-red; }
+  }
+  .credibility-badge {
+    border-bottom: 5px solid #d91a5e;
+    &:nth-child(even) { border-bottom: 5px solid $tri-green; }
+    &:nth-child(3) { border-bottom: 5px solid #ef6820; }
+    &:nth-child(4) { border-bottom: 5px solid $tri-red; }
+  }
+  .credibility-badge__mark {
+    background: darken(#d91a5e, 6%);
+    color: #f7f2e8;
+  }
+  .credibility-badge:nth-child(even) .credibility-badge__mark { background: darken($tri-green, 8%); color: #f7f2e8; }
+  .credibility-badge:nth-child(3) .credibility-badge__mark { background: #ef6820; color: #f7f2e8; }
+  .credibility-badge:nth-child(4) .credibility-badge__mark { background: $tri-red; color: #f7f2e8; }
+  .story-stamp {
+    background: #f7f2e8;
+    color: #1c1714;
+    border-left-color: #d91a5e;
+    box-shadow: 7px 7px 0 rgba($tri-green, 0.65);
+
+    p + p {
+      border-top-color: rgba(#d91a5e, 0.22);
+    }
+  }
+  .credential-card:not(.card) {
+    background: #ef6820;
+    color: #f7f2e8;
+    box-shadow: 7px 7px 0 $tri-red;
+
+    h3,
+    a {
+      color: #f7f2e8;
+    }
+
+    &:nth-child(2) {
+      background: $tri-coral;
+      color: #f7f2e8;
+      box-shadow: 7px 7px 0 $tri-green;
+
+      h3,
+      a {
+        color: #f7f2e8;
+      }
+    }
+  }
+  .problem-list {
+    li {
+      border-left-color: $tri-green;
+
+      &:nth-child(3n + 2) {
+        border-left-color: #ef6820;
+      }
+
+      &:nth-child(3n) {
+        border-left-color: #d91a5e;
+      }
+    }
+  }
+
+  // Footer
+  footer { border-top-color: #d91a5e; }
+}

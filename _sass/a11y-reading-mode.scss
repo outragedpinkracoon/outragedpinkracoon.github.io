@@ -1,0 +1,257 @@
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// READING MODE
+// Applied via body.reading-mode
+// Swaps to Atkinson Hyperlegible, softens saturated yellows, nudges spacing.
+// Layout, colours, personality and tilts are all preserved.
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$reading-font: 'Atkinson Hyperlegible', sans-serif;
+
+// Softened palette — same hues, lower saturation
+$reading-yellow:  #e8d98a;
+$reading-magenta: #c4547e;
+$reading-teal:    #3a8a84;
+
+body.reading-mode {
+  font-family: $reading-font;
+  line-height: 2.0;
+  letter-spacing: 0.01em;
+  word-spacing: 0.05em;
+
+  p, li, td, blockquote {
+    letter-spacing: 0.01em;
+    word-spacing: 0.05em;
+  }
+
+  // Headings swap font — but NOT the header wordmark (that's branding)
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $reading-font;
+  }
+
+  // Drop text shadow from wordmark — reduces visual noise
+  header a {
+    text-shadow: none !important;
+    &:hover { text-shadow: none !important; }
+  }
+
+  // Card titles, post links, blog list titles
+  .card h3,
+  .audience-panel h3,
+  .process-steps h3,
+  .pricing-amount,
+  .process-step__number,
+  #recent-posts li a,
+  #posts h2 {
+    font-family: $reading-font;
+    font-style: normal;
+  }
+
+  .audience-label,
+  .outcome-title,
+  .coaching-explainer__lede,
+  .coaching-explainer a {
+    font-family: $reading-font;
+    font-style: normal;
+    font-variation-settings: normal;
+  }
+
+  // Soften blockquotes
+  blockquote {
+    background: $reading-yellow;
+    &::before { color: $reading-magenta; }
+  }
+
+  .manager-quote-card {
+    background: $reading-yellow;
+    color: #1c1714;
+    box-shadow: 6px 6px 0 rgba($reading-magenta, 0.82);
+
+    blockquote {
+      background: transparent;
+      box-shadow: none;
+      font-family: $reading-font;
+      line-height: 1.6;
+
+      &::before { content: none; }
+    }
+  }
+
+  .next-steps {
+    box-shadow: 8px 8px 0 $reading-teal;
+  }
+  .next-steps--human {
+    box-shadow: 8px 8px 0 $reading-magenta;
+    .next-steps__check { color: $reading-teal; }
+  }
+  .next-steps__check { color: $reading-magenta; }
+
+  // Soften callouts
+  .callout {
+    background: $reading-yellow;
+    box-shadow: 6px 6px 0 $reading-magenta;
+
+    &--teal {
+      background: $reading-teal;
+      box-shadow: 6px 6px 0 #1c1714;
+    }
+
+    &--yellow {
+      background: $reading-yellow;
+      box-shadow: 6px 6px 0 $reading-magenta;
+    }
+  }
+
+  .audience-panel {
+    line-height: 1.8;
+    &--coaching {
+      border-color: rgba($reading-magenta, 0.45);
+      box-shadow: 7px 7px 0 rgba($reading-magenta, 0.22);
+      h3 { color: $reading-magenta; }
+    }
+    &--manager {
+      border-color: rgba($reading-teal, 0.45);
+      box-shadow: 7px 7px 0 rgba($reading-teal, 0.22);
+      h3 { color: $reading-teal; }
+    }
+    &--orange {
+      border-color: rgba(#c8421a, 0.45);
+      box-shadow: 7px 7px 0 rgba(#c8421a, 0.22);
+      h3 { color: #c8421a; }
+    }
+    &--lavender {
+      border-color: rgba(#6f4f94, 0.45);
+      box-shadow: 7px 7px 0 rgba(#6f4f94, 0.22);
+      h3 { color: #6f4f94; }
+    }
+  }
+
+  .outcome-item {
+    background: $reading-magenta;
+    box-shadow: 5px 5px 0 $reading-teal;
+    &:nth-child(2) { background: $reading-teal; box-shadow: 5px 5px 0 $reading-magenta; }
+    &:nth-child(3) { background: #d46f42; box-shadow: 5px 5px 0 rgba($reading-magenta, 0.45); }
+    &:nth-child(4) { background: $reading-yellow; color: #1c1714; box-shadow: 5px 5px 0 $reading-magenta; }
+  }
+
+  .coaching-explainer {
+    background: $reading-teal;
+    box-shadow: 7px 7px 0 #1c1714;
+  }
+
+  .pricing-intro {
+    background: rgba($reading-teal, 0.12);
+    border-color: rgba($reading-teal, 0.36);
+    border-left-color: $reading-teal;
+    box-shadow: 8px 8px 0 rgba($reading-yellow, 0.78);
+  }
+  .pricing-kicker { color: darken($reading-teal, 8%); }
+  .pricing-lede { color: darken($reading-teal, 8%); }
+  .pricing-proof span {
+    background: rgba($reading-yellow, 0.22);
+    border-color: rgba($reading-teal, 0.32);
+    color: darken($reading-teal, 12%);
+  }
+  .pricing-card--featured {
+    border-color: $reading-teal;
+    border-bottom-color: $reading-teal;
+    box-shadow: 8px 8px 0 rgba($reading-yellow, 0.82);
+  }
+  .pricing-amount {
+    color: darken($reading-teal, 8%);
+    text-shadow: 3px 3px 0 rgba($reading-yellow, 0.42);
+  }
+  .pricing-cta {
+    background: darken($reading-teal, 4%);
+    box-shadow: 4px 4px 0 rgba($reading-yellow, 0.9);
+    &:hover { box-shadow: 6px 6px 0 rgba($reading-yellow, 0.9); }
+  }
+  .pricing-badge {
+    background: $reading-yellow;
+    color: #1c1714;
+  }
+
+  .testimonial-card {
+    border-top-color: $reading-magenta;
+    .testimonial-tag {
+      background: rgba($reading-magenta, 0.1);
+      border-color: rgba($reading-magenta, 0.32);
+      color: darken($reading-magenta, 12%);
+    }
+    .testimonial-pullquote { color: $reading-magenta; }
+    &:nth-child(even) { border-top-color: $reading-teal; }
+    &:nth-child(3) { border-top-color: #d46f42; }
+    &:nth-child(4) { border-top-color: $reading-yellow; }
+    &:nth-child(even) {
+      .testimonial-tag {
+        background: rgba($reading-teal, 0.12);
+        border-color: rgba($reading-teal, 0.38);
+        color: darken($reading-teal, 16%);
+      }
+      .testimonial-pullquote { color: darken($reading-teal, 10%); }
+    }
+    &:nth-child(3) {
+      .testimonial-tag {
+        background: rgba(#d46f42, 0.12);
+        border-color: rgba(#d46f42, 0.42);
+        color: darken(#d46f42, 16%);
+      }
+      .testimonial-pullquote { color: darken(#d46f42, 10%); }
+    }
+    &:nth-child(4) {
+      .testimonial-tag {
+        background: rgba($reading-yellow, 0.22);
+        border-color: rgba($reading-yellow, 0.72);
+        color: darken(#d46f42, 20%);
+      }
+      .testimonial-pullquote { color: darken(#d46f42, 14%); }
+    }
+  }
+
+  .value-card {
+    border-left-color: $reading-magenta;
+    &:nth-child(even) { border-left-color: $reading-teal; }
+    &:nth-child(3) { border-left-color: #d46f42; }
+  }
+  .credibility-badge {
+    border-bottom-color: $reading-magenta;
+    &:nth-child(even) { border-bottom-color: $reading-teal; }
+    &:nth-child(3) { border-bottom-color: #d46f42; }
+    &:nth-child(4) { border-bottom-color: $reading-yellow; }
+  }
+  .credibility-badge__mark { background: darken($reading-magenta, 10%); }
+  .credibility-badge:nth-child(even) .credibility-badge__mark { background: darken($reading-teal, 8%); }
+  .credibility-badge:nth-child(3) .credibility-badge__mark { background: #d46f42; color: #1c1714; }
+  .credibility-badge:nth-child(4) .credibility-badge__mark { background: $reading-yellow; color: #1c1714; }
+  .story-stamp {
+    background: rgba($reading-yellow, 0.32);
+    color: #1c1714;
+    border-left-color: $reading-magenta;
+    box-shadow: 7px 7px 0 rgba($reading-teal, 0.58);
+
+    p + p {
+      border-top-color: rgba($reading-magenta, 0.2);
+    }
+  }
+  .credential-card:not(.card) {
+    background: #d46f42;
+    color: #f7f2e8;
+    box-shadow: 7px 7px 0 #80679a;
+
+    h3,
+    a {
+      color: #f7f2e8;
+    }
+
+    &:nth-child(2) {
+      background: $reading-yellow;
+      color: #1c1714;
+      box-shadow: 7px 7px 0 $reading-teal;
+
+      h3,
+      a {
+        color: #1c1714;
+      }
+    }
+  }
+
+}
