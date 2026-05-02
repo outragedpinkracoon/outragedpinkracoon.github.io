@@ -1482,6 +1482,16 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   }
 }
 
+.next-steps--human {
+  transform: rotate(0.6deg);
+  box-shadow: 8px 8px 0 $magenta;
+
+  .next-steps__check {
+    color: $teal;
+    font-size: 1.1rem;
+  }
+}
+
 .next-steps__clipboard {
   display: none; // decorative fallback only, CSS clip is doing the work
 }
