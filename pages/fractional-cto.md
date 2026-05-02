@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /fractional-cto/
-title: Fractional CTO Services for Tech Startups and Scale-ups
-display_title: Fractional CTO
+title: Fractional CTO / VP Engineering Services for Tech Startups and Scale-ups
+display_title: Fractional CTO / VP Eng
 title_sub: on the ground, no corporate bullshit.
-description: "Fractional CTO services for startups and scale-ups. Nearly two decades in tech, VP Engineering and Acting CTO experience, 5+ multi-million dollar transformations. £1,600/day. Remote."
+description: "Fractional CTO / VP Engineering services for startups and scale-ups. Nearly two decades in tech, VP Engineering and Acting CTO experience, 5+ multi-million dollar transformations. £1,600/day. Remote."
 cta_label: Get in touch
 cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support."
 ---
@@ -12,7 +12,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
 <div class="who-hero">
   <div class="who-hero__text">
     <p class="page-intro"><strong>You need someone who has actually done this, not someone who will take three months to get up to speed.</strong></p>
-    <p>I embed directly into your business as a Fractional CTO. On the ground, in the room, making the calls with you. No corporate theatre, no slide decks full of obvious things, no consultant who disappears after the diagnosis.</p>
+    <p>I embed directly into your business as a Fractional CTO / VP Engineering. On the ground, in the room, making the calls with you. No corporate theatre, no slide decks full of obvious things, no consultant who disappears after the diagnosis.</p>
     {% include credibility-strip.html %}
   </div>
   <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="who-hero__image">
@@ -24,7 +24,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
 
 <p>Sound familiar?</p>
 
-<div class="manager-quote-wall" aria-label="Common situations for Fractional CTO clients">
+<div class="manager-quote-wall" aria-label="Common situations for Fractional CTO and VP Engineering clients">
   <figure class="manager-quote-card">
     <blockquote>"Our tech debt is eating us alive and I don't know where to start."</blockquote>
   </figure>
@@ -104,7 +104,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
 
 <h2>Pricing</h2>
 
-<div class="pricing-table" aria-label="Fractional CTO pricing">
+<div class="pricing-table" aria-label="Fractional CTO and VP Engineering pricing">
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Day rate</span>
     <p class="pricing-amount">£1,600</p>
