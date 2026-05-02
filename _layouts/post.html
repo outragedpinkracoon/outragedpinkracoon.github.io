@@ -17,5 +17,26 @@ layout: default
       {{ content }}
     </div>
   </article>
-  {% unless page.categories contains 'haiku' %}<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Get in touch</a></p>{% endunless %}
+  {% unless page.categories contains 'haiku' %}
+  <div class="post-cta">
+    {% if page.categories contains 'management' or page.categories contains 'one-to-ones' or page.categories contains 'leadership' or page.categories contains 'training' %}
+      <div class="callout callout--teal">
+        <p>If any of this is your actual life, I do 1:1 engineering manager coaching. The messy, human, nobody-prepared-me-for-this bits.</p>
+        <p class="text-center"><a class="header-cta" href="/coaching/engineering-managers/">See how it works</a></p>
+      </div>
+    {% elsif page.categories contains 'personal-development' or page.categories contains 'hiring' or page.categories contains 'productivity' or page.categories contains 'self-care' or page.categories contains 'coaching' %}
+      <div class="callout callout--teal">
+        <p>If any of this landed, I do 1:1 coaching for folks in tech. Careers, power, getting unstuck. No generic advice, no polite pissing about.</p>
+        <p class="text-center"><a class="header-cta" href="/coaching/folks-in-tech/">See how it works</a></p>
+      </div>
+    {% elsif page.categories contains 'programming' %}
+      <div class="callout callout--yellow">
+        <p>If any of this is familiar and you need someone who has actually been in the room, I work as a Fractional CTO. I get to the real problem fast.</p>
+        <p class="text-center"><a class="header-cta" href="/fractional-cto/">See how it works</a></p>
+      </div>
+    {% else %}
+      <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Get in touch</a></p>
+    {% endif %}
+  </div>
+  {% endunless %}
 </div>
