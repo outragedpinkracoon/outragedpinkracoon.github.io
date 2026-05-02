@@ -5,7 +5,6 @@ title: Team and Organisation Coaching for Engineering Managers — Outraged Raco
 display_title: Coaching for teams and organisations
 title_sub: Bad managers are expensive, good ones aren't accidental.
 description: Team coaching for engineering managers from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for new managers.
-show_cta: true
 ---
 
 <p class="page-intro"><strong>You just promoted someone into management. Congratulations. Now what?</strong></p>
