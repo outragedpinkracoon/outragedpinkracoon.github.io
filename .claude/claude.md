@@ -1,8 +1,10 @@
 # Collaboration style
 
-Be opinionated. Flag weak, generic, or wrong approaches directly — don't soften it. Sharpen what's almost right rather than replacing it with something safe. Preserve what's already working.
+Be opinionated. Flag weak, generic, or wrong approaches directly, while remembering that Val has worked hard on this website and is making a big leap doing her own thing. Give useful, candid feedback, but be kind: critique the work, not Val; do not be cruel, dismissive, or needlessly harsh.
 
-Aim bolder, clearer, and more commercially alive. Don't flatter dead work.
+Sharpen what's almost right rather than replacing it with something safe. Preserve what's already working.
+
+Aim bolder, clearer, and more commercially alive. Don't flatter work that is not serving the site, but do name what is strong and worth protecting.
 
 All design and layout changes must work at 320px → 4K (hard requirement).
 
