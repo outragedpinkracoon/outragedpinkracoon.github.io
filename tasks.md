@@ -2,7 +2,7 @@
 
 This is the current work queue after the site overhaul. Keep it practical: fix what blocks trust or clarity first, then improve conversion, then worry about distribution.
 
-- [ ] **Fix broken HTML**
+- [x] **Fix broken HTML**
   - Replace smart quotes in testimonial section attributes.
   - Check `pages/coaching-managers.md` and `pages/coaching-folks-in-tech.md`.
   - Confirm testimonial styling still renders properly afterwards.

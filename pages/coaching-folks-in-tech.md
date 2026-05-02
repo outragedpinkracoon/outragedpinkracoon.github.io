@@ -97,45 +97,45 @@ description: No-bullshit 1:1 coaching for folks in tech who want more power, mor
 
 <h2>Real folks. Real results.</h2>
 
-<div class=”testimonial-grid”>
-  <blockquote class=”testimonial-card”>
-    <p class=”testimonial-tag”>Growth and clarity</p>
-    <p class=”testimonial-pullquote”>”Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time.”</p>
+<div class="testimonial-grid">
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Growth and clarity</p>
+    <p class="testimonial-pullquote">“Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time.”</p>
     <p>With a strong growth mindset, Valerie is constantly pushing the boundaries to bring out the best in herself and others around her. Her dedication to learning, sharing knowledge and wisdom has uplifted and accelerated the growth of so many people around her.</p>
     <p>She’s passionate about creating safe environments for people to thrive and achieve. Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time. I admire her technical acumen and emotional intelligence to drive things forward.</p>
-    <p><span class=”quote-author”>— Kishor Patel, VP Application Development @ Vortexa</span></p>
+    <p><span class="quote-author">— Kishor Patel, VP Application Development @ Vortexa</span></p>
   </blockquote>
 
-  <blockquote class=”testimonial-card”>
-    <p class=”testimonial-tag”>One of a kind</p>
-    <p class=”testimonial-pullquote”>”You will find it hard to find a more passionate people manager anywhere.”</p>
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">One of a kind</p>
+    <p class="testimonial-pullquote">“You will find it hard to find a more passionate people manager anywhere.”</p>
     <p>Val is quite simply one of a kind, for all the right reasons. Everyone that encounters her is drawn in by her energy, enthusiasm, technical prowess but most importantly her desire to improve people. You will find it hard to find a more passionate people manager anywhere.</p>
     <p>She is a breath of fresh air and would do everything in her power to look after her people.</p>
-    <p><span class=”quote-author”>— Stephen Hill, Tech Recruiter & Meetup Organiser</span></p>
+    <p><span class="quote-author">— Stephen Hill, Tech Recruiter & Meetup Organiser</span></p>
   </blockquote>
 
-  <blockquote class=”testimonial-card”>
-    <p class=”testimonial-tag”>New leadership role</p>
-    <p class=”testimonial-pullquote”>”She coached me through the practical issues and emotional regulation needed to excel.”</p>
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">New leadership role</p>
+    <p class="testimonial-pullquote">“She coached me through the practical issues and emotional regulation needed to excel.”</p>
     <p>I’ve always believed that when you move into a new situation, the best thing you can do is reach out to folks who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
     <p>She coached me through the practical issues and emotional regulation needed to excel in this role, and avoid traps common with folks moving into more leadership-oriented positions from technical backgrounds.</p>
-    <p><span class=”quote-author”>— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
+    <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
   </blockquote>
 
-  <blockquote class=”testimonial-card”>
-    <p class=”testimonial-tag”>Transformed as a leader</p>
-    <p class=”testimonial-pullquote”>”Valerie transformed my understanding of what a leader and manager can be.”</p>
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Transformed as a leader</p>
+    <p class="testimonial-pullquote">“Valerie transformed my understanding of what a leader and manager can be.”</p>
     <p>With empathy as her superpower, she created an open, honest and brave space where I felt seen, heard and supported. Using her coaching leadership style she helped me tackle complex people issues and as a result I have grown significantly as a person, leader and manager.</p>
     <p>Valerie has an infectious enthusiasm which allowed me to be brave and explore new areas I would have shied away from.</p>
-    <p><span class=”quote-author”>— Tobi Tonner, Brave Leadership Coach</span></p>
+    <p><span class="quote-author">— Tobi Tonner, Brave Leadership Coach</span></p>
   </blockquote>
 
-  <blockquote class=”testimonial-card”>
-    <p class=”testimonial-tag”>Safe and inclusive</p>
-    <p class=”testimonial-pullquote”>”It gave me the space to grow, learn, and become a better version of myself in an environment that truly felt safe and inclusive.”</p>
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Safe and inclusive</p>
+    <p class="testimonial-pullquote">“It gave me the space to grow, learn, and become a better version of myself in an environment that truly felt safe and inclusive.”</p>
     <p>Val is truly an inspiration to look up to. I had the privilege of being part of the incredible engineering culture she built at Thirdfort. She has this amazing ability to create a high-performance yet supportive and psychologically safe environment where engineers feel valued, trusted, and empowered to do their best work.</p>
     <p>It gave me the space to grow, learn, and become a better version of myself in an environment that truly felt safe and inclusive. Any company would be beyond lucky to have her.</p>
-    <p><span class=”quote-author”>— Chamodi Lokuge, Software Engineer @ Thirdfort</span></p>
+    <p><span class="quote-author">— Chamodi Lokuge, Software Engineer @ Thirdfort</span></p>
   </blockquote>
 </div>
 
