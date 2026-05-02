@@ -205,33 +205,5 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </blockquote>
 </div>
 
-<h2>Where to start</h2>
-
-<p>The course gives you the foundations. Come back to coaching when something live needs untangling.</p>
-
-<div class="audience-grid">
-  <section class="audience-panel audience-panel--coaching">
-    <p class="audience-label">Start here first</p>
-    <h3>Holy Shit I'm a Manager™</h3>
-    <p class="pricing-amount">£400</p>
-    <ul>
-      <li>Get the frameworks and tools before the chaos starts.</li>
-      <li>Newly responsible for people and don't know where to start.</li>
-      <li>Build the foundations, then come back when it gets live.</li>
-    </ul>
-    <p><a class="pricing-cta" href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Take the course<span class="sr-only"> (opens in new tab)</span></a></p>
-  </section>
-
-  <section class="audience-panel audience-panel--manager">
-    <p class="audience-label">For the live mess</p>
-    <h3>Use coaching when…</h3>
-    <ul>
-      <li>Something is happening right now and you need to talk it through.</li>
-      <li>You need someone to challenge you and get you moving.</li>
-      <li>You're overwhelmed and need someone to cut through it before shit hits the fan.</li>
-    </ul>
-    <p><a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Get in touch</a></p>
-  </section>
-</div>
 
 <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=New%20Manager%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20new%20manager%20coaching%20session.">Get in touch</a></p>
