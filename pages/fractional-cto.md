@@ -5,7 +5,7 @@ title: Fractional CTO / VP Engineering Services for Tech Startups and Scale-ups
 display_title: Fractional CTO / VP Eng
 title_sub: on the ground, no corporate bullshit.
 description: "Fractional CTO/VP Engineering from someone who's lived it: 150+ engineers, $300M ARR. No-bullshit tech leadership for startups and scale-ups."
-cta_label: Get in touch
+cta_label: Book a free intro call
 cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support."
 ---
 
@@ -117,7 +117,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
       <li>No expensive ramp-up theatre. I get to the actual problem fast.</li>
       <li>Direct advice, practical calls, and a plan your team can act on.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support.">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support.">Book a free intro call</a>
   </div>
 
   <div class="pricing-card">
@@ -130,7 +130,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
       <li>Get a clear read on the risk, the options, and the next sensible move.</li>
       <li>Clear scope, clear output, clear price. No open-ended consultancy fog.</li>
     </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20scope%20a%20defined%20consultancy%20engagement.">Get in touch</a>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20scope%20a%20defined%20consultancy%20engagement.">Book a free intro call</a>
   </div>
 </div>
 
@@ -172,4 +172,4 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
   </blockquote>
 </div>
 
-<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support.">Get in touch</a></p>
+<p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support.">Book a free intro call</a></p>
