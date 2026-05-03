@@ -96,6 +96,8 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p class="pricing-decision">Two different problems, two different products. Something live and urgent: one session, straight to it. Something you're working through over time — a promotion push, a restructure, a situation that keeps shifting: a block of three. When that's done, you can book another block if you need it.</p>
 
+<div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
+
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Something's on fire</span>

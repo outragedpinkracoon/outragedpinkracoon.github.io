@@ -112,6 +112,8 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <p class="pricing-decision">One session can stop you making a very expensive mistake. A block of three gives you someone in your corner while the situation unfolds. The six-session programme is for the sustained stretch: a raise, a restructure, a period where the ground keeps shifting and you need someone who already knows the full picture. Pick the one that fits what's actually happening.</p>
 
+<div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
+
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">One hard call</span>

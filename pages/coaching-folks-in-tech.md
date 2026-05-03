@@ -106,6 +106,8 @@ description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-
 
 <p class="pricing-decision">Two different problems, two different products. Something live and urgent: one session, straight to it. Something you're working through over time: a block of three. When that's done, book another if you need it.</p>
 
+<div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
+
 <p>Most clients expense a single session through their employer's L&D budget — it fits within a standard allowance. If you're a disabled person or have a health condition that affects your work, <a href="/coaching/funding/#access-to-work">Access to Work</a> can fund coaching — up to £66,000 a year, no repayment. <a href="/coaching/funding/">Find out more about funding options.</a></p>
 
 <div class="pricing-table" aria-label="Coaching prices">
