@@ -21,7 +21,7 @@ description: Team coaching for engineering managers from an ILM-certified execut
 
 <p>Bad management is expensive. Turnover, disengagement, missed deadlines, people leaving because their manager made them miserable. That cost lands on you. A good coaching investment at the point of promotion is the cheapest insurance available.</p>
 
-<p>I've coached 300+ people through this, including 100+ founders who became managers overnight with no safety net. I know what this transition looks like, I know where it goes wrong, and I get to the actual problems fast.</p>
+<p>I've spent six years coaching founders, CTOs, and engineering leaders through this. I know what this transition looks like, I know where it goes wrong, and I get to the actual problems fast.</p>
 
 <div class="callout callout--teal">I also created <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Shit I'm a Manager™<span class="sr-only"> (opens in new tab)</span></a>, a first-aid course built specifically for new engineering managers. Coaching and the course work well together: the course gives them the foundations, coaching handles the live mess.</div>
 

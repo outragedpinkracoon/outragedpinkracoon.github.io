@@ -26,7 +26,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
     <p class="audience-label">For founders / CTOs / VPs</p>
     <h3><a href="/coaching/founders/">I’m making hard calls with no one to reality-check me</a></h3>
     <p>You are at the top, making decisions alone, at speed, with no one who gets the full picture.</p>
-    <p>I’ve coached 100+ founders and CTOs through exactly this: the people chaos, the hard calls, the moments where you genuinely don’t know what to do next and can’t admit that to anyone.</p>
+    <p>I’ve spent six years coaching founders and CTOs through exactly this: the people chaos, the hard calls, the moments where you genuinely don’t know what to do next and can’t admit that to anyone.</p>
     <p><a class="pricing-cta" href="/coaching/founders/">Help me make the hard call</a></p>
   </section>
 
