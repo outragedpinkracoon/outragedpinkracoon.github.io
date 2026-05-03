@@ -237,21 +237,25 @@ body.cb-blue-yellow {
       border-color: rgba(#d91a5e, 0.45);
       box-shadow: 7px 7px 0 rgba(#d91a5e, 0.24);
       h3 { color: #d91a5e; }
+      .audience-panel__price { background: #d91a5e; }
     }
     &--manager {
       border-color: rgba($tri-green, 0.48);
       box-shadow: 7px 7px 0 rgba($tri-green, 0.28);
       h3 { color: $tri-green; }
+      .audience-panel__price { background: $tri-green; color: $ink; }
     }
     &--orange {
       border-color: rgba(#ef6820, 0.48);
       box-shadow: 7px 7px 0 rgba(#ef6820, 0.28);
       h3 { color: #ef6820; }
+      .audience-panel__price { background: #ef6820; }
     }
     &--lavender {
       border-color: rgba($tri-red, 0.48);
       box-shadow: 7px 7px 0 rgba($tri-red, 0.28);
       h3 { color: $tri-red; }
+      .audience-panel__price { background: $tri-red; }
     }
     &--exec {
       border-color: rgba($tri-coral, 0.55);

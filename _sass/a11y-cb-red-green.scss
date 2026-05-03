@@ -247,21 +247,25 @@ body.cb-red-green {
       border-color: rgba($cb-blue, 0.45);
       box-shadow: 7px 7px 0 rgba($cb-blue, 0.24);
       h3 { color: $cb-blue; }
+      .audience-panel__price { background: $cb-blue; }
     }
     &--manager {
       border-color: rgba($cb-amber, 0.55);
       box-shadow: 7px 7px 0 rgba($cb-amber, 0.36);
       h3 { color: darken($cb-amber, 8%); }
+      .audience-panel__price { background: darken($cb-amber, 8%); }
     }
     &--orange {
       border-color: rgba($cb-vermillion, 0.55);
       box-shadow: 7px 7px 0 rgba($cb-vermillion, 0.36);
       h3 { color: $cb-vermillion; }
+      .audience-panel__price { background: $cb-vermillion; }
     }
     &--lavender {
       border-color: rgba($cb-sky, 0.55);
       box-shadow: 7px 7px 0 rgba($cb-sky, 0.36);
       h3 { color: darken($cb-sky, 15%); }
+      .audience-panel__price { background: darken($cb-sky, 15%); }
     }
     &--exec {
       border-color: rgba($cb-amber, 0.6);

@@ -1244,7 +1244,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     font-family: $font-primary;
     font-weight: 700;
     color: $cream;
-    background: $teal;
+    background: $teal; // fallback; overridden per variant
     border: 2px solid $ink;
     box-shadow: 2px 2px 0 $ink;
     transform: rotate(3deg);
@@ -1283,6 +1283,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
     h3 { color: $magenta; }
     .audience-label { background: $magenta; color: $cream; }
+    .audience-panel__price { background: $magenta; }
   }
 
   &--manager {
@@ -1291,6 +1292,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
     h3 { color: $teal; }
     .audience-label { background: $teal; color: $cream; }
+    .audience-panel__price { background: $teal; }
   }
 
   &--orange {
@@ -1299,6 +1301,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
     h3 { color: $orange; }
     .audience-label { background: $orange; color: $cream; }
+    .audience-panel__price { background: $orange; }
   }
 
   &--lavender {
@@ -1307,6 +1310,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
     h3 { color: $lavender; }
     .audience-label { background: $lavender; color: $cream; }
+    .audience-panel__price { background: $lavender; }
   }
 
   &--exec {

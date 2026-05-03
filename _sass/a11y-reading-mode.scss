@@ -117,21 +117,25 @@ body.reading-mode {
       border-color: rgba($reading-magenta, 0.45);
       box-shadow: 7px 7px 0 rgba($reading-magenta, 0.22);
       h3 { color: $reading-magenta; }
+      .audience-panel__price { background: $reading-magenta; }
     }
     &--manager {
       border-color: rgba($reading-teal, 0.45);
       box-shadow: 7px 7px 0 rgba($reading-teal, 0.22);
       h3 { color: $reading-teal; }
+      .audience-panel__price { background: $reading-teal; }
     }
     &--orange {
       border-color: rgba(#c8421a, 0.45);
       box-shadow: 7px 7px 0 rgba(#c8421a, 0.22);
       h3 { color: #c8421a; }
+      .audience-panel__price { background: #c8421a; }
     }
     &--lavender {
       border-color: rgba(#6f4f94, 0.45);
       box-shadow: 7px 7px 0 rgba(#6f4f94, 0.22);
       h3 { color: #6f4f94; }
+      .audience-panel__price { background: #6f4f94; }
     }
   }
 
