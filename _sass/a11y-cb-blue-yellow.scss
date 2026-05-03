@@ -176,6 +176,7 @@ body.cb-blue-yellow {
     .post-body img:nth-of-type(odd)  { box-shadow: 8px 8px 0 #d91a5e; }
     .post-body img:nth-of-type(even) { box-shadow: 8px 8px 0 $tri-green; }
     em { color: $tri-green; }
+    .post-body > p:first-of-type::first-letter { color: #d91a5e; }
     .metadata { border-left-color: rgba($tri-red, 0.5); }
     .categories a {
       border-color: rgba($tri-green, 0.4);
@@ -392,6 +393,31 @@ body.cb-blue-yellow {
         border-left-color: #d91a5e;
       }
     }
+  }
+
+  // Display settings panel
+  .display-settings-toggle {
+    &:hover,
+    &[data-active="true"] {
+      background: $tri-green;
+      color: #f7f2e8;
+    }
+  }
+
+  .font-scale-btn {
+    background: $tri-green;
+    color: #f7f2e8;
+
+    &:disabled {
+      background: transparent;
+      color: rgba($tri-green, 0.4);
+      border-color: rgba($tri-green, 0.3);
+    }
+  }
+
+  .setting-row input[type="checkbox"],
+  .setting-row input[type="radio"] {
+    accent-color: $tri-green;
   }
 
   // Footer

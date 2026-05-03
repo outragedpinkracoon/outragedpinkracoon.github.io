@@ -475,6 +475,24 @@ body.cb-greyscale {
 
   .display-settings-panel {
     background: $gs-near-white;
+    border-color: $gs-dark;
+    box-shadow: 5px 5px 0 $gs-mid;
+  }
+
+  .font-scale-btn {
+    background: $gs-dark;
+    color: $gs-near-white;
+
+    &:disabled {
+      background: transparent;
+      color: rgba($gs-dark, 0.35);
+      border-color: rgba($gs-dark, 0.25);
+    }
+  }
+
+  .setting-row input[type="checkbox"],
+  .setting-row input[type="radio"] {
+    accent-color: $gs-dark;
   }
 
   // Footer

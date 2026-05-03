@@ -405,6 +405,31 @@ body.cb-red-green {
     }
   }
 
+  // Display settings panel
+  .display-settings-toggle {
+    &:hover,
+    &[data-active="true"] {
+      background: $cb-blue;
+      color: #f7f2e8;
+    }
+  }
+
+  .font-scale-btn {
+    background: $cb-blue;
+    color: #f7f2e8;
+
+    &:disabled {
+      background: transparent;
+      color: rgba($cb-blue, 0.4);
+      border-color: rgba($cb-blue, 0.3);
+    }
+  }
+
+  .setting-row input[type="checkbox"],
+  .setting-row input[type="radio"] {
+    accent-color: $cb-blue;
+  }
+
   // Footer
   footer { border-top-color: $cb-blue; }
 }

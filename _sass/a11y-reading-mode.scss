@@ -254,6 +254,31 @@ body.reading-mode {
       border-top-color: rgba($reading-magenta, 0.2);
     }
   }
+  // Display settings panel
+  .display-settings-toggle {
+    &:hover,
+    &[data-active="true"] {
+      background: #1c1714;
+      color: #f7f2e8;
+    }
+  }
+
+  .font-scale-btn {
+    background: darken($reading-teal, 8%);
+    color: #f7f2e8;
+
+    &:disabled {
+      background: transparent;
+      color: rgba(#1c1714, 0.35);
+      border-color: rgba(#1c1714, 0.25);
+    }
+  }
+
+  .setting-row input[type="checkbox"],
+  .setting-row input[type="radio"] {
+    accent-color: $reading-teal;
+  }
+
   .credential-card:not(.card) {
     background: #d46f42;
     color: #f7f2e8;
