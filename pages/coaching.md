@@ -15,6 +15,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
 
 <div class="audience-grid">
   <section class="audience-panel audience-panel--manager" id="new-manager-support">
+    <p class="audience-panel__price">From £300</p>
     <p class="audience-label">New manager to Head of Eng</p>
     <h3><a href="/coaching/engineering-managers/">I’m a new engineering manager</a></h3>
     <p>You got promoted, handed a team, and now everyone expects you to know how to lead actual humans.</p>
@@ -23,6 +24,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
   </section>
 
   <section class="audience-panel audience-panel--orange">
+    <p class="audience-panel__price">From £1,000</p>
     <p class="audience-label">For founders / CTOs / VPs</p>
     <h3><a href="/coaching/founders/">I’m making hard calls with no one to reality-check me</a></h3>
     <p>You are at the top, making decisions alone, at speed, with no one who gets the full picture.</p>
@@ -31,6 +33,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
   </section>
 
   <section class="audience-panel audience-panel--coaching">
+    <p class="audience-panel__price">From £300</p>
     <p class="audience-label">For folks in tech</p>
     <h3><a href="/coaching/folks-in-tech/">I want more power, more credit, and less bullshit</a></h3>
     <p>You are capable, ambitious, and tired of being treated like a maybe.</p>
@@ -39,8 +42,9 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
   </section>
 
   <section class="audience-panel audience-panel--lavender">
-    <p class="audience-label">For CTOs and engineering leads</p>
-    <h3><a href="/coaching/teams/">My engineers just became managers. Let’s not leave them to break the team finding out.</a></h3>
+    <p class="audience-panel__price">On application</p>
+    <p class="audience-label">For CTOs and exec leads</p>
+    <h3><a href="/coaching/teams/">My engineers just became managers. Help.</a></h3>
     <p>You’re scaling and your new managers need to get good fast. There is no undo button for people.</p>
     <p>I coach newly-promoted engineering managers at startups and scale-ups: the ones handed a team and a vague brief and quietly terrified.</p>
     <p><a class="pricing-cta" href="/coaching/teams/">Help my managers get good fast</a></p>

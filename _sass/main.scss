@@ -1209,6 +1209,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 }
 
 .audience-panel {
+  position: relative;
   padding: 1.6rem;
   background: $cream;
   border: 3px solid rgba($ink, 0.14);
@@ -1232,6 +1233,19 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   }
 
   p:last-child { margin-bottom: 0; }
+
+  &__price {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    margin: 0;
+    font-size: 1rem;
+    font-family: $font-primary;
+    font-weight: 700;
+    color: rgba($ink, 0.55);
+    transform: rotate(2deg);
+    letter-spacing: 0.02em;
+  }
 
   ul {
     margin: 1rem 0 1.2rem;
