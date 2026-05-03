@@ -80,7 +80,7 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
       <li>You find out whether the problem is people, process, tech, leadership, or incentives</li>
       <li>Your team starts shipping more predictably</li>
       <li>You avoid wasting money chasing AI hype and make useful adoption stick</li>
-      <li>Your engineering leaders get sharper and your teams get less chaotic</li>
+      <li>Your engineering leaders level up and your teams get less chaotic</li>
       <li>Your startup stops outgrowing its own operating system</li>
       <li>Your board gets tech explained clearly and honestly</li>
     </ul>

@@ -21,7 +21,7 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
 
 <p>I am direct, warm, curious and allergic to corporate bullshit.</p>
 
-<p>I will not sit there nodding while you try to decode your life alone. I will ask sharp questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.</p>
+<p>I will not sit there nodding while you try to decode your life alone. I will ask challenging questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.</p>
 
 <p>I know what it is to become a manager without any help and figure it out anyway. I know what it takes to navigate unreasonable standards, build something real under pressure, and come out the other side wearing a f*cking crown like the queen you are.</p>
 
@@ -52,7 +52,7 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
   </div>
 </div>
 
-<p>If you want someone sharp, kind, experienced, and very hard to bullshit, <a href="/coaching/">come work with me.</a></p>
+<p>If you want someone direct, kind, experienced, and very hard to bullshit, <a href="/coaching/">come work with me.</a></p>
 
 <h2>The human bit</h2>
 
@@ -90,7 +90,7 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
     </li>
     <li class="next-steps__item">
       <span class="next-steps__check" aria-hidden="true">🐾</span>
-      <div class="next-steps__content"><strong>I run and create TTRPG campaigns and solo play mechanics.</strong> Storytelling, improv, and keeping six chaotic players from damaging themselves. Turns out it sharpens the same skills as running an exec team.</div>
+      <div class="next-steps__content"><strong>I run and create TTRPG campaigns and solo play mechanics.</strong> Storytelling, improv, and keeping six chaotic players from damaging themselves. Turns out it grows the same skills as running an exec team.</div>
     </li>
     <li class="next-steps__item">
       <span class="next-steps__check" aria-hidden="true">🐾</span>

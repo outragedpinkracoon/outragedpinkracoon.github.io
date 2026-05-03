@@ -29,7 +29,7 @@ description: Team coaching for engineering managers from an ILM-certified execut
 
 <p>Typically structured as a block of sessions per manager, depending on what they're navigating and how fast things are moving. Sessions are remote, one-to-one, and focused entirely on what's live and real for them right now.</p>
 
-<p>Sharp, direct coaching focused on what's live and real. Not theory, not generic frameworks.</p>
+<p>No-bullshit, direct coaching focused on what's live and real. Not theory, not generic frameworks.</p>
 
 <p>I only take on clients I believe I can actually help. If I don't think coaching is the right tool for your situation, I'll tell you.</p>
 

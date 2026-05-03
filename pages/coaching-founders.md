@@ -15,7 +15,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <p>So you keep making the calls. And some of them are fine. And some of them you are less sure about than you let on.</p>
 
-<p>I work with founders and CTOs who need someone sharp, external, and genuinely able to keep up: to think out loud with, to pressure-test decisions with, and to get clear with when the fog rolls in.</p>
+<p>I work with founders and CTOs who need someone direct, out of the weeds, and genuinely able to keep up: to think out loud with, to pressure-test decisions with, and to get clear with when the fog rolls in.</p>
 
 {% include credibility-strip.html %}
 
@@ -63,7 +63,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I don't need therapy. I need someone sharp who has actually done this."</blockquote>
+    <blockquote>"I don't need therapy. I need someone direct who has actually done this."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">

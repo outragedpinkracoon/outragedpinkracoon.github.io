@@ -22,7 +22,7 @@ description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-
 
 <p>As a Fractional CTO / VP Engineering, ILM certified Executive Coach, neurodivergent, queer, non-binary and disabled person, I help folks in tech stop circling the same problem and make a cleaner move.</p> 
 
-<p>Sometimes that's one sharp conversation. Sometimes you need someone who already knows the context while you navigate something that keeps shifting.</p>
+<p>Sometimes that's one super-focussed conversation. Sometimes you need someone who already knows the context while you navigate the thing that keeps coming back to you at 3am in the morning.</p>
 
 <p class="pull-quote">We will work out what is real, what is noise, what is costing you, and what the hell to do next.</p>
 
@@ -88,7 +88,7 @@ description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-
 
 <p>The system may still be ridiculous. You, however, do not have to keep contorting yourself around it.</p>
 
-<div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is sharp pattern recognition, direct kindness, and someone who will get to the ugly little truth of it faster than you expect.</div>
+<div class="callout--teal callout" style="margin-top: 0.5rem;">I’m autistic, which means I don’t do performative nonsense. What you get is focus, directness, kindness, and someone who will get to the ugly little truth of it faster than you expect.</div>
 
 {% include session-process.html %}
 
