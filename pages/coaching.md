@@ -14,20 +14,20 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
 <div class="audience-grid">
-  <section class="audience-panel audience-panel--orange">
-    <p class="audience-label">For founders / CTOs / VPs</p>
-    <h3><a href="/coaching/founders/">I’m making hard calls with no one to reality-check me</a></h3>
-    <p>You are at the top, making decisions alone, at speed, with no one who gets the full picture.</p>
-    <p>I’ve coached 100+ founders and CTOs through exactly this: the people chaos, the hard calls, the moments where you genuinely don’t know what to do next and can’t admit that to anyone.</p>
-    <p><a class="pricing-cta" href="/coaching/founders/">Help me make the hard call</a></p>
-  </section>
-
   <section class="audience-panel audience-panel--manager" id="new-manager-support">
     <p class="audience-label">New manager to Head of Eng</p>
     <h3><a href="/coaching/engineering-managers/">I’m a new engineering manager</a></h3>
     <p>You got promoted, handed a team, and now everyone expects you to know how to lead actual humans.</p>
     <p>From first EM role through to growing into Head of Engineering. Feedback, one-to-ones, conflict, team chaos, overwhelm, managing up, and the sudden realisation that there is no undo button for people.</p>
     <p><a class="pricing-cta" href="/coaching/engineering-managers/">Help me manage humans</a></p>
+  </section>
+
+  <section class="audience-panel audience-panel--orange">
+    <p class="audience-label">For founders / CTOs / VPs</p>
+    <h3><a href="/coaching/founders/">I’m making hard calls with no one to reality-check me</a></h3>
+    <p>You are at the top, making decisions alone, at speed, with no one who gets the full picture.</p>
+    <p>I’ve coached 100+ founders and CTOs through exactly this: the people chaos, the hard calls, the moments where you genuinely don’t know what to do next and can’t admit that to anyone.</p>
+    <p><a class="pricing-cta" href="/coaching/founders/">Help me make the hard call</a></p>
   </section>
 
   <section class="audience-panel audience-panel--coaching">
