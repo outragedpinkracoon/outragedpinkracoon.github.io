@@ -10,7 +10,7 @@
       "Bash(bundle exec *)",
       "Bash(git commit -m ' *)",
       "WebSearch",
-      "WebFetch(domain:REDACTED)"
+      "Bash(git remote *)"
     ]
   }
 }
