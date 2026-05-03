@@ -27,7 +27,7 @@ description: Team coaching for engineering managers from an ILM-certified execut
 
 <h2>How it works</h2>
 
-<p>Typically structured as a block of sessions per manager, depending on what they're navigating and how fast things are moving. Sessions are remote, one-to-one, and focused entirely on what's live and real for them right now.</p>
+<p>Typically structured as a block of sessions per manager, depending on what they're navigating and how fast things are moving. Sessions are remote, one-to-one, by video or phone, and focused entirely on what's live and real for them right now.</p>
 
 <p>No-bullshit, direct coaching focused on what's live and real. Not theory, not generic frameworks.</p>
 

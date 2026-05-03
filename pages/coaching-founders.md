@@ -79,7 +79,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <p>I know what it is to be the person everyone needs to look steady. I also know that steadiness has a cost, and what to do when you are running out of it.</p>
 
-<h2>What happens in a remote 1:1 session</h2>
+<h2>What happens in a remote 1:1 session, by video or phone</h2>
 
 <ol class="process-steps">
   <li>

@@ -7,7 +7,7 @@ title_sub: pick your adventure.
 description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, and folks in tech from an ILM-certified executive coach and CTO/VP Engineering.
 ---
 
-<p>No-bullshit coaching for the messy, human, hard parts of working in tech. From someone who has been in every room this work takes you to.</p>
+<p>No-bullshit coaching for the messy, human, hard parts of working in tech. From someone who has been in every room this work takes you to. All sessions are remote 1:1, by video or phone.</p>
 
 <p>I help you work out what is actually going on, what matters, and what the hell to do next. Fast when the problem is discrete, sustained when the ground keeps shifting.</p>
 
