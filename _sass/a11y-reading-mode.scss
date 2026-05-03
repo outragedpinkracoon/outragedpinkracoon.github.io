@@ -55,10 +55,18 @@ body.reading-mode {
     font-variation-settings: normal;
   }
 
-  // Soften blockquotes
-  blockquote {
+  // Soften blockquotes — exclude testimonial cards (they are blockquotes but have their own treatment)
+  blockquote:not(.testimonial-card) {
     background: $reading-yellow;
     &::before { color: $reading-magenta; }
+  }
+
+  .testimonial-card {
+    background: $cream;
+    .testimonial-pullquote {
+      font-family: $reading-font;
+      font-style: normal;
+    }
   }
 
   .manager-quote-card {

@@ -164,10 +164,7 @@
         <div class="panel-close"><button aria-label="Close display settings">✕</button></div>
         <p class="display-settings-title" id="display-settings-title">Make it work for you</p>
         <label class="setting-row">
-          <input type="checkbox" id="toggle-reading-mode"> Reading mode
-        </label>
-        <label class="setting-row">
-          <input type="checkbox" id="toggle-reduce-motion"> Reduce animations
+          <input type="checkbox" id="toggle-reading-mode"> Calm mode
         </label>
         <p class="setting-group-label">Colour-safe palette</p>
         <label class="setting-row">
@@ -207,24 +204,18 @@
       var toggleBtn = document.querySelector('.display-settings-toggle');
       var panel = document.getElementById('display-settings-panel');
       var readingCheck = document.getElementById('toggle-reading-mode');
-      var motionCheck = document.getElementById('toggle-reduce-motion');
       var colourModes = ['red-green', 'blue-yellow', 'greyscale'];
       var colourClasses = { 'red-green': 'cb-red-green', 'blue-yellow': 'cb-blue-yellow', 'greyscale': 'cb-greyscale' };
 
-
       // Restore saved preferences
       var readingOn = localStorage.getItem('reading-mode') === 'true';
-      var motionOn = localStorage.getItem('reduce-motion') === 'true';
       var savedColour = localStorage.getItem('colour-mode') || 'none';
 
       function applyModes() {
-        // Reading mode
+        // Calm mode — also kills animations
         body.classList.toggle('reading-mode', readingOn);
+        body.classList.toggle('reduce-motion', readingOn);
         readingCheck.checked = readingOn;
-
-        // Reduce motion
-        body.classList.toggle('reduce-motion', motionOn);
-        motionCheck.checked = motionOn;
 
         // Colour mode — remove all, apply saved
         colourModes.forEach(function(m) { body.classList.remove(colourClasses[m]); });
@@ -237,7 +228,7 @@
         if (radio) radio.checked = true;
 
         // Display button active state
-        toggleBtn.dataset.active = String(readingOn || motionOn || savedColour !== 'none');
+        toggleBtn.dataset.active = String(readingOn || savedColour !== 'none');
       }
 
       applyModes();
@@ -308,13 +299,6 @@
       readingCheck.addEventListener('change', function() {
         readingOn = this.checked;
         localStorage.setItem('reading-mode', readingOn);
-        applyModes();
-      });
-
-      // Reduce motion checkbox
-      motionCheck.addEventListener('change', function() {
-        motionOn = this.checked;
-        localStorage.setItem('reduce-motion', motionOn);
         applyModes();
       });
 
