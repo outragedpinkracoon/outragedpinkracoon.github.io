@@ -129,15 +129,16 @@ body.cb-blue-yellow {
 
   // Recent posts (homepage)
   #recent-posts {
-    li:nth-child(1) { background: $tri-green; box-shadow: 5px 5px 0 #1c1714; }
-    li:nth-child(2) { background: #ef6820;    box-shadow: 5px 5px 0 #1c1714; }
-    li:nth-child(3) { background: #d91a5e;    box-shadow: 5px 5px 0 #1c1714; }
-    li:nth-child(4) { background: $tri-red;   box-shadow: 5px 5px 0 #1c1714; }
-    li:nth-child(5) { background: $tri-green; box-shadow: 5px 5px 0 #d91a5e; }
+    li:nth-child(1) { background: $tri-green; box-shadow: 5px 5px 0 #1c1714; a, .date { color: #f7f2e8; } }
+    li:nth-child(2) { background: #ef6820;    box-shadow: 5px 5px 0 #1c1714; a, .date { color: #f7f2e8; } }
+    li:nth-child(3) { background: #d91a5e;    box-shadow: 5px 5px 0 #1c1714; a, .date { color: #f7f2e8; } }
+    li:nth-child(4) { background: $tri-red;   box-shadow: 5px 5px 0 #1c1714; a, .date { color: #f7f2e8; } }
+    li:nth-child(5) { background: $tri-green; box-shadow: 5px 5px 0 #d91a5e; a, .date { color: #f7f2e8; } }
   }
 
   // Blog post list
   #posts {
+    li { a, .date { color: #f7f2e8; } }
     li:nth-child(6n+1) { background: $tri-green; box-shadow: 6px 6px 0 #d91a5e; }
     li:nth-child(6n+2) { background: #ef6820;    box-shadow: 6px 6px 0 #1c1714; }
     li:nth-child(6n+3) { background: #d91a5e;    box-shadow: 6px 6px 0 $tri-green; }
@@ -161,6 +162,7 @@ body.cb-blue-yellow {
 
   // Categories — post list
   #category-posts {
+    li { a, .date { color: #f7f2e8; } }
     li:nth-child(6n+1) { background: $tri-green; box-shadow: 5px 5px 0 #d91a5e; }
     li:nth-child(6n+2) { background: #ef6820;    box-shadow: 5px 5px 0 #1c1714; }
     li:nth-child(6n+3) { background: #d91a5e;    box-shadow: 5px 5px 0 $tri-green; }
