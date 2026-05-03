@@ -122,6 +122,16 @@ body.cb-red-green {
     box-shadow: 6px 6px 0 $cb-blue;
     &--teal { background: $cb-amber; color: #1c1714; box-shadow: 6px 6px 0 #1c1714; }
     &--yellow { background: lighten($cb-sky, 30%); box-shadow: 6px 6px 0 $cb-blue; }
+    &--email  { background: lighten($cb-sky, 30%); box-shadow: 6px 6px 0 $cb-blue; }
+  }
+
+  .email-subject {
+    text-decoration-color: $cb-vermillion;
+  }
+
+  .fill-blank {
+    background: $cb-blue;
+    color: #f7f2e8;
   }
 
   // Starburst

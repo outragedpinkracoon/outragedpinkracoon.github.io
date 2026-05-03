@@ -119,6 +119,16 @@ body.cb-greyscale {
     box-shadow: 6px 6px 0 $gs-dark;
     &--teal { background: $gs-mid; color: $gs-near-white; box-shadow: 6px 6px 0 $gs-dark; }
     &--yellow { background: $gs-light; border: 3px dashed $gs-dark; box-shadow: 6px 6px 0 $gs-dark; }
+    &--email  { background: $gs-light; border: 3px dashed $gs-dark; box-shadow: 6px 6px 0 $gs-dark; }
+  }
+
+  .fill-blank {
+    background: $gs-mid-dark;
+    color: $gs-near-white;
+  }
+
+  .email-subject {
+    color: $gs-mid-dark;
   }
 
   // Starburst

@@ -111,6 +111,17 @@ body.cb-blue-yellow {
     box-shadow: 6px 6px 0 #d91a5e;
     &--teal { background: $tri-green; color: #f7f2e8; box-shadow: 6px 6px 0 #1c1714; }
     &--yellow { background: $tri-coral; box-shadow: 6px 6px 0 #d91a5e; }
+    &--email  { background: $tri-coral; color: #f7f2e8; box-shadow: 6px 6px 0 #d91a5e; }
+  }
+
+  .email-subject {
+    color: #f7f2e8;
+    text-decoration-color: #f7f2e8;
+  }
+
+  .fill-blank {
+    background: #1c1714;
+    color: #f7f2e8;
   }
 
   // HR

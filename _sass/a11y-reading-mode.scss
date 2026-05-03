@@ -99,6 +99,16 @@ body.reading-mode {
       background: $reading-yellow;
       box-shadow: 6px 6px 0 $reading-magenta;
     }
+
+    &--email {
+      background: $reading-yellow;
+      box-shadow: 6px 6px 0 $reading-magenta;
+    }
+  }
+
+  .fill-blank {
+    background: $reading-teal;
+    color: #f7f2e8;
   }
 
   .audience-panel {

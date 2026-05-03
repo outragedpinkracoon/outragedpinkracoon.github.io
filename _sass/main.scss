@@ -2225,6 +2225,40 @@ blockquote {
     box-shadow: 6px 6px 0 $magenta;
     transform: rotate(1.5deg);
   }
+
+  &--email {
+    background: $yellow;
+    color: $ink;
+    box-shadow: 6px 6px 0 $magenta;
+    transform: rotate(1.5deg);
+    font-weight: 600;
+    font-size: 1.15rem;
+    line-height: 1.6;
+
+    p { margin: 0 0 0.6rem; }
+    p:last-child { margin-bottom: 0; }
+  }
+}
+
+.fill-blank {
+  background: $teal;
+  color: $cream;
+  padding: 0.1em 0.35em;
+  border-radius: 2px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.email-subject {
+  color: $ink;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1.35rem;
+  text-decoration: underline;
+  text-decoration-color: $magenta;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.2em;
+  margin: 0 0 1.2rem;
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
