@@ -40,6 +40,8 @@
 
   &:focus {
     top: 1rem;
+    outline: 3px solid $cream;
+    outline-offset: 2px;
   }
 }
 
@@ -251,10 +253,15 @@ nav {
   gap: 0.4rem;
   padding: 1.4rem 1rem 0;
   font-family: $font-primary;
-  font-size: 0.92rem;
+  font-size: 0.75rem;
   font-weight: 800;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
+
+  @include respond-to('small') {
+    font-size: 0.92rem;
+    letter-spacing: 0.1em;
+  }
 
   $_nav-colors: $magenta, $teal, $orange, $lavender, $teal;
 
@@ -485,6 +492,8 @@ hr {
       color: inherit;
       text-decoration-color: $cream;
     }
+
+    &:focus-visible { outline-color: $cream; }
   }
 
   p {
@@ -1193,6 +1202,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
       transform: translate(-2px, -2px);
       box-shadow: 6px 6px 0 $magenta;
     }
+
+    &:focus-visible { outline-color: $cream; }
   }
 }
 
@@ -1498,6 +1509,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     text-decoration-color: rgba($cream, 0.65);
 
     &:hover { text-decoration-color: $cream; }
+    &:focus-visible { outline-color: $cream; }
   }
 }
 
@@ -2257,6 +2269,8 @@ blockquote {
         color: $cream;
         text-decoration-color: $cream;
       }
+
+      &:focus-visible { outline-color: $cream; }
     }
   }
 

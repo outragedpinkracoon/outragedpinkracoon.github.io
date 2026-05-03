@@ -193,7 +193,12 @@
       min-width: 44px;
 
       &:hover { opacity: 0.75; }
-      &:disabled { opacity: 0.3; cursor: default; }
+      &:disabled {
+        background: transparent;
+        color: rgba(#1c1714, 0.4);
+        border: 2px solid rgba(#1c1714, 0.3);
+        cursor: default;
+      }
 
       &:focus-visible {
         outline: 3px solid #1c1714;
