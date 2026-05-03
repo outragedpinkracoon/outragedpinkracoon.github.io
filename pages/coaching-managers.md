@@ -90,7 +90,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p>These rates are set deliberately. My exec coaching costs more because it's a different engagement for a different buyer. Here, I want the price to be reachable for a manager who needs this support, whether or not there's a company budget behind them.</p>
 
-<div class="callout callout--yellow"><p>This is not a corporate proposition. It's me trying to make sure the people who actually need help can get it.</p></div>
+<div class="callout callout--yellow"><p>My exec coaching costs more for more complex problems. Here, I've priced it to fit a standard L&D budget. Your employer should be paying for this, not you.</p></div>
 
 <p>Most clients expense a single session through their employer's L&D budget — it fits within a standard allowance. The block of three splits well across L&D and personal spend. <a href="/coaching/funding/">Find out more about funding options.</a></p>
 
