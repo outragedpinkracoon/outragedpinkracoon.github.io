@@ -5,3 +5,4 @@ _site/
 context/
 .claude/skills
 .claude/settings.local.json
+tasks.md
