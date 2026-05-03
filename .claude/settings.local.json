@@ -8,7 +8,9 @@
       "Bash(curl -s -o /Users/valerie/coding/outragedpinkracoon.github.io/assets/images/women-qualifications/1.png \"https://media.licdn.com/dms/image/v2/D4E22AQGZvVYMTaGjig/feedshare-shrink_800/B4EZzMr24yJAAc-/0/1772960575408?e=1776902400&v=beta&t=W-PfvFcQulqjMFVEjKLiqbUD3QAb64gro119rP8mCPA\")",
       "Bash(curl -s -o /Users/valerie/coding/outragedpinkracoon.github.io/assets/images/anthropic-report-debunk/1.png \"https://media.licdn.com/dms/image/v2/D4E22AQHaHa6xgLbFjQ/feedshare-shrink_800/B4EZzXv31EKQAg-/0/1773146177129?e=1776902400&v=beta&t=rGkuvswUgL5Y6OmGXgAHjnWgr_1Cl4fdZhU3GuBJjGY\")",
       "Bash(bundle exec *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "WebSearch",
+      "WebFetch(domain:REDACTED)"
     ]
   }
 }
