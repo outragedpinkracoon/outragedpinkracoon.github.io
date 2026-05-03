@@ -15,11 +15,11 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <p>So you keep making the calls. And some of them are fine. And some of them you are less sure about than you let on.</p>
 
-<p>I work with founders and CTOs who need someone sharp, external, and genuinely able to keep up — to think out loud with, to pressure-test decisions with, and to get clear with when the fog rolls in.</p>
+<p>I work with founders and CTOs who need someone sharp, external, and genuinely able to keep up: to think out loud with, to pressure-test decisions with, and to get clear with when the fog rolls in.</p>
 
 {% include credibility-strip.html %}
 
-<div class="callout callout--teal" style="clear: both; margin-top: 2rem;">We get to the actual problem fast. Not the one you came in with — the one underneath it.</div>
+<div class="callout callout--teal" style="clear: both; margin-top: 2rem;">We get to the actual problem fast. Not the one you came in with. The one underneath it.</div>
 
 <p>As a Fractional CTO / VP Engineering and ILM certified Executive Coach, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have coached 100+ founders through exactly this. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
 
@@ -73,7 +73,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <h2>Why work with me</h2>
 
-<p>Because I have been in this room. Not as an observer — as the person making the calls, holding the team, carrying the weight of it, and figuring out how to keep functioning while all of that is happening.</p>
+<p>Because I have been in this room. Not as an observer. As the person making the calls, holding the team, carrying the weight of it, and figuring out how to keep functioning while all of that is happening.</p>
 
 <p>I spent nearly two decades in tech. I have led organisations of 120+ people. I have been the person brought in as Acting CTO when things were on fire. I have coached 100+ founders through the specific chaos of building something from nothing while also becoming a manager, a leader, and sometimes an accidental therapist to everyone around them.</p>
 
@@ -87,46 +87,46 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <h2>Pricing</h2>
 
-<p class="pricing-decision">The format depends on the problem. Something discrete and live: one session often makes a big difference. Something that keeps evolving — a restructure, a new role, a situation that won't stay solved — that needs a different kind of support. Pick the one that fits what's actually happening.</p>
+<p class="pricing-decision">One session can stop you making a very expensive mistake. A block of three gives you someone in your corner while the situation unfolds. The six-session programme is for the sustained stretch: a raise, a restructure, a period where the ground keeps shifting and you need someone who already knows the full picture. Pick the one that fits what's actually happening.</p>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">Start here</span>
+    <span class="pricing-badge">One hard call</span>
     <p class="pricing-amount">£1,000</p>
     <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">Perfect when you already know the problem.</p>
+    <p class="pricing-subtitle">When you need to think clearly before you act.</p>
     <ul class="pricing-includes">
-      <li>We dive straight in, no talking about the weather.</li>
-      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
-      <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
+      <li>You have a decision, a conversation, or a situation that you cannot afford to get wrong.</li>
+      <li>We get to what's actually going on fast. Not the surface version. The real one.</li>
+      <li>You leave knowing what you think, what you're going to do, and why.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">Go deeper</span>
+    <span class="pricing-badge">A situation to navigate</span>
     <p class="pricing-amount">£2,500</p>
     <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">For messy situations where you don't even know where to start.</p>
+    <p class="pricing-subtitle">When one conversation won't be enough.</p>
     <p class="pricing-saving">Save £500 vs. booking separately</p>
     <ul class="pricing-includes">
-      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
-      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
-      <li>Fast follow up sessions where I already know the situation and we get it dealt with.</li>
+      <li>You make a move, see what it kicks up, and get support on what comes next.</li>
+      <li>I already know the context. No re-briefing, no starting over.</li>
+      <li>For the situation that has more layers than you thought when you started.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">For the long game</span>
+    <span class="pricing-badge">A sustained stretch</span>
     <p class="pricing-amount">£4,500</p>
     <p class="pricing-title">6 session programme</p>
-    <p class="pricing-subtitle">For continued support across a longer period.</p>
+    <p class="pricing-subtitle">For the period where the ground keeps shifting.</p>
     <p class="pricing-saving">Save £1,500 vs. booking separately</p>
     <ul class="pricing-includes">
-      <li>You're in a period of change and chaos. You don't know the exact shape of it yet, and you need someone in your corner while it unfolds.</li>
-      <li>I already know the context. No re-briefing, no starting over — we pick up where we left off and keep moving.</li>
-      <li>Your slots are held. No chasing availability when things get live — I'm already in your corner.</li>
+      <li>A raise, a restructure, a co-founder situation, a board that wants answers. The kind of stretch where you need someone who already knows the full picture.</li>
+      <li>I already know the context. We pick up where we left off and keep moving.</li>
+      <li>Your slots are held. No chasing availability when things get live.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
@@ -150,7 +150,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
     <p class="pricing-subtitle">I coach engineering managers in bulk for startups and scale-ups.</p>
     <p class="pricing-saving">Rates vary by team size and format</p>
     <ul class="pricing-includes">
-      <li>Same direct, no-bullshit coaching — just for multiple people.</li>
+      <li>Same direct, no-bullshit coaching, just for multiple people.</li>
       <li>Ideal for CTOs and engineering leads who want their new managers to hit the ground running.</li>
       <li>Pricing depends on the number of managers, the format, and what is actually going on.</li>
     </ul>

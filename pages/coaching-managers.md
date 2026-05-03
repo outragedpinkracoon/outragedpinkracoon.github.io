@@ -15,7 +15,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and not accidentally fuck someone up.</p>
 
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Sessions from £400. Bundle of 3 from £1,000.</p>
+<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Single session £300. Block of 3 from £750.</p>
 
 <p>I work with engineering managers at every stage from first EM role through to Head of Engineering and Director.</p>
 
@@ -88,18 +88,20 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <h2>Pricing</h2>
 
-<p>Most clients expense this through their employer's L&D budget. A single session fits within a standard L&D allowance. <a href="/coaching/funding/">Find out more about funding options.</a></p>
+<p>These rates are set deliberately. My exec coaching costs more because it's a different engagement for a different buyer. Here, I want the price to be reachable for a manager who needs this support, whether or not there's a company budget behind them.</p>
 
-<p class="pricing-decision">The format depends on the problem. Something discrete and live: one session often makes a big difference. Something that keeps evolving — a restructure, a new role, a situation that won't stay solved — that needs a different kind of support. Pick the one that fits what's actually happening.</p>
+<div class="callout callout--yellow"><p>This is not a corporate proposition. It's me trying to make sure the people who actually need help can get it.</p></div>
 
-<div class="callout callout--yellow"><p>Paying out of pocket? I have options and I'd rather talk than have you rule yourself out. <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">Get in touch.</a></p></div>
+<p>Most clients expense a single session through their employer's L&D budget — it fits within a standard allowance. The block of three splits well across L&D and personal spend. <a href="/coaching/funding/">Find out more about funding options.</a></p>
+
+<p class="pricing-decision">Two different problems, two different products. Something live and urgent: one session, straight to it. Something you're working through over time — a promotion push, a restructure, a situation that keeps shifting: a block of three. When that's done, you can book another block if you need it.</p>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">Start here</span>
-    <p class="pricing-amount">£400</p>
+    <span class="pricing-badge">Something's on fire</span>
+    <p class="pricing-amount">£300</p>
     <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">Perfect when you already know the problem.</p>
+    <p class="pricing-subtitle">When you need help with the thing that's happening right now.</p>
     <ul class="pricing-includes">
       <li>We dive straight in, no talking about the weather.</li>
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
@@ -109,29 +111,15 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">Go deeper</span>
-    <p class="pricing-amount">£1,000</p>
-    <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">For messy situations where you don't even know where to start.</p>
-    <p class="pricing-saving">Save £200 vs. booking separately</p>
+    <span class="pricing-badge">Working through something</span>
+    <p class="pricing-amount">£750</p>
+    <p class="pricing-title">Block of three</p>
+    <p class="pricing-subtitle">For the problem that keeps evolving while you're trying to solve it.</p>
+    <p class="pricing-saving">Save £150 vs. booking separately</p>
     <ul class="pricing-includes">
-      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
-      <li>Fast follow up sessions where I already know the situation and we get it dealt with.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
-  </div>
-
-  <div class="pricing-card">
-    <span class="pricing-badge">For the long game</span>
-    <p class="pricing-amount">£2,000</p>
-    <p class="pricing-title">6 session programme</p>
-    <p class="pricing-subtitle">For continued support across a longer period.</p>
-    <p class="pricing-saving">Save £400 vs. booking separately</p>
-    <ul class="pricing-includes">
-      <li>You're in a period of change and chaos. You don't know the exact shape of it yet, and you need someone in your corner while it unfolds.</li>
-      <li>I already know the context. No re-briefing, no starting over — we pick up where we left off and keep moving.</li>
-      <li>Your slots are held. No chasing availability when things get live — I'm already in your corner.</li>
+      <li>I already know the context. No re-briefing, no starting over.</li>
+      <li>When the block is done, book another if you need it. No pressure, no programme.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>

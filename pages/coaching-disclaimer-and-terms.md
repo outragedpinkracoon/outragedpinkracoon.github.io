@@ -71,8 +71,7 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
 | | Per session rate | Bundle/programme price |
 |---|---|---|
 | Single session | £300.00 | — |
-| 3-session bundle | — | £750.00 (save £150) |
-| 6-session programme | — | £1,300.00 (save £500) |
+| Block of 3 | — | £750.00 (save £150) |
 
 #### Executive coaching (founders and CTOs)
 

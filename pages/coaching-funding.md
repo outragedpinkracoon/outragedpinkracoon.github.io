@@ -15,7 +15,7 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 
 <p>Most companies that employ engineers have a professional development budget. Most employees never use it. If you're at a company with any kind of L&D policy, this is worth a conversation with your manager.</p>
 
-<p>A single coaching session at £400 fits within a typical individual L&D allowance. If your budget cap is lower or already partially spent, it's worth asking whether there's a separate personal development pot, or whether your manager has discretion to top it up for something with a clear return.</p>
+<p>A single coaching session at £300 fits comfortably within a typical individual L&D allowance. If your budget cap is lower or already partially spent, it's worth asking whether there's a separate personal development pot, or whether your manager has discretion to top it up for something with a clear return.</p>
 
 <h3>Who this works for</h3>
 

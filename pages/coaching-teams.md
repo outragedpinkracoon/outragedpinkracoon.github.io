@@ -1,7 +1,7 @@
 ---
 layout: info_page
 permalink: /coaching/teams/
-title: Team and Organisation Coaching for Engineering Managers — Outraged Racoon Coaching
+title: Team and Organisation Coaching for Engineering Managers
 display_title: Coaching for teams and organisations
 title_sub: Bad managers are expensive, good ones aren't accidental.
 description: Team coaching for engineering managers from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for new managers.
@@ -19,17 +19,17 @@ description: Team coaching for engineering managers from an ILM-certified execut
 
 <h2>Why this matters to you</h2>
 
-<p>Bad management is expensive. Turnover, disengagement, missed deadlines, people leaving because their manager made them miserable — that cost lands on you. A good coaching investment at the point of promotion is the cheapest insurance available.</p>
+<p>Bad management is expensive. Turnover, disengagement, missed deadlines, people leaving because their manager made them miserable. That cost lands on you. A good coaching investment at the point of promotion is the cheapest insurance available.</p>
 
 <p>I've coached 300+ people through this, including 100+ founders who became managers overnight with no safety net. I know what this transition looks like, I know where it goes wrong, and I get to the actual problems fast.</p>
 
-<div class="callout callout--teal">I also created <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Shit I'm a Manager™<span class="sr-only"> (opens in new tab)</span></a> — a first-aid course built specifically for new engineering managers. Coaching and the course work well together: the course gives them the foundations, coaching handles the live mess.</div>
+<div class="callout callout--teal">I also created <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer">Holy Shit I'm a Manager™<span class="sr-only"> (opens in new tab)</span></a>, a first-aid course built specifically for new engineering managers. Coaching and the course work well together: the course gives them the foundations, coaching handles the live mess.</div>
 
 <h2>How it works</h2>
 
-<p>Typically structured as a block of sessions per manager — the number depends on what they're navigating and how fast things are moving. Sessions are remote, one-to-one, and focused entirely on what's live and real for them right now.</p>
+<p>Typically structured as a block of sessions per manager, depending on what they're navigating and how fast things are moving. Sessions are remote, one-to-one, and focused entirely on what's live and real for them right now.</p>
 
-<p>Sharp, direct coaching focused on what's live and real — not theory, not generic frameworks.</p>
+<p>Sharp, direct coaching focused on what's live and real. Not theory, not generic frameworks.</p>
 
 <p>I only take on clients I believe I can actually help. If I don't think coaching is the right tool for your situation, I'll tell you.</p>
 
@@ -55,11 +55,11 @@ description: Team coaching for engineering managers from an ILM-certified execut
   </section>
 </div>
 
-<h2>Buying for a team?</h2>
+<h2>Why work with me?</h2>
 
-<p>If you're a CTO, Head of Engineering, or L&D manager looking to coach a cohort — not just one person — the economics are different and the conversation is different.</p>
+<p>If you're a CTO, Head of Engineering, or L&D manager looking to coach a cohort rather than one person: the economics are different and the conversation is different.</p>
 
-<p>The cost of bad management at scale is not abstract. Turnover in a mid-level engineer costs 6-9 months of their salary in recruiting, onboarding, and lost velocity. Disengagement is slower and more expensive. A newly promoted manager who handles conflict badly, gives terrible feedback, or loses people who should have stayed — that bill lands on you.</p>
+<p>The cost of bad management at scale is not abstract. Turnover in a mid-level engineer costs 6-9 months of their salary in recruiting, onboarding, and lost velocity. Disengagement is slower and more expensive. A newly promoted manager who handles conflict badly, gives terrible feedback, or loses people who should have stayed. That bill lands on you.</p>
 
 <p>Coaching at the point of promotion is the cheapest intervention available. I work with companies coaching anywhere from 2 to 10+ managers at a time, in whatever format fits what you're actually dealing with.</p>
 
@@ -67,67 +67,13 @@ description: Team coaching for engineering managers from an ILM-certified execut
 
 <h2>Pricing</h2>
 
-<p class="pricing-decision">Individual managers can be coached on the standard session pricing below. For multiple managers or org-wide support, get in touch and we'll work out what makes sense.</p>
+<p class="pricing-decision">Every team engagement is scoped around what you're actually dealing with: number of managers, what they're navigating, how fast you need them effective. There's no fixed price list because there's no fixed format.</p>
 
-<p class="pull-quote">Many clients expense this through their employer's L&D budget. <a href="/coaching/funding/">Find out more about funding options.</a></p>
+<p>We always start with a conversation. From there we agree scope, format, and cost. I'll provide whatever documentation your finance or L&D team needs.</p>
 
-<div class="pricing-table" aria-label="Coaching prices">
-  <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">Start here</span>
-    <p class="pricing-amount">£400</p>
-    <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">One manager, one live problem.</p>
-    <ul class="pricing-includes">
-      <li>We dive straight in, no talking about the weather.</li>
-      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
-      <li>They leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
-  </div>
+<div class="callout callout--yellow"><p>Ready to talk? <a href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Get in touch</a> with how many managers you're thinking about and what they're dealing with.</p></div>
 
-  <div class="pricing-card">
-    <span class="pricing-badge">Go deeper</span>
-    <p class="pricing-amount">£1,000</p>
-    <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">For messy situations where they don't even know where to start.</p>
-    <p class="pricing-saving">Save £200 vs. booking separately</p>
-    <ul class="pricing-includes">
-      <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
-      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
-      <li>Follow-up sessions where I already know the situation and we get it dealt with.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
-  </div>
-
-  <div class="pricing-card">
-    <span class="pricing-badge">For the long game</span>
-    <p class="pricing-amount">£2,000</p>
-    <p class="pricing-title">6 session programme</p>
-    <p class="pricing-subtitle">For a manager navigating sustained change or a significant step up.</p>
-    <p class="pricing-saving">Save £400 vs. booking separately</p>
-    <ul class="pricing-includes">
-      <li>The situation keeps shifting. They need someone in their corner while it unfolds, not just a one-off.</li>
-      <li>I already know the context. No re-briefing, no starting over.</li>
-      <li>Slots are held. No chasing availability when things get live.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry">Get in touch</a>
-  </div>
-
-  <div class="pricing-card">
-    <span class="pricing-badge">For organisations</span>
-    <p class="pricing-title">Cohort engagement</p>
-    <p class="pricing-subtitle">Coaching 3, 5, or 10+ managers across your engineering org.</p>
-    <p class="pricing-saving">Pricing on application</p>
-    <ul class="pricing-includes">
-      <li>Format, cadence, and scope agreed around what you're actually dealing with — not a fixed programme dropped into your calendar.</li>
-      <li>Works alongside your existing L&D budget. I'll provide whatever documentation your finance team needs.</li>
-      <li>Tell me how many managers, what they're navigating, and how fast you need them effective. We'll work out what makes sense.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Team%20Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20team%20coaching.">Get in touch</a>
-  </div>
-</div>
-
-<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+<p class="pricing-terms">All engagements are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 <h2>Real managers saying real things</h2>
 
