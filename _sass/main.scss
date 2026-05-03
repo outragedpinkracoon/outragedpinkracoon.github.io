@@ -1751,6 +1751,12 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     font-weight: 900;
     line-height: 1.15;
     color: $magenta;
+
+    &--solo {
+      border-bottom: none;
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
   }
 
   &:nth-child(even) {
