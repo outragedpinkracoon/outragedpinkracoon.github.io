@@ -62,10 +62,27 @@ Bundles and programmes are purchased for a named individual Client only. Session
 ### Pausing a bundle or programme
 Bundles and programmes do not have a pause facility as a standard feature. If exceptional circumstances arise (such as a serious medical situation), the Client may contact the Coach to discuss options. Any arrangement to extend or pause a bundle is entirely at the Coach’s discretion and must be agreed in writing before the original expiry date.
 
-### Per Session Fee
-The fee for coaching is £400.00 (VAT exempt) per 50-minute session. Reduced rates may be agreed on a discretionary basis — get in touch to discuss.
+### Fees
 
-In return for the fees payable by the Client (or by a third party acting on the Client’s behalf), the Coach will provide the services described in this agreement, in accordance with its terms and conditions.
+All fees are VAT exempt. In return for the fees payable by the Client (or by a third party acting on the Client’s behalf), the Coach will provide the services described in this agreement, in accordance with its terms and conditions.
+
+#### Engineering manager coaching
+
+| | Per session rate | Bundle/programme price |
+|---|---|---|
+| Single session | £300.00 | — |
+| 3-session bundle | — | £750.00 (save £150) |
+| 6-session programme | — | £1,300.00 (save £500) |
+
+#### Executive coaching (founders and CTOs)
+
+| | Per session rate | Bundle/programme price |
+|---|---|---|
+| Single session | £1,000.00 | — |
+| 3-session bundle | — | £2,500.00 (save £500) |
+| 6-session programme | — | £4,500.00 (save £1,500) |
+
+Reduced rates may be agreed on a discretionary basis for self-funding clients — get in touch to discuss.
 
 ### Procedure
 Coaching sessions will take place virtually at times mutually agreed between the Coach and the Client. A calendar invitation with a Google Meet link will be provided for each session.

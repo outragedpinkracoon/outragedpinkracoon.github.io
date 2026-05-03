@@ -92,7 +92,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Start here</span>
-    <p class="pricing-amount">£400</p>
+    <p class="pricing-amount">£1,000</p>
     <p class="pricing-title">Single session</p>
     <p class="pricing-subtitle">Perfect when you already know the problem.</p>
     <ul class="pricing-includes">
@@ -105,10 +105,10 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
   <div class="pricing-card">
     <span class="pricing-badge">Go deeper</span>
-    <p class="pricing-amount">£1,000</p>
+    <p class="pricing-amount">£2,500</p>
     <p class="pricing-title">3 session bundle</p>
     <p class="pricing-subtitle">For messy situations where you don't even know where to start.</p>
-    <p class="pricing-saving">Save £200 vs. booking separately</p>
+    <p class="pricing-saving">Save £500 vs. booking separately</p>
     <ul class="pricing-includes">
       <li>Same direct, no-bullshit sessions that get straight to the problem.</li>
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
@@ -119,10 +119,10 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
   <div class="pricing-card">
     <span class="pricing-badge">For the long game</span>
-    <p class="pricing-amount">£2,000</p>
+    <p class="pricing-amount">£4,500</p>
     <p class="pricing-title">6 session programme</p>
     <p class="pricing-subtitle">For continued support across a longer period.</p>
-    <p class="pricing-saving">Save £400 vs. booking separately</p>
+    <p class="pricing-saving">Save £1,500 vs. booking separately</p>
     <ul class="pricing-includes">
       <li>You're in a period of change and chaos. You don't know the exact shape of it yet, and you need someone in your corner while it unfolds.</li>
       <li>I already know the context. No re-briefing, no starting over — we pick up where we left off and keep moving.</li>
