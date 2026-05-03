@@ -1236,15 +1236,38 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
   &__price {
     position: absolute;
-    top: 1rem;
-    right: 1rem;
+    top: -0.5rem;
+    right: 0.8rem;
     margin: 0;
-    font-size: 1rem;
+    padding: 0.9rem 0.8rem 0.5rem;
+    font-size: 0.85rem;
     font-family: $font-primary;
     font-weight: 700;
-    color: rgba($ink, 0.55);
-    transform: rotate(2deg);
-    letter-spacing: 0.02em;
+    color: $cream;
+    background: $teal;
+    border: 2px solid $ink;
+    box-shadow: 2px 2px 0 $ink;
+    transform: rotate(3deg);
+    letter-spacing: 0.03em;
+    min-width: 5rem;
+    text-align: center;
+
+    &::before { content: none; }
+
+    // pin head
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0.3rem;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: $magenta;
+      border: 2px solid $ink;
+      box-shadow: inset 2px 2px 0 rgba($cream, 0.4);
+    }
   }
 
   ul {
