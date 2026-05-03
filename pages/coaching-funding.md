@@ -15,6 +15,8 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 
 <p>Most companies that employ engineers have a professional development budget. Most employees never use it. If you're at a company with any kind of L&D policy, this is worth a conversation with your manager.</p>
 
+<p>A single coaching session at £400 fits within a typical individual L&D allowance. If your budget cap is lower or already partially spent, it's worth asking whether there's a separate personal development pot, or whether your manager has discretion to top it up for something with a clear return.</p>
+
 <h3>Who this works for</h3>
 
 <p>Newly promoted managers, senior ICs heading toward leadership, anyone navigating a significant role change. If your company is investing in your progression, coaching is a direct line to that investment paying off faster.</p>
@@ -29,21 +31,23 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
   <li>Point to the outcome — faster effectiveness in role, fewer expensive mistakes, clearer decision-making</li>
 </ul>
 
-<p>Most managers say yes to this if you ask directly. The ones who don't usually have a budget cap, not an objection to coaching itself — in which case it's worth asking whether there's a different pot (training budget, personal development allowance) or whether part-funding is possible.</p>
+<p>Most managers say yes to this if you ask directly. The ones who don't usually have a budget cap, not an objection to coaching itself.</p>
 
-<p>If it helps: I've worked with people funded by their employers at companies across the UK tech sector, from early-stage startups to scale-ups. It's not unusual. You're not asking for something weird.</p>
+<p>I've worked with people funded by their employers at companies across the UK tech sector, from early-stage startups to scale-ups. It's not unusual. You're not asking for something weird.</p>
 
 <div class="callout callout--yellow">
   <p>Want to talk through how to frame this for your specific situation? <a href="mailto:outragedracooncoaching@gmail.com?subject=Funding%20Enquiry">Get in touch</a>. Happy to help you work out the pitch before you have the conversation.</p>
 </div>
 
-<h2>Access to Work</h2>
+<h2 id="access-to-work">Access to Work</h2>
 
-<p>Access to Work is a UK government scheme that funds support for disabled people and people with health conditions — including mental health conditions — that affect their work. It covers coaching where the coaching directly supports your ability to do your job.</p>
+<p>Access to Work is a UK government grant scheme that funds support for disabled people and people with health conditions — including mental health conditions and neurodivergent profiles — that affect their work. It covers coaching where the coaching directly supports your ability to do your job.</p>
+
+<p>The maximum grant is <strong>£66,000 per year</strong>. It does not need to be repaid.</p>
 
 <h3>Who it's for</h3>
 
-<p>You don't need a formal diagnosis to apply. If you have a physical or mental health condition, a neurodivergent profile, or a disability that makes work harder, you may be eligible. The scheme is broader than most people realise — it's worth checking even if you're not sure.</p>
+<p>You don't need a formal diagnosis to apply. If you have a physical or mental health condition, a neurodivergent profile (ADHD, autism, dyslexia, dyspraxia), or a disability that makes work harder, you may be eligible. The scheme is broader than most people realise — it's worth checking even if you're not sure.</p>
 
 <h3>How it works</h3>
 
