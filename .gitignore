@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 context/
 .claude/skills
+.claude/settings.local.json
