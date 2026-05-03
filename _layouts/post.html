@@ -1,24 +1,22 @@
 ---
 layout: default
 ---
-<div id='post'>
-  <article>
-    <h1>{{- page.display_title | default: page.title -}}</h1>
-    <p class='metadata'>
-      {{- page.date | date: '%B %d, %Y' -}} &nbsp; | &nbsp;
-      {%- if page.categories != empty -%}
-        {%- for category in page.categories -%}
-        <a href="{{site.baseurl}}/categories?q={{category|slugize}}">{{category}}</a>
-        {%- unless forloop.last %},&nbsp;{% endunless -%}
-        {%- endfor -%}
-      {%- endif -%}
-    </p>
-    <div class="post-body">
-      {{ content }}
-    </div>
-  </article>
+<article id='post'>
+  <h1>{{- page.display_title | default: page.title -}}</h1>
+  <p class='metadata'>
+    {{- page.date | date: '%B %d, %Y' -}} &nbsp; | &nbsp;
+    {%- if page.categories != empty -%}
+      {%- for category in page.categories -%}
+      <a href="{{site.baseurl}}/categories?q={{category|slugize}}">{{category}}</a>
+      {%- unless forloop.last %},&nbsp;{% endunless -%}
+      {%- endfor -%}
+    {%- endif -%}
+  </p>
+  <div class="post-body">
+    {{ content }}
+  </div>
   {% unless page.categories contains 'haiku' %}
-  <div class="post-cta">
+  <aside class="post-cta" aria-label="Coaching services">
     {% if page.categories contains 'management' or page.categories contains 'one-to-ones' or page.categories contains 'leadership' or page.categories contains 'training' %}
       <div class="callout callout--teal">
         <p>If any of this is your actual life, I do 1:1 engineering manager coaching. The messy, human, nobody-prepared-me-for-this bits.</p>
@@ -37,6 +35,6 @@ layout: default
     {% else %}
       <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Get in touch</a></p>
     {% endif %}
-  </div>
+  </aside>
   {% endunless %}
-</div>
+</article>
