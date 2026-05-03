@@ -79,7 +79,30 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <p>I know what it is to be the person everyone needs to look steady. I also know that steadiness has a cost, and what to do when you are running out of it.</p>
 
-{% include session-process.html %}
+<h2>What happens in a remote 1:1 session</h2>
+
+<ol class="process-steps">
+  <li>
+    <span class="process-step__number">01</span>
+    <h3>We dive straight in</h3>
+    <p>You don't need to have it packaged. Bring it raw, bring it half-formed, bring it at the point where you've been turning it over for three weeks and getting nowhere. We're working it from the moment we start.</p>
+  </li>
+  <li>
+    <span class="process-step__number">02</span>
+    <h3>I get to the ugly little truth of it</h3>
+    <p>You tell me what is going on. We work out what the actual decision is, what the real constraint is, and where the pressure is really coming from. Not the version you've been telling everyone else.</p>
+  </li>
+  <li>
+    <span class="process-step__number">03</span>
+    <h3>We pressure-test the move</h3>
+    <p>We look at what you're about to do, what it will kick off, and whether it's actually the right call. You leave knowing what you think, not just what you were going to do out of momentum or panic.</p>
+  </li>
+  <li>
+    <span class="process-step__number">04</span>
+    <h3>You stop carrying it alone</h3>
+    <p>You leave with a clearer head, a sharper read on the situation, and someone who already knows the full picture when the next thing lands.</p>
+  </li>
+</ol>
 
 <p>Still thinking "yes, but what even <em>is</em> a coach?" I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What's A Coach Anyway?</a></p>
 
