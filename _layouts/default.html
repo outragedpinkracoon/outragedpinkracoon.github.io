@@ -160,12 +160,19 @@
         <span class="settings-icon" aria-hidden="true">⚙</span>
         <span>Display</span>
       </button>
-      <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-modal="true" aria-labelledby="display-settings-title" aria-hidden="true">
+      <div class="display-settings-panel" id="display-settings-panel" role="dialog" aria-modal="true" aria-label="Display settings" aria-hidden="true">
         <div class="panel-close"><button aria-label="Close display settings">✕</button></div>
-        <p class="display-settings-title" id="display-settings-title">Make it work for you</p>
         <label class="setting-row">
           <input type="checkbox" id="toggle-reading-mode"> Calm mode
         </label>
+        <div class="font-scale-row">
+          <span class="font-scale-label">Text size</span>
+          <div class="font-scale-controls">
+            <button class="font-scale-btn" id="font-scale-down" aria-label="Decrease text size">−</button>
+            <span class="font-scale-value" id="font-scale-value" aria-live="polite">100%</span>
+            <button class="font-scale-btn" id="font-scale-up" aria-label="Increase text size">+</button>
+          </div>
+        </div>
         <p class="setting-group-label">Colour-safe palette</p>
         <label class="setting-row">
           <input type="radio" name="colour-mode" id="toggle-cb-none" value="none" checked> Standard colours
@@ -207,6 +214,29 @@
       var colourModes = ['red-green', 'blue-yellow', 'greyscale'];
       var colourClasses = { 'red-green': 'cb-red-green', 'blue-yellow': 'cb-blue-yellow', 'greyscale': 'cb-greyscale' };
 
+      // Font scale
+      var scaleSteps = [80, 90, 100, 110, 120, 130, 140];
+      var scaleIndex = parseInt(localStorage.getItem('font-scale-index') || '2', 10);
+      var scaleDownBtn = document.getElementById('font-scale-down');
+      var scaleUpBtn = document.getElementById('font-scale-up');
+      var scaleValueEl = document.getElementById('font-scale-value');
+
+      function applyFontScale() {
+        document.documentElement.style.fontSize = (scaleSteps[scaleIndex] / 100) * 16 + 'px';
+        scaleValueEl.textContent = scaleSteps[scaleIndex] + '%';
+        scaleDownBtn.disabled = scaleIndex === 0;
+        scaleUpBtn.disabled = scaleIndex === scaleSteps.length - 1;
+      }
+
+      applyFontScale();
+
+      scaleDownBtn.addEventListener('click', function() {
+        if (scaleIndex > 0) { scaleIndex--; localStorage.setItem('font-scale-index', scaleIndex); applyFontScale(); }
+      });
+      scaleUpBtn.addEventListener('click', function() {
+        if (scaleIndex < scaleSteps.length - 1) { scaleIndex++; localStorage.setItem('font-scale-index', scaleIndex); applyFontScale(); }
+      });
+
       // Restore saved preferences
       var readingOn = localStorage.getItem('reading-mode') === 'true';
       var savedColour = localStorage.getItem('colour-mode') || 'none';
@@ -228,7 +258,7 @@
         if (radio) radio.checked = true;
 
         // Display button active state
-        toggleBtn.dataset.active = String(readingOn || savedColour !== 'none');
+        toggleBtn.dataset.active = String(readingOn || savedColour !== 'none' || scaleIndex !== 2);
       }
 
       applyModes();
