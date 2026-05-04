@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /coaching/founders/
-title: Coaching for Founders, CTOs and Early-Stage CEOs in Tech
-display_title: Coaching for founders and CTOs
+title: Coaching for Founders, CTOs and Senior Engineering Leaders in Tech
+display_title: Coaching for founders, CTOs and senior leaders
 title_sub: because making hard calls alone sucks.
-description: Founder and CTO coaching from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for hard calls and people chaos.
+description: Coaching for founders, CTOs and senior engineering leaders from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for hard calls and people chaos.
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
@@ -25,7 +25,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <h2>Who I work with</h2>
 
-<p>Founders and early-stage CEOs navigating the isolation of the top job. CTOs bridging tech and business with no real peer group. First-time managers who became founders and are now quietly drowning in people problems nobody warned them about.</p>
+<p>Founders and early-stage CEOs navigating the isolation of the top job. CTOs bridging tech and business with no real peer group. Senior engineering leaders who are the most senior technical person in the room, making calls alone with no one above them to sense-check it. First-time managers who became founders and are now quietly drowning in people problems nobody warned them about.</p>
 
 <p>Sound familiar?</p>
 

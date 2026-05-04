@@ -17,9 +17,9 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £300.</p>
 
-<p>I work with tech leads and engineering managers from first EM role through to growing into Head of Engineering.</p>
+<p>I work with tech leads and engineering managers at any level. If you have people above you and a manager to report to, you are in the right place.</p>
 
-<p>If you are already a Head of Engineering or above, that is exec coaching territory. <a href="/coaching/founders/">You want this page instead.</a></p>
+<p>If you are making calls alone with no one to reality-check you, that is exec coaching territory. <a href="/coaching/founders/">You want this page instead.</a></p>
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
@@ -34,7 +34,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p>Tech leads and engineering managers who do not want to become the worst manager they ever had. People who have just stepped into the role, people who have been doing it a while, and people growing towards Head of Engineering who need someone to pressure-test the hard calls with.</p>
 
-<p>If you are already a Head of Engineering or above, <a href="/coaching/founders/">exec coaching is the right fit</a>.</p>
+<p>If you are making calls alone with no one above you to reality-check them, <a href="/coaching/founders/">exec coaching is the right fit</a>.</p>
 
 <p>Sound familiar?</p>
 
