@@ -110,7 +110,7 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
 
 <h2>Pricing</h2>
 
-<p class="pricing-decision">The Decisive Hour can stop you making a very expensive mistake. The Campaign gives you someone in your corner while the situation unfolds. Strategic Partnership is for the sustained stretch: a raise, a restructure, a period where the ground keeps shifting and you need someone who already knows the full picture. Pick the one that fits what's actually happening.</p>
+<p class="pricing-decision">The Decisive Hour can stop you making a very expensive mistake. The Campaign gives you someone in your corner while the situation unfolds. Strategic Partnership is for the sustained stretch where the ground keeps shifting. The Advisory is for when you want that in your corner every month, not just when things go wrong. Pick the one that fits what's actually happening.</p>
 
 <div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
 
@@ -158,29 +158,18 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
 
   <div class="pricing-card">
     <span class="pricing-badge">Val in your corner</span>
-    <p class="pricing-title">Ongoing retainer</p>
-    <p class="pricing-subtitle">For when you want Val in your corner long-term, not just for a defined problem.</p>
-    <p class="pricing-saving">Pricing on application</p>
+    <p class="pricing-amount">From £2,000/mo</p>
+    <p class="pricing-title">The Advisory</p>
+    <p class="pricing-subtitle">For when you need someone who already knows the full picture, every month.</p>
     <ul class="pricing-includes">
-      <li>This isn't a programme with a start and end date. It's an ongoing relationship.</li>
-      <li>Held slots, someone who already knows the full picture, and the kind of context that only builds over time.</li>
-      <li>For the long game, not the defined problem.</li>
+      <li>2x 60-min sessions per month, plus a quarterly 90-min review.</li>
+      <li>Two substantive emails a week, answered within 48 hours on working days.</li>
+      <li>Priority booking when something goes live between sessions.</li>
+      <li>No re-briefing, no starting over. I already know your situation.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Let's do this</a>
   </div>
 
-  <div class="pricing-card">
-    <span class="pricing-badge">For teams</span>
-    <p class="pricing-title">Team &amp; organisation coaching</p>
-    <p class="pricing-subtitle">I coach engineering managers in bulk for startups and scale-ups.</p>
-    <p class="pricing-saving">Rates vary by team size and format</p>
-    <ul class="pricing-includes">
-      <li>Same direct, no-bullshit coaching, just for multiple people.</li>
-      <li>Ideal for CTOs and engineering leads who want their new managers to hit the ground running.</li>
-      <li>Pricing depends on the number of managers, the format, and what is actually going on.</li>
-    </ul>
-    <a class="pricing-cta" href="/coaching/teams/">Read about team coaching</a>
-  </div>
 </div>
 
 <p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
