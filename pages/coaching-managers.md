@@ -17,9 +17,9 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Single session £300. Block of 3 from £750.</p>
 
-<p>I work with engineering managers at every stage from first EM role through to Head of Engineering and Director.</p>
+<p>I work with tech leads and engineering managers from first EM role through to growing into Head of Engineering.</p>
 
-<p>If you have just been promoted, or you have been doing the job a while and are growing into something bigger, this is the right place. VP and above is <a href="/coaching/founders/">exec coaching</a>.</p>
+<p>If you are already a Head of Engineering or above, that is exec coaching territory. <a href="/coaching/founders/">You want this page instead.</a></p>
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
@@ -32,7 +32,9 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <h2>Who I work with</h2>
 
-<p>People who have just become managers, team leads, heads of function, or accidental adults-in-the-room and do not want to become the worst manager they ever had. Also people who have been doing the job a while and are growing into Head of Engineering and need someone to pressure-test the hard calls with.</p>
+<p>Tech leads and engineering managers who do not want to become the worst manager they ever had. People who have just stepped into the role, people who have been doing it a while, and people growing towards Head of Engineering who need someone to pressure-test the hard calls with.</p>
+
+<p>If you are already a Head of Engineering or above, <a href="/coaching/founders/">exec coaching is the right fit</a>.</p>
 
 <p>Sound familiar?</p>
 
