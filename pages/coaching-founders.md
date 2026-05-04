@@ -144,10 +144,10 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
 
   <div class="pricing-card">
     <span class="pricing-badge">A sustained stretch</span>
-    <p class="pricing-amount">£4,500</p>
+    <p class="pricing-amount">£5,000</p>
     <p class="pricing-title">Strategic Partnership</p>
     <p class="pricing-subtitle">Six sessions. For the period where the ground keeps shifting.</p>
-    <p class="pricing-saving">Save £1,500 vs. booking separately</p>
+    <p class="pricing-saving">Save £1,000 vs. booking separately</p>
     <ul class="pricing-includes">
       <li>A raise, a restructure, a co-founder situation, a board that wants answers. The kind of stretch where you need someone who already knows the full picture.</li>
       <li>I already know the context. We pick up where we left off and keep moving.</li>
