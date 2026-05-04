@@ -15,7 +15,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and not accidentally fuck someone up.</p>
 
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Single session £300. Block of 3 from £750.</p>
+<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £300.</p>
 
 <p>I work with tech leads and engineering managers from first EM role through to growing into Head of Engineering.</p>
 
@@ -94,9 +94,9 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <div class="callout callout--yellow"><p>My exec coaching costs more for more complex problems. Here, I've priced it to fit a standard L&D budget. Your employer should be paying for this, not you.</p></div>
 
-<p>Most clients expense a single session through their employer's L&D budget — it fits within a standard allowance. The block of three splits well across L&D and personal spend. <a href="/coaching/funding/">Find out more about funding options.</a></p>
+<p>Most clients expense The Rescue through their employer's L&D budget — it fits within a standard allowance. The Campaign splits well across L&D and personal spend. <a href="/coaching/funding/">Find out more about funding options.</a></p>
 
-<p class="pricing-decision">Two different problems, two different products. Something live and urgent: one session, straight to it. Something you're working through over time — a promotion push, a restructure, a situation that keeps shifting: a block of three. When that's done, you can book another block if you need it.</p>
+<p class="pricing-decision">Two different products for two different problems. Something live and urgent: The Rescue, straight to it. Something that keeps unfolding while you're trying to solve it: The Campaign. When that's done, book another if you need it. No pressure, no programme.</p>
 
 <div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
 
@@ -104,8 +104,8 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Something's on fire</span>
     <p class="pricing-amount">£300</p>
-    <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">When you need help with the thing that's happening right now.</p>
+    <p class="pricing-title">The Rescue</p>
+    <p class="pricing-subtitle">One session. When you need help with the thing that's happening right now.</p>
     <ul class="pricing-includes">
       <li>We dive straight in, no talking about the weather.</li>
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
@@ -115,15 +115,15 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">Working through something</span>
+    <span class="pricing-badge">It keeps unfolding</span>
     <p class="pricing-amount">£750</p>
-    <p class="pricing-title">Block of three</p>
-    <p class="pricing-subtitle">For the problem that keeps evolving while you're trying to solve it.</p>
+    <p class="pricing-title">The Campaign</p>
+    <p class="pricing-subtitle">Three sessions. For the situation that isn't over after one.</p>
     <p class="pricing-saving">Save £150 vs. booking separately</p>
     <ul class="pricing-includes">
-      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
+      <li>You make a move, see what it kicks up, and get support on what comes next.</li>
       <li>I already know the context. No re-briefing, no starting over.</li>
-      <li>When the block is done, book another if you need it. No pressure, no programme.</li>
+      <li>When it's done, book another if you need it. No pressure, no programme.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>

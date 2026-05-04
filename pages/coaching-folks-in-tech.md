@@ -16,7 +16,7 @@ description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Single session £300. Block of 3 from £750.</p>
+<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £300.</p>
 
 <p>Or maybe nothing is on fire. Maybe you have just realised you want more than this, and you are done trying to earn it the hard way.</p>
 
@@ -104,7 +104,7 @@ description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-
 
 <div class="callout callout--yellow"><p>My exec coaching costs more for more complex problems. Here, I've priced it to fit a standard L&D budget. Your employer should be paying for this, not you.</p></div>
 
-<p class="pricing-decision">Two different problems, two different products. Something live and urgent: one session, straight to it. Something you're working through over time: a block of three. When that's done, book another if you need it.</p>
+<p class="pricing-decision">Two different products for two different problems. Something tangled and urgent: The Untangle, straight to it. Something that keeps unfolding while you're trying to solve it: The Campaign. When that's done, book another if you need it.</p>
 
 <div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
 
@@ -112,10 +112,10 @@ description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">Something's on fire</span>
+    <span class="pricing-badge">Something's got to give</span>
     <p class="pricing-amount">£300</p>
-    <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">When you need help with the thing that's happening right now.</p>
+    <p class="pricing-title">The Untangle</p>
+    <p class="pricing-subtitle">One session. When you need to work out what's actually going on and what to do about it.</p>
     <ul class="pricing-includes">
       <li>We dive straight in, no talking about the weather.</li>
       <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
@@ -125,10 +125,10 @@ description: ILM-certified neurodivergent tech coach and CTO/VP Engineering. No-
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">Working through something</span>
+    <span class="pricing-badge">It keeps unfolding</span>
     <p class="pricing-amount">£750</p>
-    <p class="pricing-title">Block of three</p>
-    <p class="pricing-subtitle">For the problem that keeps evolving while you're trying to solve it.</p>
+    <p class="pricing-title">The Campaign</p>
+    <p class="pricing-subtitle">Three sessions. For the situation that isn't over after one.</p>
     <p class="pricing-saving">Save £150 vs. booking separately</p>
     <ul class="pricing-includes">
       <li>Room to make a move, see what happens, and get support on what it kicks up.</li>

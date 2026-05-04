@@ -110,7 +110,7 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
 
 <h2>Pricing</h2>
 
-<p class="pricing-decision">One session can stop you making a very expensive mistake. A block of three gives you someone in your corner while the situation unfolds. The six-session programme is for the sustained stretch: a raise, a restructure, a period where the ground keeps shifting and you need someone who already knows the full picture. Pick the one that fits what's actually happening.</p>
+<p class="pricing-decision">The Decisive Hour can stop you making a very expensive mistake. The Campaign gives you someone in your corner while the situation unfolds. Strategic Partnership is for the sustained stretch: a raise, a restructure, a period where the ground keeps shifting and you need someone who already knows the full picture. Pick the one that fits what's actually happening.</p>
 
 <div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
 
@@ -118,8 +118,8 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">One hard call</span>
     <p class="pricing-amount">£1,000</p>
-    <p class="pricing-title">Single session</p>
-    <p class="pricing-subtitle">When you need to think clearly before you act.</p>
+    <p class="pricing-title">The Decisive Hour</p>
+    <p class="pricing-subtitle">One session. When you need to think clearly before you act.</p>
     <ul class="pricing-includes">
       <li>You have a decision, a conversation, or a situation that you cannot afford to get wrong.</li>
       <li>We get to what's actually going on fast. Not the surface version. The real one.</li>
@@ -131,8 +131,8 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
   <div class="pricing-card">
     <span class="pricing-badge">A situation to navigate</span>
     <p class="pricing-amount">£2,500</p>
-    <p class="pricing-title">3 session bundle</p>
-    <p class="pricing-subtitle">When one conversation won't be enough.</p>
+    <p class="pricing-title">The Campaign</p>
+    <p class="pricing-subtitle">Three sessions. When one conversation won't be enough.</p>
     <p class="pricing-saving">Save £500 vs. booking separately</p>
     <ul class="pricing-includes">
       <li>You make a move, see what it kicks up, and get support on what comes next.</li>
@@ -145,8 +145,8 @@ description: Founder and CTO coaching from an ILM-certified executive coach and 
   <div class="pricing-card">
     <span class="pricing-badge">A sustained stretch</span>
     <p class="pricing-amount">£4,500</p>
-    <p class="pricing-title">6 session programme</p>
-    <p class="pricing-subtitle">For the period where the ground keeps shifting.</p>
+    <p class="pricing-title">Strategic Partnership</p>
+    <p class="pricing-subtitle">Six sessions. For the period where the ground keeps shifting.</p>
     <p class="pricing-saving">Save £1,500 vs. booking separately</p>
     <ul class="pricing-includes">
       <li>A raise, a restructure, a co-founder situation, a board that wants answers. The kind of stretch where you need someone who already knows the full picture.</li>
