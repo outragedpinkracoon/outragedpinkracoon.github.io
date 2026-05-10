@@ -137,8 +137,6 @@ Invoices are issued by email after each session or, for bundles and programmes, 
 
 For The Advisory retainer, invoices are issued monthly.
 
-A late payment charge of 10% of the outstanding balance will be applied to any invoice not settled within 7 days of the invoice date.
-
 Where multiple single sessions occur within the same month, fees may be grouped into a single invoice issued at month end.
 
 ### Refunds
