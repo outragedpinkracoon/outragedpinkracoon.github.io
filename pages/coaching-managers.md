@@ -34,9 +34,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p>Tech leads and engineering managers who do not want to become the worst manager they ever had. People who have just stepped into the role, people who have been doing it a while, and people growing towards Head of Engineering who need someone to pressure-test the hard calls with.</p>
 
-<p>If you are making calls alone with no one above you to reality-check them, <a href="/coaching/founders/">exec coaching is the right fit</a>.</p>
-
-<p>Sound familiar?</p>
+<p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want to get the foundations in place first, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is a good place to start. Then come back when it gets live.</p>
 
 <div class="manager-quote-wall" aria-label="Common new manager worries">
   <figure class="manager-quote-card">
@@ -80,7 +78,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </figure>
 </div>
 
-<p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want to get the foundations in place first, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is a good place to start. Then come back when it gets live.</p>
+<p>Note, if you work at head of+ level and are making calls alone with no manager above you to reality-check them, <a href="/coaching/founders/">executive coaching is available</a>. This service is only for front line engineering managers</p>
 
 {% include session-process.html %}
 
