@@ -32,6 +32,8 @@ Coaching may explore different areas of the Client’s life, including work, fin
 ### Responsibilities
 The Client is responsible for their own physical, mental, and emotional wellbeing, as well as for all decisions, choices, actions, and results. The Coach is not, and will not be, liable for any actions, inaction, or outcomes arising from the coaching relationship.
 
+All decisions made by the Client during or after the coaching relationship are the Client's own. Questions, observations, and reflections offered by the Coach are coaching tools, not instructions, recommendations, or professional advice. The Client is solely responsible for evaluating any input from the Coach and for any action taken as a result.
+
 The Client understands that coaching is not therapy and does not substitute for counselling, medical, legal, financial, or other professional advice. Where such expertise is required, the Client will seek independent professional guidance.
 
 The Client agrees to communicate honestly, be open to feedback, and commit the necessary time and energy to participate fully in the coaching process.
@@ -85,6 +87,20 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
 The Advisory is available to existing clients only. Clients new to working with Val must book at least one other session before accessing The Advisory.
 
 Reduced rates may be agreed on a discretionary basis for self-funding clients. Get in touch to discuss.
+
+### The Advisory retainer
+
+The Advisory operates on a fixed monthly structure. Clients receive:
+
+* **Weeks 1 and 3:** one email update sent by the Client. The Coach will respond by email within 3 working days with either a brief acknowledgement or up to 3 questions or observations. Email responses are not extended written coaching sessions.
+* **Week 4:** one 30-minute call, booked by email at a mutually convenient time.
+* **Week 2:** no scheduled contact. This is intentional working time for the Client.
+
+Questions and observations offered by the Coach in response to Advisory emails are coaching tools, not instructions or professional advice. All decisions and actions taken by the Client remain solely the Client's own responsibility.
+
+The Advisory does not include additional calls, WhatsApp or other messaging, ad hoc emails outside the above structure, or any other form of synchronous or asynchronous contact beyond what is described here. Emails sent outside the week 1 and 3 structure will not receive a substantive response within the retainer.
+
+The Advisory is billed monthly. Either party may cancel with written notice, effective from the following billing month.
 
 ### Procedure
 Coaching sessions will take place virtually at times mutually agreed between the Coach and the Client. A calendar invitation with a Google Meet link will be provided for each session.
