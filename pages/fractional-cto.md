@@ -123,34 +123,9 @@ cta_href: "mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20En
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20Fractional%20CTO%20support.">Book a free intro call</a>
   </div>
 
-  <div class="pricing-card">
-    <span class="pricing-badge">Bespoke</span>
-    <p class="pricing-title">Consultancy engagement</p>
-    <p class="pricing-subtitle">For a specific decision, risk, or mess you need untangled without hiring someone permanent.</p>
-    <p class="pricing-saving">Pricing on application</p>
-    <ul class="pricing-includes">
-      <li>Find out what is really going on across culture, delivery, architecture, leadership, and incentives.</li>
-      <li>Get a clear read on the risk, the options, and the next sensible move.</li>
-      <li>Clear scope, clear output, clear price.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20scope%20a%20defined%20consultancy%20engagement.">Book a free intro call</a>
-  </div>
-
-  <div class="pricing-card">
-    <span class="pricing-badge">Ongoing</span>
-    <p class="pricing-title">Retained engagement</p>
-    <p class="pricing-subtitle">For when one engagement turns into something longer, or you know from the start you need someone in your corner for a while.</p>
-    <p class="pricing-saving">Pricing on application</p>
-    <ul class="pricing-includes">
-      <li>Agreed scope and minimum day commitment per quarter.</li>
-      <li>I already know your business, your team, and your problems. No re-briefing, no ramp-up cost.</li>
-      <li>Right for companies going through a sustained period of change, growth, or pressure.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Fractional%20CTO%20Retained%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20an%20ongoing%20retained%20engagement.">Book a free intro call</a>
-  </div>
 </div>
 
-<p class="pricing-terms">Scope and engagement terms agreed before work begins.</p>
+<p class="pricing-terms">Bespoke and retained engagements are available on application. All engagements are subject to terms agreed in writing before work begins.</p>
 
 <h2>Real people saying real things</h2>
 
