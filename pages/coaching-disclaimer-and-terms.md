@@ -74,8 +74,8 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
 
 | | Per session rate | Bundle/programme price |
 |---|---|---|
-| Single session | £300.00 | — |
-| Block of 3 | — | £750.00 (save £150) |
+| The Rescue (single session) | £350.00 | — |
+| The Campaign (block of 3) | — | £800.00 (save £250) |
 
 #### Executive coaching (founders and CTOs)
 
@@ -84,7 +84,8 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
 | The Decisive Hour (single session) | £1,000.00 |
 | The Campaign (3 sessions) | £2,500.00 (save £500) |
 | Strategic Partnership (6 sessions) | £5,000.00 (save £1,000) |
-| The Advisory (monthly retainer) | £500.00/mo |
+| The Advisory (monthly retainer, engineering managers) | £250.00/mo |
+| The Advisory (monthly retainer, founders and CTOs) | £750.00/mo |
 
 The Advisory is available to existing clients only. Clients new to working with Val must book at least one other session before accessing The Advisory.
 

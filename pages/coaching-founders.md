@@ -158,7 +158,7 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
 
   <div class="pricing-card">
     <span class="pricing-badge">Already a client</span>
-    <p class="pricing-amount">£500/mo</p>
+    <p class="pricing-amount">£750/mo</p>
     <p class="pricing-title">The Advisory</p>
     <p class="pricing-subtitle">For when the work is done and you just need someone watching your back.</p>
     <ul class="pricing-includes">

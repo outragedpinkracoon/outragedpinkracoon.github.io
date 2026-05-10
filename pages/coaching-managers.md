@@ -13,13 +13,13 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p>Now you're responsible for actual humans, and suddenly you cannot hide in your IDE anymore.</p>
 
-<p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and not accidentally fuck someone up.</p>
+<p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and somehow cope with the realisation that there's no undo button for people.</p>
 
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £300.</p>
+<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £350.</p>
 
-<p>I work with tech leads and engineering managers at any level. If you have people above you and a manager to report to, you are in the right place.</p>
+<p>This page is for managers who have people above them and people below them. You are operating inside a structure: navigating your team, your peers, your manager, and the organisation all at once.</p>
 
-<p>If you are making calls alone with no one to reality-check you, that is exec coaching territory. <a href="/coaching/founders/">You want this page instead.</a></p>
+<p>If you are at the top with no one above you and the calls land on your desk alone, that is a different problem and a different kind of support. <a href="/coaching/founders/">Exec coaching is what you need.</a></p>
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
@@ -90,20 +90,14 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <h2>Pricing</h2>
 
-<p>These rates are set deliberately. My exec coaching costs more because it's a different engagement for a different buyer. Here, I want the price to be reachable for a manager who needs this support, whether or not there's a company budget behind them.</p>
-
-<div class="callout callout--yellow"><p>My exec coaching costs more for more complex problems. Here, I've priced it to fit a standard L&D budget. Your employer should be paying for this, not you.</p></div>
-
-<p>Most clients expense The Rescue through their employer's L&D budget — it fits within a standard allowance. The Campaign splits well across L&D and personal spend. <a href="/coaching/funding/">Find out more about funding options.</a></p>
-
-<p class="pricing-decision">Two different products for two different problems. Something live and urgent: The Rescue, straight to it. Something that keeps unfolding while you're trying to solve it: The Campaign. When that's done, book another if you need it. No pressure, no programme.</p>
+<p>Most clients expense this through their L&D budget. It fits within a standard allowance. If you are self-funding, <a href="/coaching/funding/">there are options worth knowing about.</a></p>
 
 <div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
     <span class="pricing-badge">Something's on fire</span>
-    <p class="pricing-amount">£300</p>
+    <p class="pricing-amount">£350</p>
     <p class="pricing-title">The Rescue</p>
     <p class="pricing-subtitle">One session. When you need help with the thing that's happening right now.</p>
     <ul class="pricing-includes">
@@ -116,10 +110,10 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
   <div class="pricing-card">
     <span class="pricing-badge">It keeps unfolding</span>
-    <p class="pricing-amount">£750</p>
+    <p class="pricing-amount">£800</p>
     <p class="pricing-title">The Campaign</p>
     <p class="pricing-subtitle">Three sessions. For the situation that isn't over after one.</p>
-    <p class="pricing-saving">Save £150 vs. booking separately</p>
+    <p class="pricing-saving">Save £250 vs. booking separately</p>
     <ul class="pricing-includes">
       <li>You make a move, see what it kicks up, and get support on what comes next.</li>
       <li>I already know the context. No re-briefing, no starting over.</li>
@@ -129,22 +123,27 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">For teams</span>
-    <p class="pricing-title">Team &amp; organisation coaching</p>
-    <p class="pricing-subtitle">I coach engineering managers in bulk for startups and scale-ups.</p>
-    <p class="pricing-saving">Rates vary by team size and format</p>
+    <span class="pricing-badge">Already a client</span>
+    <p class="pricing-amount">£250/mo</p>
+    <p class="pricing-title">The Advisory</p>
+    <p class="pricing-subtitle">For when the work is done and you just need someone watching your back.</p>
     <ul class="pricing-includes">
-      <li>Same direct, no-bullshit coaching — just for multiple people.</li>
-      <li>Ideal for CTOs and engineering leads who want their new managers to hit the ground running.</li>
-      <li>Pricing depends on the number of managers, the format, and what is actually going on.</li>
+      <li>Weeks 1 and 3: you send me one email. I read it and either acknowledge or come back with 2-3 questions or observations.</li>
+      <li>Week 2 is yours. Use it. Do the thing.</li>
+      <li>Week 4: 30 minutes on a call. I already have the context from your week 3 email. We get straight into it.</li>
+      <li>No re-briefing. No starting over. I already know your situation.</li>
     </ul>
-    <a class="pricing-cta" href="/coaching/teams/">Read about team coaching</a>
+    <p class="pricing-detail">This is for existing clients only. If we have not worked together yet, <a href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">get in touch</a> and we will go from there.</p>
+    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Advisory%20Enquiry">Let's do this</a>
   </div>
+
 </div>
 
-<p class="pricing-detail">Already worked with me? The Advisory is a light-touch monthly check-in for existing clients who want someone watching their back. £500/mo. <a href="/coaching/founders/#pricing">Find out more.</a></p>
-
 <p class="pricing-terms">All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+
+<h2>Got a team to sort out?</h2>
+
+<p>If you are a CTO or engineering lead who wants your managers coached in bulk, that is a different thing. Same direct, no-bullshit approach — just for multiple people at once. Rates vary by team size and format. <a href="/coaching/teams/">Read about team and organisation coaching.</a></p>
 
 <h2>Real people saying real things</h2>
 
