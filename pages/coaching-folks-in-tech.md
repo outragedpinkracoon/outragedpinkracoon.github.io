@@ -85,15 +85,9 @@ description: ILM-certified coaching for folks in tech who want more power, more 
 
 <h2>Pricing</h2>
 
-<p>These rates are set deliberately. My exec coaching costs more because it's a different engagement for a different buyer. Here, I want the price to be reachable for someone in tech who needs this support, whether or not there's a company budget behind them.</p>
-
-<div class="callout callout--yellow"><p>My exec coaching costs more for more complex problems. Here, I've priced it to fit a standard L&D budget. Your employer should be paying for this, not you.</p></div>
-
-<p class="pricing-decision">Two different products for two different problems. Something tangled and urgent: The Untangle, straight to it. Something that keeps unfolding while you're trying to solve it: The Campaign. When that's done, book another if you need it.</p>
+<p>Most clients expense a single session through their employer's L&D budget — it fits within a standard allowance. If you're a disabled person or have a health condition that affects your work, <a href="/coaching/funding/#access-to-work">Access to Work</a> can fund coaching — up to £66,000 a year, no repayment. <a href="/coaching/funding/">Find out more about funding options.</a></p>
 
 <div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
-
-<p>Most clients expense a single session through their employer's L&D budget — it fits within a standard allowance. If you're a disabled person or have a health condition that affects your work, <a href="/coaching/funding/#access-to-work">Access to Work</a> can fund coaching — up to £66,000 a year, no repayment. <a href="/coaching/funding/">Find out more about funding options.</a></p>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
