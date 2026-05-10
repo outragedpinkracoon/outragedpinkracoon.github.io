@@ -75,13 +75,16 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
 
 #### Executive coaching (founders and CTOs)
 
-| | Per session rate | Bundle/programme price |
-|---|---|---|
-| Single session | £1,000.00 | — |
-| 3-session bundle | — | £2,500.00 (save £500) |
-| 6-session programme | — | £4,500.00 (save £1,500) |
+| | Price |
+|---|---|
+| The Decisive Hour (single session) | £1,000.00 |
+| The Campaign (3 sessions) | £2,500.00 (save £500) |
+| Strategic Partnership (6 sessions) | £5,000.00 (save £1,000) |
+| The Advisory (monthly retainer) | £500.00/mo |
 
-Reduced rates may be agreed on a discretionary basis for self-funding clients — get in touch to discuss.
+The Advisory is available to existing clients only. Clients new to working with Val must book at least one other session before accessing The Advisory.
+
+Reduced rates may be agreed on a discretionary basis for self-funding clients. Get in touch to discuss.
 
 ### Procedure
 Coaching sessions will take place virtually at times mutually agreed between the Coach and the Client. A calendar invitation with a Google Meet link will be provided for each session.
@@ -112,9 +115,9 @@ Session length will not be extended if the Client arrives late.
 If the Coach needs to cancel or reschedule a session, the Client will be notified as soon as reasonably practicable and the session will be rescheduled at a mutually convenient time at no additional charge. No session is forfeited as a result of a cancellation initiated by the Coach.
 
 ### Payment terms
-For single sessions, invoices will be issued by email after each session and are payable within 7 days via the payment methods specified on the invoice.
+Invoices are issued by email after each session or, for bundles and programmes, after the first session takes place. Invoices are payable within 7 days via the payment methods specified on the invoice.
 
-For bundles and programmes, payment is required in full before the first session is booked. A single invoice will be issued on purchase.
+For The Advisory retainer, invoices are issued monthly.
 
 A late payment charge of 10% of the outstanding balance will be applied to any invoice not settled within 7 days of the invoice date.
 
@@ -123,7 +126,9 @@ Where multiple single sessions occur within the same month, fees may be grouped 
 ### Refunds
 Refunds are not available on a per-session basis since invoices are sent after sessions have completed and service has been delivered.
 
-No refunds are offered for unused sessions within a bundle or programme, whether unused sessions remain at the point of cancellation or lapse due to expiry. The discounted rate is offered on the basis of the full bundle or programme being purchased and used within the applicable expiry period.
+Where a Client cancels a bundle or programme part way through, a refund will be issued within 14 days of written cancellation notice. The refund is calculated by deducting the full single-session rate for each session already delivered from the amount paid, and refunding the remainder. Sessions that lapse due to expiry are not refundable.
+
+The Advisory retainer is billed monthly. No refund is due for a month already invoiced. Cancellation takes effect from the following billing month on written notice.
 
 This does not affect your statutory rights.
 

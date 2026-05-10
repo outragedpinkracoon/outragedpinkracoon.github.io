@@ -173,7 +173,7 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
 
 </div>
 
-<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+<p class="pricing-terms">All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 <h2>Real people saying real things</h2>
 
