@@ -157,16 +157,17 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">Val in your corner</span>
-    <p class="pricing-amount">From £2,000/mo</p>
+    <span class="pricing-badge">Already a client</span>
+    <p class="pricing-amount">£500/mo</p>
     <p class="pricing-title">The Advisory</p>
-    <p class="pricing-subtitle">For when you need someone who already knows the full picture, every month.</p>
+    <p class="pricing-subtitle">For when the work is done and you just need someone watching your back.</p>
     <ul class="pricing-includes">
-      <li>2x 60-min sessions per month, plus a quarterly 90-min review.</li>
-      <li>Two substantive emails a week, answered within 48 hours on working days.</li>
-      <li>Priority booking when something goes live between sessions.</li>
-      <li>No re-briefing, no starting over. I already know your situation.</li>
+      <li>Weeks 1 and 3: you send me one email. I read it and either acknowledge or come back with 2-3 questions or observations.</li>
+      <li>Week 2 is yours. Use it. Do the thing.</li>
+      <li>Week 4: 30 minutes on a call. I already have the context from your week 3 email. We get straight into it.</li>
+      <li>No re-briefing. No starting over. I already know your situation.</li>
     </ul>
+    <p class="pricing-detail">This is for existing clients only. If we have not worked together yet, <a href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">get in touch</a> and we will go from there.</p>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Let's do this</a>
   </div>
 
