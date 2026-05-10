@@ -7,6 +7,8 @@ sitemap: false
 ---
 The coaching disclaimer and terms and conditions outlined below define the relationship between Coach and Client and underpin any services delivered by Valerie Dryden trading as Outraged Racoon Coaching®. Please make sure you read the following carefully and if you have any questions or queries then please send them by email to [outragedracooncoaching@gmail.com](outragedracooncoaching@gmail.com).
 
+Payment of any invoice issued by the Coach constitutes the Client's acceptance of these terms and conditions in full, including the disclaimer below.
+
 ## Disclaimer
 
 I understand that I am solely responsible for my own physical, mental, and emotional well-being, decisions, choices, actions, and results arising from the coaching relationship. Accordingly, I agree that the Coach is not and will not be liable for any actions, inaction, or direct or indirect results of the services provided.
@@ -50,8 +52,8 @@ Clients who have concerns about any part of this agreement should raise them wit
 ### Session expiry
 Sessions purchased as part of a bundle or programme must be used within the following periods from the date of purchase:
 
-* 3-session bundle: 3 months
-* 6-session programme: 6 months
+* The Campaign (3 sessions): 3 months
+* Strategic Partnership (6 sessions): 6 months
 
 Sessions not used within these periods lapse without refund. Extensions are not available as a matter of course, but may be considered at the Coach’s sole discretion in exceptional circumstances.
 
@@ -144,7 +146,7 @@ Refunds are not available on a per-session basis since invoices are sent after s
 
 Where a Client cancels a bundle or programme part way through, a refund will be issued within 14 days of written cancellation notice. The refund is calculated by deducting the full single-session rate for each session already delivered from the amount paid, and refunding the remainder. Sessions that lapse due to expiry are not refundable.
 
-The Advisory retainer is billed monthly. No refund is due for a month already invoiced. Cancellation takes effect from the following billing month on written notice.
+For The Advisory, no refund is due for a month already invoiced.
 
 This does not affect your statutory rights.
 
@@ -153,7 +155,7 @@ Either the Client or the Coach may terminate this agreement at any time.
 
 The Coach also reserves the right to terminate services early in certain circumstances, such as illness, bereavement, other personal commitments, inappropriate behaviour by the Client, a conflict of interest, or other reasonable grounds. Where practicable, the Client will be given reasonable notice of such termination.
 
-Where the Coach terminates a bundle or programme and unused sessions have been prepaid, those unused sessions will be refunded to the Client pro-rata within 14 days of termination.
+Where the Coach terminates a bundle or programme and sessions have been invoiced, a refund will be issued within 14 days of termination. The refund is calculated by deducting the full single-session rate for each session already delivered from the amount paid, and refunding the remainder.
 
 ### Variation of terms and conditions
 These terms and conditions may be updated by the Coach at any time. The current version will always be available on the Coach’s website and applies from the date of publication. It is the Client’s responsibility to review the terms periodically.
