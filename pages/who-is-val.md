@@ -8,7 +8,7 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p class="page-intro"><strong>Tech is a wild place. More so when you are non-binary, neurodivergent, queer and disabled.</strong></p>
+<p class="page-intro"><strong>Tech is a wild place. More so when you are neurodivergent, queer and disabled.</strong></p>
 
 <p>I started in engineering and worked my way through pretty much every language, sector, and company size going. InsureTech, FinTech, MedTech, AppSec. Skyscanner, Deliveroo, Snyk. Big names, big scary technical estates, big f*cking problems. I loved it.</p>
 <p>Then I realised every manager I'd ever had was terrible, and none of them looked anything like me. So I decided to become the manager I never had. For a decade I ran teams from 10 to 150+, across Series A to Series G, on the front line and on exec. I know what it takes to build something real under pressure, to change a culture that wasn't working, and to come out the other side with your principles intact.</p>
