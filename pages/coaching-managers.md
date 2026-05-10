@@ -123,7 +123,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
     <ul class="pricing-includes">
       <li>You make a move, see what it kicks up, and get support on what comes next.</li>
       <li>I already know the context. No re-briefing, no starting over.</li>
-      <li>When it's done, book another if you need it. No pressure, no programme.</li>
+      <li>When it's done, book another if you need it.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
@@ -142,7 +142,9 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </div>
 </div>
 
-<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+<p class="pricing-detail">Already worked with me? The Advisory is a light-touch monthly check-in for existing clients who want someone watching their back. £500/mo. <a href="/coaching/founders/#pricing">Find out more.</a></p>
+
+<p class="pricing-terms">All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
 
 <h2>Real people saying real things</h2>
 
