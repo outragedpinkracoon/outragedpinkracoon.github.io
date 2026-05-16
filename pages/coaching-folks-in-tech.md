@@ -81,27 +81,27 @@ description: ILM-certified coaching for folks in tech who want more power, more 
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">Something's got to give</span>
+    <span class="pricing-badge">One hard call</span>
     <p class="pricing-amount">£300</p>
-    <p class="pricing-title">The Untangle</p>
-    <p class="pricing-subtitle">One session. When you need to work out what's actually going on and what to do about it.</p>
+    <p class="pricing-title">The Decisive Hour</p>
+    <p class="pricing-subtitle">One session. When you need to think clearly before you act.</p>
     <ul class="pricing-includes">
-      <li>We dive straight in, no talking about the weather.</li>
-      <li>You get someone who can hear three minutes of whatever carnage is unfolding and clock what is actually going on.</li>
-      <li>You leave with a clearer head, a better plan, and far less chance of doing something daft in a panic.</li>
+      <li>You have a decision, a conversation, or a situation you want to get right.</li>
+      <li>We get to what's actually going on fast. Not the surface version. The real one.</li>
+      <li>You leave knowing what you think, what you're going to do, and why.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
   <div class="pricing-card">
-    <span class="pricing-badge">It keeps unfolding</span>
+    <span class="pricing-badge">A situation to navigate</span>
     <p class="pricing-amount">£750</p>
     <p class="pricing-title">The Campaign</p>
-    <p class="pricing-subtitle">Three sessions. For the situation that isn't over after one.</p>
+    <p class="pricing-subtitle">Three sessions. When one conversation won't be enough.</p>
     <p class="pricing-saving">Save £150 vs. booking separately</p>
     <ul class="pricing-includes">
-      <li>Room to make a move, see what happens, and get support on what it kicks up.</li>
+      <li>You make a move, see what it kicks up, and get support on what comes next.</li>
       <li>I already know the context. No re-briefing, no starting over.</li>
-      <li>When the block is done, book another if you need it. No pressure, no programme.</li>
+      <li>For the situation that has more layers than you thought when you started.</li>
     </ul>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
   </div>
