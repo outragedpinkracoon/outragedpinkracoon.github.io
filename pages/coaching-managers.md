@@ -28,13 +28,13 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <div class="pull-quote" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career.</div>
 
-<p>Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does.</p>
+<p>Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does. That's what The Advisory is for. Monthly. Ongoing. No re-briefing.</p>
 
 <h2>Who I work with</h2>
 
 <p>Tech leads and engineering managers who do not want to become the worst manager they ever had. People who have just stepped into the role, people who have been doing it a while, and people growing towards Head of Engineering who need someone to pressure-test the hard calls with.</p>
 
-<p>If the thing is live, messy and costing you sleep, coaching is the right tool. If you want to get the foundations in place first, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is a good place to start. Then come back when it gets live.</p>
+<p>If the thing is live, messy and costing you sleep, I can help. If nothing's on fire but you're serious about getting better, I can help with that too. If you want to get the foundations in place first, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is a good place to start. Then come back when it gets live.</p>
 
 <div class="manager-quote-wall" aria-label="Common new manager worries">
   <figure class="manager-quote-card">
@@ -75,6 +75,10 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
   <figure class="manager-quote-card">
     <blockquote>"I need to decide whether to stay, go, push back, or ask for more."</blockquote>
+  </figure>
+
+  <figure class="manager-quote-card">
+    <blockquote>"I'm not in crisis. I just want someone sharp in my corner while I figure out the next level."</blockquote>
   </figure>
 </div>
 
@@ -124,7 +128,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
     <span class="pricing-badge">Ongoing support</span>
     <p class="pricing-amount">£250/mo</p>
     <p class="pricing-title">The Advisory</p>
-    <p class="pricing-subtitle">When you need a senior leader coach and mentor in your corner.</p>
+    <p class="pricing-subtitle">Not a crisis. A corner. Someone who already knows your situation, every month, without you having to explain it again.</p>
     <ul class="pricing-includes">
       <li>Weeks 1 and 3: you send me one email. I read it and either acknowledge or come back with 2-3 questions or observations.</li>
       <li>Week 2 is yours. Use it. Do the thing.</li>
@@ -177,14 +181,6 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
     <p>I've always believed that when you move into a new situation, the best thing you can do is reach out to people who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
     <p>She coached me through the practical issues and emotional regulation needed to excel in this role, and avoid traps common with people moving into more leadership-oriented positions from technical backgrounds.</p>
     <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
-  </blockquote>
-
-  <blockquote class="testimonial-card">
-    <p class="testimonial-tag">Transformed as a leader</p>
-    <p class="testimonial-pullquote">"Valerie transformed my understanding of what a leader and manager can be."</p>
-    <p>With empathy as her superpower, she created an open, honest and brave space where I felt seen, heard and supported. Using her coaching leadership style she helped me tackle complex people issues and as a result I have grown significantly as a person, leader and manager.</p>
-    <p>Valerie has an infectious enthusiasm which allowed me to be brave and explore new areas I would have shied away from. I also benefitted greatly from her clear, kind and actionable feedback.</p>
-    <p><span class="quote-author">— Tobi Tonner, Brave Leadership Coach</span></p>
   </blockquote>
 
   <blockquote class="testimonial-card">
