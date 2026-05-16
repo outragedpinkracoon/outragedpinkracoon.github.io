@@ -9,7 +9,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
 
 <p>No-bullshit coaching for the messy, human, hard parts of working in tech. From someone who has been in every room this work takes you to. All sessions are remote 1:1, by video or phone.</p>
 
-<p>I help you work out what is actually going on, what matters, and what the hell to do next. Fast when the problem is discrete, sustained when the ground keeps shifting.</p>
+<p>I help you work out what is actually going on, what matters, and what the hell to do next. One session for when everything's on fire. In your corner for when you're ready to level up.</p>
 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
@@ -17,7 +17,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
   <section class="audience-panel audience-panel--manager" id="new-manager-support">
     <p class="audience-panel__price">From £300</p>
     <p class="audience-label">New and growing leaders</p>
-    <h3><a href="/coaching/engineering-managers/">I’m an engineering manager</a></h3>
+    <h3><a href="/coaching/engineering-managers/">I want to be a badass engineering manager</a></h3>
     <p>Whether something’s on fire or you just want someone sharp in your corner while you grow, this is for you.</p>
     <p>From first EM role through to Head of Engineering. Feedback, conflict, team chaos, managing up, and the realisation there’s no undo button for people. Or: nothing’s broken, you’re just serious about getting better. The Advisory is for that.</p>
     <p><a class="pricing-cta" href="/coaching/engineering-managers/">Help me manage humans</a></p>
