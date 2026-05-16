@@ -11,25 +11,17 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p class="page-intro"><strong>Maybe you just got promoted. Maybe you've been doing it a while and you want to get properly good at it.</strong></p>
 
-<p>Either way, you're responsible for actual humans now. You cannot hide in your IDE anymore. And there's no undo button for people.</p>
+<p>Either way, you're responsible for actual humans now.</p> 
+<p>Humans below you that need support and humans above you that want answers.</p>
 
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £350.</p>
+<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Sessions from £350.</p>
 
-<div class="pull-quote" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career.</div>
+<p>We'll tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career. Whether something's on fire or you're just serious about getting better. This is not generic life coaching. It's Val-gets-it, we'll-sort-it coaching.</p>
 
-<p>Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does. That's what The Advisory is for. Monthly. Ongoing. No re-briefing.</p>
-
-<p>As a Fractional CTO / VP Engineering, ILM certified Executive Coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly.</p>
-
+<p class="callout callout--teal">I've been a manager for over a decade and operated at all levels in the organisation. I know what you're living, what you're trying to achieve and what you're not saying.</p>
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
-
-<h2>Who I work with</h2>
-
-<p>Tech leads and engineering managers who do not want to become the worst manager they ever had. People who have just stepped into the role, people who have been doing it a while, and people growing towards Head of Engineering who need someone to pressure-test the hard calls with.</p>
-
-<p>If the thing is live, messy and costing you sleep, I can help. If nothing's on fire but you're serious about getting better, I can help with that too. If you want to get the foundations in place first, my self-paced course <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em>&trade;<span class="sr-only"> (opens in new tab)</span></a> is a good place to start. Then come back when it gets live.</p>
 
 <div class="manager-quote-wall" aria-label="Common new manager worries">
   <figure class="manager-quote-card">
@@ -77,8 +69,6 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </figure>
 </div>
 
-<p>Note, if you work at head of+ level and are making calls alone with no manager above you to reality-check them, <a href="/coaching/founders/">executive coaching is available</a>. This service is only for front line engineering managers</p>
-
 {% include session-process.html %}
 
 <p>Still thinking "yes, but what even <em>is</em> a coach?" I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What's A Coach Anyway?</a></p>
@@ -88,9 +78,8 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 <h2>Pricing</h2>
 
 <p>Most clients expense this through their L&D budget. It fits within a standard allowance. If you are self-funding, <a href="/coaching/funding/">there are options worth knowing about.</a></p>
-<p>Not sure if this is the right fit? If you're at CTO or VP level with no manager above you, <a href="/coaching/founders/">exec coaching is probably what you need.</a></p>
 
-<div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
+<p>Note this service is only for front line engineering managers (EM, SEM, Head of a small team), otherwise <a href="/coaching/founders/">executive coaching is available</a>.</p>
 
 <div class="pricing-table" aria-label="Coaching prices">
   <div class="pricing-card pricing-card--featured">
