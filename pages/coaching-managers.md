@@ -70,6 +70,8 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </figure>
 </div>
 
+{% include why-work-with-me.html %}
+
 {% include session-process.html %}
 
 {% include what-happens-next.html %}

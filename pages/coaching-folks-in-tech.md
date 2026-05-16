@@ -63,17 +63,7 @@ description: ILM-certified coaching for folks in tech who want more power, more 
   </figure>
 </div>
 
-<h2>Why Work With Me</h2>
-
-<p>I've led teams, held power, and navigated enough org politics to know what it actually costs. I've coached people through missed promotions, bad bosses, masking, burnout, and some situations that were genuinely not their fault. And I've lived the same situations myself and know how to deal with them.</p>
-
-<div class="callout--teal callout" style="margin-top: 0.5rem;">I don't reduce being overlooked, underestimated, or exhausted to "have you tried believing in yourself more?"</div>
-
-<p>I know what it's like to be good at what you do and still have to fight to be read accurately. And I know what it looks like when you stop absorbing the cost to youself and use your energy to build something better.</p>
-
-<p>We can't change the system. But we can change how you move within it, and how it makes you feel.</p>
-
-<p>I'm autistic, which means I don't do performative nonsense. What you get is focus, directness, kindness, and someone who will get to the ugly little truth of it faster than you expect.</p>
+{% include why-work-with-me.html %}
 
 {% include session-process.html %}
 
