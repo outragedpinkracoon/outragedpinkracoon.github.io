@@ -21,7 +21,7 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
 
 <div class="callout callout--teal" style="clear: both; margin-top: 2rem;">We get to the actual problem fast. Not the one you came in with. The one underneath it.</div>
 
-<p>As a Fractional CTO / VP Engineering and ILM certified Executive Coach, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have been coaching founders through exactly this for six years. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
+<p>As a seasoned VP Engineering/CTO and ILM certified Executive Coach, I have been in the room where these calls get made. I have led at exec level inside companies up to $300M ARR. I have been coaching founders through exactly this for six years. I know what this looks like, I know what it costs, and I am not going to waste your time getting up to speed.</p>
 
 <h2>Who I work with</h2>
 
@@ -75,7 +75,7 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
 
 <p>Because I have been in this room. Not as an observer. As the person making the calls, holding the team, carrying the weight of it, and figuring out how to keep functioning while all of that is happening.</p>
 
-<p>I spent nearly two decades in tech. I have led organisations of 120+ people. I have been the person brought in as Acting CTO when things were on fire. I have spent six years coaching founders through the specific chaos of building something from nothing while also becoming a manager, a leader, and sometimes an accidental therapist to everyone around them.</p>
+<p>I spent nearly two decades in tech. I have led organisations of 120+ people. I have been the person brought in time and time again when things were on fire or needed scaled sustainably. I have spent six years coaching founders through the specific chaos of building something from nothing while also becoming a manager, a leader, and sometimes an accidental therapist to everyone around them.</p>
 
 <p>I know what it is to be the person everyone needs to look steady. I also know that steadiness has a cost, and what to do when you are running out of it.</p>
 
