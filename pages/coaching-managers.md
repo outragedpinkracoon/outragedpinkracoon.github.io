@@ -72,8 +72,6 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 {% include session-process.html %}
 
-<p>Still thinking "yes, but what even <em>is</em> a coach?" I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What's A Coach Anyway?</a></p>
-
 {% include what-happens-next.html %}
 
 <h2>Pricing</h2>
