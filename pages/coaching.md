@@ -18,7 +18,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
     <p class="audience-panel__price">From £300</p>
     <p class="audience-label">New and growing leaders</p>
     <h3><a href="/coaching/engineering-managers/">I want to be a badass engineering manager</a></h3>
-    <p>Whether something’s on fire or you just want someone sharp in your corner while you grow, this is for you.</p>
+    <p>Whether something’s on fire or you just want someone who’s got your back while you grow, this is for you.</p>
     <p>From first EM role through to Head of Engineering. Feedback, conflict, team chaos, managing up, and the realisation there’s no undo button for people. Or: nothing’s broken, you’re just serious about getting better. The Advisory is for that.</p>
     <p><a class="pricing-cta" href="/coaching/engineering-managers/">Help me manage humans</a></p>
   </section>

@@ -78,7 +78,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I'm not in crisis. I just want someone sharp in my corner while I figure out the next level."</blockquote>
+    <blockquote>"I'm not in crisis. I just want someone who's got my back while I figure out the next level."</blockquote>
   </figure>
 </div>
 
