@@ -89,7 +89,7 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
   </li>
   <li>
     <span class="process-step__number">02</span>
-    <h3>I get to the ugly little truth of it</h3>
+    <h3>I get to the heart of it, fast</h3>
     <p>You tell me what is going on. We work out what the actual decision is, what the real constraint is, and where the pressure is really coming from. Not the version you've been telling everyone else.</p>
   </li>
   <li>

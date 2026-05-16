@@ -16,12 +16,17 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Sessions from £350.</p>
 
-<p>We'll tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career. Whether something's on fire or you're just serious about getting better. This is not generic life coaching. It's Val-gets-it, we'll-sort-it coaching.</p>
+<p>We'll tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career. Whether something's on fire or you're just serious about getting better. This is not generic life coaching.</p> 
+
+<p>It's Val-gets-it, we'll-sort-it coaching.</p>
 
 <p class="callout callout--teal">I've been a manager for over a decade and operated at all levels in the organisation. I know what you're living, what you're trying to achieve and what you're not saying.</p>
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
+<h2>Who I work with</h2>
+
+<p>Front line engingeering managers (EM, SEM, Head of a small team) that want to grow, be a badass manager or get some immediate help with whatever is keeping them up at 2am.</p>
 
 <div class="manager-quote-wall" aria-label="Common new manager worries">
   <figure class="manager-quote-card">
@@ -37,7 +42,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"My team is a mess and I don't know what to do first."</blockquote>
+    <blockquote>"My team is a mess and I don't know what to do."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
@@ -50,10 +55,6 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
   <figure class="manager-quote-card">
     <blockquote>"I got here by being good at the job. Now the job is making other people good at the job. Help."</blockquote>
-  </figure>
-
-  <figure class="manager-quote-card">
-    <blockquote>"My line reports keep coming to me with every decision. Is it me or them that's doing it wrong?"</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
