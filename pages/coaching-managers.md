@@ -9,26 +9,21 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p class="page-intro"><strong>You've been promoted. Congratulations. Also: holy shit.</strong></p>
+<p class="page-intro"><strong>Maybe you just got promoted. Maybe you've been doing it a while and you want to get properly good at it.</strong></p>
 
-<p>Now you're responsible for actual humans, and suddenly you cannot hide in your IDE anymore.</p>
-
-<p>Everyone suddenly expects you to know how to lead, give feedback, handle conflict, and somehow cope with the realisation that there's no undo button for people.</p>
+<p>Either way, you're responsible for actual humans now. You cannot hide in your IDE anymore. And there's no undo button for people.</p>
 
 <p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £350.</p>
-
-<p>This page is for managers who have people above them and people below them. You are operating inside a structure: navigating your team, your peers, your manager, and the organisation all at once.</p>
-
-<p>If you are at the top with no one above you and the calls land on your desk alone, that is a different problem and a different kind of support. <a href="/coaching/founders/">Exec coaching is what you need.</a></p>
-
-<div style="clear: left;">{% include credibility-strip.html %}</div>
-
-<p>As a Fractional CTO / VP Engineering, ILM certified Executive Coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly. Without the HR varnish, the corporate euphemisms, or weeks of polite pissing about.</p>
-
 
 <div class="pull-quote" style="clear: both; margin-top: 2rem;">We tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career.</div>
 
 <p>Sometimes that takes one session. Sometimes the situation keeps evolving and you need someone in your corner while it does. That's what The Advisory is for. Monthly. Ongoing. No re-briefing.</p>
+
+<p>As a Fractional CTO / VP Engineering, ILM certified Executive Coach, and creator of <a href="https://www.holyshitimamanager.com/course/engineering-manager-first-aid" target="_blank" rel="noopener noreferrer"><em>Holy Shit I'm a Manager</em><span class="sr-only"> (opens in new tab)</span></a>, I help managers get better quickly.</p>
+
+
+<div style="clear: left;">{% include credibility-strip.html %}</div>
+
 
 <h2>Who I work with</h2>
 
@@ -93,6 +88,7 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
 <h2>Pricing</h2>
 
 <p>Most clients expense this through their L&D budget. It fits within a standard allowance. If you are self-funding, <a href="/coaching/funding/">there are options worth knowing about.</a></p>
+<p>Not sure if this is the right fit? If you're at CTO or VP level with no manager above you, <a href="/coaching/founders/">exec coaching is probably what you need.</a></p>
 
 <div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
 
