@@ -121,17 +121,17 @@ description: Engineering manager coaching from an ILM-certified neurodivergent e
   </div>
 
   <div class="pricing-card">
-    <span class="pricing-badge">Already a client</span>
+    <span class="pricing-badge">Ongoing support</span>
     <p class="pricing-amount">£250/mo</p>
     <p class="pricing-title">The Advisory</p>
-    <p class="pricing-subtitle">For when the work is done and you just need someone watching your back.</p>
+    <p class="pricing-subtitle">When you need a senior leader coach and mentor in your corner.</p>
     <ul class="pricing-includes">
       <li>Weeks 1 and 3: you send me one email. I read it and either acknowledge or come back with 2-3 questions or observations.</li>
       <li>Week 2 is yours. Use it. Do the thing.</li>
       <li>Week 4: 30 minutes on a call. I already have the context from your week 3 email. We get straight into it.</li>
       <li>No re-briefing. No starting over. I already know your situation.</li>
     </ul>
-    <p class="pricing-detail">This is for existing clients only. If we have not worked together yet, <a href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">get in touch</a> and we will go from there.</p>
+    <p class="pricing-detail">New to working with me? No problem. We'll start with a short discovery call to make sure it's the right fit before anything is booked.</p>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Advisory%20Enquiry">Let's do this</a>
   </div>
 

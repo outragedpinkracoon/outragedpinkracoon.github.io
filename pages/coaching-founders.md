@@ -167,7 +167,7 @@ description: Coaching for founders, CTOs and senior engineering leaders from an 
       <li>Week 4: 30 minutes on a call. I already have the context from your week 3 email. We get straight into it.</li>
       <li>No re-briefing. No starting over. I already know your situation.</li>
     </ul>
-    <p class="pricing-detail">This is for existing clients only. If we have not worked together yet, <a href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">get in touch</a> and we will go from there.</p>
+    <p class="pricing-detail">New to working with me? No problem. We'll start with a short discovery call to make sure it's the right fit before anything is booked.</p>
     <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Retainer%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20talk%20about%20ongoing%20retainer%20support.">Let's do this</a>
   </div>
 
