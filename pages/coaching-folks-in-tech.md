@@ -124,31 +124,28 @@ description: ILM-certified coaching for folks in tech who want more power, more 
 <div class="testimonial-grid">
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">Growth and clarity</p>
-    <p class="testimonial-pullquote">"Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time."</p>
-    <p>With a strong growth mindset, Valerie is constantly pushing the boundaries to bring out the best in herself and others around her. Her dedication to learning, sharing knowledge and wisdom has uplifted and accelerated the growth of so many people around her.</p>
-    <p>She's passionate about creating safe environments for people to thrive and achieve. Valerie has extraordinary listening skills and an uncanny ability to ask the right questions at the right time. I admire her technical acumen and emotional intelligence to drive things forward.</p>
-    <p><span class="quote-author">— Kishor Patel, VP Application Development @ Vortexa</span></p>
+    <p class="testimonial-pullquote">"Val brought a rare combination of honesty, humour and practical strategy to our coaching sessions."</p>
+    <p>I've worked with Val both as a colleague at Thirdfort and as my career coach since 2023, and she's had a significant impact on my career.</p>
+    <p>When I started working with Val I was unsure which direction I wanted to take my career in, and was failing to thrive in my work environment. She helped me identify my core values, what I actually wanted from my career and how to make the most of my current situation. That clarity made a real difference to my future career plans and day to day working life.</p>
+    <p>Val brought a rare combination of honesty, humour and practical strategy to our coaching sessions. Providing a valuable sounding board for ideas, she knows when to challenge and when to offer advice.</p>
+    <p>If you're an engineer, manager or technical leader looking for a coach who genuinely understands the industry from the perspective of neurodivergent woman you need to speak to Val.  Five stars, no notes.</p>
+    <p><span class="quote-author">—  Bee Flaherty, Lead Developer @ Thirdfort</span></p>
   </blockquote>
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">One of a kind</p>
-    <p class="testimonial-pullquote">"You will find it hard to find a more passionate people manager anywhere."</p>
-    <p>Val is quite simply one of a kind, for all the right reasons. Everyone that encounters her is drawn in by her energy, enthusiasm, technical prowess but most importantly her desire to improve people. You will find it hard to find a more passionate people manager anywhere.</p>
-    <p>She is a breath of fresh air and would do everything in her power to look after her people.</p>
-    <p><span class="quote-author">— Stephen Hill, Tech Recruiter & Meetup Organiser</span></p>
+    <p class="testimonial-pullquote">"I spent half an hour talking to Val and everything changed"</p>
+    <p>When Val started coaching me, I was at the lowest ebb of my career. Demoralised, dejected, more than a little pissed off. I was absolutely ready to throw in the towel. Then I spent half an hour talking to Val and everything changed. I think I still have whiplash from how suddenly she changed my situation.</p>
+    <p>She saw me at a point when I'd almost stopped being able to see myself. She recognised something worth backing and gave me the space to start proving it. For the first time in a long time, I know where I'm going - and that's because of Val.</p>
+    <p>I cannot thank Val enough. I will continue to ask myself "What would Val do?" - to lead with kindness, honesty and humanity. I look forward to working with Val again.</p>
+    <p><span class="quote-author">— Engineering Manager @ MedTech</span></p>
   </blockquote>
+  
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">New leadership role</p>
     <p class="testimonial-pullquote">"She coached me through the practical issues and emotional regulation needed to excel."</p>
     <p>I've always believed that when you move into a new situation, the best thing you can do is reach out to folks who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
     <p>She coached me through the practical issues and emotional regulation needed to excel in this role, and avoid traps common with folks moving into more leadership-oriented positions from technical backgrounds.</p>
     <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
-  </blockquote>
-  <blockquote class="testimonial-card">
-    <p class="testimonial-tag">Transformed as a leader</p>
-    <p class="testimonial-pullquote">"Valerie transformed my understanding of what a leader and manager can be."</p>
-    <p>With empathy as her superpower, she created an open, honest and brave space where I felt seen, heard and supported. Using her coaching leadership style she helped me tackle complex people issues and as a result I have grown significantly as a person, leader and manager.</p>
-    <p>Valerie has an infectious enthusiasm which allowed me to be brave and explore new areas I would have shied away from.</p>
-    <p><span class="quote-author">— Tobi Tonner, Brave Leadership Coach</span></p>
   </blockquote>
   <blockquote class="testimonial-card">
     <p class="testimonial-tag">Safe and inclusive</p>
