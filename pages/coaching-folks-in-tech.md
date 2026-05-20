@@ -5,6 +5,17 @@ title: No-bullshit Coaching for Folks in Tech — Specialist Support for Neurodi
 display_title: Coaching for folks in tech
 title_sub: who want more power, more credit, and less bullshit.
 description: ILM-certified coaching for folks in tech who want more power, more credit, and less bullshit. Specialist support for neurodivergent, queer and disabled people.
+schema_offers:
+  - name: "The Decisive Hour"
+    description: "One session. One thing you need to think clearly about."
+    price: "300"
+    priceCurrency: "GBP"
+    priceValidUntil: "2026-12-31"
+  - name: "The Campaign"
+    description: "Four sessions across 4-6 weeks. For a situation that needs sustained focus."
+    price: "750"
+    priceCurrency: "GBP"
+    priceValidUntil: "2026-12-31"
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">

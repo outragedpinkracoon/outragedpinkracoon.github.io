@@ -3,8 +3,29 @@ layout: info_page
 permalink: /coaching/founders/
 title: Coaching for Founders, CTOs and Senior Engineering Leaders in Tech
 display_title: Coaching for founders, CTOs and senior leaders
-title_sub: because making hard calls alone sucks.
+title_sub: you don't have to make hard calls alone.
 description: Coaching for founders, CTOs and senior engineering leaders from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for hard calls and people chaos.
+schema_offers:
+  - name: "The Decisive Hour"
+    description: "One session. When you need to think clearly before you act — a decision, a conversation, or a situation you cannot afford to get wrong."
+    price: "1000"
+    priceCurrency: "GBP"
+    priceValidUntil: "2026-12-31"
+  - name: "The Campaign"
+    description: "Four sessions across 4-6 weeks. For a situation that is unfolding — a fundraise, a restructure, a co-founder conflict."
+    price: "2500"
+    priceCurrency: "GBP"
+    priceValidUntil: "2026-12-31"
+  - name: "Strategic Partnership"
+    description: "Six months of sustained support. For the stretch where the ground keeps shifting and you need someone consistently in your corner."
+    price: "5000"
+    priceCurrency: "GBP"
+    priceValidUntil: "2026-12-31"
+  - name: "The Advisory"
+    description: "Monthly retainer. 30 minutes on a call plus two email check-ins. Ongoing strategic support for when the work is done and you need someone watching your back."
+    price: "750"
+    priceCurrency: "GBP"
+    priceValidUntil: "2026-12-31"
 ---
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">

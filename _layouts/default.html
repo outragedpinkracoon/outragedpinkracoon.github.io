@@ -59,37 +59,21 @@
             "audienceType": "Engineering managers, founders, CTOs, and folks in tech navigating the messy, human, hard parts of working in tech"
           },
           "description": {{ page.description | jsonify }},
-          "url": "{{ site.url }}{{ page.url }}",
+          "url": "{{ site.url }}{{ page.url }}"{% if page.schema_offers %},
           "hasOfferCatalog": {
             "@type": "OfferCatalog",
             "name": "Coaching sessions",
             "itemListElement": [
-              {
+              {% for offer in page.schema_offers %}{% unless forloop.first %},{% endunless %}{
                 "@type": "Offer",
-                "name": "Single session",
-                "description": "One hour, remote, one-to-one.",
-                "price": "400",
-                "priceCurrency": "GBP",
-                "priceValidUntil": "2026-12-31"
-              },
-              {
-                "@type": "Offer",
-                "name": "Bundle of 3 sessions",
-                "description": "Three one-hour remote sessions. £200 saving vs. single sessions.",
-                "price": "1000",
-                "priceCurrency": "GBP",
-                "priceValidUntil": "2026-12-31"
-              },
-              {
-                "@type": "Offer",
-                "name": "6 session programme",
-                "description": "Six sessions with guaranteed calendar slots. £400 saving vs. single sessions. For sustained support across a longer period.",
-                "price": "2000",
-                "priceCurrency": "GBP",
-                "priceValidUntil": "2026-12-31"
-              }
+                "name": {{ offer.name | jsonify }},
+                "description": {{ offer.description | jsonify }},
+                "price": {{ offer.price | jsonify }},
+                "priceCurrency": {{ offer.priceCurrency | jsonify }},
+                "priceValidUntil": {{ offer.priceValidUntil | jsonify }}
+              }{% endfor %}
             ]
-          }
+          }{% endif %}
         },
         {
           "@type": "FAQPage",
@@ -116,7 +100,7 @@
               "name": "How much does coaching cost?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "A single one-hour session is £400. A bundle of three sessions is £1,000, saving £200 compared with single sessions. A 6-session programme is £2,000, with guaranteed calendar slots for the duration."
+                "text": "Pricing varies by audience and format. One-off sessions, short campaign packages, and monthly retainers are available. See the pricing section on each coaching page for current rates."
               }
             },
             {
