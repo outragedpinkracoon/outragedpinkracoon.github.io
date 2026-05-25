@@ -8,12 +8,28 @@ description: "Val Dryden is an ILM-certified neurodivergent executive coach and 
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p class="page-intro"><strong>Tech is a wild place. More so when you are neurodivergent, queer and disabled.</strong></p>
+<p class="page-intro"><strong>I was about 7 years into my career when I noticed most managers sucked.</strong></p>
 
-<p>I started in engineering and worked my way through pretty much every language, sector, and company size going. InsureTech, FinTech, MedTech, AppSec. Skyscanner, Deliveroo, Snyk. Big names, big scary technical estates, big f*cking problems. I loved it.</p>
-<p>Then I realised every manager I'd ever had was terrible, and none of them looked anything like me. So I decided to become the manager I never had. For a decade I ran teams from 10 to 150+, across Series A to Series G, on the front line and on exec. I know what it takes to build something real under pressure, to change a culture that wasn't working, and to come out the other side with your principles intact.</p>
-<p class="callout callout--teal">Racoons don't belong anywhere, but they thrive anyway.</p>
+<p>I started in engineering and worked my way through pretty much every language, sector, and company size going. Big scary technical estates, big f*cking problems.</p>
 
+<p>I loved the work but I felt every bit of the missing mentorship, the lack of support, the constant wondering if I belonged.</p>
+
+<p>Then I realised every manager I'd ever had was terrible, and none of them looked anything like me.</p> 
+<p>Never mind the neurodivergent, queer and disabled version of me.</p>
+
+<p>Turns out I wasn't imagining it. 82% of UK managers are thrown into their roles without formal training. One in three employees quits because of poor management.</p>
+
+<p>Not because managers try to be terrible. Because nobody told them what was expected of them. Or what great looked like.</p>
+
+<p>I kept meeting those managers. So I decided to do something about it.</p>
+
+<p class="callout callout--teal">Racoons don't belong anywhere, but they thrive anyway!</p>
+
+<p>For nearly a decade I've been running fun, inclusive, high-performing engineering teams of 150+ from Series A to Series G, across more sectors and tech stacks than I've read romantasy books. And I read a lot.</p>
+
+<p>I made <a href="https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/home">the course I wish I had</a> when I first had that "holy shit I'm a manager!" moment.
+
+<p>I became an ILM Level 5 qualified executive coach, but the real qualification is the decade of doing it.</p>
 
 <h2>The kind of coach I am</h2>
 
