@@ -31,7 +31,7 @@ schema_offers:
 
 <p>Or maybe nothing is on fire. Maybe you have just realised you want more than this, and you are done trying to earn it the hard way.</p>
 
-<p>As a Fractional CTO / VP Engineering, ILM certified Executive Coach, neurodivergent, queer and disabled person, I help folks in tech stop circling the same problem and make a cleaner move.</p> 
+<p>As a VP Engineering, ILM certified Executive Coach, neurodivergent, queer and disabled person, I help folks in tech get unstuck or levelled up.</p> 
 
 <p>Sometimes that's one super-focussed conversation. Sometimes you need someone who already knows the context while you navigate the thing that keeps coming back to you at 3am in the morning.</p>
 

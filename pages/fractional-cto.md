@@ -1,6 +1,7 @@
 ---
 layout: info_page
 permalink: /fractional-cto/
+published: false
 title: Fractional CTO / VP Engineering Services for Tech Startups and Scale-ups
 display_title: Fractional CTO / VP Eng
 title_sub: on the ground, no corporate bullshit.

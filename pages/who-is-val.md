@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /who-is-val/
-title: Who Is Val Dryden? Fractional CTO / VP Engineering and Executive Coach
+title: Who Is Val Dryden?
 display_title: Who is Val?
 title_sub: "Oh so many things."
-description: "Val Dryden is an ILM-certified neurodivergent executive coach and fractional CTO/VP Engineering. No-bullshit support for the messy, human, hard parts of tech."
+description: "Val Dryden is an ILM-certified neurodivergent executive coach and VP Engineering. No-bullshit support for the messy, human, hard parts of tech."
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
