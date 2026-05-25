@@ -91,63 +91,7 @@ schema_offers:
 {% include session-process.html %}
 
 {% include what-happens-next.html %}
-
-<h2>Pricing</h2>
-
-<p>Most clients expense this through their L&D budget. It fits within a standard allowance. If you are self-funding, <a href="/coaching/funding/">there are options worth knowing about.</a></p>
-
-<p>Note this service is only for front line engineering managers (EM, SEM, Head of a small team), otherwise <a href="/coaching/founders/">executive coaching is available</a>.</p>
-
-<div class="pricing-table" aria-label="Coaching prices">
-  <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">One hard call</span>
-    <p class="pricing-amount">£350</p>
-    <p class="pricing-title">The Decisive Hour</p>
-    <p class="pricing-subtitle">One session. When you need to think clearly before you act.</p>
-    <ul class="pricing-includes">
-      <li>You have a decision, a conversation, or a situation you want to get right.</li>
-      <li>We get to what's actually going on fast. Not the surface version. The real one.</li>
-      <li>You leave knowing what you think, what you're going to do, and why.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
-  </div>
-
-  <div class="pricing-card">
-    <span class="pricing-badge">A situation to navigate</span>
-    <p class="pricing-amount">£800</p>
-    <p class="pricing-title">The Campaign</p>
-    <p class="pricing-subtitle">Three sessions. When one conversation won't be enough.</p>
-    <p class="pricing-saving">Save £250 vs. booking separately</p>
-    <ul class="pricing-includes">
-      <li>You make a move, see what it kicks up, and get support on what comes next.</li>
-      <li>I already know the context. No re-briefing, no starting over.</li>
-      <li>For the situation that has more layers than you thought when you started.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
-  </div>
-
-  <div class="pricing-card">
-    <span class="pricing-badge">In your corner</span>
-    <p class="pricing-amount">£250/mo</p>
-    <p class="pricing-title">The Advisory</p>
-    <p class="pricing-subtitle">Not a crisis. A corner. Someone who already knows your situation, every month, without you having to explain it again.</p>
-    <ul class="pricing-includes">
-      <li>Weeks 1 and 3: you send me one email. I read it and either acknowledge or come back with 2-3 questions or observations.</li>
-      <li>Week 2 is yours. Use it. Do the thing.</li>
-      <li>Week 4: 30 minutes on a call. I already have the context from your week 3 email. We get straight into it.</li>
-      <li>No re-briefing. No starting over. I already know your situation.</li>
-    </ul>
-    <p class="pricing-detail">New to working with me? No problem. We'll start with a short discovery call to make sure it's the right fit before anything is booked.</p>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Advisory%20Enquiry">Let's do this</a>
-  </div>
-
-</div>
-
-<p class="pricing-terms">All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
-
-<h2>Got a team to sort out?</h2>
-
-<p>If you are a CTO or engineering lead who wants your managers coached in bulk, that is a different thing. Same direct, no-bullshit approach — just for multiple people at once. Rates vary by team size and format. <a href="/coaching/teams/">Read about team and organisation coaching.</a></p>
+{% include pricing.html %}
 
 <h2>Real people saying real things</h2>
 
@@ -159,6 +103,16 @@ schema_offers:
     <p>She's helped me identify the ways to be most impactful, organise my thinking when facing complex problems, and navigate challenging interpersonal struggles. Above all, she's helped me see clearly my strongest traits, which I may not have seen in myself otherwise.</p>
     <p>Her coaching gave me a huge boost in both confidence and competence, and helped me appreciate my strengths and seize opportunities to excel in my career.</p>
     <p><span class="quote-author">— Teri Drummond, VP Engineering @ Speechmatics</span></p>
+  </blockquote>
+
+  <blockquote class="testimonial-card">
+    <p class="testimonial-tag">Growth and clarity</p>
+    <p class="testimonial-pullquote">"Val brought a rare combination of honesty, humour and practical strategy to our coaching sessions."</p>
+    <p>I've worked with Val both as a colleague at Thirdfort and as my career coach since 2023, and she's had a significant impact on my career.</p>
+    <p>When I started working with Val I was unsure which direction I wanted to take my career in, and was failing to thrive in my work environment. She helped me identify my core values, what I actually wanted from my career and how to make the most of my current situation. That clarity made a real difference to my future career plans and day to day working life.</p>
+    <p>Val brought a rare combination of honesty, humour and practical strategy to our coaching sessions. Providing a valuable sounding board for ideas, she knows when to challenge and when to offer advice.</p>
+    <p>If you're an engineer, manager or technical leader looking for a coach who genuinely understands the industry from the perspective of neurodivergent woman you need to speak to Val.  Five stars, no notes.</p>
+    <p><span class="quote-author">—  Bee Flaherty, Lead Developer @ Thirdfort</span></p>
   </blockquote>
 
   <blockquote class="testimonial-card">
@@ -183,14 +137,6 @@ schema_offers:
     <p>I've always believed that when you move into a new situation, the best thing you can do is reach out to people who have been there and done it. Little did I know when I reached out to Valerie the huge impact it would have on me.</p>
     <p>She coached me through the practical issues and emotional regulation needed to excel in this role, and avoid traps common with people moving into more leadership-oriented positions from technical backgrounds.</p>
     <p><span class="quote-author">— Philip Hayton, R&amp;D Team Leader @ Cycode</span></p>
-  </blockquote>
-
-  <blockquote class="testimonial-card">
-    <p class="testimonial-tag">Best manager I've had</p>
-    <p class="testimonial-pullquote">"Val is quite simply the best manager I've ever had."</p>
-    <p>She has helped me to grow and develop and learn in ways I had not considered before — by showing me how to reflect and have confidence in the skills and experience I already have, and where to focus new learning. She gave me the tools, freedom, resources, and connections I need to flourish.</p>
-    <p>Val is a true leader, leading by example, and allowing those she leads to be their best.</p>
-    <p><span class="quote-author">— Barry Northern, Lead Engineer @ Thirdfort</span></p>
   </blockquote>
 </div>
 
