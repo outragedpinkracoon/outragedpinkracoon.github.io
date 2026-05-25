@@ -83,42 +83,7 @@ schema_offers:
 <p>Still thinking "yes, but what even <em>is</em> a coach?" I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What's A Coach Anyway?</a></p>
 
 {% include what-happens-next.html %}
-
-<h2>Pricing</h2>
-
-<p>Most clients expense a single session through their employer's L&D budget — it fits within a standard allowance. If you're a disabled person or have a health condition that affects your work, <a href="/coaching/funding/#access-to-work">Access to Work</a> can fund coaching — up to £66,000 a year, no repayment. <a href="/coaching/funding/">Find out more about funding options.</a></p>
-
-<div class="callout callout--teal"><p>All sessions are remote. If you'd rather be away from your screen, on a walk or just outside, we can do that as a phone call instead. Your brain might appreciate it.</p></div>
-
-<div class="pricing-table" aria-label="Coaching prices">
-  <div class="pricing-card pricing-card--featured">
-    <span class="pricing-badge">One hard call</span>
-    <p class="pricing-amount">£300</p>
-    <p class="pricing-title">The Decisive Hour</p>
-    <p class="pricing-subtitle">One session. When you need to think clearly before you act.</p>
-    <ul class="pricing-includes">
-      <li>You have a decision, a conversation, or a situation you want to get right.</li>
-      <li>We get to what's actually going on fast. Not the surface version. The real one.</li>
-      <li>You leave knowing what you think, what you're going to do, and why.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
-  </div>
-  <div class="pricing-card">
-    <span class="pricing-badge">A situation to navigate</span>
-    <p class="pricing-amount">£750</p>
-    <p class="pricing-title">The Campaign</p>
-    <p class="pricing-subtitle">Three sessions. When one conversation won't be enough.</p>
-    <p class="pricing-saving">Save £150 vs. booking separately</p>
-    <ul class="pricing-includes">
-      <li>You make a move, see what it kicks up, and get support on what comes next.</li>
-      <li>I already know the context. No re-briefing, no starting over.</li>
-      <li>For the situation that has more layers than you thought when you started.</li>
-    </ul>
-    <a class="pricing-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry">Let's do this</a>
-  </div>
-</div>
-
-<p class="pricing-terms">Payment is agreed before sessions are booked. All sessions are subject to my <a href="/coaching-disclaimer-and-terms/">disclaimer and terms</a>.</p>
+{% include pricing.html %}
 
 <h2>Real folks. Real results.</h2>
 

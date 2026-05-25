@@ -53,7 +53,8 @@ Clients who have concerns about any part of this agreement should raise them wit
 Sessions purchased as part of a bundle or programme must be used within the following periods from the date of purchase:
 
 * The Campaign (3 sessions): 3 months
-* Strategic Partnership (6 sessions): 6 months
+* The Advisory: Monthly sessions expire at the end of each calendar month and cannot be
+  carried forward or refunded.
 
 Sessions not used within these periods lapse without refund. Extensions are not available as a matter of course, but may be considered at the Coach’s sole discretion in exceptional circumstances.
 
@@ -77,18 +78,6 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
 | The Decisive Hour (single session) | £350.00 | — |
 | The Campaign (block of 3) | — | £800.00 (save £250) |
 
-#### Executive coaching (founders and CTOs)
-
-| | Price |
-|---|---|
-| The Decisive Hour (single session) | £1,000.00 |
-| The Campaign (3 sessions) | £2,500.00 (save £500) |
-| Strategic Partnership (6 sessions) | £5,000.00 (save £1,000) |
-| The Advisory (monthly retainer, engineering managers) | £250.00/mo |
-| The Advisory (monthly retainer, founders and CTOs) | £750.00/mo |
-
-New to working with Val? No problem. We'll start with a short discovery call to make sure it's the right fit before anything is booked.
-
 Reduced rates may be agreed on a discretionary basis for self-funding clients. Get in touch to discuss.
 
 ### The Advisory retainer
@@ -103,7 +92,7 @@ Questions and observations offered by the Coach in response to Advisory emails a
 
 The Advisory does not include additional calls, WhatsApp or other messaging, ad hoc emails outside the above structure, or any other form of synchronous or asynchronous contact beyond what is described here. Emails sent outside the week 1 and 3 structure will not receive a substantive response within the retainer.
 
-The Advisory is billed monthly. Either party may cancel with written notice, effective from the following billing month.
+The Advisory is billed monthly a £250. Either party may cancel with written notice, effective from the following billing month.
 
 ### Procedure
 Coaching sessions will take place virtually at times mutually agreed between the Coach and the Client. A calendar invitation with a Google Meet link will be provided for each session.
