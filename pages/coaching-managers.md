@@ -4,7 +4,7 @@ permalink: /coaching/engineering-managers/
 title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
 display_title: Engineering Manager Coaching
 title_sub: because there's no undo button for people.
-description: Engineering manager coaching from an ILM-certified neurodivergent executive coach and CTO/VP Engineering. No-bullshit support for feedback and conflict.
+description: Engineering manager coaching from an ILM-certified neurodivergent executive coach and VP Engineering. No-bullshit support for feedback and conflict.
 schema_offers:
   - name: "The Decisive Hour"
     description: "One 30-minute session. One hard call, one situation."
@@ -12,7 +12,7 @@ schema_offers:
     priceCurrency: "GBP"
     priceValidUntil: "2026-12-31"
   - name: "The Campaign"
-    description: "Four sessions across 4-6 weeks. For a situation that needs sustained focus."
+    description: "3 sessions, for when one conversation isn't enough."
     price: "800"
     priceCurrency: "GBP"
     priceValidUntil: "2026-12-31"

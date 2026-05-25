@@ -7,13 +7,18 @@ title_sub: who want more power, more credit, and less bullshit.
 description: ILM-certified coaching for folks in tech who want more power, more credit, and less bullshit. Specialist support for neurodivergent, queer and disabled people.
 schema_offers:
   - name: "The Decisive Hour"
-    description: "One session. One thing you need to think clearly about."
-    price: "300"
+    description: "One 30-minute session. One hard call, one situation."
+    price: "350"
     priceCurrency: "GBP"
     priceValidUntil: "2026-12-31"
   - name: "The Campaign"
-    description: "Four sessions across 4-6 weeks. For a situation that needs sustained focus."
-    price: "750"
+    description: "3 sessions, for when one conversation isn't enough."
+    price: "800"
+    priceCurrency: "GBP"
+    priceValidUntil: "2026-12-31"
+  - name: "The Advisory"
+    description: "Monthly retainer. 30 minutes on a call plus two email check-ins. Someone who already knows your situation, every month."
+    price: "250"
     priceCurrency: "GBP"
     priceValidUntil: "2026-12-31"
 ---
