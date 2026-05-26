@@ -2532,6 +2532,9 @@ footer {
 .course-hero__text {
   .page-intro {
     margin: 0 0 1rem;
+    font-size: 1.15rem;
+
+    strong { color: $ink; }
   }
 
   > :first-child {
@@ -2543,13 +2546,6 @@ footer {
     line-height: 1.6;
     margin: 0 0 1rem;
   }
-
-  .course-hero__tell {
-    font-family: $font-primary;
-    font-weight: 800;
-    font-size: 1.15rem;
-    color: $magenta;
-  }
 }
 
 .course-hero__cta-row {
@@ -2557,7 +2553,7 @@ footer {
   flex-direction: column;
   align-items: flex-start;
   gap: 0.6rem;
-  margin-top: 1.4rem !important;
+  margin-top: 1.4rem;
 
   .course-hero__cta-note {
     font-family: $font-primary;
