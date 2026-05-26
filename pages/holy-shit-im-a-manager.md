@@ -69,7 +69,7 @@ schema_offers:
   <li><strong>Hands-on activities</strong> to practice in your actual job, not hypothetical scenarios.</li>
   <li><strong>Reflective un-quizzes</strong> that make you think, not check if you were paying attention.</li>
   <li><strong>Ask me directly</strong> via the discussion feature or Slack. I actually answer. Yes, me, actual Val.</li>
-  <li><strong>10-year access</strong> with free updates. The platform insists on an expiry date, so I gave you a decade.</li>
+  <li><strong>Unlimited* access</strong> with free updates.</li>
   <li><strong>A certificate</strong> at the end, for when you want the receipt.</li>
 </ul>
 
