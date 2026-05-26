@@ -7,7 +7,7 @@ title_sub: because there's no undo button for people.
 description: Engineering manager coaching from an ILM-certified neurodivergent executive coach and VP Engineering. No-bullshit support for feedback and conflict.
 schema_offers:
   - name: "The Decisive Hour"
-    description: "One 30-minute session. One hard call, one situation."
+    description: "One 60-minute session. One hard call, one situation."
     price: "350"
     priceCurrency: "GBP"
     priceValidUntil: "2026-12-31"

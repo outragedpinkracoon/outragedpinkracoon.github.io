@@ -562,7 +562,8 @@ body.cb-greyscale {
     .course-preview {
       background: $gs-dark;
       color: $gs-near-white;
-      &:hover { color: $gs-near-white; box-shadow: 2px 2px 0 $gs-mid; }
+      box-shadow: 3px 3px 0 $gs-mid;
+      &:hover { color: $gs-near-white; box-shadow: 5px 5px 0 $gs-mid; }
       &:focus-visible { outline-color: $gs-dark; }
     }
     // distinguish chapters without colour: vary num badge luminance

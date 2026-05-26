@@ -2788,23 +2788,24 @@ footer {
     .course-preview {
       display: inline-flex;
       align-items: center;
-      padding: 0.15rem 0.6rem;
+      padding: 0.2rem 0.65rem;
       font-family: $font-primary;
       font-size: 0.72rem;
       font-weight: 800;
-      letter-spacing: 0.06em;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
       text-decoration: none;
       color: $cream;
-      background: $orange;
-      border-radius: 999px;
+      background: $magenta;
+      box-shadow: 3px 3px 0 $ink;
+      transform: rotate(-2.2deg);
       white-space: nowrap;
       transition: transform 0.12s ease, box-shadow 0.12s ease;
 
       &:hover {
         color: $cream;
-        transform: translate(-1px, -1px);
-        box-shadow: 2px 2px 0 $ink;
+        transform: rotate(0deg) translate(-1px, -1px);
+        box-shadow: 5px 5px 0 $ink;
       }
 
       &:focus-visible {
