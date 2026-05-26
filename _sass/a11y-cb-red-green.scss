@@ -432,4 +432,50 @@ body.cb-red-green {
 
   // Footer
   footer { border-top-color: $cb-blue; }
+
+  // ── Holy Shit course landing page ──────────────────────────────────────
+  // magenta->$cb-blue, teal->$cb-amber, yellow->$cb-yellow, orange->$cb-vermillion, lavender->$cb-sky
+  .course-hero__art img { box-shadow: 10px 10px 0 $cb-blue; }
+  .course-hero__text .course-hero__kicker { color: darken($cb-amber, 12%); }
+  .course-hero__text .course-hero__tell { color: $cb-blue; }
+
+  .course-wins li {
+    box-shadow: 4px 4px 0 $cb-amber;
+    &::before { color: $cb-blue; }
+    &:nth-child(even) { box-shadow: 4px 4px 0 $cb-blue; }
+    &:nth-child(3n)   { box-shadow: 4px 4px 0 $cb-vermillion; }
+  }
+  .course-arc { color: $cb-blue; }
+
+  .course-features li::before { background: $cb-amber; color: #1c1714; }
+
+  .course-chapter {
+    &[open] { box-shadow: 6px 6px 0 $cb-blue; }
+    summary::after { color: $cb-blue; }
+    .course-chapter__num { background: $cb-blue; color: #f7f2e8; }
+    .course-chapter__count { color: darken($cb-amber, 14%); }
+    &:nth-child(2) .course-chapter__num { background: $cb-amber; color: #1c1714; }
+    &:nth-child(3) .course-chapter__num { background: $cb-vermillion; }
+    &:nth-child(4) .course-chapter__num { background: $cb-sky; color: #1c1714; }
+    &:nth-child(5) .course-chapter__num { background: $cb-blue; }
+    &:nth-child(6) .course-chapter__num { background: $cb-amber; color: #1c1714; }
+    &:nth-child(7) .course-chapter__num { background: $cb-vermillion; }
+    &:nth-child(8) .course-chapter__num { background: $cb-sky; color: #1c1714; }
+  }
+
+  .course-buy {
+    background: $cb-blue;
+    box-shadow: 12px 12px 0 $cb-amber;
+    .course-buy__amount { color: $cb-yellow; }
+    .course-buy__list li::before { color: $cb-yellow; }
+    .course-buy__cta {
+      background: $cb-yellow;
+      color: #1c1714;
+      box-shadow: 4px 4px 0 #1c1714;
+      &:hover { color: #1c1714; box-shadow: 6px 6px 0 #1c1714; }
+    }
+  }
+
+  .course-faq__item summary::after,
+  .course-faq__item[open] summary::after { color: $cb-blue; }
 }

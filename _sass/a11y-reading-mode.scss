@@ -301,4 +301,43 @@ body.reading-mode {
     }
   }
 
+  // ── Holy Shit course landing page ──────────────────────────────────────
+  .course-hero__text .course-hero__kicker { color: $reading-teal; }
+  .course-hero__text .course-hero__lead,
+  .course-hero__text .course-hero__tell,
+  .course-arc,
+  .course-final { font-family: $reading-font; color: $reading-magenta; }
+  .course-hero__text .course-hero__lead { font-style: normal; }
+
+  .course-wins li {
+    box-shadow: 4px 4px 0 $reading-teal;
+    &::before { color: $reading-magenta; }
+    &:nth-child(even) { box-shadow: 4px 4px 0 $reading-magenta; }
+  }
+  .course-features li::before { background: $reading-teal; }
+
+  .course-chapter {
+    &[open] { box-shadow: 6px 6px 0 $reading-magenta; }
+    summary { font-family: $reading-font; &::after { color: $reading-magenta; } }
+    .course-chapter__num { background: $reading-magenta; }
+    .course-chapter__count { color: $reading-teal; }
+    &:nth-child(2) .course-chapter__num,
+    &:nth-child(6) .course-chapter__num { background: $reading-teal; }
+  }
+
+  .course-buy {
+    .course-buy__title { font-style: normal; }
+    .course-buy__amount { color: $reading-yellow; font-family: $reading-font; }
+    .course-buy__list li::before { color: $reading-yellow; }
+    .course-buy__cta {
+      background: $reading-yellow;
+      color: #1c1714;
+      &:hover { color: #1c1714; }
+    }
+  }
+
+  .course-faq__item summary {
+    font-family: $reading-font;
+    &::after { color: $reading-magenta; }
+  }
 }

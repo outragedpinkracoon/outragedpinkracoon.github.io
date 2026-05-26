@@ -422,4 +422,47 @@ body.cb-blue-yellow {
 
   // Footer
   footer { border-top-color: #d91a5e; }
+
+  // ── Holy Shit course landing page ──────────────────────────────────────
+  // teal unsafe -> $tri-green; yellow unsafe -> $tri-coral; magenta/orange safe
+  .course-hero__art img { box-shadow: 10px 10px 0 #d91a5e; }
+  .course-hero__text .course-hero__kicker { color: $tri-green; }
+
+  .course-wins li {
+    box-shadow: 4px 4px 0 $tri-green;
+    &:nth-child(even) { box-shadow: 4px 4px 0 #d91a5e; }
+    &:nth-child(3n)   { box-shadow: 4px 4px 0 #c8421a; }
+  }
+
+  .course-features li::before { background: $tri-green; color: #f7f2e8; }
+
+  .course-chapter {
+    &[open] { box-shadow: 6px 6px 0 #d91a5e; }
+    summary::after { color: #d91a5e; }
+    .course-chapter__num { background: #d91a5e; }
+    .course-chapter__count { color: $tri-green; }
+    &:nth-child(2) .course-chapter__num { background: $tri-green; }
+    &:nth-child(3) .course-chapter__num { background: #c8421a; }
+    &:nth-child(4) .course-chapter__num { background: $tri-red; }
+    &:nth-child(5) .course-chapter__num { background: #d91a5e; }
+    &:nth-child(6) .course-chapter__num { background: $tri-green; }
+    &:nth-child(7) .course-chapter__num { background: #c8421a; }
+    &:nth-child(8) .course-chapter__num { background: $tri-red; }
+  }
+
+  .course-buy {
+    box-shadow: 12px 12px 0 $tri-green;
+    .course-buy__amount { color: $tri-coral; }
+    .course-buy__list li::before { color: $tri-coral; }
+    // primary CTA keeps the proven cream-on-coral with ink shadow for contrast on the magenta block
+    .course-buy__cta {
+      background: $tri-coral;
+      color: #1c1714;
+      box-shadow: 4px 4px 0 #1c1714;
+      &:hover { color: #1c1714; box-shadow: 6px 6px 0 #1c1714; }
+    }
+  }
+
+  .course-faq__item summary::after,
+  .course-faq__item[open] summary::after { color: #d91a5e; }
 }

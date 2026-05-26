@@ -497,4 +497,71 @@ body.cb-greyscale {
 
   // Footer
   footer { border-top-color: $gs-dark; }
+
+  // ── Holy Shit course landing page ──────────────────────────────────────
+  .course-hero__art img {
+    border-color: $gs-dark;
+    box-shadow: 10px 10px 0 $gs-mid;
+  }
+  .course-hero__text .course-hero__kicker { color: $gs-mid-dark; }
+  .course-hero__text .course-hero__lead { color: $gs-dark; }
+  .course-hero__text .course-hero__tell { color: $gs-dark; }
+  .course-hero__cta-row .course-hero__cta-note { color: $gs-mid; }
+
+  .course-wins li {
+    background: $gs-near-white;
+    border-color: $gs-dark;
+    box-shadow: 4px 4px 0 $gs-mid;
+    &::before { color: $gs-dark; }
+    &:nth-child(even) { box-shadow: 4px 4px 0 $gs-mid-dark; border-style: dashed; }
+    &:nth-child(3n)   { box-shadow: 4px 4px 0 $gs-mid; border-style: dotted; }
+  }
+  .course-arc { color: $gs-dark; }
+
+  .course-features li {
+    border-bottom-color: rgba($gs-dark, 0.15);
+    &::before { background: $gs-dark; color: $gs-near-white; }
+  }
+
+  .course-chapter {
+    background: $gs-near-white;
+    border-color: $gs-dark;
+    box-shadow: 6px 6px 0 rgba($gs-dark, 0.25);
+    &[open] { box-shadow: 6px 6px 0 $gs-mid-dark; }
+    summary { &:focus-visible { outline-color: $gs-dark; } &::after { color: $gs-dark; } }
+    .course-chapter__num { background: $gs-dark; color: $gs-near-white; }
+    .course-chapter__title { color: $gs-dark; }
+    .course-chapter__count { color: $gs-mid-dark; }
+    ul li { color: $gs-mid-dark; border-bottom-color: rgba($gs-dark, 0.1); }
+    // distinguish chapters without colour: vary num badge luminance
+    &:nth-child(even) .course-chapter__num { background: $gs-mid-dark; }
+    &:nth-child(3n)   .course-chapter__num { background: $gs-mid; }
+  }
+
+  .course-buy {
+    background: $gs-dark;
+    color: $gs-near-white;
+    box-shadow: 12px 12px 0 $gs-mid;
+    .course-buy__eyebrow { color: $gs-light; }
+    .course-buy__title { color: $gs-near-white; }
+    .course-buy__amount { color: $gs-near-white; }
+    .course-buy__terms { color: $gs-light; }
+    .course-buy__pitch { color: $gs-near-white; }
+    .course-buy__list li { color: $gs-near-white; &::before { color: $gs-light; } }
+    .course-buy__cta {
+      background: $gs-near-white;
+      color: $gs-dark;
+      box-shadow: 4px 4px 0 $gs-mid-dark;
+      &:hover { color: $gs-dark; box-shadow: 6px 6px 0 $gs-mid-dark; }
+    }
+    .course-buy__fineprint { color: $gs-light; }
+  }
+
+  .course-faq__item {
+    border-bottom-color: rgba($gs-dark, 0.2);
+    &:first-child { border-top-color: rgba($gs-dark, 0.2); }
+    summary { color: $gs-dark; &:focus-visible { outline-color: $gs-dark; } &::after { color: $gs-dark; } }
+    p { color: $gs-mid-dark; }
+  }
+  .course-final { color: $gs-dark; }
 }
