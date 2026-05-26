@@ -2362,6 +2362,18 @@ blockquote {
   }
 }
 
+// Course page: teal so it layers over the magenta h2 banner as two brand
+// colours rather than a muddy blob. Deliberate full overlap on wider screens.
+.starburst--course {
+  background: $teal;
+  position: relative;
+  z-index: 2;
+
+  @include respond-to('medium') {
+    margin: -8rem 0 1rem 1.5rem;
+  }
+}
+
 .pull-quote {
   font-family: $font-primary;
   font-size: 1.15rem;

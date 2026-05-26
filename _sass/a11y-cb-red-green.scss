@@ -139,6 +139,8 @@ body.cb-red-green {
     background: $cb-blue;
     color: #f7f2e8;
   }
+  // teal -> amber so it stays distinct from the blue h2 banner on the course page
+  .starburst--course { background: $cb-amber; color: #1c1714; }
 
   // HR
   hr::after { background: rgba($cb-blue, 0.35); }

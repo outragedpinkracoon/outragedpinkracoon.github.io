@@ -136,6 +136,7 @@ body.cb-greyscale {
     background: $gs-dark;
     color: $gs-near-white;
   }
+  .starburst--course { background: $gs-mid-dark; }
 
   // HR
   hr::after { background: rgba($gs-mid, 0.35); }
