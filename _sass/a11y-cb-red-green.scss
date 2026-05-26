@@ -150,6 +150,8 @@ body.cb-red-green {
     li:nth-child(3) { background: $cb-blue;       box-shadow: 5px 5px 0 #1c1714; }
     li:nth-child(4) { background: lighten($cb-sky, 24%); box-shadow: 5px 5px 0 #1c1714; a, .date { color: #1c1714; } }
     li:nth-child(5) { background: $cb-amber;      box-shadow: 5px 5px 0 $cb-blue; }
+    li:nth-child(6) { background: $cb-amber;      box-shadow: 5px 5px 0 #1c1714; }
+    li:nth-child(7) { background: $cb-vermillion; box-shadow: 5px 5px 0 #1c1714; }
     li a { color: #f7f2e8; }
   }
 

@@ -147,6 +147,8 @@ body.cb-greyscale {
     li:nth-child(3) { background: $gs-dark;     box-shadow: 5px 5px 0 $gs-mid-dark; a { color: $gs-near-white; } }
     li:nth-child(4) { background: $gs-mid-light; box-shadow: 5px 5px 0 $gs-dark;    a, .date { color: $gs-dark; } }
     li:nth-child(5) { background: $gs-mid;      box-shadow: 5px 5px 0 $gs-mid-dark; a { color: $gs-near-white; } }
+    li:nth-child(6) { background: $gs-mid;      box-shadow: 5px 5px 0 $gs-dark;     a { color: $gs-near-white; } }
+    li:nth-child(7) { background: $gs-mid-dark; box-shadow: 5px 5px 0 $gs-mid;      a { color: $gs-near-white; } }
     li a { color: $gs-near-white; }
   }
 

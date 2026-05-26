@@ -924,8 +924,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     gap: 1.4rem 1.7rem;
   }
 
-  $_post-colors:    darken($teal, 7%), darken($orange, 4%), darken($magenta, 6%), $yellow, $lavender;
-  $_post-rotations: -0.8deg, 1deg, -0.7deg, 0.8deg, -0.55deg;
+  $_post-colors:    darken($teal, 7%), darken($orange, 4%), darken($magenta, 6%), $yellow, $lavender, darken($teal, 7%), darken($orange, 4%);
+  $_post-rotations: -0.8deg, 1deg, -0.7deg, 0.8deg, -0.55deg, 0.9deg, -0.85deg;
 
   @for $i from 1 through length($_post-colors) {
     $c:   nth($_post-colors, $i);
