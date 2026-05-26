@@ -559,6 +559,12 @@ body.cb-greyscale {
     .course-chapter__title { color: $gs-dark; }
     .course-chapter__count { color: $gs-mid-dark; }
     ul li { color: $gs-mid-dark; border-bottom-color: rgba($gs-dark, 0.1); }
+    .course-preview {
+      background: $gs-dark;
+      color: $gs-near-white;
+      &:hover { color: $gs-near-white; box-shadow: 2px 2px 0 $gs-mid; }
+      &:focus-visible { outline-color: $gs-dark; }
+    }
     // distinguish chapters without colour: vary num badge luminance
     &:nth-child(even) .course-chapter__num { background: $gs-mid-dark; }
     &:nth-child(3n)   .course-chapter__num { background: $gs-mid; }

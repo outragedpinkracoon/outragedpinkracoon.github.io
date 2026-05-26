@@ -471,6 +471,7 @@ body.cb-red-green {
     summary::after { color: $cb-blue; }
     .course-chapter__num { background: $cb-blue; color: #f7f2e8; }
     .course-chapter__count { color: darken($cb-amber, 14%); }
+    .course-preview { background: $cb-vermillion; &:hover { box-shadow: 2px 2px 0 #1c1714; } }
     &:nth-child(2) .course-chapter__num { background: $cb-amber; color: #1c1714; }
     &:nth-child(3) .course-chapter__num { background: $cb-vermillion; }
     &:nth-child(4) .course-chapter__num { background: $cb-sky; color: #1c1714; }

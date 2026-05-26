@@ -2772,6 +2772,10 @@ footer {
 
     li {
       position: relative;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem 0.7rem;
       padding: 0.35rem 0;
       font-size: 1rem;
       line-height: 1.4;
@@ -2779,6 +2783,34 @@ footer {
       border-bottom: 1px solid rgba($ink, 0.08);
 
       &:last-child { border-bottom: none; }
+    }
+
+    .course-preview {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.15rem 0.6rem;
+      font-family: $font-primary;
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: $cream;
+      background: $orange;
+      border-radius: 999px;
+      white-space: nowrap;
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+
+      &:hover {
+        color: $cream;
+        transform: translate(-1px, -1px);
+        box-shadow: 2px 2px 0 $ink;
+      }
+
+      &:focus-visible {
+        outline: 3px solid $ink;
+        outline-offset: 2px;
+      }
     }
   }
 

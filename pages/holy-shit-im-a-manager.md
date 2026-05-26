@@ -16,6 +16,7 @@ schema_offers:
 ---
 
 {% assign enrol_url = "https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/sales?ticketId=29208000000080004" %}
+{% assign preview_url = "https://holyshit.trainercentralsite.eu/#/signup" %}
 
 <section class="course-hero">
   <div class="course-hero__art">
@@ -72,13 +73,13 @@ schema_offers:
 
 <h2>What's actually in this thing</h2>
 
-<p>Eight chapters. 50+ lessons. Built in the order the panic actually hits you.</p>
+<p>Eight chapters. 50+ lessons. Built in the order the panic actually hits you. Don't take my word for it: a few lessons are free to read before you buy, marked below.</p>
 
 <div class="course-curriculum">
   <details class="course-chapter" open>
     <summary><span class="course-chapter__num">1</span><span class="course-chapter__title">Holy Shit, You're Here!</span><span class="course-chapter__count">3 lessons</span></summary>
     <ul>
-      <li>Welcome</li>
+      <li>Welcome <a class="course-preview" href="{{ preview_url }}">Free preview</a></li>
       <li>Sneaky Sneaky</li>
       <li>Quick Code of Conduct Reminder</li>
     </ul>
@@ -87,9 +88,9 @@ schema_offers:
   <details class="course-chapter">
     <summary><span class="course-chapter__num">2</span><span class="course-chapter__title">Holy Shit, What's My Job?</span><span class="course-chapter__count">14 lessons</span></summary>
     <ul>
-      <li>Flavours of Engineering Manager</li>
-      <li>Your One Job</li>
-      <li>Do I Need To Code?</li>
+      <li>Flavours of Engineering Manager <a class="course-preview" href="{{ preview_url }}">Free preview</a></li>
+      <li>Your One Job <a class="course-preview" href="{{ preview_url }}">Free preview</a></li>
+      <li>Do I Need To Code? <a class="course-preview" href="{{ preview_url }}">Free preview</a></li>
       <li>Staying Close to Engineering</li>
       <li>Boring Admin Tasks</li>
       <li>Core Activities</li>
