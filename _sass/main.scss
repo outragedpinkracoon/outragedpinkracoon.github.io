@@ -532,6 +532,127 @@ hr {
   text-transform: uppercase;
 }
 
+// ── Homepage flagship: the course (main funnel) ─────────────────────────────
+.home-course {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+  margin: 1.8rem 0 2.6rem;
+  background: darken($magenta, 6%);
+  box-shadow: 12px 12px 0 $teal;
+  transform: rotate(-0.8deg);
+  overflow: hidden;
+  clear: both;
+
+  @include respond-to('medium') {
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+    align-items: stretch;
+  }
+}
+
+.home-course__art {
+  display: block;
+  line-height: 0;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: 16 / 10;
+
+    @include respond-to('medium') { aspect-ratio: auto; }
+  }
+}
+
+.home-course__body {
+  padding: 1.8rem 1.6rem 2rem;
+  color: $cream;
+
+  @include respond-to('medium') { padding: 2.4rem 2.2rem; }
+
+  .home-course__label {
+    margin: 0 0 0.7rem;
+    font-family: $font-primary;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba($cream, 0.85);
+  }
+
+  .home-course__title {
+    font-family: $font-display;
+    font-style: italic;
+    font-weight: 900;
+    font-variation-settings: 'opsz' 144;
+    font-size: 2.1rem;
+    line-height: 1.02;
+    margin: 0 0 0.9rem;
+    border-left: none;
+    padding-left: 0;
+    color: $cream;
+
+    @include respond-to('medium') { font-size: 2.9rem; }
+
+    a {
+      color: inherit;
+      text-decoration-color: rgba($cream, 0.4);
+
+      &:hover { color: inherit; text-decoration-color: $cream; }
+      &:focus-visible { outline-color: $cream; }
+    }
+  }
+
+  .home-course__pitch {
+    margin: 0 0 1rem;
+    font-size: 1.05rem;
+    line-height: 1.55;
+    color: rgba($cream, 0.95);
+  }
+
+  .home-course__rating {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 0 1.3rem;
+    font-family: $font-primary;
+    font-size: 0.95rem;
+    font-weight: 800;
+    color: $cream;
+
+    .home-course__stars {
+      font-size: 1.2rem;
+      line-height: 1;
+      color: $yellow;
+      letter-spacing: 0.08em;
+    }
+  }
+
+  .home-course__cta-row {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.6rem;
+    margin: 0;
+
+    .button {
+      background: $cream;
+      color: $magenta;
+      box-shadow: 4px 4px 0 $ink;
+
+      &:hover { color: $magenta; box-shadow: 6px 6px 0 $ink; }
+    }
+
+    .home-course__note {
+      font-family: $font-primary;
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: rgba($cream, 0.82);
+    }
+  }
+}
+
 .supporting-offers {
   display: grid;
   grid-template-columns: 1fr;

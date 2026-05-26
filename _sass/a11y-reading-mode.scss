@@ -301,6 +301,12 @@ body.reading-mode {
     }
   }
 
+  // ── Homepage course band ───────────────────────────────────────────────
+  .home-course {
+    .home-course__title { font-family: $reading-font; font-style: normal; }
+    .home-course__rating .home-course__stars { color: $reading-yellow; }
+  }
+
   // ── Holy Shit course landing page ──────────────────────────────────────
   .course-rating {
     .course-rating__score,

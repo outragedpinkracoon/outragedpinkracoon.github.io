@@ -499,6 +499,25 @@ body.cb-greyscale {
   footer { border-top-color: $gs-dark; }
 
   // ── Holy Shit course landing page ──────────────────────────────────────
+  // Homepage course band
+  .home-course {
+    background: $gs-dark;
+    box-shadow: 12px 12px 0 $gs-mid;
+    .home-course__body { color: $gs-near-white; }
+    .home-course__label { color: $gs-light; }
+    .home-course__title,
+    .home-course__title a { color: $gs-near-white; }
+    .home-course__pitch { color: $gs-near-white; }
+    .home-course__rating { color: $gs-near-white; .home-course__stars { color: $gs-near-white; } }
+    .home-course__cta-row .button {
+      background: $gs-near-white;
+      color: $gs-dark;
+      box-shadow: 4px 4px 0 $gs-mid-dark;
+      &:hover { color: $gs-dark; box-shadow: 6px 6px 0 $gs-mid-dark; }
+    }
+    .home-course__cta-row .home-course__note { color: $gs-light; }
+  }
+
   .course-hero__art img {
     border-color: $gs-dark;
     box-shadow: 10px 10px 0 $gs-mid;

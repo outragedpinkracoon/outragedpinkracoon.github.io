@@ -435,6 +435,17 @@ body.cb-red-green {
 
   // ── Holy Shit course landing page ──────────────────────────────────────
   // magenta->$cb-blue, teal->$cb-amber, yellow->$cb-yellow, orange->$cb-vermillion, lavender->$cb-sky
+  // Homepage course band: magenta -> blue, teal shadow -> amber, yellow stars -> yellow
+  .home-course {
+    background: $cb-blue;
+    box-shadow: 12px 12px 0 $cb-amber;
+    .home-course__rating .home-course__stars { color: $cb-yellow; }
+    .home-course__cta-row .button {
+      color: $cb-blue;
+      &:hover { color: $cb-blue; }
+    }
+  }
+
   .course-hero__art img { box-shadow: 10px 10px 0 $cb-blue; }
   .course-hero__text .course-hero__kicker { color: darken($cb-amber, 12%); }
   .course-hero__text .course-hero__tell { color: $cb-blue; }
