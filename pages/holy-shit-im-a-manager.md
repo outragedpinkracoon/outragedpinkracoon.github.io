@@ -3,8 +3,8 @@ layout: info_page
 permalink: /holy-shit-im-a-manager/
 title: "Holy Shit, I'm a Manager! Engineering Management First Aid"
 display_title: "Holy Shit, I'm a Manager!"
-title_sub: engineering management first aid, from someone who has actually done the job.
-description: A no-bullshit, text-based course for new and growing engineering managers. 50+ bite-sized lessons, real activities, and direct access to Val via Slack and forums. One-time payment, 10-year access.
+title_sub: engineering management first aid, from someone who lives it.
+description: A no-bullshit, text-based course for new and growing engineering managers. 50+ bite-sized text-based lessons, real activities, and direct access to Val via Slack and forums. One-time payment, 10-year access.
 cta_label: "Enrol now · £400"
 cta_href: "https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/sales?ticketId=29208000000080004"
 schema_offers:
@@ -22,13 +22,12 @@ schema_offers:
     <img src="/assets/images/site/hsiam_logo.png" alt="Four wide-eyed cartoon raccoons wearing MANAGER name badges, one per colour panel: gold, magenta, orange, teal" width="1200" height="1200">
   </div>
   <div class="course-hero__text">
-    <p class="course-hero__kicker">Online course · Engineering Management First Aid</p>
-    <p class="course-hero__lead">Nobody prepares you for this job. So you're sat there, badge on, quietly losing it.</p>
+    <p class="course-hero__lead">Nobody prepares you for this job. So you're sat there quietly losing it.</p>
     <p>Should you still be coding? How do you have the conversation you've been rehearsing in the shower for a week? What does good even look like? And why is everyone else so calm?</p>
     <p class="course-hero__tell">They're not. They're just better at hiding it.</p>
     <p class="course-hero__cta-row">
       <a class="header-cta" href="{{ enrol_url }}">Enrol now · £400</a>
-      <span class="course-hero__cta-note">One-time payment. 10-year access. No subscription.</span>
+      <span class="course-hero__cta-note">One-time payment. Unlimited* access. No subscription.</span>
     </p>
   </div>
 </section>
@@ -73,7 +72,7 @@ schema_offers:
 
 <h2>What's actually in this thing</h2>
 
-<p>Eight chapters. 40+ lessons. Built in the order the panic actually hits you.</p>
+<p>Eight chapters. 50+ lessons. Built in the order the panic actually hits you.</p>
 
 <div class="course-curriculum">
   <details class="course-chapter" open>
@@ -183,24 +182,48 @@ schema_offers:
 
 <h2>Real managers saying real things</h2>
 
+<div class="course-rating" role="img" aria-label="Rated 5 out of 5 stars from 14 reviews">
+  <span class="course-rating__score">5/5</span>
+  <span class="course-rating__stars" aria-hidden="true">★★★★★</span>
+  <span class="course-rating__count" aria-hidden="true">(14)</span>
+</div>
+
 <div class="manager-quote-wall" aria-label="What managers said about the course">
   <figure class="manager-quote-card">
-    <blockquote>"So many important topics, succinctly. Each one is packed with valuable insights, actionable advice and activities that really make you apply what you've learned."<span class="quote-author">— Phil Hale</span></blockquote>
+    <blockquote>"I highly recommend this for new or aspiring engineering managers. It covers so many important topics succinctly. Each one is packed with valuable insights, actionable advice and activities that really make you apply what you've learned."<span class="quote-author">— Phil Hale</span></blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"I've been an EM for years and it was alarming how much I didn't know, but reassuring to see it so clearly defined. Come for the raccoons, stay for the personal growth."<span class="quote-author">— Hugh Lyon</span></blockquote>
+    <blockquote>"Despite being an EM for a few years, it was alarming how much I didn't know, but reassuring to see it so clearly defined. I've done various management courses, none with this scope and emotional depth. Come for the raccoons, stay for the personal growth."<span class="quote-author">— Hugh Lyon, Engineering Manager</span></blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"Compact and impactful. It tackles the questions EMs moving from individual contributor roles actually ask. I recommend it to all EMs."<span class="quote-author">— Prisca Aeby</span></blockquote>
+    <blockquote>"Compact and impactful. It combines actionable steps with insightful reflection exercises, and tackles the questions EMs moving from individual contributor roles actually ask, like measuring success and entering flow state. I recommend it to all EMs."<span class="quote-author">— Prisca Aeby</span></blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"A great overview of the new skills you need moving into the role, bite-sized enough that it doesn't feel overwhelming, plus a great book list for when you're ready to go deep."<span class="quote-author">— Craig Nicol</span></blockquote>
+    <blockquote>"A great overview of the new skills you need moving into the role, bite-sized enough that it doesn't feel overwhelming, plus a great book list for when you're ready to go deep into whichever area you need most."<span class="quote-author">— Craig Nicol</span></blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"As a well-seasoned EM, the feedback sections are rich gold. 'Don't ask for feedback, ask for advice' just had not resonated until now. Loving it."<span class="quote-author">— Tom Cross, Cloud Infrastructure Technical Lead @ Aer Lingus</span></blockquote>
+    <blockquote>"As a well-seasoned EM, the feedback sections are rich gold. 'Don't ask for feedback, ask for advice' just had not resonated until now, perhaps because I'd recently fallen foul of exactly that. Loving it."<span class="quote-author">— Tom Cross, Cloud Infrastructure Technical Lead @ Aer Lingus</span></blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"The amount of times I felt seen by this course, and the mistakes I've made that led me to reflect and get into a-ha moments. Highly recommend."<span class="quote-author">— Verified review</span></blockquote>
+    <blockquote>"A great baseline for new managers and seasoned ones alike. The amount of times I felt 'seen' by this course, and the mistakes I've made that led me to reflect and get into a-ha moments. Highly recommend."<span class="quote-author">— Vlad Dubrovskis, Engineering Manager</span></blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>"Holy shit, I have learned so much. This course is fantastic: concise, powerful, meaningful and full of great extra resources. I'll probably spend a whole year reading all the books listed, and I'm grateful for the suggestions."<span class="quote-author">— Carla Gottschald Chiodi, Senior Engineer @ 2i</span></blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>"I'm so impressed by the way Val extracted, distilled, structured and served all of it. I also loved how the tests really check whether you've been paying attention. Common sense isn't always enough to pass them. Highly recommend it to freshly minted and seasoned managers alike."<span class="quote-author">— Krzysztof Malinowski, Engineering Manager (ex JP Morgan)</span></blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>"A beautiful course. Bite-sized digestible concepts, some new and some known, and very enjoyable, refreshingly written. One of the few courses I've been eager to read through."<span class="quote-author">— Maitrayee Biswas</span></blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>"Very well structured and easy to follow. I like the thoughts section at the end of each chapter and the activities that help me ponder and action what I can do hands-on. I'd recommend it to any leaders-to-be, from Leads and EMs to C-level."<span class="quote-author">— Jimmy Mian Guan Lim</span></blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>"Great course and amazing insights, methods and all-around knowledge. It will be crucial for becoming a better human and co-worker, and my team-members current and future will benefit from what I apply from it. Thank you for distilling this gem."<span class="quote-author">— Rui Andrés</span></blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>"A super course for engineering managers of all levels. The topics are full of valuable, actionable advice. There were a number of 'a-ha' moments that will directly contribute to my growth as an engineering manager."<span class="quote-author">— Chris Brunton</span></blockquote>
   </figure>
 </div>
 
@@ -217,7 +240,7 @@ schema_offers:
     <li>Pay once. No subscription, ever.</li>
   </ul>
   <a class="header-cta course-buy__cta" href="{{ enrol_url }}">Enrol now · £400</a>
-  <p class="course-buy__fineprint">Most managers expense this through their L&D budget. Paid via PayPal.</p>
+  <p class="course-buy__fineprint">Most managers expense this through their L&D budget. Paid via PayPal. "Enrol" takes you to the course platform (yes, it's the right place, don't worry, see the FAQ).</p>
 </section>
 
 <h2>Questions you're probably about to ask</h2>
@@ -229,23 +252,35 @@ schema_offers:
   </details>
   <details class="course-faq__item">
     <summary>How long does it take?</summary>
-    <p>40+ lessons. A lesson a day is about 40 days. If you really go for it, 20 to 30 days. But you've got 10 years, so there's no rush.</p>
-  </details>
-  <details class="course-faq__item">
-    <summary>Do I have to join the Slack community?</summary>
-    <p>No, it's completely optional. I recommend it though, because it connects you to other managers you can share and learn from, and it's where you can DM me directly.</p>
+    <p>50+ lessons. A lesson a day is about seven weeks. If you really go for it, three or four. But you've got unlimited* access, so there's no rush.</p>
   </details>
   <details class="course-faq__item">
     <summary>How do I pay?</summary>
     <p>Via PayPal, at checkout. One payment, done.</p>
   </details>
   <details class="course-faq__item">
-    <summary>Why is there an asterisk on 10-year access?</summary>
-    <p>Honesty. Access is tied to the platform staying up. I have no plans to go anywhere, but if I ever shut down or migrate, I'll give you as much notice as possible. Full details are in the <a href="https://holyshit.trainercentralsite.eu/#/terms-and-conditions">terms.</a></p>
+    <summary>Why does "Enrol" take me to a weird URL?</summary>
+    <p>When you hit enrol you'll land on the course platform at a slightly unhinged address (trainercentralsite.eu). That's the right place. The course genuinely lives there, and the course player itself is lovely. They wanted extra money for a custom domain, I wanted a nice landing page, and I refuse to be extorted over a URL. So should you. Weird link, real course, all good.</p>
+  </details>
+  <details class="course-faq__item">
+    <summary>Do I have to join the Slack community?</summary>
+    <p>No, it's completely optional. I recommend it though, because it connects you to other managers you can share and learn from, and it's where you can DM me directly. You can also pop your answers to the course questions in the forum for me to see and respond to.</p>
   </details>
   <details class="course-faq__item">
     <summary>Will I get a certificate?</summary>
     <p>Yes, one is issued at the end of the course.</p>
+  </details>
+  <details class="course-faq__item">
+    <summary>Why is there an asterisk on unlimited access?</summary>
+    <p>Honesty. Access is tied to this platform being up and running. I have no plans to go anywhere, but in the unlikely event I ever shut down or migrate to a new platform, I'll give you as much notice as possible. The platform makes me set it to 10 years. If you're not nailing being an EM in 10 years well. We should talk. Full details are in the <a href="https://holyshit.trainercentralsite.eu/#/terms-and-conditions">terms and conditions.</a></p>
+  </details>
+  <details class="course-faq__item">
+    <summary>How come there's no cookie banner?</summary>
+    <p>Because I don't use Google Analytics, Hotjar, or any other intrusive tracking. I use Simple Analytics, which I pay for, and it doesn't store any PII about you. None. You can get some free stuff from them using <a href="https://www.simpleanalytics.com/?referral=kovav">this referral link.</a></p>
+  </details>
+  <details class="course-faq__item">
+    <summary>What if there's a problem?</summary>
+    <p>Contact me anytime via the <a href="https://www.holyshitimamanager.com/#/contact">contact form</a> or message me on <a href="https://www.linkedin.com/in/outragedpinkracoon/">LinkedIn</a>. Once you're signed up you can also DM me directly in the Slack community. I aim to respond within 1 to 2 days, unless I'm on holiday somewhere with terrible internet.</p>
   </details>
 </div>
 

@@ -427,6 +427,7 @@ body.cb-blue-yellow {
   // teal unsafe -> $tri-green; yellow unsafe -> $tri-coral; magenta/orange safe
   .course-hero__art img { box-shadow: 10px 10px 0 #d91a5e; }
   .course-hero__text .course-hero__kicker { color: $tri-green; }
+  // orange is tritanopia-safe and kept, so .course-rating needs no override
 
   .course-wins li {
     box-shadow: 4px 4px 0 $tri-green;

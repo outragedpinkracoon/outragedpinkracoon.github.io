@@ -302,6 +302,10 @@ body.reading-mode {
   }
 
   // ── Holy Shit course landing page ──────────────────────────────────────
+  .course-rating {
+    .course-rating__score,
+    .course-rating__count { font-family: $reading-font; }
+  }
   .course-hero__text .course-hero__kicker { color: $reading-teal; }
   .course-hero__text .course-hero__lead,
   .course-hero__text .course-hero__tell,

@@ -1380,6 +1380,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   &:nth-child(8)  { background: $teal;     color: white; }
   &:nth-child(9)  { background: $orange;   color: white; }
   &:nth-child(10) { background: $lavender; color: white; }
+  &:nth-child(11) { background: $magenta;  color: white; }
+  &:nth-child(12) { background: $teal;     color: white; }
 
 
   // Tilt variation
@@ -1392,6 +1394,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
   &:nth-child(8)  { transform: rotate(1.4deg); }
   &:nth-child(9)  { transform: rotate(-2deg); }
   &:nth-child(10) { transform: rotate(1.7deg); }
+  &:nth-child(11) { transform: rotate(-1.5deg); }
+  &:nth-child(12) { transform: rotate(2.2deg); }
 
   @media (max-width: 640px) {
     transform: rotate(-1deg);
@@ -2531,6 +2535,37 @@ footer {
   }
 }
 
+// ── Rating badge (5/5 ★★★★★ (14)) ───────────────────────────────────────────
+.course-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin: 0.5rem 0 1.8rem;
+
+  .course-rating__score {
+    font-family: $font-primary;
+    font-weight: 800;
+    font-size: 1.5rem;
+    line-height: 1;
+    color: $orange;
+  }
+
+  .course-rating__stars {
+    font-size: 1.5rem;
+    line-height: 1;
+    color: $orange;
+    letter-spacing: 0.12em;
+  }
+
+  .course-rating__count {
+    font-family: $font-primary;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1;
+    color: rgba($ink, 0.45);
+  }
+}
+
 // ── Curriculum accordion ────────────────────────────────────────────────────
 .course-curriculum {
   margin: 1.6rem 0 2.5rem;
@@ -2751,6 +2786,8 @@ footer {
     margin: 1.2rem 0 0;
     font-size: 0.88rem;
     color: rgba($cream, 0.8);
+
+    & + & { margin-top: 0.55rem; }
   }
 }
 
