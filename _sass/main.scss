@@ -2509,8 +2509,8 @@ footer {
   display: grid;
   grid-template-columns: 1fr;
   gap: 1.6rem;
-  align-items: center;
-  margin: 0.5rem 0 2.5rem;
+  align-items: start;
+  margin: 0 0 2.5rem;
 
   @include respond-to('large') {
     grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
@@ -2530,29 +2530,12 @@ footer {
 }
 
 .course-hero__text {
-  .course-hero__kicker {
-    font-family: $font-primary;
-    font-size: 0.82rem;
-    font-weight: 800;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: $teal;
-    margin: 0 0 0.7rem;
+  .page-intro {
+    margin: 0 0 1rem;
   }
 
-  .course-hero__lead {
-    font-family: $font-display;
-    font-style: italic;
-    font-weight: 900;
-    font-variation-settings: 'opsz' 144;
-    font-size: 1.9rem;
-    line-height: 1.08;
-    margin: 0 0 1rem;
-    color: $ink;
-
-    @include respond-to('medium') {
-      font-size: 2.4rem;
-    }
+  > :first-child {
+    margin-top: 0;
   }
 
   p {

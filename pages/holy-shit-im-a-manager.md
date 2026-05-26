@@ -23,7 +23,7 @@ schema_offers:
     <img src="/assets/images/site/hsiam_logo.png" alt="Four wide-eyed cartoon raccoons wearing MANAGER name badges, one per colour panel: gold, magenta, orange, teal" width="1200" height="1200">
   </div>
   <div class="course-hero__text">
-    <p class="course-hero__lead">Nobody prepares you for this job. So you're sat there quietly losing it.</p>
+    <p class="page-intro"><strong>Nobody prepares you for this job. So you're sat there quietly losing it.</strong></p>
     <p>Should you still be coding? How do you have the conversation you've been rehearsing in the shower for a week? What does good even look like? And why is everyone else so calm?</p>
     <p class="course-hero__tell">They're not. They're just better at hiding it.</p>
     <p class="course-hero__cta-row">

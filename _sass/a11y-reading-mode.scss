@@ -312,12 +312,9 @@ body.reading-mode {
     .course-rating__score,
     .course-rating__count { font-family: $reading-font; }
   }
-  .course-hero__text .course-hero__kicker { color: $reading-teal; }
-  .course-hero__text .course-hero__lead,
   .course-hero__text .course-hero__tell,
   .course-arc,
   .course-final { font-family: $reading-font; color: $reading-magenta; }
-  .course-hero__text .course-hero__lead { font-style: normal; }
 
   .course-wins li {
     box-shadow: 4px 4px 0 $reading-teal;
