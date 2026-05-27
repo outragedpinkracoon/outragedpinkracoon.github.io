@@ -4,7 +4,7 @@ permalink: /holy-shit-im-a-manager/
 title: "Holy Shit, I'm a Manager! Engineering Management First Aid"
 display_title: "Holy Shit, I'm a Manager!"
 title_sub: engineering management first aid, from someone who lives it.
-description: A no-bullshit, text-based course for new and growing engineering managers. 50+ bite-sized text-based lessons, real activities, and direct access to Val via Slack and forums. One-time payment, 10-year access.
+description: Still coding all day and quietly losing it? The no-bullshit EM course. 52 lessons on the actual job — 1:1s, feedback, managing your boss, knowing what good looks like. With direct access to me, actual Val.
 cta_label: "Enrol now · £400"
 cta_href: "https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/sales?ticketId=29208000000080004"
 schema_offers:
