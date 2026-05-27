@@ -25,7 +25,7 @@ schema_offers:
   <div class="course-hero__text">
     <p class="page-intro"><strong>Nobody prepares you for this job. So you're sat there quietly losing it.</strong></p>
     <p>Should you still be coding? How do you have the conversation you've been rehearsing in the shower for a week? What does good even look like? And why is everyone else so calm?</p>
-    <p class="pull-quote">They're not. They're just better at hiding it.</p>
+    <p class="pull-quote">52 bite-sized lessons, direct access to me, and the manual nobody handed you on day one. That's how you get the answers to your questions.</p>
     <p class="course-hero__cta-row">
       <a class="header-cta" href="{{ enrol_url }}">Enrol now · £400</a>
       <span class="course-hero__cta-note">One-time payment. Unlimited* access. No subscription.</span>
