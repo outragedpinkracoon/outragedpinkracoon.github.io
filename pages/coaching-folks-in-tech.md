@@ -4,7 +4,7 @@ permalink: /coaching/folks-in-tech/
 title: No-bullshit Coaching for Folks in Tech — Specialist Support for Neurodivergent, Queer and Disabled People
 display_title: Coaching for folks in tech
 title_sub: who want more power, more credit, and less bullshit.
-description: ILM-certified coaching for folks in tech who want more power, more credit, and less bullshit. Specialist support for neurodivergent, queer and disabled people.
+description: "Working in tech is tough, especially as someone exhausted from pretending they fit the mould or feeling out of your depth. Whether you're in the weeds or just ready to grow, you'll get no-bullshit coaching, autistic directness, and lived experience. Bring me your mess or your ambition."
 schema_offers:
   - name: "The Decisive Hour"
     description: "One 60-minute session. One hard call, one situation."
