@@ -255,7 +255,7 @@ schema_offers:
   </details>
   <details class="course-faq__item">
     <summary>How long does it take?</summary>
-    <p>50+ lessons. A lesson a day is about seven weeks. If you really go for it, three or four. But you've got unlimited* access, so there's no rush.</p>
+    <p>50+ lessons. Roughly a month and a half to two months. If you really go for it with coffee and passion a few weeks. But you've got unlimited* access, so there's no rush.</p>
   </details>
   <details class="course-faq__item">
     <summary>How do I pay?</summary>
