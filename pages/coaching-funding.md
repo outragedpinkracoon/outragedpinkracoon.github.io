@@ -1,7 +1,7 @@
 ---
 layout: info_page
 permalink: /coaching/funding/
-title: How to fund coaching: employer L&D and Access to Work
+title: "How to fund coaching: employer L&D and Access to Work"
 display_title: How to fund coaching
 title_sub: you probably don't have to pay for this yourself.
 description: How to fund coaching through L&D or Access to Work. No-bullshit support from an ILM-certified executive coach and CTO/VP Engineering.
