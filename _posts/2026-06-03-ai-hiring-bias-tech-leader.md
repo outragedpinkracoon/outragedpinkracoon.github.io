@@ -50,7 +50,7 @@ Research links:
 
 Come talk to me about it on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_ai-image-diversity-fail-carousel-activity-7457360998664933376-bT4-)
 
-<div>
+<div class="post-gallery">
   <img src="/assets/images/ai-hiring-bias-tech-leader/1.png" alt="Carousel slide titled CTO: an AI-generated photo of a white man with glasses and a beard, arms crossed, in front of code screens" loading="lazy" />
   <img src="/assets/images/ai-hiring-bias-tech-leader/2.png" alt="Carousel slide titled VP Eng: an AI-generated photo of a white man with glasses and a beard in a navy blazer in a glass-walled office" loading="lazy" />
   <img src="/assets/images/ai-hiring-bias-tech-leader/3.png" alt="Carousel slide titled Head of Eng: an AI-generated photo of a South Asian man with glasses and a beard, arms crossed, in an open-plan office" loading="lazy" />
