@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /who-is-val/
-title: Who Is Val Dryden?
+title: Who is Val Dryden?
 display_title: Who is Val?
 title_sub: "Oh so many things."
-description: "Val Dryden is an ILM-certified neurodivergent executive coach and VP Engineering. No-bullshit support for the messy, human, hard parts of tech."
+description: "Val Dryden is an ILM-certified executive coach and VP Engineering. No-bullshit support for the messy, human, hard parts of tech, with lived experience as a neurodivergent leader."
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 

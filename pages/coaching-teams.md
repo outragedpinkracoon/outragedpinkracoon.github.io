@@ -1,7 +1,7 @@
 ---
 layout: info_page
 permalink: /coaching/teams/
-title: Team and Organisation Coaching for Engineering Managers
+title: Team and organisation coaching for engineering teams
 display_title: Coaching for teams and organisations
 title_sub: Bad managers are expensive, good ones aren't accidental.
 description: Team coaching for engineering managers from an ILM-certified executive coach and CTO/VP Engineering. No-bullshit support for new managers.

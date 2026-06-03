@@ -1,8 +1,8 @@
 ---
 layout: info_page
 permalink: /privacy/
-title: Privacy Policy
-display_title: Privacy Policy
+title: Privacy policy
+display_title: Privacy policy
 title_sub: the short version is we collect very little and don't sell any of it.
 description: Privacy policy for Outraged Racoon Coaching. How we collect, use, and protect your personal data.
 sitemap: false

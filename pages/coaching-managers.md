@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /coaching/engineering-managers/
-title: No-bullshit Remote 1:1 Coaching for Engineering Managers in Tech
+title: No-bullshit coaching for engineering managers
 display_title: Engineering Manager Coaching
 title_sub: because there's no undo button for people.
-description: Engineering manager coaching from an ILM-certified neurodivergent executive coach and VP Engineering. No-bullshit support for feedback and conflict.
+description: No-bullshit coaching for engineering managers from a VP Engineering and ILM-certified executive coach. No-bullshit help with the messy people stuff.
 schema_offers:
   - name: "The Decisive Hour"
     description: "One 60-minute session. One hard call, one situation."
@@ -25,10 +25,9 @@ schema_offers:
 
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
 
-<p class="page-intro"><strong>Maybe you just got promoted. Maybe you've been doing it a while and you want to get properly good at it.</strong></p>
+<p class="page-intro"><strong>There's no undo button for people. And you're the one making the calls now. Congrats!</strong></p>
 
-<p>Either way, you're responsible for actual humans now.</p> 
-<p>Humans below you that need support and humans above you that want answers.</p>
+<p>Either way, you're responsible for actual humans now. Humans below you who need support and humans above you who want answers.</p>
 
 <p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £250.</p>
 
@@ -42,7 +41,7 @@ schema_offers:
 
 <h2>Who I work with</h2>
 
-<p>Front line engingeering managers (EM, SEM, Head of a small team) that want to grow, be a badass manager or get some immediate help with whatever is keeping them up at 2am.</p>
+<p>Front line engineering managers: EMs, senior EMs, heads of small teams. Whether you want to get properly good at this, or you need help with whatever is keeping you up at 2am. If you're at a career crossroads rather than a management one, <a href="/coaching/folks-in-tech/">that's over here</a>.</p>
 
 <div class="manager-quote-wall" aria-label="Common new manager worries">
   <figure class="manager-quote-card">

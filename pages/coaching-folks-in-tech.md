@@ -1,10 +1,10 @@
 ---
 layout: info_page
 permalink: /coaching/folks-in-tech/
-title: No-bullshit Coaching for Folks in Tech — Specialist Support for Neurodivergent, Queer and Disabled People
+title: No-bullshit coaching for folks in tech
 display_title: Coaching for folks in tech
 title_sub: who want more power, more credit, and less bullshit.
-description: "Working in tech is tough, especially as someone exhausted from pretending they fit the mould or feeling out of your depth. Whether you're in the weeds or just ready to grow, you'll get no-bullshit coaching, autistic directness, and lived experience. Bring me your mess or your ambition."
+description: No-bullshit coaching for folks in tech from an ILM-certified executive coach and VP Engineering. Specialist support for neurodivergent, autistic, ADHD, queer and disabled people.
 schema_offers:
   - name: "The Decisive Hour"
     description: "One 60-minute session. One hard call, one situation."
@@ -42,8 +42,8 @@ schema_offers:
 
 <h2>Who I Work With</h2>
 
-<p>I work with folks in tech in all roles from software engineering and product to QA, devops, and everything in between.. If you are an engineering manager <a href="/coaching/engineering-managers/">I have a specialist page for that</a>.</p>
-<p>Often that's neurodivergent, queer and disabled people, because the systems were not built with us in mind and the workarounds get exhausting. But I offer support to everyone in tech.</p>
+<p>I work with folks in tech in all roles from software engineering and product to QA, devops, and everything in between. If you are an engineering manager <a href="/coaching/engineering-managers/">I have a specialist page for that</a>.</p>
+<p>Often that's neurodivergent people: autistic, ADHD, or some flavour of both, plus queer and disabled folks, because the systems were not built with us in mind and the workarounds get exhausting. But I offer support to everyone in tech.</p>
 
 <div class="manager-quote-wall" aria-label="Common experiences for folks in tech">
   <figure class="manager-quote-card">

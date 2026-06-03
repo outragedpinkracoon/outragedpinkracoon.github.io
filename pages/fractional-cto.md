@@ -2,7 +2,7 @@
 layout: info_page
 permalink: /fractional-cto/
 published: false
-title: Fractional CTO / VP Engineering Services for Tech Startups and Scale-ups
+title: Fractional CTO and VP Engineering services for startups and scale-ups
 display_title: Fractional CTO / VP Eng
 title_sub: on the ground, no corporate bullshit.
 description: "Fractional CTO/VP Engineering from someone who's lived it: 150+ engineers, $300M ARR. No-bullshit tech leadership for startups and scale-ups."
