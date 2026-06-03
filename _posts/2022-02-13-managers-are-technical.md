@@ -2,7 +2,7 @@
 title:  Managers Are Technical
 description: Does becoming a manager mean giving up your 'technical skills'?
 layout: post
-categories: [management]
+categories: [new-manager, management]
 ---
 
 When I became a manager, I was worried my 'technical skills' would wane.

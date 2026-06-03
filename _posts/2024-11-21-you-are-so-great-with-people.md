@@ -2,7 +2,7 @@
 title: You're so great with people
 description: What might sound like a compliment can land in a painful way if you're not careful.
 layout: post
-categories: [management]
+categories: [new-manager, management]
 ---
 
 "You're great with people so we'd like you to become a manager." It sounds like a compliment, but...

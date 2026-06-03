@@ -3,7 +3,7 @@ title: The Engineering Manager's Guide to Effective One-to-Ones
 display_title: How To Rock At One-To-Ones
 description: An exploration of the purpose, structure and outcome of one-to-ones to help you rock at them.
 layout: post
-categories: [one-to-ones, management]
+categories: [new-manager, one-to-ones, management]
 ---
 
 One-to-ones are your most important meetings. No, really.
