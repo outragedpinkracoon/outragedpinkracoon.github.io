@@ -26,9 +26,9 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 <p>You don't need to oversell it. The straightforward version:</p>
 
 <ul>
-  <li>Name the thing you're working on — a new role, a promotion you're targeting, a specific situation that needs support</li>
-  <li>Say what coaching gives you that a course or a book doesn't — someone sharp and external who can work on the live thing, not a hypothetical</li>
-  <li>Point to the outcome — faster effectiveness in role, fewer expensive mistakes, clearer decision-making</li>
+  <li>Name the thing you're working on: a new role, a promotion you're targeting, a specific situation that needs support</li>
+  <li>Say what coaching gives you that a course or a book doesn't: someone external who can work on the live thing, not a hypothetical</li>
+  <li>Point to the outcome: faster effectiveness in role, fewer expensive mistakes, clearer decision-making</li>
 </ul>
 
 <p>Most managers say yes to this if you ask directly. The ones who don't usually have a budget cap, not an objection to coaching itself.</p>
@@ -39,7 +39,7 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 
 <p>Pick the option that fits, edit the bracketed bits, and send it. Done.</p>
 
-<h3>Single session — £300, fits most L&D allowances</h3>
+<h3>Single session: £300, fits most L&D allowances</h3>
 
 <div class="callout callout--email">
 <p class="email-subject">Subject: L&amp;D budget request for coaching</p>
@@ -50,9 +50,9 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 <p>Thanks,<br><span class="fill-blank">[Your name]</span></p>
 </div>
 
-<p><a href="mailto:?subject=L%26D%20budget%20request%20for%20coaching&body=Hi%20%5BName%5D%2C%0A%0AI%27d%20like%20to%20use%20part%20of%20my%20L%26D%20budget%20for%20a%20coaching%20session.%20I%27ve%20found%20a%20coach%20I%20think%20would%20be%20genuinely%20useful%3A%20Val%20Dryden%20at%20Outraged%20Racoon%20Coaching.%20She%27s%20an%20ILM-certified%20executive%20coach%20and%20former%20CTO%2FVP%20Engineering%20with%20nearly%20two%20decades%20in%20tech%2C%20so%20she%20understands%20this%20industry%20and%20the%20specific%20situations%20I%27m%20navigating.%0A%0AA%20single%20session%20is%20%C2%A3300%2C%20which%20fits%20within%20my%20L%26D%20allowance.%20I%27m%20looking%20at%20it%20as%20a%20way%20to%20%5Bget%20sharper%20on%20X%20%2F%20work%20through%20Y%20%2F%20develop%20faster%20in%20Z%5D.%0A%0AHappy%20to%20talk%20through%20it%20if%20useful.%20Let%20me%20know%20if%20you%20need%20anything%20from%20me%20to%20get%20this%20approved.%0A%0AThanks%2C%0A%5BYour%20name%5D">Send this to your manager</a> — opens in your email, ready to edit and send.</p>
+<p><a href="mailto:?subject=L%26D%20budget%20request%20for%20coaching&body=Hi%20%5BName%5D%2C%0A%0AI%27d%20like%20to%20use%20part%20of%20my%20L%26D%20budget%20for%20a%20coaching%20session.%20I%27ve%20found%20a%20coach%20I%20think%20would%20be%20genuinely%20useful%3A%20Val%20Dryden%20at%20Outraged%20Racoon%20Coaching.%20She%27s%20an%20ILM-certified%20executive%20coach%20and%20former%20CTO%2FVP%20Engineering%20with%20nearly%20two%20decades%20in%20tech%2C%20so%20she%20understands%20this%20industry%20and%20the%20specific%20situations%20I%27m%20navigating.%0A%0AA%20single%20session%20is%20%C2%A3300%2C%20which%20fits%20within%20my%20L%26D%20allowance.%20I%27m%20looking%20at%20it%20as%20a%20way%20to%20%5Bget%20sharper%20on%20X%20%2F%20work%20through%20Y%20%2F%20develop%20faster%20in%20Z%5D.%0A%0AHappy%20to%20talk%20through%20it%20if%20useful.%20Let%20me%20know%20if%20you%20need%20anything%20from%20me%20to%20get%20this%20approved.%0A%0AThanks%2C%0A%5BYour%20name%5D">Send this to your manager</a>. Opens in your email, ready to edit and send.</p>
 
-<h3>Block of three — £750, split across L&D and personal spend</h3>
+<h3>Block of three: £750, split across L&D and personal spend</h3>
 
 <div class="callout callout--email">
 <p class="email-subject">Subject: L&amp;D budget request for coaching</p>
@@ -63,27 +63,27 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 <p>Thanks,<br><span class="fill-blank">[Your name]</span></p>
 </div>
 
-<p><a href="mailto:?subject=L%26D%20budget%20request%20for%20coaching&body=Hi%20%5BName%5D%2C%0A%0AI%27d%20like%20to%20use%20part%20of%20my%20L%26D%20budget%20toward%20a%20block%20of%20three%20coaching%20sessions%20with%20Val%20Dryden%20at%20Outraged%20Racoon%20Coaching.%20She%27s%20an%20ILM-certified%20executive%20coach%20and%20former%20CTO%2FVP%20Engineering%20with%20nearly%20two%20decades%20in%20tech.%0A%0AThe%20block%20is%20%C2%A3750%20in%20total.%20I%27m%20happy%20to%20cover%20part%20of%20it%20personally%20%E2%80%94%20I%27d%20like%20to%20put%20%C2%A3500%20through%20L%26D%20and%20cover%20the%20remaining%20%C2%A3250%20myself.%20I%27m%20looking%20at%20this%20as%20a%20way%20to%20%5Bget%20support%20on%20X%20%2F%20develop%20faster%20in%20Y%20%2F%20work%20through%20Z%5D%20over%20the%20next%20few%20months.%0A%0AHappy%20to%20talk%20through%20it%20if%20useful.%20Let%20me%20know%20if%20you%20need%20anything%20from%20me%20to%20get%20this%20approved.%0A%0AThanks%2C%0A%5BYour%20name%5D">Send this to your manager</a> — opens in your email, ready to edit and send.</p>
+<p><a href="mailto:?subject=L%26D%20budget%20request%20for%20coaching&body=Hi%20%5BName%5D%2C%0A%0AI%27d%20like%20to%20use%20part%20of%20my%20L%26D%20budget%20toward%20a%20block%20of%20three%20coaching%20sessions%20with%20Val%20Dryden%20at%20Outraged%20Racoon%20Coaching.%20She%27s%20an%20ILM-certified%20executive%20coach%20and%20former%20CTO%2FVP%20Engineering%20with%20nearly%20two%20decades%20in%20tech.%0A%0AThe%20block%20is%20%C2%A3750%20in%20total.%20I%27m%20happy%20to%20cover%20part%20of%20it%20personally%20%E2%80%94%20I%27d%20like%20to%20put%20%C2%A3500%20through%20L%26D%20and%20cover%20the%20remaining%20%C2%A3250%20myself.%20I%27m%20looking%20at%20this%20as%20a%20way%20to%20%5Bget%20support%20on%20X%20%2F%20develop%20faster%20in%20Y%20%2F%20work%20through%20Z%5D%20over%20the%20next%20few%20months.%0A%0AHappy%20to%20talk%20through%20it%20if%20useful.%20Let%20me%20know%20if%20you%20need%20anything%20from%20me%20to%20get%20this%20approved.%0A%0AThanks%2C%0A%5BYour%20name%5D">Send this to your manager</a>. Opens in your email, ready to edit and send.</p>
 
 <h2 id="access-to-work">Access to Work</h2>
 
-<p>Access to Work is a UK government grant scheme that funds support for disabled people and people with health conditions — including mental health conditions and neurodivergent profiles — that affect their work. It covers coaching where the coaching directly supports your ability to do your job.</p>
+<p>Access to Work is a UK government grant scheme that funds support for disabled people and people with health conditions, including mental health conditions and neurodivergent profiles, that affect their work. It covers coaching where the coaching directly supports your ability to do your job.</p>
 
 <p>The maximum grant is <strong>£66,000 per year</strong>. It does not need to be repaid.</p>
 
 <h3>Who it's for</h3>
 
-<p>You don't need a formal diagnosis to apply. If you have a physical or mental health condition, a neurodivergent profile (ADHD, autism, dyslexia, dyspraxia), or a disability that makes work harder, you may be eligible. The scheme is broader than most people realise — it's worth checking even if you're not sure.</p>
+<p>You don't need a formal diagnosis to apply. If you have a physical or mental health condition, a neurodivergent profile (ADHD, autism, dyslexia, dyspraxia), or a disability that makes work harder, you may be eligible. The scheme is broader than most people realise, so it's worth checking even if you're not sure.</p>
 
 <h3>How it works</h3>
 
 <p>You apply directly to Access to Work, explaining how your condition affects your work and what support would help. If approved, they fund some or all of the cost. You don't need your employer's approval to apply, though your employer is involved in the process.</p>
 
-<p>You can name me directly in your application — there's no approved provider list. I'll provide whatever documentation the application needs.</p>
+<p>You can name me directly in your application. There's no approved provider list. I'll provide whatever documentation the application needs.</p>
 
 <h3>Where to apply</h3>
 
-<p>Applications go through <a href="https://www.gov.uk/access-to-work" target="_blank" rel="noopener noreferrer">GOV.UK Access to Work<span class="sr-only"> (opens in new tab)</span></a>. The application asks about your condition, your job, and what support you need — coaching for work-related challenges is a legitimate use of the scheme.</p>
+<p>Applications go through <a href="https://www.gov.uk/access-to-work" target="_blank" rel="noopener noreferrer">GOV.UK Access to Work<span class="sr-only"> (opens in new tab)</span></a>. The application asks about your condition, your job, and what support you need. Coaching for work-related challenges is a legitimate use of the scheme.</p>
 
 <div class="callout callout--email">
   <p>If you're going through an Access to Work application and want to talk through what to include, <a href="mailto:outragedracooncoaching@gmail.com?subject=Access%20to%20Work%20Enquiry">get in touch</a>. I can help you articulate how coaching supports your work specifically.</p>

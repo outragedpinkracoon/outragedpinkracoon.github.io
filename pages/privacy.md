@@ -46,9 +46,9 @@ Contact: <a href="mailto:outragedracooncoaching@gmail.com">outragedracooncoachin
 <h2>Legal basis (UK GDPR)</h2>
 
 <ul>
-  <li><strong>Contract</strong> — to deliver services you have requested</li>
-  <li><strong>Legitimate interests</strong> — to run and improve the business</li>
-  <li><strong>Consent</strong> — for any marketing communications</li>
+  <li><strong>Contract</strong>: to deliver services you have requested</li>
+  <li><strong>Legitimate interests</strong>: to run and improve the business</li>
+  <li><strong>Consent</strong>: for any marketing communications</li>
 </ul>
 
 <h2>Data sharing</h2>

@@ -52,7 +52,7 @@ description: "Val Dryden is an ILM-certified executive coach and VP Engineering.
 <div class="values-grid">
   <div class="value-card">
     <h3>I will tell you the thing</h3>
-    <p>I'm autistic. I don't do performative nodding. You will get the honest read, not the one that's easier to hear — delivered with actual care, not HR varnish.</p>
+    <p>I'm autistic. I don't do performative nodding. You will get the honest read, not the one that's easier to hear, delivered with actual care.</p>
   </div>
   <div class="value-card">
     <h3>I'm not an ally looking in</h3>
@@ -60,7 +60,7 @@ description: "Val Dryden is an ILM-certified executive coach and VP Engineering.
   </div>
   <div class="value-card">
     <h3>In your corner, not your echo chamber</h3>
-    <p>I am fully in your corner. I am also not going to tell you what you want to hear if it isn't true. Those two things go together — that's what good support actually looks like.</p>
+    <p>I am fully in your corner. I am also not going to tell you what you want to hear if it isn't true. Those two things go together. That's what good support actually looks like.</p>
   </div>
   <div class="value-card">
     <h3>The system, not you</h3>
