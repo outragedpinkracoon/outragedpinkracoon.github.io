@@ -40,7 +40,7 @@ The Client understands that coaching is not therapy and does not substitute for 
 
 The Client agrees to communicate honestly, be open to feedback, and commit the necessary time and energy to participate fully in the coaching process.
 
-The Coach holds professional indemnity insurance covering claims of negligence, breach of confidentiality, and defamation, and public liability insurance with a £2M limit.
+The Coach holds professional indemnity insurance covering claims of negligence, breach of confidentiality, and defamation, and public liability insurance.
 
 ### Services
 Coaching sessions will be arranged flexibly between the Coach and the Client, with each session bookable up to one month in advance by email or text. The Coach may recommend a frequency of sessions based on a professional assessment of the Client's needs; this recommendation is not binding and may be adjusted by mutual agreement throughout the coaching journey.
@@ -110,7 +110,7 @@ The Advisory does not include additional calls, WhatsApp or other messaging, ad 
 The Advisory is billed monthly at £250. Either party may cancel with written notice, effective from the following billing month.
 
 ### Procedure
-Coaching sessions will take place virtually at times mutually agreed between the Coach and the Client. A calendar invitation with a Google Meet link will be provided for each session.
+Coaching sessions will take place remotely, by video call or telephone as mutually agreed between the Coach and the Client, at times mutually agreed. A calendar invitation will be provided for each session, including a Google Meet link where the session is held by video.
 
 ### Confidentiality
 All information (documented or verbal) shared by the Client in coaching sessions will be treated as confidential, though the coaching relationship is not a legally privileged relationship (as in medicine or law).
@@ -138,16 +138,16 @@ Session length will not be extended if the Client arrives late.
 If the Coach needs to cancel or reschedule a session, the Client will be notified as soon as reasonably practicable and the session will be rescheduled at a mutually convenient time at no additional charge. No session is forfeited as a result of a cancellation initiated by the Coach.
 
 ### Payment terms
-Invoices are issued by email after each session or, for bundles and programmes, after the first session takes place. Invoices are payable within 7 days via the payment methods specified on the invoice.
+For single sessions, an invoice is issued by email after the session takes place and is payable within 7 days via the payment methods specified on the invoice. Where multiple single sessions occur within the same month, fees may be grouped into a single invoice issued at month end.
+
+For bundles and programmes, an invoice for the full bundle or programme is issued by email and is payable within 7 days before the first session is booked. Sessions are scheduled once payment has been received.
 
 For The Advisory retainer, invoices are issued monthly.
 
-Where multiple single sessions occur within the same month, fees may be grouped into a single invoice issued at month end.
-
 ### Refunds
-Refunds are not available on a per-session basis since invoices are sent after sessions have completed and service has been delivered.
+Refunds are not available for single sessions, since the invoice for a single session is issued only after the session has been completed and the service delivered.
 
-Where a Client cancels a bundle or programme part way through, a refund will be issued within 14 days of written cancellation notice. The refund is calculated by deducting the full single-session rate for each session already delivered from the amount paid, and refunding the remainder. Sessions that lapse due to expiry are not refundable.
+Bundles and programmes are paid for in full before the first session is booked. Where a Client cancels a bundle or programme part way through, a refund will be issued within 14 days of written cancellation notice. The refund is calculated by deducting the full single-session rate for each session already delivered from the amount paid, and refunding the remainder. Sessions that lapse due to expiry are not refundable.
 
 For The Advisory, no refund is due for a month already invoiced.
 
