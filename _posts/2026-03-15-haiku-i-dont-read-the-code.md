@@ -8,3 +8,5 @@ categories: [programming, haiku, fun]
 I don't read the code.  
 The AI doesn't either.  
 Looks good to me, merged.
+
+Come comment with your own haiku on [LinkedIn](https://www.linkedin.com/posts/outragedpinkracoon_humpday-justvibes-tech-activity-7442497822882484224-FYQH)

@@ -2,7 +2,7 @@
 title: Share Your Salary Ranges 1 - Negotiation Bias
 description: Don't let this one limiting belief stop you from doing the right thing for underrepresented candidates.
 layout: post
-categories: [hiring]
+categories: [hiring, spicy]
 ---
 
 I often see 'leaders' on LinkedIn commenting that if you share salary ranges on job ads or during the hiring process, people 'will always ask for the top amount'.

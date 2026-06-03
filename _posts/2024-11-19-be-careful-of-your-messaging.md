@@ -2,7 +2,7 @@
 title: Your architecture problem is a people problem.
 description: It's easy to blame systems for all your problems.
 layout: post
-categories: [management]
+categories: [management, spicy]
 ---
 Your architecture problem is a people problem. #SpicyTechChat 🌶️
 

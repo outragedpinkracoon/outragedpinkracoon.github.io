@@ -2,7 +2,7 @@
 title: The Anthropic Report Doesn't Say What You Think It Does
 description: The latest Anthropic report does NOT say 75% of programmers will lose their jobs to AI. Here's what it actually says — and why the difference matters.
 layout: post
-categories: [programming, leadership]
+categories: [programming, leadership, spicy]
 ---
 
 We need to debunk a misunderstood stat from the latest Anthropic report.
