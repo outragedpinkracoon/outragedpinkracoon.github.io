@@ -21,8 +21,8 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
     <p class="audience-panel__price">From £350</p>
     <p class="audience-label">New and growing leaders</p>
     <h3><a href="/coaching/engineering-managers/">I want to be a badass engineering manager</a></h3>
-    <p>Whether something’s on fire or you just want someone who’s got your back while you grow, this is for you.</p>
-    <p>From first EM role through to Head of Engineering. Feedback, conflict, team chaos, managing up, and the realisation there’s no undo button for people. Or: nothing’s broken, you’re just serious about getting better. The Advisory is for that.</p>
+    <p>Whether something's on fire or you just want someone who's got your back while you grow, this is for you.</p>
+    <p>From first EM role through to Head of Engineering. Feedback, conflict, team chaos, managing up, and the realisation there's no undo button for people. Or: nothing's broken, you're just serious about getting better. The Advisory is for that.</p>
     <p><a class="pricing-cta" href="/coaching/engineering-managers/">Help me manage humans</a></p>
   </section>
 
@@ -31,7 +31,7 @@ description: No-bullshit 1:1 coaching for engineering managers, founders, CTOs, 
     <p class="audience-label">For folks in tech</p>
     <h3><a href="/coaching/folks-in-tech/">I want more power, more credit, and less bullshit</a></h3>
     <p>You are capable, ambitious, and tired of being treated like a maybe.</p>
-    <p>Career moves, burnout, masking, visibility, accommodations, self-trust, and deciding what the hell happens next. Especially if you are neurodivergent, queer, disabled, or done making yourself easier to digest.</p>
+    <p>Career moves, a crossroads, a redundancy you didn't choose, burnout, masking, visibility, self-trust, and deciding what the hell happens next. Especially if you are neurodivergent, queer, disabled, or done making yourself easier to digest.</p>
     <p><a class="pricing-cta" href="/coaching/folks-in-tech/">Help me get unstuck</a></p>
   </section>
 </div>

@@ -27,14 +27,15 @@ schema_offers:
 
 <p><strong>You're good at this. That's not the problem.</strong></p>
 
-<p>The problem is the part where you are doing the work, managing the politics, masking through the nonsense, and still getting treated like a maybe.</p>
-<p>You might already be doing the job without the title, the credit, or the money. You might be ambitious as hell and bored of being underestimated. You might be exhausted from making yourself easier to digest, and done waiting for permission to stop.</p>
+<p>The problem is the part where you do the work, manage the politics, mask through the nonsense, and still get treated like a maybe.</p>
+<p>Maybe you are already doing the job without the title, the credit, or the money. Maybe you are exhausted from making yourself easier to digest, and done waiting for permission to stop.</p>
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £300.</p>
+<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £250.</p>
 
-<p>Or maybe nothing is on fire. Maybe you have just realised you want more than this, and you are done trying to earn it the hard way.</p>
+<p>Or maybe nothing is on fire. You are ambitious as hell, you want more than this, and you are done trying to earn it the hard way.</p>
+<p>Or you are at a crossroads. Between roles, freshly made redundant, working out whether to stay in tech, change lanes, or build something hybrid. You want someone who has sat in that exact fork.</p>
 
 <p>As a VP Engineering, ILM certified Executive Coach, neurodivergent, queer and disabled person, I help folks in tech get unstuck or levelled up.</p> 
 
@@ -76,6 +77,12 @@ schema_offers:
   </figure>
   <figure class="manager-quote-card">
     <blockquote>"I am rebuilding self-trust after being managed, ignored, or underestimated into confusion."</blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>"I have been made redundant and I am deciding whether to stay in tech leadership, switch industries, or do something hybrid."</blockquote>
+  </figure>
+  <figure class="manager-quote-card">
+    <blockquote>"Nothing is wrong, exactly. I am just at a crossroads and I want someone who has been in these rooms to think it through with me."</blockquote>
   </figure>
 </div>
 

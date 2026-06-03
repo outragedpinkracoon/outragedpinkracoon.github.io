@@ -30,7 +30,7 @@ schema_offers:
 <p>Either way, you're responsible for actual humans now.</p> 
 <p>Humans below you that need support and humans above you that want answers.</p>
 
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Sessions from £350.</p>
+<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £250.</p>
 
 <p>We'll tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career. Whether something's on fire or you're just serious about getting better. This is not generic life coaching.</p> 
 
