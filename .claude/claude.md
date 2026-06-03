@@ -19,6 +19,10 @@ for both '/page'
 There is also 'strategy' to check approach.
 For legal review, drafting, or T&Cs questions use '/legal'.
 
+# Skills
+
+`.claude/skills` is a symlink to `/Users/valerie/coding/claude-skills/outragedracooncoaching` (a sibling repo, one level up). Skill files live there, not in this repo, and the symlink is gitignored. Edits to skills are real and take effect, but they never show in this repo's `git status` and can't be committed here.
+
 # Task tracking
 
 Tasks are tracked in `tasks.md` at the project root. When completing a task, tick it off in `tasks.md` and include that file in the same commit. Always do this when asked to commit.
