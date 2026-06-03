@@ -1,9 +1,9 @@
 ---
 layout: info_page
 permalink: /who-is-val/
-title: Who is Val Dryden?
+title: Who is Val Dryden? Executive coach and VP Engineering
 display_title: Who is Val?
-title_sub: "Oh so many things."
+title_sub: "VP Engineering, executive coach, and a feral little racoon."
 description: "Val Dryden is an ILM-certified executive coach and VP Engineering. No-bullshit support for the messy, human, hard parts of tech, with lived experience as a neurodivergent leader."
 ---
 <img src="/assets/images/brand-images/Me.png" alt="Val smiling in a garden" class="profile-image">
@@ -17,25 +17,25 @@ description: "Val Dryden is an ILM-certified executive coach and VP Engineering.
 <p>Then I realised every manager I'd ever had was terrible, and none of them looked anything like me.</p> 
 <p>Never mind the neurodivergent, queer and disabled version of me.</p>
 
-<p>Turns out I wasn't imagining it. 82% of UK managers are thrown into their roles without formal training. One in three employees quits because of poor management.</p>
+<p class="pull-quote">Turns out I wasn't imagining it. 82% of UK managers are thrown in with no training, and one in three people quit because of a bad one.</p>
 
 <p>Not because managers try to be terrible. Because nobody told them what was expected of them. Or what great looked like.</p>
 
 <p>I kept meeting those managers. So I decided to do something about it.</p>
 
-<p class="callout callout--teal">Racoons don't belong anywhere, but they thrive anyway!</p>
+<p class="callout callout--yellow">Racoons don't belong anywhere, but they thrive anyway!</p>
 
 <p>For nearly a decade I've been running fun, inclusive, high-performing engineering teams of 150+ from Series A to Series G, across more sectors and tech stacks than I've read romantasy books. And I read a lot.</p>
 
-<p>I made <a href="https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/home">the course I wish I had</a> when I first had that "holy shit I'm a manager!" moment.
+<p>I made <a href="https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/home">the course I wish I had</a> when I first had that "holy shit I'm a manager!" moment.</p>
 
-<p>I became an ILM Level 5 qualified executive coach, but the real qualification is the decade of doing it.</p>
+<p>I became an ILM Level 5 qualified executive coach, but the real qualification is the decade of actually doing it.</p>
 
 <h2>The kind of coach I am</h2>
 
 <p class="pull-quote">This is not "how do I feel about that?" coaching. This is "what's actually going on, what matters, and what are you going to do about it?" coaching.</p>
 
-<p>I am direct, warm, curious and allergic to corporate bullshit.</p>
+<p>I'm warm and I'm direct, and those are not opposites. The warmth is why I won't waste your time; the directness is how I respect it.</p>
 
 <p>I will not sit there nodding while you try to decode your life alone. I will ask challenging questions. I will reflect patterns back. I will challenge you when the story you are telling yourself seems too small, too cruel, or too inherited from someone else.</p>
 

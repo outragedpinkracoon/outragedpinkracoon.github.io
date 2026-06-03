@@ -16,7 +16,7 @@ defaults:
       path: ""
     values:
       image: /assets/images/site/racoon.jpg
-      subtitle: VP Eng | ILM Executive Coach | Neurodivergent | Queer | Chief Racoon Officer
+      subtitle: VP Eng | ILM Executive Coach | Neurodivergent | Chief Racoon Officer
   - scope:
       path: ""
       type: posts
