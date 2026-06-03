@@ -15,7 +15,6 @@ layout: default
   <div class="post-body">
     {{ content }}
   </div>
-  {% unless page.categories contains 'haiku' %}
   <aside class="post-cta" aria-label="Coaching services">
     {% if page.categories contains 'diversity' %}
       <div class="callout callout--teal">
@@ -32,14 +31,8 @@ layout: default
         <p>If any of this landed, I do 1:1 coaching for folks in tech. Careers, power, getting unstuck. No generic advice, no polite pissing about.</p>
         <p class="text-center"><a class="header-cta" href="/coaching/folks-in-tech/">See how it works</a></p>
       </div>
-    {% elsif page.categories contains 'programming' %}
-      <div class="callout callout--yellow">
-        <p>If any of this is familiar and you need someone who has actually been in the room, I work as a Fractional CTO. I get to the real problem fast.</p>
-        <p class="text-center"><a class="header-cta" href="/fractional-cto/">See how it works</a></p>
-      </div>
     {% else %}
       <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Coaching%20Enquiry&body=Hi%20Val%2C%20I%27d%20like%20to%20book%20a%201%3A1%20coaching%20session.">Get in touch</a></p>
     {% endif %}
   </aside>
-  {% endunless %}
 </article>
