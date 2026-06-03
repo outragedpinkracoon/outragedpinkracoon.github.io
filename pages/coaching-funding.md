@@ -91,6 +91,6 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 
 <h2>Self-funding</h2>
 
-<p>If neither route works for you and you're paying out of pocket, especially if you're under-represented in tech, <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">get in touch</a>. I'd rather have the conversation than have someone rule themselves out before asking.</p>
+<p>If neither route works for you and you're paying out of pocket, especially if you're under-represented in tech, <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">get in touch</a>. We can usually find a way to make it work. I'd rather have the conversation than have someone rule themselves out before asking.</p>
 
 <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Funding%20Enquiry">Get in touch</a></p>
