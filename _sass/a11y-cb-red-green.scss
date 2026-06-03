@@ -125,6 +125,11 @@ body.cb-red-green {
     &--email  { background: lighten($cb-sky, 30%); box-shadow: 6px 6px 0 $cb-blue; }
   }
 
+  table:not(.pricing-table) {
+    box-shadow: 6px 6px 0 $cb-amber;
+    thead th { background: $cb-blue; }
+  }
+
   .email-subject {
     text-decoration-color: $cb-vermillion;
   }

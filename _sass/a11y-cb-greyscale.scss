@@ -122,6 +122,13 @@ body.cb-greyscale {
     &--email  { background: $gs-light; border: 3px dashed $gs-dark; box-shadow: 6px 6px 0 $gs-dark; }
   }
 
+  table:not(.pricing-table) {
+    border-color: $gs-dark;
+    box-shadow: 6px 6px 0 $gs-mid;
+    th, td { border-bottom-color: $gs-dark; }
+    thead th { background: $gs-dark; color: $gs-near-white; border-bottom-color: $gs-dark; }
+  }
+
   .fill-blank {
     background: $gs-mid-dark;
     color: $gs-near-white;

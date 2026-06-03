@@ -73,10 +73,27 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
 
 #### Engineering manager coaching
 
-| | Per session rate | Bundle/programme price |
-|---|---|---|
-| The Decisive Hour (single session) | £350.00 | — |
-| The Campaign (block of 3) | — | £800.00 (save £250) |
+<table>
+  <thead>
+    <tr>
+      <th>Offer</th>
+      <th>Per session rate</th>
+      <th>Bundle/programme price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Decisive Hour (single session)</td>
+      <td>£350.00</td>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <td>The Campaign (block of 3)</td>
+      <td>n/a</td>
+      <td>£800.00 (save £250)</td>
+    </tr>
+  </tbody>
+</table>
 
 ### The Advisory retainer
 

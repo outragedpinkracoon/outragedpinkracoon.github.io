@@ -114,6 +114,11 @@ body.cb-blue-yellow {
     &--email  { background: $tri-coral; color: #f7f2e8; box-shadow: 6px 6px 0 #d91a5e; }
   }
 
+  // table header (magenta) stays safe; only the teal shadow swaps
+  table:not(.pricing-table) {
+    box-shadow: 6px 6px 0 $tri-green;
+  }
+
   // Course starburst: teal -> green (teal unsafe for tritanopia)
   .starburst--course { background: $tri-green; color: #f7f2e8; }
 

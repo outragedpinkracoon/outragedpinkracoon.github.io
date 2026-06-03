@@ -3022,3 +3022,54 @@ footer {
     scroll-behavior: auto;
   }
 }
+
+// ─── Content tables (T&Cs fees, etc) ───────────────────────────────────────────
+// Risograph treatment: ink border, hard offset shadow, magenta header bar.
+// Scoped to content tables in main; leaves .pricing-table and layout untouched.
+main table:not(.pricing-table) {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+  border: 3px solid $ink;
+  box-shadow: 6px 6px 0 $teal;
+  font-family: $font-secondary;
+  overflow: hidden;
+
+  th, td {
+    padding: 0.85rem 1rem;
+    text-align: left;
+    border-bottom: 2px solid $ink;
+  }
+
+  thead th {
+    background: $magenta;
+    color: $cream;
+    font-family: $font-primary;
+    font-weight: 700;
+    border-bottom: 3px solid $ink;
+  }
+
+  tbody tr:last-child td {
+    border-bottom: 0;
+  }
+
+  tbody tr:nth-child(even) td {
+    background: rgba($ink, 0.04);
+  }
+
+  // Not-applicable cells read quieter
+  td:empty::after {
+    content: "n/a";
+    opacity: 0.5;
+  }
+}
+
+// Mobile: let a wide table scroll rather than crush the layout
+@media (max-width: 640px) {
+  main table:not(.pricing-table) {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
