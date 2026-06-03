@@ -16,7 +16,12 @@ layout: default
     {{ content }}
   </div>
   <aside class="post-cta" aria-label="Coaching services">
-    {% if page.categories contains 'diversity' %}
+    {% if page.categories contains 'new-manager' %}
+      <div class="callout callout--yellow">
+        <p>Still coding all day and quietly losing it? My self-paced course, Holy Shit, I'm a Manager!, is engineering management first aid. 52+ practical lessons on the actual job, with direct access to me.</p>
+        <p class="text-center"><a class="header-cta" href="/holy-shit-im-a-manager/">See the course</a></p>
+      </div>
+    {% elsif page.categories contains 'diversity' %}
       <div class="callout callout--teal">
         <p>If any of this landed, I do 1:1 coaching for folks in tech. Careers, power, getting unstuck. No generic advice, no polite pissing about.</p>
         <p class="text-center"><a class="header-cta" href="/coaching/folks-in-tech/">See how it works</a></p>
