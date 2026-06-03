@@ -15,7 +15,7 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 
 <p>Most companies that employ engineers have a professional development budget. Most employees never use it. If you're at a company with any kind of L&D policy, this is worth a conversation with your manager.</p>
 
-<p>A single coaching session at £300 fits comfortably within a typical individual L&D allowance. If your budget cap is lower or already partially spent, it's worth asking whether there's a separate personal development pot, or whether your manager has discretion to top it up for something with a clear return.</p>
+<p>A single coaching session at £350 fits comfortably within a typical individual L&D allowance. If there's a cap, ask whether there's a separate personal development pot, or whether your manager has discretion to top it up for something with a clear return.</p>
 
 <h3>Who this works for</h3>
 
@@ -35,35 +35,35 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 
 <p>I've worked with people funded by their employers at companies across the UK tech sector, from early-stage startups to scale-ups. It's not unusual. You're not asking for something weird.</p>
 
-<h2>A helping hand</h2>
+<h2>Ready-to-send templates</h2>
 
 <p>Pick the option that fits, edit the bracketed bits, and send it. Done.</p>
 
-<h3>Single session: £300, fits most L&D allowances</h3>
+<h3>The Decisive Hour: one session, £350</h3>
 
 <div class="callout callout--email">
 <p class="email-subject">Subject: L&amp;D budget request for coaching</p>
 <p>Hi <span class="fill-blank">[Name]</span>,</p>
-<p>I'd like to use part of my L&D budget for a coaching session. I've found a coach I think would be genuinely useful: Val Dryden at Outraged Racoon Coaching. She's an ILM-certified executive coach and former CTO/VP Engineering with nearly two decades in tech, so she understands this industry and the specific situations I'm navigating.</p>
-<p>A single session is £300, which fits within my L&D allowance. I'm looking at it as a way to <span class="fill-blank">[get sharper on X / work through Y / develop faster in Z]</span>.</p>
+<p>I'd like to use my L&D budget for a coaching session. I've found a coach I think would be genuinely useful: Val Dryden at Outraged Racoon Coaching. She's an ILM-certified executive coach and former CTO/VP Engineering with nearly two decades in tech, so she understands this industry and the specific situations I'm navigating.</p>
+<p>A single session is £350, which fits within my L&D allowance. I'm looking at it as a way to <span class="fill-blank">[get sharper on X / work through Y / develop faster in Z]</span>.</p>
 <p>Happy to talk through it if useful. Let me know if you need anything from me to get this approved.</p>
 <p>Thanks,<br><span class="fill-blank">[Your name]</span></p>
 </div>
 
-<p><a href="mailto:?subject=L%26D%20budget%20request%20for%20coaching&body=Hi%20%5BName%5D%2C%0A%0AI%27d%20like%20to%20use%20part%20of%20my%20L%26D%20budget%20for%20a%20coaching%20session.%20I%27ve%20found%20a%20coach%20I%20think%20would%20be%20genuinely%20useful%3A%20Val%20Dryden%20at%20Outraged%20Racoon%20Coaching.%20She%27s%20an%20ILM-certified%20executive%20coach%20and%20former%20CTO%2FVP%20Engineering%20with%20nearly%20two%20decades%20in%20tech%2C%20so%20she%20understands%20this%20industry%20and%20the%20specific%20situations%20I%27m%20navigating.%0A%0AA%20single%20session%20is%20%C2%A3300%2C%20which%20fits%20within%20my%20L%26D%20allowance.%20I%27m%20looking%20at%20it%20as%20a%20way%20to%20%5Bget%20sharper%20on%20X%20%2F%20work%20through%20Y%20%2F%20develop%20faster%20in%20Z%5D.%0A%0AHappy%20to%20talk%20through%20it%20if%20useful.%20Let%20me%20know%20if%20you%20need%20anything%20from%20me%20to%20get%20this%20approved.%0A%0AThanks%2C%0A%5BYour%20name%5D">Send this to your manager</a>. Opens in your email, ready to edit and send.</p>
+<p><a href="mailto:?subject=L%26D%20budget%20request%20for%20coaching&body=Hi%20%5BName%5D%2C%0A%0AI%27d%20like%20to%20use%20my%20L%26D%20budget%20for%20a%20coaching%20session.%20I%27ve%20found%20a%20coach%20I%20think%20would%20be%20genuinely%20useful%3A%20Val%20Dryden%20at%20Outraged%20Racoon%20Coaching.%20She%27s%20an%20ILM-certified%20executive%20coach%20and%20former%20CTO%2FVP%20Engineering%20with%20nearly%20two%20decades%20in%20tech%2C%20so%20she%20understands%20this%20industry%20and%20the%20specific%20situations%20I%27m%20navigating.%0A%0AA%20single%20session%20is%20%C2%A3350%2C%20which%20fits%20within%20my%20L%26D%20allowance.%20I%27m%20looking%20at%20it%20as%20a%20way%20to%20%5Bget%20sharper%20on%20X%20%2F%20work%20through%20Y%20%2F%20develop%20faster%20in%20Z%5D.%0A%0AHappy%20to%20talk%20through%20it%20if%20useful.%20Let%20me%20know%20if%20you%20need%20anything%20from%20me%20to%20get%20this%20approved.%0A%0AThanks%2C%0A%5BYour%20name%5D">Send this to your manager</a>. Opens in your email, ready to edit and send.</p>
 
-<h3>Block of three: £750, split across L&D and personal spend</h3>
+<h3>The Campaign: three sessions, £800</h3>
 
 <div class="callout callout--email">
 <p class="email-subject">Subject: L&amp;D budget request for coaching</p>
 <p>Hi <span class="fill-blank">[Name]</span>,</p>
-<p>I'd like to use part of my L&D budget toward a block of three coaching sessions with Val Dryden at Outraged Racoon Coaching. She's an ILM-certified executive coach and former CTO/VP Engineering with nearly two decades in tech.</p>
-<p>The block is £750 in total. I'm happy to cover part of it personally. I'd like to put £500 through L&D and cover the remaining £250 myself. I'm looking at this as a way to <span class="fill-blank">[get support on X / develop faster in Y / work through Z]</span> over the next few months.</p>
+<p>I'd like to use my L&D budget toward a block of three coaching sessions with Val Dryden at Outraged Racoon Coaching. She's an ILM-certified executive coach and former CTO/VP Engineering with nearly two decades in tech.</p>
+<p>The block is £800 in total. I'm looking at this as a way to <span class="fill-blank">[get support on X / develop faster in Y / work through Z]</span> over the next few months.</p>
 <p>Happy to talk through it if useful. Let me know if you need anything from me to get this approved.</p>
 <p>Thanks,<br><span class="fill-blank">[Your name]</span></p>
 </div>
 
-<p><a href="mailto:?subject=L%26D%20budget%20request%20for%20coaching&body=Hi%20%5BName%5D%2C%0A%0AI%27d%20like%20to%20use%20part%20of%20my%20L%26D%20budget%20toward%20a%20block%20of%20three%20coaching%20sessions%20with%20Val%20Dryden%20at%20Outraged%20Racoon%20Coaching.%20She%27s%20an%20ILM-certified%20executive%20coach%20and%20former%20CTO%2FVP%20Engineering%20with%20nearly%20two%20decades%20in%20tech.%0A%0AThe%20block%20is%20%C2%A3750%20in%20total.%20I%27m%20happy%20to%20cover%20part%20of%20it%20personally%20%E2%80%94%20I%27d%20like%20to%20put%20%C2%A3500%20through%20L%26D%20and%20cover%20the%20remaining%20%C2%A3250%20myself.%20I%27m%20looking%20at%20this%20as%20a%20way%20to%20%5Bget%20support%20on%20X%20%2F%20develop%20faster%20in%20Y%20%2F%20work%20through%20Z%5D%20over%20the%20next%20few%20months.%0A%0AHappy%20to%20talk%20through%20it%20if%20useful.%20Let%20me%20know%20if%20you%20need%20anything%20from%20me%20to%20get%20this%20approved.%0A%0AThanks%2C%0A%5BYour%20name%5D">Send this to your manager</a>. Opens in your email, ready to edit and send.</p>
+<p><a href="mailto:?subject=L%26D%20budget%20request%20for%20coaching&body=Hi%20%5BName%5D%2C%0A%0AI%27d%20like%20to%20use%20my%20L%26D%20budget%20toward%20a%20block%20of%20three%20coaching%20sessions%20with%20Val%20Dryden%20at%20Outraged%20Racoon%20Coaching.%20She%27s%20an%20ILM-certified%20executive%20coach%20and%20former%20CTO%2FVP%20Engineering%20with%20nearly%20two%20decades%20in%20tech.%0A%0AThe%20block%20is%20%C2%A3800%20in%20total.%20I%27m%20looking%20at%20this%20as%20a%20way%20to%20%5Bget%20support%20on%20X%20%2F%20develop%20faster%20in%20Y%20%2F%20work%20through%20Z%5D%20over%20the%20next%20few%20months.%0A%0AHappy%20to%20talk%20through%20it%20if%20useful.%20Let%20me%20know%20if%20you%20need%20anything%20from%20me%20to%20get%20this%20approved.%0A%0AThanks%2C%0A%5BYour%20name%5D">Send this to your manager</a>. Opens in your email, ready to edit and send.</p>
 
 <h2 id="access-to-work">Access to Work</h2>
 
@@ -91,6 +91,6 @@ description: How to fund coaching through L&D or Access to Work. No-bullshit sup
 
 <h2>Self-funding</h2>
 
-<p>If neither of these routes works for you, especially if you're under-represented in tech and paying out of pocket, <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">get in touch</a>. I don't advertise reduced rates but I do have options, and I'd rather talk than have someone rule themselves out before asking.</p>
+<p>If neither route works for you and you're paying out of pocket, especially if you're under-represented in tech, <a href="mailto:outragedracooncoaching@gmail.com?subject=Self-funding%20Enquiry">get in touch</a>. I'd rather have the conversation than have someone rule themselves out before asking.</p>
 
 <p class="text-center"><a class="header-cta" href="mailto:outragedracooncoaching@gmail.com?subject=Funding%20Enquiry">Get in touch</a></p>
