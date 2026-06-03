@@ -1,9 +1,9 @@
 ---
-title: New Engineering Manager Mistakes — What Not to Hand Your Team
+title: Giving AI Agents to Non-Engineers Is a Mistake
 display_title: Don't Hand the Baby a Chainsaw
 description: Giving someone without engineering knowledge an AI agent doesn't make them an engineer. It makes them a baby with a dangerous power tool.
 layout: post
-categories: [programming, spicy]
+categories: [programming, personal-development, spicy]
 ---
 
 If I gave a baby a chainsaw to cut a tree, does that make them a carpenter?  
