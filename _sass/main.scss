@@ -3074,8 +3074,9 @@ main table:not(.pricing-table) {
   }
 }
 
-// Blog post image gallery (e.g. AI carousel slides)
-// 1 col on mobile, 2 from tablet up. Stays at 2 so slides keep their size. Works 320px to 4K.
+// Blog post image gallery. Neutral image-layout primitive (not the .card-grid
+// promo component). Always 1 col on mobile; modifiers set the wider layout.
+// Works 320px to 4K.
 .post-gallery {
   display: grid;
   grid-template-columns: 1fr;
@@ -3087,7 +3088,27 @@ main table:not(.pricing-table) {
     display: block;
     border-radius: 8px;
   }
-  @media (min-width: 560px) {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+  // --two-up: side by side from tablet up (default for carousel slides)
+  &--two-up {
+    @media (min-width: 560px) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  // --three-up: three across on wider screens
+  &--three-up {
+    @media (min-width: 560px) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    @media (min-width: 900px) {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  // --portrait: constrain tall images so they don't dominate the column
+  &--portrait img {
+    object-fit: cover;
+    aspect-ratio: 3 / 4;
   }
 }
