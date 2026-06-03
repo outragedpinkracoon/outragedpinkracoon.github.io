@@ -99,7 +99,7 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
 
 A Client who has booked a single session may choose to upgrade to The Campaign within 7 days of that session. The first session then counts as the first of the three, and the Client pays the balance between the single-session fee already invoiced and the full Campaign price (£450, being the £800 Campaign price less the £350 single-session fee already invoiced). This balance is invoiced on upgrade and is payable within 14 days and before the second session is booked, whichever is sooner.
 
-Once upgraded, the standard Campaign terms apply, including the 3-month expiry, which runs from the date of the first session.
+Once upgraded, the standard Campaign terms apply. Because the first session counts as the first of the three, the 3-month expiry runs from the date of that first session, not from the date of upgrade. All three sessions must therefore be used within 3 months of the first session.
 
 ### The Advisory retainer
 
@@ -149,6 +149,8 @@ For single sessions, an invoice is issued by email after the session takes place
 For bundles and programmes, an invoice for the full bundle or programme is issued by email and is payable within 7 days before the first session is booked. Sessions are scheduled once payment has been received. Where a single session is upgraded to The Campaign, the balance is invoiced on upgrade and payable within 14 days and before the second session is booked, whichever is sooner, as set out under Upgrading a single session to The Campaign.
 
 For The Advisory retainer, invoices are issued monthly.
+
+Where an invoice remains unpaid after its due date, the Coach may decline to book or hold further sessions until the outstanding amount has been paid. This does not affect any session already delivered, which remains payable.
 
 ### Refunds
 Refunds are not available for single sessions, since the invoice for a single session is issued only after the session has been completed and the service delivered.
