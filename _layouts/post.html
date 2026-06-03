@@ -17,7 +17,12 @@ layout: default
   </div>
   {% unless page.categories contains 'haiku' %}
   <aside class="post-cta" aria-label="Coaching services">
-    {% if page.categories contains 'management' or page.categories contains 'one-to-ones' or page.categories contains 'leadership' or page.categories contains 'training' %}
+    {% if page.categories contains 'diversity' %}
+      <div class="callout callout--teal">
+        <p>If any of this landed, I do 1:1 coaching for folks in tech. Careers, power, getting unstuck. No generic advice, no polite pissing about.</p>
+        <p class="text-center"><a class="header-cta" href="/coaching/folks-in-tech/">See how it works</a></p>
+      </div>
+    {% elsif page.categories contains 'management' or page.categories contains 'one-to-ones' or page.categories contains 'leadership' or page.categories contains 'training' %}
       <div class="callout callout--teal">
         <p>If any of this is your actual life, I do 1:1 engineering manager coaching. The messy, human, nobody-prepared-me-for-this bits.</p>
         <p class="text-center"><a class="header-cta" href="/coaching/engineering-managers/">See how it works</a></p>
