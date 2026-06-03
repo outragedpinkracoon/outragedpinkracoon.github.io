@@ -7,6 +7,9 @@ sitemap: false
 ---
 The coaching disclaimer and terms and conditions outlined below define the relationship between Coach and Client and underpin any services delivered by Valerie Dryden trading as Outraged Racoon Coaching®. Please make sure you read the following carefully and if you have any questions or queries then please send them by email to [outragedracooncoaching@gmail.com](outragedracooncoaching@gmail.com).
 
+<!-- Bump this date only on MATERIAL changes to the terms, not typo fixes or unrelated edits. It is what "applies from the date of publication" in the Variation clause refers to. -->
+*Last updated: 3 June 2026*
+
 Payment of any invoice issued by the Coach constitutes the Client's acceptance of these terms and conditions in full, including the disclaimer below.
 
 ## Disclaimer
