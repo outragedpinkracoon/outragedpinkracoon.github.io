@@ -71,7 +71,7 @@ Bundles and programmes do not have a pause facility as a standard feature. If ex
 
 All fees are VAT exempt. In return for the fees payable by the Client (or by a third party acting on the Client's behalf), the Coach will provide the services described in this agreement, in accordance with its terms and conditions.
 
-#### Engineering manager coaching
+#### Coaching fees
 
 <table>
   <thead>
@@ -94,6 +94,12 @@ All fees are VAT exempt. In return for the fees payable by the Client (or by a t
     </tr>
   </tbody>
 </table>
+
+#### Upgrading a single session to The Campaign
+
+A Client who has booked a single session may choose to upgrade to The Campaign within 7 days of that session. The first session then counts as the first of the three, and the Client pays the balance between the single-session fee already invoiced and the full Campaign price (£450, being the £800 Campaign price less the £350 single-session fee already invoiced). This balance is invoiced on upgrade and is payable within 14 days and before the second session is booked, whichever is sooner.
+
+Once upgraded, the standard Campaign terms apply, including the 3-month expiry, which runs from the date of the first session.
 
 ### The Advisory retainer
 
@@ -140,7 +146,7 @@ If the Coach needs to cancel or reschedule a session, the Client will be notifie
 ### Payment terms
 For single sessions, an invoice is issued by email after the session takes place and is payable within 7 days via the payment methods specified on the invoice. Where multiple single sessions occur within the same month, fees may be grouped into a single invoice issued at month end.
 
-For bundles and programmes, an invoice for the full bundle or programme is issued by email and is payable within 7 days before the first session is booked. Sessions are scheduled once payment has been received.
+For bundles and programmes, an invoice for the full bundle or programme is issued by email and is payable within 7 days before the first session is booked. Sessions are scheduled once payment has been received. Where a single session is upgraded to The Campaign, the balance is invoiced on upgrade and payable within 14 days and before the second session is booked, whichever is sooner, as set out under Upgrading a single session to The Campaign.
 
 For The Advisory retainer, invoices are issued monthly.
 
