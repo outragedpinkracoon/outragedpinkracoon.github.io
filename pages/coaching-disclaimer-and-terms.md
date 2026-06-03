@@ -50,7 +50,7 @@ Additional sessions may be agreed after completion of the initial arrangement. T
 Clients who have concerns about any part of this agreement should raise them with the Coach before the first session. Payment of an invoice for any session, bundle, or programme constitutes acceptance of these terms and conditions.
 
 ### Session expiry
-Sessions purchased as part of a bundle or programme must be used within the following periods from the date of purchase:
+Sessions purchased as part of a bundle or programme must be used within the following periods from the date of the first session:
 
 * The Campaign (3 sessions): 3 months
 * The Advisory: Monthly sessions expire at the end of each calendar month and cannot be
@@ -171,14 +171,16 @@ Where the Coach terminates a bundle or programme and sessions have been invoiced
 ### Variation of terms and conditions
 These terms and conditions may be updated by the Coach at any time. The current version will always be available on the Coach's website and applies from the date of publication. It is the Client's responsibility to review the terms periodically.
 
-Material changes that affect commercial terms (including, without limitation, per-session fee, session duration, cancellation window, late-payment charges, refund rules, and block-booking terms) will be notified to the Client in writing (e.g. by email) and will only apply to sessions booked after the effective date stated in the notice. Sessions already booked (or paid) before that effective date will remain on the previous terms.
+Material changes that affect commercial terms (including, without limitation, per-session fee, session duration, cancellation window, refund rules, and block-booking terms) will be notified to the Client in writing (e.g. by email) and will only apply to sessions booked after the effective date stated in the notice. Sessions already booked (or paid) before that effective date will remain on the previous terms.
 
 Failure to enforce any part of this agreement does not constitute a waiver of the right to enforce the same or any other part in future.
 
 ### Limited liability
 Except as expressly provided in this agreement, the Coach makes no guarantees or warranties, express or implied. The Coach will not be liable for any indirect, consequential, or special damages.
 
-The Client's sole remedy for any claim under this agreement shall be limited to the total amount paid by the Client to the Coach for services delivered up to the date of termination.
+The Coach's total liability to the Client under this agreement will not exceed the total fees the Client has paid to the Coach.
+
+Nothing in this agreement limits any liability that cannot lawfully be limited, including for fraud or for death or personal injury caused by negligence. This does not affect your statutory rights.
 
 ### Governing law
 
