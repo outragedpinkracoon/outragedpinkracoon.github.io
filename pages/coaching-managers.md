@@ -28,9 +28,6 @@ schema_offers:
 <p class="page-intro"><strong>There's no undo button for people. And you're the one making the calls now. Congrats!</strong></p>
 
 <p>Either way, you're responsible for actual humans now. Humans below you who need support and humans above you who want answers.</p>
-
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £250.</p>
-
 <p>We'll tackle the actual thing happening on your calendar, in your Slack, in your nervous system or in your career. Whether something's on fire or you're just serious about getting better. This is not generic life coaching.</p> 
 
 <p>It's Val-gets-it, we'll-sort-it coaching.</p>

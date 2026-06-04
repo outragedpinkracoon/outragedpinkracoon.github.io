@@ -32,8 +32,6 @@ schema_offers:
 
 <div style="clear: left;">{% include credibility-strip.html %}</div>
 
-<p class="starburst" style="float: left; margin: 0 1.5rem 1rem 0;">Support from £250.</p>
-
 <p>As a VP Engineering, ILM certified Executive Coach, neurodivergent, queer and disabled person, I help folks in tech get unstuck or levelled up.</p> 
 
 <p>Sometimes that's one super-focussed conversation. Sometimes you need someone who already knows the context while you navigate the thing that keeps coming back to you at 3am in the morning.</p>

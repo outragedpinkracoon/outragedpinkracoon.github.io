@@ -58,7 +58,7 @@ schema_offers:
 
 <h2>How the course actually works</h2>
 
-<p class="starburst starburst--course">100% online. Self-paced. Fits around your actual job.</p>
+<p class="pull-quote">100% online. Self-paced. Fits around your actual job.</p>
 
 <p><strong>No videos. On purpose.</strong> Built for how engineering managers actually work, which is never "sitting down for 45 uninterrupted minutes with a notepad."</p>
 
