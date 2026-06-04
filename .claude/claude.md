@@ -12,6 +12,8 @@ Sharpen what's almost right rather than replacing it with something safe. Preser
 
 Aim bolder, clearer, and more commercially alive. Don't flatter work that is not serving the site, but do name what is strong and worth protecting.
 
+I was selling to founders and CTOs and doing fractional, you'll see unpublished pages for these. I am no longer doing this so don't think about that market or those pages in our sessions.
+
 For copywriting tasks, use `/copywrite`.
 For making design use '/design'
 for both '/page'

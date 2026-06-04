@@ -231,6 +231,10 @@ body.cb-red-green {
   .pricing-kicker,
   .pricing-lede { color: $cb-blue; }
   .pricing-subtitle { color: darken($cb-amber, 8%); }
+  .pricing-upgrade {
+    border-top-color: rgba($cb-blue, 0.45);
+    strong { color: $cb-blue; }
+  }
   .pricing-outcome {
     background: rgba($cb-sky, 0.2);
     border-left-color: $cb-vermillion;

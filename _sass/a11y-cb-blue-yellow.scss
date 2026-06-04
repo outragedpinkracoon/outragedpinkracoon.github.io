@@ -216,6 +216,10 @@ body.cb-blue-yellow {
   .pricing-kicker,
   .pricing-lede { color: $tri-green; }
   .pricing-subtitle { color: $tri-green; }
+  .pricing-upgrade {
+    border-top-color: rgba($tri-green, 0.45);
+    strong { color: $tri-green; }
+  }
   .pricing-outcome {
     background: rgba($tri-coral, 0.24);
     border-left-color: #ef6820;

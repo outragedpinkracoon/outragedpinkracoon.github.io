@@ -182,6 +182,10 @@ body.reading-mode {
     color: darken($reading-teal, 8%);
     text-shadow: 3px 3px 0 rgba($reading-yellow, 0.42);
   }
+  .pricing-upgrade {
+    border-top-color: rgba($reading-teal, 0.45);
+    strong { color: darken($reading-teal, 8%); }
+  }
   .pricing-cta {
     background: darken($reading-teal, 4%);
     box-shadow: 4px 4px 0 rgba($reading-yellow, 0.9);

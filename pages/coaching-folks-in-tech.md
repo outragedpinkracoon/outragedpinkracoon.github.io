@@ -88,10 +88,6 @@ schema_offers:
 
 {% include session-process.html %}
 
-<p><strong>I can't diagnose you</strong>, because coaching is not a medical assessment. I can help you make sense of what you are noticing and work out what to do about it.</p>
-
-<p>Still thinking "yes, but what even <em>is</em> a coach?" I wrote the fuller, swearier explainer here: <a href="/2025/02/27/why-get-a-coach.html">What's A Coach Anyway?</a></p>
-
 {% include what-happens-next.html %}
 {% include pricing.html %}
 

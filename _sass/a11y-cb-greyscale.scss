@@ -247,6 +247,11 @@ body.cb-greyscale {
   .pricing-subtitle { color: $gs-mid-dark; }
   .pricing-detail,
   .pricing-includes { color: rgba($gs-dark, 0.78); }
+  .pricing-upgrade {
+    border-top-color: rgba($gs-dark, 0.4);
+    color: rgba($gs-dark, 0.85);
+    strong { color: $gs-dark; }
+  }
   .pricing-outcome {
     background: lighten($gs-light, 12%);
     border-left-color: $gs-dark;
