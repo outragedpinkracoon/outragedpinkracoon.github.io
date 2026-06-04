@@ -222,27 +222,10 @@ body.cb-red-green {
   }
 
   // Pricing
-  .pricing-intro {
-    background: rgba($cb-blue, 0.08);
-    border-color: rgba($cb-blue, 0.34);
-    border-left-color: $cb-blue;
-    box-shadow: 8px 8px 0 $cb-amber;
-  }
-  .pricing-kicker,
-  .pricing-lede { color: $cb-blue; }
   .pricing-subtitle { color: darken($cb-amber, 8%); }
   .pricing-upgrade {
     border-top-color: rgba($cb-blue, 0.45);
     strong { color: $cb-blue; }
-  }
-  .pricing-outcome {
-    background: rgba($cb-sky, 0.2);
-    border-left-color: $cb-vermillion;
-  }
-  .pricing-proof span {
-    background: rgba($cb-sky, 0.16);
-    border-color: rgba($cb-blue, 0.36);
-    color: $cb-blue;
   }
   .pricing-card--featured { border-color: $cb-blue; border-bottom-color: $cb-blue; box-shadow: 5px 5px 0 $cb-amber; }
   .pricing-amount { color: $cb-blue; text-shadow: 3px 3px 0 rgba($cb-amber, 0.3); }

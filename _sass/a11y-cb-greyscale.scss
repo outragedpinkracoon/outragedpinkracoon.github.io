@@ -220,20 +220,6 @@ body.cb-greyscale {
   }
 
   // Pricing
-  .pricing-intro {
-    background: $gs-light;
-    border-color: $gs-mid-dark;
-    border-left-color: $gs-dark;
-    box-shadow: 8px 8px 0 $gs-mid;
-  }
-  .pricing-kicker,
-  .pricing-lede { color: $gs-dark; }
-  .pricing-proof span {
-    background: lighten($gs-light, 7%);
-    border-color: $gs-mid-dark;
-    border-style: dashed;
-    color: $gs-dark;
-  }
   .pricing-card {
     background: lighten($gs-light, 7%);
     border-color: rgba($gs-dark, 0.24);
@@ -251,11 +237,6 @@ body.cb-greyscale {
     border-top-color: rgba($gs-dark, 0.4);
     color: rgba($gs-dark, 0.85);
     strong { color: $gs-dark; }
-  }
-  .pricing-outcome {
-    background: lighten($gs-light, 12%);
-    border-left-color: $gs-dark;
-    color: $gs-dark;
   }
   .pricing-cta {
     background: $gs-dark;

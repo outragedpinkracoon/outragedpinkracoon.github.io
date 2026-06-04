@@ -207,27 +207,10 @@ body.cb-blue-yellow {
   }
 
   // Pricing
-  .pricing-intro {
-    background: rgba($tri-green, 0.08);
-    border-color: rgba($tri-green, 0.34);
-    border-left-color: $tri-green;
-    box-shadow: 8px 8px 0 $tri-coral;
-  }
-  .pricing-kicker,
-  .pricing-lede { color: $tri-green; }
   .pricing-subtitle { color: $tri-green; }
   .pricing-upgrade {
     border-top-color: rgba($tri-green, 0.45);
     strong { color: $tri-green; }
-  }
-  .pricing-outcome {
-    background: rgba($tri-coral, 0.24);
-    border-left-color: #ef6820;
-  }
-  .pricing-proof span {
-    background: rgba($tri-coral, 0.16);
-    border-color: rgba($tri-green, 0.36);
-    color: $tri-green;
   }
   .pricing-card--featured { border-color: $tri-green; border-bottom-color: $tri-green; box-shadow: 5px 5px 0 $tri-coral; }
   .pricing-amount { color: $tri-green; text-shadow: 3px 3px 0 rgba($tri-coral, 0.3); }

@@ -160,19 +160,6 @@ body.reading-mode {
     box-shadow: 7px 7px 0 #1c1714;
   }
 
-  .pricing-intro {
-    background: rgba($reading-teal, 0.12);
-    border-color: rgba($reading-teal, 0.36);
-    border-left-color: $reading-teal;
-    box-shadow: 8px 8px 0 rgba($reading-yellow, 0.78);
-  }
-  .pricing-kicker { color: darken($reading-teal, 8%); }
-  .pricing-lede { color: darken($reading-teal, 8%); }
-  .pricing-proof span {
-    background: rgba($reading-yellow, 0.22);
-    border-color: rgba($reading-teal, 0.32);
-    color: darken($reading-teal, 12%);
-  }
   .pricing-card--featured {
     border-color: $reading-teal;
     border-bottom-color: $reading-teal;
