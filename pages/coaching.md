@@ -10,10 +10,9 @@ description: Coaching for engineering managers and folks in tech from a VP Engin
 
 <p>No-bullshit coaching for the messy, human, hard parts of working in tech. From someone who has been in almost every situation this work takes you to.</p>
 
-<p>I help you work out what is actually going on, what matters, and what the hell to do next. One session for when everything's on fire. In your corner for when you're ready to level up.</p>
+<p>I help you work out what is actually going on, what matters, and what the hell to do next.</p>
 
-<p class="pull-quote">You can get training from someone who has read about management. 
-  Or from someone who has lived it.</p>
+<p class="pull-quote">You can get training from someone who has read about management. Or from someone who has lived it.</p>
 
 <h2 class="sr-only">Pick the one that feels closest</h2>
 
