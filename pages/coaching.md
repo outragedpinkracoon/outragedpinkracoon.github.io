@@ -35,7 +35,7 @@ description: Coaching for engineering managers and folks in tech from a VP Engin
     <p class="audience-label">For folks in tech</p>
     <h3><a href="/coaching/folks-in-tech/">I want more power, more credit, and less bullshit</a></h3>
     <ul class="audience-panel__tags">
-      <li>Career moves and crossroads</li>
+      <li>Career decisions and crossroads</li>
       <li>A redundancy and what's next</li>
       <li>Burnout, masking, visibility</li>
       <li>Dealing with your manager/peers</li>
