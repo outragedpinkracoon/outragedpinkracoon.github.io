@@ -126,14 +126,14 @@ body.reading-mode {
       box-shadow: 7px 7px 0 rgba($reading-magenta, 0.22);
       h3 { color: $reading-magenta; }
       .audience-panel__price { background: $reading-magenta; }
-      .audience-panel__detail::before { background: $reading-magenta; }
+      .audience-panel__tags li::before { background: $reading-teal; }
     }
     &--manager {
       border-color: rgba($reading-teal, 0.45);
       box-shadow: 7px 7px 0 rgba($reading-teal, 0.22);
       h3 { color: $reading-teal; }
       .audience-panel__price { background: $reading-teal; }
-      .audience-panel__detail::before { background: $reading-teal; }
+      .audience-panel__tags li::before { background: $reading-magenta; }
     }
     &--orange {
       border-color: rgba(#c8421a, 0.45);
