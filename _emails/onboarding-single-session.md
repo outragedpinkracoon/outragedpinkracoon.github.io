@@ -27,7 +27,7 @@ https://outragedracooncoaching.com/coaching-disclaimer-and-terms/
 
 They cover how sessions work, payment, cancellations, and how I handle confidentiality (short version: what you tell me stays with me, bar the legal exceptions you'd expect). Have a proper read and if you've got a question, come back to me before we book. There shouldn't be anything surprising in there!
 
-How this one works: you book your first session at £350, invoiced afterwards. If you want to keep going after that, we can talk about doing a block of three.
+How this one works: you book your first session at £350, invoiced afterwards. If you want to keep going after that, we can fold it into a block of three (the first session counts as the first of the three).
 
 Happy with the terms? Reply to let me know and we'll get you booked in. How's [day/time]?
 
