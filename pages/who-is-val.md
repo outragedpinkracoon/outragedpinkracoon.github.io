@@ -25,11 +25,11 @@ description: "Val Dryden is an ILM-certified executive coach and VP Engineering.
 
 <p class="callout callout--yellow">Racoons don't belong anywhere, but they thrive anyway!</p>
 
-<p>For nearly a decade I've been running fun, inclusive, high-performing engineering teams of 150+ from Series A to Series G, across more sectors and tech stacks than I've read romantasy books. And I read a lot.</p>
+<p>I'm a practicing VP of Engineering, still doing the job today, not coaching from a decade-old memory of it. I've been in tech nearly 20 years and I've run fun, inclusive, high-performing engineering teams of 150+ from Series A to Series G, across more sectors and tech stacks than I've read romantasy books. And I read a lot. I'm in the weeds and at the exec table, often in the same day.</p>
 
 <p>I made <a href="https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/home">the course I wish I had</a> when I first had that "holy shit I'm a manager!" moment.</p>
 
-<p>I became an ILM Level 5 qualified executive coach, but the real qualification is the decade of actually doing it.</p>
+<p>I became an ILM Level 5 qualified executive coach, but the real qualification is doing the job, not just remembering it.</p>
 
 <h2>The kind of coach I am</h2>
 
