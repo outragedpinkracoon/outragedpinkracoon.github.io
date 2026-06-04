@@ -46,7 +46,7 @@ schema_offers:
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"Everyone keeps bringing me problems like I'm the adult in the room. Am I?"</blockquote>
+    <blockquote>"I'm still being told to code while having to manage people."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
@@ -58,11 +58,11 @@ schema_offers:
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I'm managing up, sideways and down and nobody warned me how weird this would be."</blockquote>
+    <blockquote>"I'm managing up, sideways and down and nobody warned me how exhausting this would be."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I'm trying to protect my team's energy without setting myself on fire."</blockquote>
+    <blockquote>"I'm protecting my team but burning myself out."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
@@ -74,11 +74,11 @@ schema_offers:
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I need to decide whether to stay, go, push back, or ask for more."</blockquote>
+    <blockquote>"I need to let someone go and I feel awful."</blockquote>
   </figure>
 
   <figure class="manager-quote-card">
-    <blockquote>"I'm not in crisis. I just want someone who's got my back while I figure out the next level."</blockquote>
+    <blockquote>"I'm operating at senior level but not getting promoted."</blockquote>
   </figure>
 </div>
 

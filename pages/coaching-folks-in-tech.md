@@ -48,10 +48,10 @@ schema_offers:
     <blockquote>"I want power, visibility, or progression without having to become smaller, smoother, or easier to digest."</blockquote>
   </figure>
     <figure class="manager-quote-card">
-    <blockquote>"I have been made redundant and I am deciding whether to stay in tech leadership, switch industries, or do something hybrid."</blockquote>
+    <blockquote>"I have been made redundant and need help figuring out what comes next."</blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"Nothing is wrong, exactly. I am just at a crossroads and I want someone who has been in these rooms to think it through with me."</blockquote>
+    <blockquote>"Nothing is wrong, exactly. I am just at a crossroads and feeling lost."</blockquote>
   </figure>
   <figure class="manager-quote-card">
     <blockquote>"I'm doing excellent work and somehow still getting treated like a maybe."</blockquote>
@@ -60,7 +60,7 @@ schema_offers:
     <blockquote>"I am so obviously hitting a ceiling here it may as well have my forehead print on it."</blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"I am burning out, I have had enough, and I do not know what the move is."</blockquote>
+    <blockquote>"I am burning out, I have had enough, and I do not know what to do."</blockquote>
   </figure>
   <figure class="manager-quote-card">
     <blockquote>"I know something has to change. I just need help working out what, and in what order."</blockquote>
@@ -75,10 +75,10 @@ schema_offers:
     <blockquote>"I keep doing senior work while everyone acts like promotion would be a wild experiment."</blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"I cannot work out whether I need confidence, boundaries, accommodations, a new job, or a nap that lasts six months."</blockquote>
+    <blockquote>"I cannot work out whether I need boundaries, accommodations, a new job, or a nap that lasts six months."</blockquote>
   </figure>
   <figure class="manager-quote-card">
-    <blockquote>"I am rebuilding self-trust after being managed, ignored, or underestimated into confusion."</blockquote>
+    <blockquote>"I am rebuilding my confidence after being ignored,underestimated or let go."</blockquote>
   </figure>
 </div>
 
