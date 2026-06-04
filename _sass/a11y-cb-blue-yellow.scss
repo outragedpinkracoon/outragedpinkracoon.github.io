@@ -242,6 +242,7 @@ body.cb-blue-yellow {
       box-shadow: 7px 7px 0 rgba($tri-green, 0.28);
       h3 { color: $tri-green; }
       .audience-panel__price { background: $tri-green; color: $ink; }
+      .audience-panel__detail::before { background: $tri-green; }
     }
     &--orange {
       border-color: rgba(#ef6820, 0.48);

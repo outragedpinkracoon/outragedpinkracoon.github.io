@@ -113,6 +113,20 @@ body.cb-greyscale {
     }
   }
 
+  // Coaching router cards — colour can't distinguish the two paths in
+  // greyscale, so use border-style (solid vs dashed) instead. The detail
+  // separator bar goes grey to match.
+  .audience-label { background: $gs-dark; color: $gs-near-white; }
+  .audience-panel {
+    border-color: $gs-dark;
+    box-shadow: 8px 8px 0 $gs-mid;
+    h3 { color: $gs-dark; }
+    .audience-panel__detail::before { background: $gs-mid; }
+
+    &--manager { border-style: solid; }
+    &--coaching { border-style: dashed; }
+  }
+
   // Callouts — border styles distinguish variants
   .callout {
     background: $gs-light;

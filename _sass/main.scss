@@ -1266,6 +1266,8 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
 
 .audience-panel {
   position: relative;
+  display: flex;
+  flex-direction: column;
   padding: 1.6rem;
   background: $cream;
   border: 3px solid rgba($ink, 0.14);
@@ -1286,6 +1288,37 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     font-weight: 900;
     font-size: 2rem;
     line-height: 1.05;
+  }
+
+  // Flex children stretch on the cross axis by default; the label is a small
+  // tilted sticker that must hug its text, so opt it out.
+  .audience-label {
+    align-self: flex-start;
+  }
+
+  // The detail paragraph (what this path covers) is set off from the hook above
+  // it with a short stubby riso bar rather than a full divider rule. Colour is
+  // set per variant below so the mark ties to each card's accent.
+  &__detail {
+    margin-top: 0.9rem !important;
+    padding-top: 0.9rem;
+
+    &::before {
+      content: '';
+      display: block;
+      width: 2.5rem;
+      height: 4px;
+      margin-bottom: 0.9rem;
+      background: rgba($ink, 0.35);
+    }
+  }
+
+  // Bottom-anchor the CTA so both cards' buttons align regardless of body
+  // length, matching the deliberate, built feel of the pricing cards. The CTA
+  // is wrapped in a <p>, so the auto margin goes on that wrapping paragraph.
+  p:has(> .pricing-cta) {
+    margin-top: auto;
+    margin-bottom: 0;
   }
 
   p:last-child { margin-bottom: 0; }
@@ -1340,6 +1373,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     h3 { color: $magenta; }
     .audience-label { background: $magenta; color: $cream; }
     .audience-panel__price { background: $magenta; }
+    .audience-panel__detail::before { background: $magenta; }
   }
 
   &--manager {
@@ -1349,6 +1383,7 @@ $_card-rotations:  -1.8deg,   1.5deg,   -1.2deg,   2deg;
     h3 { color: $teal; }
     .audience-label { background: $teal; color: $cream; }
     .audience-panel__price { background: $teal; }
+    .audience-panel__detail::before { background: $teal; }
   }
 
   &--orange {

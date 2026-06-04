@@ -244,12 +244,14 @@ body.cb-red-green {
       box-shadow: 7px 7px 0 rgba($cb-blue, 0.24);
       h3 { color: $cb-blue; }
       .audience-panel__price { background: $cb-blue; }
+      .audience-panel__detail::before { background: $cb-blue; }
     }
     &--manager {
       border-color: rgba($cb-amber, 0.55);
       box-shadow: 7px 7px 0 rgba($cb-amber, 0.36);
       h3 { color: darken($cb-amber, 8%); }
       .audience-panel__price { background: darken($cb-amber, 8%); }
+      .audience-panel__detail::before { background: darken($cb-amber, 8%); }
     }
     &--orange {
       border-color: rgba($cb-vermillion, 0.55);
