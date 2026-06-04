@@ -18,7 +18,6 @@ description: Coaching for engineering managers and folks in tech from a VP Engin
 
 <div class="audience-grid">
   <section class="audience-panel audience-panel--manager" id="new-manager-support">
-    <p class="audience-panel__price">From £350</p>
     <p class="audience-label">New and growing leaders</p>
     <h3><a href="/coaching/engineering-managers/">I want to be a badass engineering manager</a></h3>
     <p>Whether something's on fire or you just want someone who's got your back while you grow, this is for you.</p>
@@ -27,7 +26,6 @@ description: Coaching for engineering managers and folks in tech from a VP Engin
   </section>
 
   <section class="audience-panel audience-panel--coaching">
-    <p class="audience-panel__price">From £350</p>
     <p class="audience-label">For folks in tech</p>
     <h3><a href="/coaching/folks-in-tech/">I want more power, more credit, and less bullshit</a></h3>
     <p>You are capable, ambitious, and tired of being treated like a maybe.</p>
