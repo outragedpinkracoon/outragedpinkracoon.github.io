@@ -8,7 +8,7 @@ sitemap: false
 The coaching disclaimer and terms and conditions outlined below define the relationship between Coach and Client and underpin any services delivered by Valerie Dryden trading as Outraged Racoon Coaching®. Please make sure you read the following carefully and if you have any questions or queries then please send them by email to [outragedracooncoaching@gmail.com](outragedracooncoaching@gmail.com).
 
 <!-- Bump this date only on MATERIAL changes to the terms, not typo fixes or unrelated edits. It is what "applies from the date of publication" in the Variation clause refers to. -->
-*Last updated: 3 June 2026*
+*Last updated: 8 June 2026*
 
 Payment of any invoice issued by the Coach constitutes the Client's acceptance of these terms and conditions in full, including the disclaimer below.
 
@@ -74,6 +74,8 @@ Bundles and programmes do not have a pause facility as a standard feature. If ex
 
 All fees are VAT exempt. In return for the fees payable by the Client (or by a third party acting on the Client's behalf), the Coach will provide the services described in this agreement, in accordance with its terms and conditions.
 
+All fees are quoted and payable exclusively in GBP (£). For international clients, the net amount received in the Coach’s account must equal the full GBP amount stated on the invoice. Any cross-border transaction fees, intermediary bank wire surcharges, or currency conversion fees are the sole responsibility of the Client.
+
 #### Coaching fees
 
 <table>
@@ -121,6 +123,8 @@ The Advisory is billed monthly at £250. Either party may cancel with written no
 ### Procedure
 Coaching sessions will take place remotely, by video call or telephone as mutually agreed between the Coach and the Client, at times mutually agreed. A calendar invitation will be provided for each session, including a Google Meet link where the session is held by video.
 
+All session times proposed by the Coach are provided in UK Time (GMT/BST) unless explicitly stated otherwise in writing. It is the Client's responsibility to ensure time-zone conversions are accurate when confirming bookings.
+
 ### Confidentiality
 All information (documented or verbal) shared by the Client in coaching sessions will be treated as confidential, though the coaching relationship is not a legally privileged relationship (as in medicine or law).
 
@@ -155,6 +159,8 @@ For The Advisory retainer, invoices are issued monthly.
 
 Where an invoice remains unpaid after its due date, the Coach may decline to book or hold further sessions until the outstanding amount has been paid. This does not affect any session already delivered, which remains payable.
 
+For clients residing outside of the United Kingdom, the Coach reserves the right to mandate specific international payment methods (such as secure credit/debit card processing links) rather than direct bank transfers. Where card processing or international billing platforms are used, a standard international transaction fee will be added to the invoice total to ensure the net coaching fee is covered.
+
 ### Refunds
 Refunds are not available for single sessions, since the invoice for a single session is issued only after the session has been completed and the service delivered.
 
@@ -187,7 +193,7 @@ Nothing in this agreement limits any liability that cannot lawfully be limited, 
 
 ### Governing law
 
-This agreement is governed by the law of Scotland, and the Scottish courts have exclusive jurisdiction over any dispute, proceeding, or legal claim relating to the services provided or this contract.
+This agreement is governed by the law of Scotland, and the Scottish courts have exclusive jurisdiction over any dispute, proceeding, or legal claim relating to the services provided or this contract, regardless of the Client’s physical location or country of residence
 
 This document constitutes the entire agreement between the parties and supersedes all prior written or oral representations regarding its subject matter.
 
