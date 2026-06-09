@@ -41,10 +41,13 @@ description: Coaching for engineering managers and folks in tech from a VP Engin
       No videos, on purpose. Built for how busy managers actually work.
     </p>
     <p class="home-course__rating"><span class="home-course__stars" aria-hidden="true">★★★★★</span> <span>5/5 from 14 managers</span></p>
-    <p class="home-course__cta-row">
+    {% if site.sale.active %}<p class="home-course__cta-row">
+      <a class="button" href="/holy-shit-im-a-manager/">See the course · <s>{{ site.sale.full_price }}</s> {{ site.sale.price }}</a>
+      <span class="home-course__note">{{ site.sale.blurb }}: {{ site.sale.saving }} off with code <span class="sale-code">{{ site.sale.code }}</span>. One-time payment, no subscription, maximum racoons.</span>
+    </p>{% else %}<p class="home-course__cta-row">
       <a class="button" href="/holy-shit-im-a-manager/">See the course · £400</a>
       <span class="home-course__note">One-time payment. No subscription. No boring corporate crap. Maximum racoons.</span>
-    </p>
+    </p>{% endif %}
   </div>
 </section>
 

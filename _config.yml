@@ -7,6 +7,14 @@ permalink: /:year/:month/:day/:title.html
 twitter:
   username: outragedracoon
   card: summary
+# Course sale. Set active: false to end it and revert all prices to full.
+sale:
+  active: true
+  full_price: "£400"
+  price: "£300"
+  saving: "£100"
+  code: "GRABBYRACOONPAWS"
+  blurb: "Three years of Holy Shit"
 plugins:
   - jekyll-seo-tag
   - jekyll-feed

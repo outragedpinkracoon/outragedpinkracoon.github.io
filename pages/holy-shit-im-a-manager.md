@@ -5,8 +5,8 @@ title: "Holy Shit, I'm a Manager! Engineering Management First Aid"
 display_title: "Holy Shit, I'm a Manager!"
 title_sub: engineering management first aid, from someone who lives it.
 description: Still coding all day and quietly losing it? Take my no-bullshit online self-pace course with 52+ practical lessons on the actual job. 1:1s, feedback, managing your boss, knowing what good looks like. With direct access to me, actual Val.
-cta_label: "Enrol now · £400"
-cta_href: "https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/sales?ticketId=29208000000080004"
+cta_label: "Enrol now · <s>£400</s> £300"
+cta_href: "https://holyshit.trainercentralsite.eu/clientapp/app/course/29208000000003006/purchase?ticketId=29208000000080004&previousPage=1&coupon=GRABBYRACOONPAWS"
 schema_offers:
   - name: "Holy Shit, I'm a Manager! Full Course"
     description: "50+ text-based lessons, hands-on activities, un-quizzes, direct access to Val via Slack and forums, certificate, and 10-year access. One-time payment."
@@ -15,8 +15,16 @@ schema_offers:
     priceValidUntil: "2026-12-31"
 ---
 
-{% assign enrol_url = "https://holyshit.trainercentralsite.eu/course/engineering-manager-first-aid#/sales?ticketId=29208000000080004" %}
+{% assign enrol_url = "https://holyshit.trainercentralsite.eu/clientapp/app/course/29208000000003006/purchase?ticketId=29208000000080004&previousPage=1&coupon=GRABBYRACOONPAWS" %}
 {% assign preview_url = "https://holyshit.trainercentralsite.eu/#/signup" %}
+{% assign sale = site.sale %}
+
+{% if sale.active %}
+<div class="sale-ribbon" role="note">
+  <span class="sale-ribbon__tag">🦝 {{ sale.blurb }}</span>
+  <span class="sale-ribbon__deal">{{ sale.saving }} off, for a limited time. Use code <span class="sale-code">{{ sale.code }}</span> at checkout.</span>
+</div>
+{% endif %}
 
 <section class="course-hero">
   <div class="course-hero__art">
@@ -27,8 +35,9 @@ schema_offers:
     <p>Should you still be coding? How do you have the conversation you've been rehearsing in the shower for a week? What does good even look like? And why is everyone else so calm?</p>
     <p class="pull-quote">52 bite-sized lessons, direct access to me, and the manual nobody handed you on day one. That's how you get the answers to your questions.</p>
     <p class="course-hero__cta-row">
-      <a class="header-cta" href="{{ enrol_url }}">Enrol now · £400</a>
-      <span class="course-hero__cta-note">One-time payment. Unlimited* access. No subscription.</span>
+      {% if sale.active %}<a class="header-cta" href="{{ enrol_url }}">Enrol now · <s>{{ sale.full_price }}</s> {{ sale.price }}</a>
+      <span class="course-hero__cta-note">{{ sale.saving }} off with code <span class="sale-code">{{ sale.code }}</span>. One-time payment. Unlimited* access. No subscription.</span>{% else %}<a class="header-cta" href="{{ enrol_url }}">Enrol now · £400</a>
+      <span class="course-hero__cta-note">One-time payment. Unlimited* access. No subscription.</span>{% endif %}
     </p>
   </div>
 </section>
@@ -233,7 +242,8 @@ schema_offers:
 <section class="course-buy" id="enrol">
   <p class="course-buy__eyebrow">Sort your shit out</p>
   <h2 class="course-buy__title">The whole course</h2>
-  <p class="course-buy__price"><span class="course-buy__amount">£400</span> <span class="course-buy__terms">one-time payment</span></p>
+  {% if sale.active %}<p class="course-buy__price"><span class="course-buy__was"><s>{{ sale.full_price }}</s></span> <span class="course-buy__amount">{{ sale.price }}</span> <span class="course-buy__terms">one-time payment</span></p>
+  <p class="course-buy__sale">{{ sale.blurb }} · {{ sale.saving }} off with code <span class="sale-code sale-code--light">{{ sale.code }}</span></p>{% else %}<p class="course-buy__price"><span class="course-buy__amount">£400</span> <span class="course-buy__terms">one-time payment</span></p>{% endif %}
   <p class="course-buy__pitch">Everything I wish someone had handed me when I first became a manager. Real experience, no corporate bullshit, no AI-generated filler.</p>
   <ul class="course-buy__list">
     <li>50+ lessons, activities and un-quizzes</li>
@@ -242,7 +252,7 @@ schema_offers:
     <li>Certificate on completion</li>
     <li>Pay once. No subscription, ever.</li>
   </ul>
-  <a class="header-cta course-buy__cta" href="{{ enrol_url }}">Enrol now · £400</a>
+  {% if sale.active %}<a class="header-cta course-buy__cta" href="{{ enrol_url }}">Enrol now · <s>{{ sale.full_price }}</s> {{ sale.price }}</a>{% else %}<a class="header-cta course-buy__cta" href="{{ enrol_url }}">Enrol now · £400</a>{% endif %}
   <p class="course-buy__fineprint">Most managers expense this through their L&D budget. Paid via PayPal. "Enrol" takes you to the course platform (yes, it's the right place, don't worry, see the FAQ).</p>
 </section>
 
@@ -289,4 +299,4 @@ schema_offers:
 
 <p class="course-final">Still reading? You already know you need this. Come in feeling like an imposter, leave feeling like you've got this.</p>
 
-<p class="text-center"><a class="header-cta" href="{{ enrol_url }}">Enrol now · £400</a></p>
+<p class="text-center">{% if sale.active %}<a class="header-cta" href="{{ enrol_url }}">Enrol now · <s>{{ sale.full_price }}</s> {{ sale.price }}</a>{% else %}<a class="header-cta" href="{{ enrol_url }}">Enrol now · £400</a>{% endif %}</p>

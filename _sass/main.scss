@@ -2883,6 +2883,74 @@ footer {
   }
 }
 
+// ── Sale ────────────────────────────────────────────────────────────────────
+.sale-ribbon {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.7rem;
+  margin: 0 0 1.6rem;
+  padding: 0.7rem 1rem;
+  background: $teal;
+  color: $cream;
+  border: 2px solid $ink;
+  box-shadow: 4px 4px 0 $ink;
+  font-family: $font-primary;
+
+  .sale-ribbon__tag {
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    font-size: 0.92rem;
+  }
+
+  .sale-ribbon__deal {
+    font-weight: 600;
+    font-size: 0.92rem;
+    color: rgba($cream, 0.95);
+  }
+}
+
+// Code pill: quiet monospace, readable on cream or magenta
+.sale-code {
+  font-family: 'Space Grotesk', monospace;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  padding: 0.08em 0.45em;
+  border-radius: 3px;
+  background: rgba($ink, 0.14);
+  color: inherit;
+}
+.sale-ribbon .sale-code,
+.sale-code--light {
+  background: rgba($cream, 0.22);
+  color: $cream;
+}
+
+// Strikethrough on old prices wherever it appears in a CTA
+.header-cta s,
+.button s {
+  opacity: 0.6;
+  font-weight: inherit;
+}
+
+.course-buy__was s {
+  font-family: $font-display;
+  font-weight: 700;
+  font-size: 1.9rem;
+  color: rgba($cream, 0.6);
+}
+
+.course-buy__sale {
+  margin: -0.6rem 0 1.3rem;
+  font-family: $font-primary;
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+  color: $yellow;
+}
+
 // ── FAQ ─────────────────────────────────────────────────────────────────────
 .course-faq {
   margin: 1.5rem 0 2.5rem;
