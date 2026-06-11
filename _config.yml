@@ -9,7 +9,7 @@ twitter:
   card: summary
 # Course sale. Set active: false to end it and revert all prices to full.
 sale:
-  active: true
+  active: false
   full_price: "£400"
   price: "£300"
   saving: "£100"
