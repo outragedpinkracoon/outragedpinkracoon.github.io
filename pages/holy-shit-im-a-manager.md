@@ -5,8 +5,7 @@ title: "Holy Shit, I'm a Manager! Engineering Management First Aid"
 display_title: "Holy Shit, I'm a Manager!"
 title_sub: engineering management first aid, from someone who lives it.
 description: Still coding all day and quietly losing it? Take my no-bullshit online self-pace course with 52+ practical lessons on the actual job. 1:1s, feedback, managing your boss, knowing what good looks like. With direct access to me, actual Val.
-cta_label: "Enrol now · <s>£400</s> £300"
-cta_href: "https://holyshit.trainercentralsite.eu/clientapp/app/course/29208000000003006/purchase?ticketId=29208000000080004&previousPage=1&coupon=GRABBYRACOONPAWS"
+show_cta: false
 schema_offers:
   - name: "Holy Shit, I'm a Manager! Full Course"
     description: "50+ text-based lessons, hands-on activities, un-quizzes, direct access to Val via Slack and forums, certificate, and 10-year access. One-time payment."
@@ -15,9 +14,9 @@ schema_offers:
     priceValidUntil: "2026-12-31"
 ---
 
-{% assign enrol_url = "https://holyshit.trainercentralsite.eu/clientapp/app/course/29208000000003006/purchase?ticketId=29208000000080004&previousPage=1&coupon=GRABBYRACOONPAWS" %}
-{% assign preview_url = "https://holyshit.trainercentralsite.eu/#/signup" %}
 {% assign sale = site.sale %}
+{% if sale.active %}{% assign enrol_url = "https://holyshit.trainercentralsite.eu/clientapp/app/course/29208000000003006/purchase?ticketId=29208000000080004&previousPage=1&coupon=GRABBYRACOONPAWS" %}{% else %}{% assign enrol_url = "https://holyshit.trainercentralsite.eu/clientapp/app/course/29208000000003006/purchase?ticketId=29208000000080004&previousPage=1" %}{% endif %}
+{% assign preview_url = "https://holyshit.trainercentralsite.eu/#/signup" %}
 
 {% if sale.active %}
 <div class="sale-ribbon" role="note">
