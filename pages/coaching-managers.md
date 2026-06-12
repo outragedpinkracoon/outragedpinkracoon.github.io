@@ -4,7 +4,7 @@ permalink: /coaching/engineering-managers/
 title: No-bullshit coaching for engineering managers
 display_title: Engineering Manager Coaching
 title_sub: because there's no undo button for people.
-description: No-bullshit coaching for engineering managers from a VP Engineering and ILM-certified executive coach. No-bullshit help with the messy people stuff.
+description: No-bullshit coaching for engineering managers from a VP Engineering and ILM-certified executive coach. Get help with the messy people stuff.
 schema_offers:
   - name: "The Decisive Hour"
     description: "One 60-minute session. One hard call, one situation."
