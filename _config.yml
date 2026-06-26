@@ -9,12 +9,12 @@ twitter:
   card: summary
 # Course sale. Set active: false to end it and revert all prices to full.
 sale:
-  active: false
+  active: true
   full_price: "£400"
-  price: "£300"
-  saving: "£100"
-  code: "GRABBYRACOONPAWS"
-  blurb: "Three years of Holy Shit"
+  price: "£200"
+  saving: "£200"
+  code: "RACOONFRIEND"
+  blurb: "Celebrating 3 years of holy shit!"
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
