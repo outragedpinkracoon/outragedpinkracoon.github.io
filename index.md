@@ -6,4 +6,6 @@ layout: default
 
 Art, photography, games, words and assorted nonsense.
 
-A creative home in the making.
+Still under construction. Mess is intentional; some of it, anyway.
+
+Coming soon.
