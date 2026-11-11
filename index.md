@@ -9,7 +9,7 @@ layout: default
     
     <a class="destination destination-photography" href="{{ "/photography/" | relative_url }}"><span>Photography</span><span class="arrow" aria-hidden="true">↗</span></a>
     
-    <a class="destination destination-art" href="https://cara.app/outragedpinkracoon"><span>Art</span><span class="arrow" aria-hidden="true">↗</span></a>
+    <a class="destination destination-art" href="{{ "/art/" | relative_url }}"><span>Art</span><span class="arrow" aria-hidden="true">↗</span></a>
     
     <a class="destination destination-games" href="https://outragedracoongames.itch.io/"><span>Games</span><span class="arrow" aria-hidden="true">↗</span></a>
     

@@ -1,0 +1,42 @@
+---
+layout: default
+title: Art
+permalink: /art/
+gallery: true
+---
+
+<div class="photography-page">
+  <nav class="photo-navigation" aria-label="Art navigation">
+    <a href="{{ "/" | relative_url }}">← Back to home</a>
+    <a href="https://cara.app/outragedpinkracoon">More on Cara ↗</a>
+  </nav>
+  <header class="photo-heading">
+    <h1><em>Art</em><span aria-hidden="true">.</span></h1>
+  </header>
+  <div class="photo-collection">
+    
+    {% for photo in site.data.art %}
+    {% assign full = '/assets/art/' | append: photo.file | append: '.jpg' | relative_url %}
+    {% assign thumbnail = '/assets/art/' | append: photo.file | append: '-small.jpg' | relative_url %}
+    <figure class="photo photo--{{ photo.layout }}">
+      <a class="photo-open" href="{{ full }}" aria-label="View artwork {{ forloop.index }}" data-photo>
+        <img src="{{ thumbnail }}"
+          srcset="{{ thumbnail }} {{ photo.thumbnail_width }}w, {{ full }} {{ photo.width }}w"
+          sizes="(max-width: 650px) 90vw, (max-width: 1000px) 60vw, 850px"
+          width="{{ photo.width }}" height="{{ photo.height }}" alt="{{ photo.alt | escape }}"
+          {% if forloop.index > 2 %}loading="lazy" {% endif %}decoding="async">
+        <span class="photo-expand" aria-hidden="true">↗</span>
+      </a>
+      <figcaption><span class="photo-number">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span><span class="photo-caption-rule" aria-hidden="true"></span></figcaption>
+    </figure>
+    {% endfor %}
+    
+  </div>
+  <footer class="colophon"><a href="{{ "/" | relative_url }}">← Outraged Pink Racoon</a><a href="https://cara.app/outragedpinkracoon">More on Cara ↗</a><span>© 2026 outragedpinkracoon</span></footer>
+</div>
+
+<dialog class="photo-viewer" aria-label="Artwork viewer">
+  <div class="viewer-toolbar"><span class="viewer-counter" aria-live="polite"></span><button class="viewer-close" type="button" aria-label="Close artwork">Close ×</button></div>
+  <img class="viewer-image" alt="">
+  <div class="viewer-controls"><button class="viewer-previous" type="button" aria-label="Previous artwork">← Previous</button><button class="viewer-next" type="button" aria-label="Next artwork">Next →</button></div>
+</dialog>
