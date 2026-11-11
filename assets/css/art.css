@@ -1,0 +1,33 @@
+.art-page .photo-navigation { align-items: center; }
+.art-page .cara-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.3em;
+  border: 1px solid var(--pink);
+  padding: .85em 1em;
+  color: var(--pink);
+  font-size: clamp(.8rem, 1.1vw, 1rem);
+}
+.art-page .cara-link:hover { background: var(--pink); color: var(--ink); }
+.cara-signoff {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .5em;
+  margin-top: clamp(4rem, 9vw, 9rem);
+  border-top: 1px solid var(--pink);
+  border-bottom: 1px solid var(--pink);
+  padding: .35em 0 .45em;
+  color: var(--pink);
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(2.5rem, 7vw, 7rem);
+  line-height: 1.1;
+  letter-spacing: -.065em;
+  text-decoration: none;
+}
+.cara-signoff > span:last-child { font-family: Arial, sans-serif; font-size: .65em; }
+.cara-signoff:hover em { text-decoration: underline; text-underline-offset: .1em; }
+.art-page > .colophon { margin-top: 2rem; }
+@media (max-width: 650px) {
+  .art-page .cara-link { gap: .7em; font-size: .7rem; }
+}

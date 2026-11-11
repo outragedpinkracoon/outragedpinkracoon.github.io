@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/photography.css' | relative_url }}">
     <script src="{{ '/assets/js/photography.js' | relative_url }}" defer></script>
     {% endif %}
+    {% if page.art %}
+    <link rel="stylesheet" href="{{ '/assets/css/art.css' | relative_url }}">
+    {% endif %}
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>

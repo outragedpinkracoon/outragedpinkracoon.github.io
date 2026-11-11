@@ -3,12 +3,13 @@ layout: default
 title: Art
 permalink: /art/
 gallery: true
+art: true
 ---
 
-<div class="photography-page">
+<div class="photography-page art-page">
   <nav class="photo-navigation" aria-label="Art navigation">
     <a href="{{ "/" | relative_url }}">← Back to home</a>
-    <a href="https://cara.app/outragedpinkracoon">More on Cara ↗</a>
+    <a class="cara-link" href="https://cara.app/outragedpinkracoon"><span>Follow me on Cara</span><span aria-hidden="true">↗</span></a>
   </nav>
   <header class="photo-heading">
     <h1><em>Art</em><span aria-hidden="true">.</span></h1>
@@ -32,7 +33,8 @@ gallery: true
     {% endfor %}
     
   </div>
-  <footer class="colophon"><a href="{{ "/" | relative_url }}">← Outraged Pink Racoon</a><a href="https://cara.app/outragedpinkracoon">More on Cara ↗</a><span>© 2026 outragedpinkracoon</span></footer>
+  <a class="cara-signoff" href="https://cara.app/outragedpinkracoon"><span>Follow me on <em>Cara</em></span><span aria-hidden="true">↗</span></a>
+  <footer class="colophon"><a href="{{ "/" | relative_url }}">← Outraged Pink Racoon</a><span>© 2026 outragedpinkracoon</span></footer>
 </div>
 
 <dialog class="photo-viewer" aria-label="Artwork viewer">
