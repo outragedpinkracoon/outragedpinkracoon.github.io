@@ -26,6 +26,9 @@ h1 > span { display: block; }
 .burst { position: absolute; right: -1.5vw; top: -4.8vw; font-family: Arial, sans-serif; font-size: min(34vw, 610px); line-height: 1; color: var(--pink); transform: rotate(14deg); }
 .destinations { position: relative; z-index: 2; display: grid; grid-template-columns: repeat(12, 1fr); align-items: center; gap: 1rem 2vw; margin-top: 5vw; padding-bottom: 2rem; }
 .destination { position: relative; display: flex; align-items: center; justify-content: space-between; gap: .3em; width: fit-content; max-width: 100%; text-decoration: none; line-height: .9; transition: transform 150ms ease; }
+/* SVGs keep decorative symbols out of platform emoji fonts. */
+.direction-icon { display: block; width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: square; stroke-linejoin: miter; }
+.burst svg { display: block; width: 1em; height: 1em; }
 .arrow { font-family: Arial, sans-serif; font-weight: 400; font-size: .5em; letter-spacing: 0; }
 .destination:hover { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: .12em; }
 .destination-photography { grid-column: 1 / 9; grid-row: 1; align-self: start; flex-wrap: wrap; font-family: Impact, 'Arial Narrow', Arial, sans-serif; font-weight: 900; font-size: clamp(2rem, 7.1vw, 128px); text-transform: uppercase; letter-spacing: -.045em; transform: rotate(-2deg); }

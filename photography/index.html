@@ -25,7 +25,7 @@ photography: true
           sizes="(max-width: 650px) 90vw, (max-width: 1000px) 60vw, 850px"
           width="{{ photo.width }}" height="{{ photo.height }}" alt="{{ photo.alt | escape }}"
           {% if forloop.index > 2 %}loading="lazy" {% endif %}decoding="async">
-        <span class="photo-expand" aria-hidden="true">↗</span>
+        <span class="photo-expand" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span>
       </a>
       <figcaption><span class="photo-number">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span><span class="photo-caption-rule" aria-hidden="true"></span></figcaption>
     </figure>

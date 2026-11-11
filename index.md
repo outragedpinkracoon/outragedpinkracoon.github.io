@@ -3,19 +3,19 @@ layout: default
 ---
 
 <section class="poster" aria-labelledby="site-title">
-  <div class="burst" aria-hidden="true">✳</div>
+  <div class="burst" aria-hidden="true">{% include icons/burst.svg %}</div>
   <h1 id="site-title"><span class="title-outraged">Outraged</span><span class="title-racoon"><em>Pink</em> Racoon<span class="full-stop">.</span></span></h1>
   <nav class="destinations" aria-label="Explore my work">
     
-    <a class="destination destination-photography" href="{{ "/photography/" | relative_url }}"><span>Photography</span><span class="arrow" aria-hidden="true">↗</span></a>
+    <a class="destination destination-photography" href="{{ "/photography/" | relative_url }}"><span>Photography</span><span class="arrow" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span></a>
     
-    <a class="destination destination-art" href="{{ "/art/" | relative_url }}"><span>Art</span><span class="arrow" aria-hidden="true">↗</span></a>
+    <a class="destination destination-art" href="{{ "/art/" | relative_url }}"><span>Art</span><span class="arrow" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span></a>
     
-    <a class="destination destination-games" href="https://outragedracoongames.itch.io/"><span>Games</span><span class="arrow" aria-hidden="true">↗</span></a>
+    <a class="destination destination-games" href="https://outragedracoongames.itch.io/"><span>Games</span><span class="arrow" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span></a>
     
-    <a class="destination destination-coaching" href="https://www.outragedracooncoaching.com/"><span>Coaching</span><span class="arrow" aria-hidden="true">↗</span></a>
+    <a class="destination destination-coaching" href="https://www.outragedracooncoaching.com/"><span>Coaching</span><span class="arrow" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span></a>
     
-    <a class="destination destination-fiction" href="https://outragedpinkracoon.substack.com/s/stakeholders-book"><span>Tech fiction</span><span class="arrow" aria-hidden="true">↗</span></a>
+    <a class="destination destination-fiction" href="https://outragedpinkracoon.substack.com/s/stakeholders-book"><span>Tech fiction</span><span class="arrow" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span></a>
     
   </nav>
 </section>
