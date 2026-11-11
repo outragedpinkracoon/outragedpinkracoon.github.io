@@ -65,7 +65,7 @@
   },
   {
     "file": "img-1317",
-    "layout": "portrait",
+    "layout": "half",
     "width": 1800,
     "height": 1800,
     "thumbnail_width": 900,
@@ -73,7 +73,7 @@
   },
   {
     "file": "img-1693",
-    "layout": "portrait",
+    "layout": "half",
     "width": 1800,
     "height": 1800,
     "thumbnail_width": 900,
@@ -185,7 +185,7 @@
   },
   {
     "file": "img-2394",
-    "layout": "landscape",
+    "layout": "portrait",
     "width": 1800,
     "height": 1800,
     "thumbnail_width": 900,
@@ -193,7 +193,7 @@
   },
   {
     "file": "img-2983",
-    "layout": "portrait",
+    "layout": "half",
     "width": 1800,
     "height": 1800,
     "thumbnail_width": 900,
@@ -201,7 +201,7 @@
   },
   {
     "file": "img-2340",
-    "layout": "portrait",
+    "layout": "half",
     "width": 1800,
     "height": 1800,
     "thumbnail_width": 900,
@@ -217,7 +217,7 @@
   },
   {
     "file": "img-2250",
-    "layout": "landscape",
+    "layout": "portrait",
     "width": 1800,
     "height": 1800,
     "thumbnail_width": 900,
