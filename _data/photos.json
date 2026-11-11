@@ -16,12 +16,44 @@
     "alt": "A closed wooden door in a deeply carved stone arch."
   },
   {
+    "file": "leaf-path",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A path carpeted with fallen leaves beneath an arch of orange autumn foliage."
+  },
+  {
+    "file": "img-7351",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A bench beneath autumn trees above a carpet of red and orange fallen leaves."
+  },
+  {
+    "file": "img-7431",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A gnarled, spreading tree with dense red and orange autumn foliage."
+  },
+  {
     "file": "red-door",
     "layout": "portrait",
     "width": 1350,
     "height": 1800,
     "thumbnail_width": 675,
     "alt": "Peeling red paint on a wooden door around an ornate metal ring."
+  },
+  {
+    "file": "img-7408",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Red autumn trees and their reflections beside a waterside walkway."
   },
   {
     "file": "blue-water",
@@ -48,6 +80,54 @@
     "alt": "Thick twisted ropes picked out in light and shadow, in black and white."
   },
   {
+    "file": "img-7364",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Slender tree trunks rising from orange leaves beneath an autumn canopy."
+  },
+  {
+    "file": "img-7353",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A straight path leading between autumn trees beneath a clouded sky."
+  },
+  {
+    "file": "img-1991",
+    "layout": "half",
+    "width": 1800,
+    "height": 1800,
+    "thumbnail_width": 900,
+    "alt": "A dark doorway set into old brickwork beneath trailing ivy."
+  },
+  {
+    "file": "img-1954",
+    "layout": "half",
+    "width": 1800,
+    "height": 1800,
+    "thumbnail_width": 900,
+    "alt": "An old carved gravestone surrounded by ivy and fallen leaves."
+  },
+  {
+    "file": "img-7411",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A spreading orange tree above a broad carpet of autumn leaves."
+  },
+  {
+    "file": "yellow-flower",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A bright yellow flower against rough, lichen-covered stone."
+  },
+  {
     "file": "pink-window",
     "layout": "portrait",
     "width": 1350,
@@ -64,332 +144,12 @@
     "alt": "A small arched stone bridge across a rocky stream beneath mountains and heavy clouds, in black and white."
   },
   {
-    "file": "birds",
-    "layout": "landscape",
-    "width": 1392,
-    "height": 1044,
-    "thumbnail_width": 900,
-    "alt": "Birds lined up along a roof beneath a grey sky, in black and white."
-  },
-  {
-    "file": "leaf-path",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A path carpeted with fallen leaves beneath an arch of orange autumn foliage."
-  },
-  {
-    "file": "yellow-flower",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A bright yellow flower against rough, lichen-covered stone."
-  },
-  {
-    "file": "last-light",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1286,
-    "thumbnail_width": 900,
-    "alt": "A narrow band of pink sunset reflected in blue water beneath a dark sky."
-  },
-  {
-    "file": "img-0060",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Wooden posts rising from still water beneath distant hills, in black and white."
-  },
-  {
-    "file": "img-0618",
+    "file": "img-7403",
     "layout": "landscape",
     "width": 1800,
     "height": 1350,
     "thumbnail_width": 900,
-    "alt": "A wooden jetty extending into water with golden autumn trees on the far bank."
-  },
-  {
-    "file": "img-0773",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1013,
-    "thumbnail_width": 900,
-    "alt": "A row of white buildings on a wet street beneath a grey sky."
-  },
-  {
-    "file": "img-0774",
-    "layout": "landscape",
-    "width": 1695,
-    "height": 953,
-    "thumbnail_width": 900,
-    "alt": "White buildings with dark windows reflected on a wet road, in black and white."
-  },
-  {
-    "file": "img-1954",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1800,
-    "thumbnail_width": 900,
-    "alt": "An old carved gravestone surrounded by ivy and fallen leaves."
-  },
-  {
-    "file": "img-1957",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A close view of a weathered stone inscription mottled with lichen."
-  },
-  {
-    "file": "img-1969",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "An old gravestone beneath trees, its dark surface flecked with pale lichen."
-  },
-  {
-    "file": "img-1970",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Worn lettering cut into a rough, lichen-covered gravestone."
-  },
-  {
-    "file": "img-1972",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Rows of carved lettering on a weathered gravestone, in black and white."
-  },
-  {
-    "file": "img-1975",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "A stack of uneven, weathered red and grey bricks."
-  },
-  {
-    "file": "img-1981",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A wooden door beneath a pointed arch of reddish stone."
-  },
-  {
-    "file": "img-1990",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A close view of a metal surface streaked with red rust and pale blue paint."
-  },
-  {
-    "file": "img-1991",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1800,
-    "thumbnail_width": 900,
-    "alt": "A dark doorway set into old brickwork beneath trailing ivy."
-  },
-  {
-    "file": "img-1994",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "Worn lettering on a dark stone surface scattered with leaves and lichen."
-  },
-  {
-    "file": "img-2002",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Tall arched windows in a red and grey stone building."
-  },
-  {
-    "file": "img-2004",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A close view of pale stones arranged in radiating curves."
-  },
-  {
-    "file": "img-2430",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Horizontal metal slats with layers of peeling paint and orange rust."
-  },
-  {
-    "file": "img-2450",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "A unisex toilet sign showing a row of human and fantastical silhouettes."
-  },
-  {
-    "file": "img-2703",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A richly pitted surface in dark red, black and pale tones."
-  },
-  {
-    "file": "img-2725",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A close view of an intricate textured surface in dark blue and pale gold."
-  },
-  {
-    "file": "img-2837",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Loops of thick rope against a pale background, in black and white."
-  },
-  {
-    "file": "img-2860",
-    "layout": "portrait",
-    "width": 949,
-    "height": 1265,
-    "thumbnail_width": 675,
-    "alt": "A close crop of a circular marker with the words North Sea around its edge."
-  },
-  {
-    "file": "img-2865",
-    "layout": "portrait",
-    "width": 1080,
-    "height": 1800,
-    "thumbnail_width": 540,
-    "alt": "A worn metal door handle on a pale painted surface, in black and white."
-  },
-  {
-    "file": "img-2888",
-    "layout": "portrait",
-    "width": 866,
-    "height": 1155,
-    "thumbnail_width": 675,
-    "alt": "A single screw in brushed metal, lit from one side in black and white."
-  },
-  {
-    "file": "img-3863",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1013,
-    "thumbnail_width": 900,
-    "alt": "A long shoreline of buildings reflected in calm water beneath a colourful sunset."
-  },
-  {
-    "file": "img-3893-jpg",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Bright light reflected along a dark path bordered by trees, in black and white."
-  },
-  {
-    "file": "img-4102",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1800,
-    "thumbnail_width": 900,
-    "alt": "Light breaking through clouds onto a wet path that recedes between bare trees."
-  },
-  {
-    "file": "img-4515-jpg",
-    "layout": "portrait",
-    "width": 1440,
-    "height": 1800,
-    "thumbnail_width": 720,
-    "alt": "A portrait view of an arched stone bridge over a rocky stream with mountains behind, in black and white."
-  },
-  {
-    "file": "img-4525",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A stone bridge and distant mountains seen through tall dry grasses."
-  },
-  {
-    "file": "img-4616",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Layers of narrow stones in a wall with patches of orange and white lichen."
-  },
-  {
-    "file": "img-5383",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "A dark building silhouetted against sunlight breaking through clouds over water."
-  },
-  {
-    "file": "img-5786",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Black and white wall art of a person in a cap holding a finger to their lips."
-  },
-  {
-    "file": "img-7351",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "A bench beneath autumn trees above a carpet of red and orange fallen leaves."
-  },
-  {
-    "file": "img-7353",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "A straight path leading between autumn trees beneath a clouded sky."
-  },
-  {
-    "file": "img-7354",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "A bright red and yellow autumn tree beside water."
-  },
-  {
-    "file": "img-7364",
-    "layout": "portrait",
-    "width": 1350,
-    "height": 1800,
-    "thumbnail_width": 675,
-    "alt": "Slender tree trunks rising from orange leaves beneath an autumn canopy."
-  },
-  {
-    "file": "img-7380-jpg",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "A rusted metal ring on weathered wood with a carpet of fallen leaves behind."
+    "alt": "A dark bench sheltered beneath the spreading branches of a red autumn tree."
   },
   {
     "file": "img-7387",
@@ -400,6 +160,78 @@
     "alt": "A close view of orange fallen leaves with tree trunks blurred behind."
   },
   {
+    "file": "img-0618",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A wooden jetty extending into water with golden autumn trees on the far bank."
+  },
+  {
+    "file": "img-1981",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A wooden door beneath a pointed arch of reddish stone."
+  },
+  {
+    "file": "img-2430",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Horizontal metal slats with layers of peeling paint and orange rust."
+  },
+  {
+    "file": "img-7443",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A garden path curving past green shrubs and colourful autumn trees."
+  },
+  {
+    "file": "img-4102",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1800,
+    "thumbnail_width": 900,
+    "alt": "Light breaking through clouds onto a wet path that recedes between bare trees."
+  },
+  {
+    "file": "img-1957",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A close view of a weathered stone inscription mottled with lichen."
+  },
+  {
+    "file": "img-1990",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A close view of a metal surface streaked with red rust and pale blue paint."
+  },
+  {
+    "file": "img-1975",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A stack of uneven, weathered red and grey bricks."
+  },
+  {
+    "file": "img-7354",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A bright red and yellow autumn tree beside water."
+  },
+  {
     "file": "img-7393",
     "layout": "landscape",
     "width": 1800,
@@ -408,28 +240,28 @@
     "alt": "Orange and red trees beside a winding path in an autumn park."
   },
   {
-    "file": "img-7403",
-    "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "A dark bench sheltered beneath the spreading branches of a red autumn tree."
-  },
-  {
-    "file": "img-7408",
-    "layout": "portrait",
+    "file": "img-2703",
+    "layout": "half",
     "width": 1350,
     "height": 1800,
     "thumbnail_width": 675,
-    "alt": "Red autumn trees and their reflections beside a waterside walkway."
+    "alt": "A richly pitted surface in dark red, black and pale tones."
   },
   {
-    "file": "img-7411",
+    "file": "img-2725",
+    "layout": "half",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A close view of an intricate textured surface in dark blue and pale gold."
+  },
+  {
+    "file": "birds",
     "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
+    "width": 1392,
+    "height": 1044,
     "thumbnail_width": 900,
-    "alt": "A spreading orange tree above a broad carpet of autumn leaves."
+    "alt": "Birds lined up along a roof beneath a grey sky, in black and white."
   },
   {
     "file": "img-7412",
@@ -440,6 +272,134 @@
     "alt": "A signpost among trees above a carpet of leaves, with a purple cast."
   },
   {
+    "file": "img-1969",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "An old gravestone beneath trees, its dark surface flecked with pale lichen."
+  },
+  {
+    "file": "img-3863",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1013,
+    "thumbnail_width": 900,
+    "alt": "A long shoreline of buildings reflected in calm water beneath a colourful sunset."
+  },
+  {
+    "file": "img-2002",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Tall arched windows in a red and grey stone building."
+  },
+  {
+    "file": "img-1994",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "Worn lettering on a dark stone surface scattered with leaves and lichen."
+  },
+  {
+    "file": "img-2004",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A close view of pale stones arranged in radiating curves."
+  },
+  {
+    "file": "img-7586",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "Waterfront buildings reflected in still water beneath a sweeping blue evening sky."
+  },
+  {
+    "file": "img-5383",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A dark building silhouetted against sunlight breaking through clouds over water."
+  },
+  {
+    "file": "img-1970",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Worn lettering cut into a rough, lichen-covered gravestone."
+  },
+  {
+    "file": "img-2837",
+    "layout": "half",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Loops of thick rope against a pale background, in black and white."
+  },
+  {
+    "file": "img-2860",
+    "layout": "half",
+    "width": 949,
+    "height": 1265,
+    "thumbnail_width": 675,
+    "alt": "A close crop of a circular marker with the words North Sea around its edge."
+  },
+  {
+    "file": "img-0773",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1013,
+    "thumbnail_width": 900,
+    "alt": "A row of white buildings on a wet street beneath a grey sky."
+  },
+  {
+    "file": "img-1972",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Rows of carved lettering on a weathered gravestone, in black and white."
+  },
+  {
+    "file": "img-2865",
+    "layout": "portrait",
+    "width": 1080,
+    "height": 1800,
+    "thumbnail_width": 540,
+    "alt": "A worn metal door handle on a pale painted surface, in black and white."
+  },
+  {
+    "file": "img-0774",
+    "layout": "landscape",
+    "width": 1695,
+    "height": 953,
+    "thumbnail_width": 900,
+    "alt": "White buildings with dark windows reflected on a wet road, in black and white."
+  },
+  {
+    "file": "img-2450",
+    "layout": "landscape",
+    "width": 1800,
+    "height": 1350,
+    "thumbnail_width": 900,
+    "alt": "A unisex toilet sign showing a row of human and fantastical silhouettes."
+  },
+  {
+    "file": "img-2888",
+    "layout": "portrait",
+    "width": 866,
+    "height": 1155,
+    "thumbnail_width": 675,
+    "alt": "A single screw in brushed metal, lit from one side in black and white."
+  },
+  {
     "file": "img-7427",
     "layout": "portrait",
     "width": 1350,
@@ -448,19 +408,59 @@
     "alt": "A bench among tree trunks and vivid orange fallen leaves."
   },
   {
-    "file": "img-7431",
+    "file": "last-light",
     "layout": "landscape",
     "width": 1800,
-    "height": 1350,
+    "height": 1286,
     "thumbnail_width": 900,
-    "alt": "A gnarled, spreading tree with dense red and orange autumn foliage."
+    "alt": "A narrow band of pink sunset reflected in blue water beneath a dark sky."
   },
   {
-    "file": "img-7443",
+    "file": "img-3893-jpg",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Bright light reflected along a dark path bordered by trees, in black and white."
+  },
+  {
+    "file": "img-4515-jpg",
     "layout": "landscape",
-    "width": 1800,
-    "height": 1350,
-    "thumbnail_width": 900,
-    "alt": "A garden path curving past green shrubs and colourful autumn trees."
+    "width": 1440,
+    "height": 1800,
+    "thumbnail_width": 720,
+    "alt": "A portrait view of an arched stone bridge over a rocky stream with mountains behind, in black and white."
+  },
+  {
+    "file": "img-4525",
+    "layout": "half",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "A stone bridge and distant mountains seen through tall dry grasses."
+  },
+  {
+    "file": "img-4616",
+    "layout": "half",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Layers of narrow stones in a wall with patches of orange and white lichen."
+  },
+  {
+    "file": "img-5786",
+    "layout": "landscape",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Black and white wall art of a person in a cap holding a finger to their lips."
+  },
+  {
+    "file": "img-0060",
+    "layout": "portrait",
+    "width": 1350,
+    "height": 1800,
+    "thumbnail_width": 675,
+    "alt": "Wooden posts rising from still water beneath distant hills, in black and white."
   }
 ]
