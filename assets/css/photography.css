@@ -38,6 +38,13 @@
 .photo-viewer button:hover { background: var(--pink); color: var(--ink); border-color: var(--pink); }
 .photo-viewer button:focus-visible { outline: 2px solid var(--pink); outline-offset: 4px; }
 .viewer-image { width: 100%; height: 100%; min-height: 0; object-fit: contain; }
+/* A calmer viewing scale on laptops; mobile retains its own composition. */
+@media (min-width: 651px) {
+  .photography-page { width: 94%; max-width: 1280px; padding: 1.5rem 3vw 0; }
+  .photo-heading { padding: clamp(2rem, 3vw, 3rem) 0 clamp(2rem, 4vw, 4rem); }
+  .photo-heading h1 { font-size: clamp(3.5rem, 10vw, 160px); }
+  .photo-collection { gap: clamp(3rem, 6vw, 6rem) 3vw; }
+}
 @media (max-width: 650px) {
   .photography-page { padding: 1.5rem 5vw 0; }
   .photo-navigation { font-size: .6rem; }

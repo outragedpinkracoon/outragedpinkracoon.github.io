@@ -7,14 +7,14 @@
     {% feed_meta %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
     {% if page.photography or page.gallery %}
-    <link rel="stylesheet" href="{{ '/assets/css/photography.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/photography.css' | relative_url }}?v={{ site.time | date: '%s' }}">
     <script src="{{ '/assets/js/photography.js' | relative_url }}" defer></script>
     {% endif %}
     {% if page.photography or page.art %}
-    <link rel="stylesheet" href="{{ '/assets/css/gallery-accents.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/gallery-accents.css' | relative_url }}?v={{ site.time | date: '%s' }}">
     {% endif %}
     {% if page.art %}
-    <link rel="stylesheet" href="{{ '/assets/css/art.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/art.css' | relative_url }}?v={{ site.time | date: '%s' }}">
     {% endif %}
   </head>
   <body>

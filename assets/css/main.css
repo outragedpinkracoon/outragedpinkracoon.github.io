@@ -42,6 +42,19 @@ h1 > span { display: block; }
 .destination:hover { transform: rotate(0); }
 .colophon { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2rem; padding: 1rem 3vw; border-top: 1px solid var(--paper); font-family: monospace; font-size: .65rem; text-transform: uppercase; letter-spacing: .07em; }
 @media (min-width: 1800px) { .poster { padding-top: 76px; } .destinations { margin-top: 90px; } }
+/* Keep the desktop poster generous without requiring a tall display. */
+@media (min-width: 651px) {
+  .poster { max-width: 1280px; padding: clamp(2.75rem, 6vh, 4rem) 3vw 1rem; }
+  .poster h1 { font-size: clamp(5rem, min(14vw, 23vh), 200px); }
+  .poster .burst { top: -3vw; right: 0; font-size: min(28vw, 400px, 48vh); }
+  .destinations { margin-top: 3vh; gap: .8rem 2vw; padding-bottom: 1rem; }
+  .destination-photography { font-size: clamp(2rem, min(6.2vw, 11vh), 88px); }
+  .destination-art { font-size: clamp(5rem, min(12vw, 20vh), 168px); }
+  .destination-games { font-size: clamp(3rem, min(7vw, 13vh), 100px); margin-top: .8rem; }
+  .destination-coaching { font-size: clamp(1rem, 2vw, 32px); margin-top: 1rem; }
+  .destination-fiction { font-size: clamp(2rem, min(5.2vw, 9vh), 72px); margin-top: .5rem; }
+  .poster + .colophon { margin-top: .5rem; }
+}
 @media (max-width: 650px) {
   .poster { padding: 13vw 5vw 2vw; }
   h1 { font-size: 16.2vw; }
