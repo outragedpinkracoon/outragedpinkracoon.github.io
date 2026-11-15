@@ -15,6 +15,8 @@ layout: default
     
     <a class="destination destination-coaching" href="https://www.outragedracooncoaching.com/"><span>Coaching</span><span class="arrow" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span></a>
     
+    <a class="destination destination-course" href="https://www.outragedracooncoaching.com/holy-shit-im-a-manager/"><span><span>Online</span> <span>course</span></span><span class="arrow" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span></a>
+    
     <a class="destination destination-fiction" href="https://outragedpinkracoon.substack.com/s/stakeholders-book"><span>Tech fiction</span><span class="arrow" aria-hidden="true">{% include icons/arrow-up-right.svg %}</span></a>
     
   </nav>
