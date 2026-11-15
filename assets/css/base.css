@@ -1,0 +1,26 @@
+/* Portable foundations. Load a site's theme after this file to override tokens.
+   No poster, gallery, heading sizes or decorative composition belongs here. */
+:root {
+  color-scheme: var(--color-scheme, light);
+  --color-background: #fff;
+  --color-text: #191917;
+  --color-accent: #a80046;
+  --font-body: Arial, Helvetica, sans-serif;
+  --font-editorial: Georgia, 'Times New Roman', serif;
+  --font-display: Impact, 'Arial Narrow', Arial, sans-serif;
+  --font-mono: monospace;
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background: var(--color-background);
+  font-synthesis: none;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+::selection { background: var(--color-accent); color: var(--color-background); }
+a { color: inherit; }
+a:focus-visible { outline: 3px dashed var(--color-accent); outline-offset: 8px; }
+.skip-link { position: absolute; top: -6rem; left: 1rem; padding: 1rem; background: var(--color-text); color: var(--color-background); z-index: 10; }
+.skip-link:focus { top: 1rem; }
+/* SVGs keep decorative symbols out of platform emoji fonts. */
+.direction-icon { display: block; width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: square; stroke-linejoin: miter; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; } }
