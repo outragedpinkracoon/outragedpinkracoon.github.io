@@ -1,6 +1,12 @@
 title: Outraged Pink Racoon
 description: Art, photography, games, words and assorted nonsense by Valerie Dryden.
 author: Valerie Dryden
+social:
+  name: Valerie Dryden
+  links:
+    - https://cara.app/outragedpinkracoon
+    - https://outragedracoongames.itch.io/
+    - https://outragedpinkracoon.substack.com/
 url: "https://outragedpinkracoon.com"
 baseurl: ""
 locale: en_GB

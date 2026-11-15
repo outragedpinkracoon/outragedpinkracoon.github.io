@@ -36,3 +36,18 @@ layout. Original artwork in `my_work/art/` is kept out of the published site.
 
 Photography uses `_data/photos.json` and `assets/photos/`. Both galleries share
 the photography stylesheet and keyboard-accessible image viewer.
+
+## Search and sharing
+
+Each page's front matter supplies its search title, description and social
+preview image. `jekyll-seo-tag` renders these along with canonical URLs and
+structured data; keep `url` in `_config.yml` set to the public HTTPS domain.
+
+`jekyll-sitemap` generates `/sitemap.xml`. `/image-sitemap.xml` automatically
+lists full-size images from the two gallery data files, so prepared images
+stay out until added to a gallery. Both sitemaps are advertised in `/robots.txt`.
+
+After publishing, submit `/sitemap.xml` and `/image-sitemap.xml` in Google
+Search Console and inspect the homepage and both gallery URLs. Verification
+and submission happen in the domain owner's account; a local build does not
+submit the site or guarantee indexing.

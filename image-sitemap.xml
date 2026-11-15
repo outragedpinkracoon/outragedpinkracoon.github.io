@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /image-sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>{{ '/art/' | absolute_url | xml_escape }}</loc>
+    {% for artwork in site.data.art %}
+    <image:image><image:loc>{{ '/assets/art/' | append: artwork.file | append: '.jpg' | absolute_url | xml_escape }}</image:loc></image:image>
+    {% endfor %}
+  </url>
+  <url>
+    <loc>{{ '/photography/' | absolute_url | xml_escape }}</loc>
+    {% for photo in site.data.photos %}
+    <image:image><image:loc>{{ '/assets/photos/' | append: photo.file | append: '.jpg' | absolute_url | xml_escape }}</image:loc></image:image>
+    {% endfor %}
+  </url>
+</urlset>

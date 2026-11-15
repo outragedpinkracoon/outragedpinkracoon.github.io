@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Photography
+title: Photography by Valerie Dryden
+description: "Autumn colour, landscapes, reflections and weathered details, photographed by Valerie Dryden. Explore the photography gallery at Outraged Pink Racoon."
+image:
+  path: /assets/photos/red-trees.jpg
+  alt: Vivid red autumn trees and a walkway reflected in a lake.
 permalink: /photography/
 photography: true
 ---
@@ -19,7 +23,7 @@ photography: true
     {% assign full = '/assets/photos/' | append: photo.file | append: '.jpg' | relative_url %}
     {% assign thumbnail = '/assets/photos/' | append: photo.file | append: '-small.jpg' | relative_url %}
     <figure class="photo photo--{{ photo.layout }}">
-      <a class="photo-open" href="{{ full }}" aria-label="View photograph {{ forloop.index }}" data-photo>
+      <a class="photo-open" href="{{ full }}" aria-label="View photograph {{ forloop.index }}: {{ photo.alt | escape }}" data-photo>
         <img src="{{ thumbnail }}"
           srcset="{{ thumbnail }} {{ photo.thumbnail_width }}w, {{ full }} {{ photo.width }}w"
           sizes="(max-width: 650px) 90vw, (max-width: 1000px) 60vw, 850px"
