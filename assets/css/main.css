@@ -25,6 +25,8 @@ main { overflow: clip; }
 .destination-fiction > span:first-child { border-bottom: .09em solid var(--color-accent); padding-bottom: .03em; }
 .destination:hover { transform: rotate(0); }
 .colophon { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2rem; padding: 1rem 3vw; border-top: 1px solid var(--color-text); font-family: var(--font-mono); font-size: .65rem; text-transform: uppercase; letter-spacing: .07em; }
+.colophon a { text-decoration: none; }
+.colophon a:hover { color: var(--color-accent); }
 @media (min-width: 1800px) { .poster { padding-top: 76px; } .destinations { margin-top: 90px; } }
 /* Keep the desktop poster generous without requiring a tall display. */
 @media (min-width: 651px) {

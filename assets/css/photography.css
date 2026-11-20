@@ -27,8 +27,6 @@
 .photo-number { color: var(--color-accent); font: .75rem/1 var(--font-mono); }
 .photo-caption-rule { display: block; height: 1px; width: 2rem; background: var(--color-accent); }
 .photography-page > .colophon { margin-top: 6rem; padding-left: 0; padding-right: 0; }
-.colophon a { text-decoration: none; }
-.colophon a:hover { color: var(--color-accent); }
 .photo-viewer { position: fixed; inset: 0; width: 100%; height: 100%; max-width: none; max-height: none; border: 0; padding: 1rem 2vw; color: var(--color-text); background: var(--color-background); }
 .photo-viewer[open] { display: grid; grid-template-rows: auto minmax(0, 1fr) auto; gap: 1rem; }
 .photo-viewer::backdrop { background: var(--color-background); }

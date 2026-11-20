@@ -27,4 +27,4 @@ image:
   </nav>
 </section>
 
-<footer class="colophon"><span>Art does not need to be useful.</span><span>© 2026 outragedpinkracoon</span></footer>
+<footer class="colophon"><a href="https://www.linkedin.com/in/outragedpinkracoon/" rel="me">LinkedIn ↗</a><span>© 2026 outragedpinkracoon</span></footer>
