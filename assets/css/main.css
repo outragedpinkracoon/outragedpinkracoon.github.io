@@ -37,18 +37,18 @@ main { overflow: clip; }
   .destination-photography { grid-column: 1 / 7; font-size: clamp(2rem, min(6.2vw, 11vh), 88px); }
   .destination-art { grid-column: 10 / 13; font-size: clamp(5rem, min(12vw, 20vh), 168px); }
   .destination-games { font-size: clamp(3rem, min(7vw, 13vh), 100px); margin-top: .8rem; }
-  .destination-coaching { grid-column: 7 / 10; grid-row: 1; justify-self: center; align-self: center; font-size: clamp(.9rem, 1.6vw, 23px); margin-top: 0; }
-  .destination-course { grid-column: 7 / 10; grid-row: 2; justify-self: center; font-size: clamp(.9rem, 1.4vw, 20px); }
-  .destination-fiction { grid-row: 3; font-size: clamp(2rem, min(5.2vw, 9vh), 72px); margin-top: .5rem; }
-  .poster + .colophon { margin-top: .5rem; }
-}
-@media (min-width: 1100px) {
-  .destination-coaching { font-size: clamp(2rem, 2.5vw, 36px); padding: .45em .4em; }
-  .destination-course { left: -3rem; font-size: clamp(2.5rem, 3.5vw, 48px); font-weight: 700; white-space: normal; line-height: .95; transform: rotate(6deg); border-bottom-width: .2em; }
+  .destination-coaching { grid-column: 7 / 10; grid-row: 1; justify-self: center; align-self: center; font-size: clamp(1.1rem, 2.9vw, 32px); padding: .45em .4em; margin-top: 0; }
+  .destination-course { grid-column: 7 / 10; grid-row: 2; justify-self: center; font-size: clamp(1.3rem, 3.5vw, 38px); font-weight: 700; white-space: normal; line-height: .95; border-bottom-width: .2em; margin-top: .9rem; }
   .destination-course > span:first-child { max-width: 7ch; }
   .destination-course > span:first-child > span { display: block; }
   .destination-course > span:first-child > span:first-child { transform: rotate(-4deg); }
   .destination-course > span:first-child > span:last-child { transform: translateX(.28em) rotate(2deg); }
+  .destination-fiction { grid-row: 3; font-size: clamp(2rem, min(5.2vw, 9vh), 72px); margin-top: .5rem; }
+  .poster + .colophon { margin-top: .5rem; }
+}
+@media (min-width: 1100px) {
+  .destination-coaching { font-size: clamp(2rem, 2.5vw, 36px); }
+  .destination-course { left: -3rem; font-size: clamp(2.5rem, 3.5vw, 48px); transform: rotate(6deg); margin-top: 0; }
 }
 @media (max-width: 650px) {
   .poster { padding: 13vw 5vw 2vw; }
